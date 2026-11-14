@@ -1,0 +1,27 @@
+{
+  "topics": {
+    "smoke_particle_size": ["aerosol size", "droplet size", "particle diameter", "particle size distribution"],
+    "smoke_morphology": ["particle shape", "aggregate structure", "morphology"],
+    "detector_response": ["smoke detector", "alarm", "fire detection"],
+    "smoke_transport": ["ventilation", "air flow", "particle trajectories", "aging"],
+    "pyrolysis": ["pyrolysis", "overheating", "smoldering"],
+    "soot_onset": ["smoke point", "soot emission", "coflow flame"],
+    "measurement_method": ["moment method", "aerosol diagnostics", "instrument comparison"]
+  },
+  "gravity": {
+    "1g": ["1 g", "normal gravity", "Earth gravity"],
+    "microgravity": ["microgravity", "in orbit", "weightlessness"],
+    "lunar_0.16g": ["lunar", "Moon", "0.16 g", "0.165 g"],
+    "mars_0.38g": ["Mars", "Martian", "0.38 g"]
+  },
+  "platform": {
+    "ISS_FLIGHT": ["ISS", "on orbit", "flight"],
+    "GROUND_LAB": ["ground", "laboratory", "lab"],
+    "REDUCED_GRAVITY_AIRCRAFT": ["parabolic flight", "partial gravity flight"],
+    "DROP_TOWER": ["drop tower"],
+    "NUMERICAL_MODEL": ["model", "simulation", "CFD"]
+  },
+  "disambiguation": [
+    {"investigation_id": "PSI-107", "term": "smoke point", "topic": "soot_onset", "exclude_topics": ["smoke_particle_size"]}
+  ]
+}

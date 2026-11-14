@@ -1,0 +1,753 @@
+[
+  {
+    "claim_id": "SAMER-001",
+    "investigation_id": "PSI-101",
+    "source_id": "PSI-101",
+    "claim_text": "SAME-R aimed to link the sizes of liquid smoke droplets in low gravity to the conditions under which the smoke was generated and transported.",
+    "source_excerpt": "the primary objective of the SAME-R investigation was to quantify the sizes that the liquid smoke particulate achieves in low gravity and to relate the droplet size distribution to the smoke generation and smoke transport conditions in the experiment.",
+    "source_location": "Objective",
+    "claim_status": "OBJECTIVE_OR_HYPOTHESIS",
+    "platform": "ISS_FLIGHT",
+    "gravity_level": "microgravity",
+    "topics": [
+      "smoke_particle_size",
+      "smoke_transport"
+    ],
+    "materials": [],
+    "doi": "10.60555/2np7-jv14",
+    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-101",
+    "review": {
+      "status": "DRAFT",
+      "reviewer": null,
+      "date": null
+    }
+  },
+  {
+    "claim_id": "SAMER-002",
+    "investigation_id": "PSI-101",
+    "source_id": "PSI-101",
+    "claim_text": "SAME-R completed 66 flight test points.",
+    "source_excerpt": "SAME-R flight tests were conducted from July 16, to September 9, 2010, successfully completing 66 test points.",
+    "source_location": "Approach",
+    "claim_status": "REPORTED_RESULT",
+    "platform": "ISS_FLIGHT",
+    "gravity_level": "microgravity",
+    "topics": [
+      "measurement_method"
+    ],
+    "materials": [],
+    "quantity": "completed flight test points",
+    "value": 66,
+    "doi": "10.60555/2np7-jv14",
+    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-101",
+    "review": {
+      "status": "HUMAN_REVIEWED",
+      "reviewer": "R. Naveen",
+      "date": "2026-11-15"
+    }
+  },
+  {
+    "claim_id": "SAMER-003",
+    "investigation_id": "PSI-101",
+    "source_id": "PSI-101",
+    "claim_text": "The post-flight ground tests were intended to evaluate the lognormal distribution assumption used by the SAME and SAME-R moment method.",
+    "source_excerpt": "After SAME-R flight tests, three major post–flight ground tests were performed to improve data reduction process and to validate the lognormal distribution assumption, the key to the moment method employed by SAME and SAME-R.",
+    "source_location": "Approach",
+    "claim_status": "OBJECTIVE_OR_HYPOTHESIS",
+    "platform": "GROUND_LAB",
+    "gravity_level": "1g",
+    "topics": [
+      "measurement_method",
+      "smoke_particle_size"
+    ],
+    "materials": [],
+    "doi": "10.60555/2np7-jv14",
+    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-101",
+    "review": {
+      "status": "DRAFT",
+      "reviewer": null,
+      "date": null
+    }
+  },
+  {
+    "claim_id": "SAMER-010",
+    "investigation_id": "PSI-101",
+    "source_id": "PSI-101",
+    "claim_text": "For the reflight, SAME-R used M-pass in place of one commercial diagnostic enclosure described for SAME.",
+    "source_excerpt": "a new instrument, M-pass, developed in-house GRC, was used to replace one of the two Commercial Diagnostic Enclosures that includes a DustTrak and an ionization detector used in SAME.",
+    "source_location": "Approach",
+    "claim_status": "REPORTED_METHOD",
+    "platform": "ISS_FLIGHT",
+    "gravity_level": "microgravity",
+    "topics": [
+      "measurement_method"
+    ],
+    "materials": [],
+    "doi": "10.60555/2np7-jv14",
+    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-101",
+    "review": {
+      "status": "DRAFT",
+      "reviewer": null,
+      "date": null
+    }
+  },
+  {
+    "claim_id": "SAMER-011",
+    "investigation_id": "PSI-101",
+    "source_id": "PSI-101",
+    "claim_text": "SAME-R used a moment method that relies on a lognormal distribution assumption.",
+    "source_excerpt": "the lognormal distribution assumption, the key to the moment method employed by SAME and SAME-R.",
+    "source_location": "Approach",
+    "claim_status": "REPORTED_METHOD",
+    "platform": "ISS_FLIGHT",
+    "gravity_level": "microgravity",
+    "topics": [
+      "measurement_method"
+    ],
+    "materials": [],
+    "doi": "10.60555/2np7-jv14",
+    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-101",
+    "review": {
+      "status": "DRAFT",
+      "reviewer": null,
+      "date": null
+    }
+  },
+  {
+    "claim_id": "SAME-001",
+    "investigation_id": "PSI-102",
+    "source_id": "PSI-102",
+    "claim_text": "SAME aimed to determine the size of liquid smoke particles in low gravity.",
+    "source_excerpt": "One of the major goals of this investigation was to quantify the sizes that the liquid smoke particulate achieves in low gravity and to relate the droplet size distribution to the smoke generation and smoke transport conditions in the experiment.",
+    "source_location": "Objective",
+    "claim_status": "OBJECTIVE_OR_HYPOTHESIS",
+    "platform": "ISS_FLIGHT",
+    "gravity_level": "microgravity",
+    "topics": [
+      "smoke_particle_size",
+      "smoke_transport"
+    ],
+    "materials": [],
+    "doi": "10.60555/gd4k-8h62",
+    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-102",
+    "review": {
+      "status": "DRAFT",
+      "reviewer": null,
+      "date": null
+    }
+  },
+  {
+    "claim_id": "SAME-002",
+    "investigation_id": "PSI-102",
+    "source_id": "PSI-102",
+    "claim_text": "The SAME team hypothesized that liquid smoke droplets would be larger in microgravity than in otherwise comparable normal-gravity conditions.",
+    "source_excerpt": "it is hypothesized that liquid aerosol smokes produced in microgravity will exhibit substantially larger droplet sizes than under the same conditions in normal gravity",
+    "source_location": "Hypothesis",
+    "claim_status": "OBJECTIVE_OR_HYPOTHESIS",
+    "platform": "MIXED",
+    "gravity_level": "multiple",
+    "topics": [
+      "smoke_particle_size"
+    ],
+    "materials": [],
+    "doi": "10.60555/gd4k-8h62",
+    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-102",
+    "review": {
+      "status": "DRAFT",
+      "reviewer": null,
+      "date": null
+    }
+  },
+  {
+    "claim_id": "SPICE-001",
+    "investigation_id": "PSI-107",
+    "source_id": "PSI-107",
+    "claim_text": "SPICE aimed to characterize laminar smoke points of nonbuoyant jet diffusion flames across different microgravity coflow conditions.",
+    "source_excerpt": "Identify the laminar smoke-point properties of non-buoyant jet diffusion flames under various co-flow conditions in microgravity.",
+    "source_location": "Objective",
+    "claim_status": "OBJECTIVE_OR_HYPOTHESIS",
+    "platform": "ISS_FLIGHT",
+    "gravity_level": "microgravity",
+    "topics": [
+      "soot_onset"
+    ],
+    "materials": [],
+    "doi": "10.60555/9kbh-e962",
+    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-107",
+    "review": {
+      "status": "DRAFT",
+      "reviewer": null,
+      "date": null
+    }
+  },
+  {
+    "claim_id": "SPICE-002",
+    "investigation_id": "PSI-107",
+    "source_id": "PSI-107",
+    "claim_text": "To locate the smoke point, SPICE varied the fuel flow rate and used the onset of soot emission as the criterion.",
+    "source_excerpt": "Fuel flow rates were adjusted to identify the smoke point, marked by the flame's transition to emitting soot.",
+    "source_location": "Approach",
+    "claim_status": "REPORTED_METHOD",
+    "platform": "ISS_FLIGHT",
+    "gravity_level": "microgravity",
+    "topics": [
+      "measurement_method"
+    ],
+    "materials": [],
+    "doi": "10.60555/9kbh-e962",
+    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-107",
+    "review": {
+      "status": "DRAFT",
+      "reviewer": null,
+      "date": null
+    }
+  },
+  {
+    "claim_id": "NTRS13-001",
+    "investigation_id": null,
+    "source_id": "NTRS-20140006585",
+    "claim_text": "The presentation reports flight smoke particle sizes from 100 to 600 nm.",
+    "source_excerpt": "Particle sizes ranged from 100 to 600 nm",
+    "source_location": "PDF page 19, Conclusions",
+    "claim_status": "REPORTED_RESULT",
+    "platform": "ISS_FLIGHT",
+    "gravity_level": "microgravity",
+    "topics": [
+      "smoke_particle_size"
+    ],
+    "materials": [],
+    "quantity": "particle size (size metric not stated on slide)",
+    "value": "100–600",
+    "unit": "nm",
+    "doi": null,
+    "source_url": "https://ntrs.nasa.gov/citations/20140006585",
+    "review": {
+      "status": "DRAFT",
+      "reviewer": null,
+      "date": null
+    },
+    "attribution_note": "The slides include SAME-R material, but the conclusion slide does not identify the flight investigation for this result."
+  },
+  {
+    "claim_id": "NTRS13-002",
+    "investigation_id": null,
+    "source_id": "NTRS-20140006585",
+    "claim_text": "The presentation reports that ground tests at 8 cm/s produced particle dimensions close to the flight results.",
+    "source_excerpt": "Ground based testing at 8 cm/s showed particle dimensions very close to the flight results.",
+    "source_location": "PDF page 19, Conclusions",
+    "claim_status": "REPORTED_RESULT",
+    "platform": "MIXED",
+    "gravity_level": "multiple",
+    "topics": [
+      "smoke_particle_size"
+    ],
+    "materials": [],
+    "conditions": "Ground-test airflow of 8 cm/s",
+    "doi": null,
+    "source_url": "https://ntrs.nasa.gov/citations/20140006585",
+    "review": {
+      "status": "DRAFT",
+      "reviewer": null,
+      "date": null
+    },
+    "attribution_note": "The slides include SAME-R material, but the conclusion slide does not identify the flight investigation for this result."
+  },
+  {
+    "claim_id": "NTRS13-003",
+    "investigation_id": null,
+    "source_id": "NTRS-20140006585",
+    "claim_text": "Transmission electron microscopy revealed several distinct particle shapes.",
+    "source_excerpt": "TEM showed a significant range of distinct particle morphologies",
+    "source_location": "PDF page 19, Conclusions",
+    "claim_status": "REPORTED_RESULT",
+    "platform": "ISS_FLIGHT",
+    "gravity_level": "microgravity",
+    "topics": [
+      "smoke_morphology"
+    ],
+    "materials": [],
+    "doi": null,
+    "source_url": "https://ntrs.nasa.gov/citations/20140006585",
+    "review": {
+      "status": "DRAFT",
+      "reviewer": null,
+      "date": null
+    },
+    "attribution_note": "The slides include SAME-R material, but the conclusion slide does not identify the flight investigation for this result."
+  },
+  {
+    "claim_id": "SAMER-007",
+    "investigation_id": null,
+    "source_id": "NTRS-20170007283",
+    "claim_text": "The smoke-in-drums laboratory experiment used instruments returned from the ISS.",
+    "source_excerpt": "Instruments are units returned from ISS",
+    "source_location": "PDF page 23, Smoke-in-drums Experiment",
+    "claim_status": "REPORTED_RESULT",
+    "platform": "GROUND_LAB",
+    "gravity_level": "1g",
+    "topics": [
+      "measurement_method"
+    ],
+    "materials": [],
+    "doi": null,
+    "source_url": "https://ntrs.nasa.gov/citations/20170007283",
+    "review": {
+      "status": "HUMAN_REVIEWED",
+      "reviewer": "R. Naveen",
+      "date": "2026-11-15"
+    },
+    "attribution_note": "The overview uses SAME for both ISS flight years. The smoke-in-drums slides describe hardware and instruments from SAME without specifying which flight they came from."
+  },
+  {
+    "claim_id": "SAMER-008",
+    "investigation_id": null,
+    "source_id": "NTRS-20170007283",
+    "claim_text": "The smoke-in-drums experiment aimed to compare measurements from the returned ISS instruments with those from a laboratory reference instrument.",
+    "source_excerpt": "Measure with returned ISS instruments — AND — a high fidelity reference instrument (which is too heavy and complex to fly)",
+    "source_location": "PDF page 22, Smoke-in-drums Ground Experiment",
+    "claim_status": "OBJECTIVE_OR_HYPOTHESIS",
+    "platform": "GROUND_LAB",
+    "gravity_level": "1g",
+    "topics": [
+      "measurement_method"
+    ],
+    "materials": [],
+    "doi": null,
+    "source_url": "https://ntrs.nasa.gov/citations/20170007283",
+    "review": {
+      "status": "HUMAN_REVIEWED",
+      "reviewer": "R. Naveen",
+      "date": "2026-11-15"
+    },
+    "attribution_note": "The overview uses SAME for both ISS flight years. The smoke-in-drums slides describe hardware and instruments from SAME without specifying which flight they came from."
+  },
+  {
+    "claim_id": "LUNAR-001",
+    "investigation_id": null,
+    "source_id": "NTRS-20230013826",
+    "claim_text": "The simulations indicate that weak forced airflow can disrupt smoke layer formation under lunar gravity.",
+    "source_excerpt": "In Lunar gravity, even very low forced flow velocities can disrupt smoke layer formation",
+    "source_location": "PDF page 1, Conclusions and Future Work",
+    "claim_status": "MODEL_RESULT",
+    "platform": "NUMERICAL_MODEL",
+    "gravity_level": "lunar_0.16g",
+    "topics": [
+      "smoke_transport"
+    ],
+    "materials": [],
+    "doi": null,
+    "source_url": "https://ntrs.nasa.gov/citations/20230013826",
+    "review": {
+      "status": "HUMAN_REVIEWED",
+      "reviewer": "R. Naveen",
+      "date": "2026-11-15"
+    }
+  },
+  {
+    "claim_id": "LUNAR-002",
+    "investigation_id": null,
+    "source_id": "NTRS-20230013826",
+    "claim_text": "At a modeled forced-air speed of 5 cm/s, the particles mixed into the simulated volume by 5 minutes.",
+    "source_excerpt": "At u forced = 5 cm/s, particles are mixed into volume at 5 minutes",
+    "source_location": "PDF page 1, Results and Discussion",
+    "claim_status": "MODEL_RESULT",
+    "platform": "NUMERICAL_MODEL",
+    "gravity_level": "lunar_0.16g",
+    "topics": [
+      "smoke_transport"
+    ],
+    "materials": [],
+    "quantity": "mixing time",
+    "value": 5,
+    "unit": "minutes",
+    "conditions": "Simulated lunar gravity and a forced-air speed of 5 cm/s",
+    "doi": null,
+    "source_url": "https://ntrs.nasa.gov/citations/20230013826",
+    "review": {
+      "status": "HUMAN_REVIEWED",
+      "reviewer": "R. Naveen",
+      "date": "2026-11-15"
+    }
+  },
+  {
+    "claim_id": "SPICE-003",
+    "investigation_id": "PSI-107",
+    "source_id": "NTRS-20120017940",
+    "claim_text": "The NASA overview describes SPICE as an investigation of when gas-jet flames begin emitting soot.",
+    "source_excerpt": "The object of the SPICE experiment is to investigate the transition to soot emission in gas-jet flames.",
+    "source_location": "PDF page 2, Smoke Point In Coflow Experiment",
+    "claim_status": "OBJECTIVE_OR_HYPOTHESIS",
+    "platform": "ISS_FLIGHT",
+    "gravity_level": "microgravity",
+    "topics": [
+      "soot_onset"
+    ],
+    "materials": [],
+    "doi": null,
+    "source_url": "https://ntrs.nasa.gov/citations/20120017940",
+    "review": {
+      "status": "HUMAN_REVIEWED",
+      "reviewer": "R. Naveen",
+      "date": "2026-11-15"
+    }
+  },
+  {
+    "claim_id": "SAME-003",
+    "investigation_id": "PSI-102",
+    "source_id": "NIST-SAME",
+    "claim_text": "For the materials SAME tested, the final report says a substantial share of smoke particles were below 500 nm in diameter.",
+    "source_excerpt": "The experimental results show that, for the materials tested, a substantial portion of the smoke particles are below 500 nm in diameter.",
+    "source_location": "PDF page 3, Abstract",
+    "claim_status": "REPORTED_RESULT",
+    "platform": "ISS_FLIGHT",
+    "gravity_level": "microgravity",
+    "topics": [
+      "smoke_particle_size"
+    ],
+    "materials": [],
+    "quantity": "reported diameter threshold",
+    "value": 500,
+    "unit": "nm",
+    "conditions": "Materials tested in SAME",
+    "doi": null,
+    "source_url": "https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=904707",
+    "review": {
+      "status": "HUMAN_REVIEWED",
+      "reviewer": "R. Naveen",
+      "date": "2026-11-15"
+    },
+    "value_qualifier": "less_than"
+  },
+  {
+    "claim_id": "SAME-006",
+    "investigation_id": "PSI-102",
+    "source_id": "NIST-SAME",
+    "claim_text": "In the illustrated silicone rubber run, both the ISS and Space Shuttle detectors gave strong signals.",
+    "source_excerpt": "It is also interesting to compare the response of the ISS and STS detectors for silicone rubber and Teflon. In figure 11, both the ISS detector and the STS detectors show strong signals.",
+    "source_location": "PDF page 23, Test Results and Discussions, Figure 11",
+    "claim_status": "REPORTED_RESULT",
+    "platform": "ISS_FLIGHT",
+    "gravity_level": "microgravity",
+    "topics": [
+      "detector_response"
+    ],
+    "materials": [
+      "silicone rubber"
+    ],
+    "doi": null,
+    "source_url": "https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=904707",
+    "review": {
+      "status": "HUMAN_REVIEWED",
+      "reviewer": "R. Naveen",
+      "date": "2026-11-15"
+    }
+  },
+  {
+    "claim_id": "SAME-004",
+    "investigation_id": "PSI-102",
+    "source_id": "SAE-2009-01-2468",
+    "claim_text": "For aged silicone rubber smoke, the reported diameter of average mass exceeded 500 nm.",
+    "source_excerpt": "The aging results showed substantial increase in the average particle sizes with the diameter of average mass rising to over 500 nm for the aged silicone rubber.",
+    "source_location": "PDF page 33, Appendix B, Experimental Results",
+    "claim_status": "REPORTED_RESULT",
+    "platform": "ISS_FLIGHT",
+    "gravity_level": "microgravity",
+    "topics": [
+      "smoke_particle_size"
+    ],
+    "materials": [
+      "silicone rubber"
+    ],
+    "quantity": "diameter of average mass",
+    "value": 500,
+    "unit": "nm",
+    "conditions": "Aged smoke.",
+    "doi": "10.4271/2009-01-2468",
+    "source_url": "https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=904707",
+    "review": {
+      "status": "HUMAN_REVIEWED",
+      "reviewer": "R. Naveen",
+      "date": "2026-11-15"
+    },
+    "value_qualifier": "greater_than"
+  },
+  {
+    "claim_id": "SPICE-004",
+    "investigation_id": "PSI-107",
+    "source_id": "UMD-DOTSON",
+    "claim_text": "Higher coflow velocity increased the smoke-point flame length in the microgravity tests.",
+    "source_excerpt": "In microgravity conditions increasing the coflow velocity or decreasing the burner diameter increased the smoke point flame length.",
+    "source_location": "PDF page 1, Abstract",
+    "claim_status": "REPORTED_RESULT",
+    "platform": "ISS_FLIGHT",
+    "gravity_level": "microgravity",
+    "topics": [
+      "soot_onset"
+    ],
+    "materials": [],
+    "doi": null,
+    "source_url": "https://drum.lib.umd.edu/items/e1cf9d1d-2c54-475a-a201-a57d3874011b",
+    "review": {
+      "status": "HUMAN_REVIEWED",
+      "reviewer": "R. Naveen",
+      "date": "2026-11-15"
+    }
+  },
+  {
+    "claim_id": "SPICE-005",
+    "investigation_id": "PSI-107",
+    "source_id": "UMD-DEBOLD",
+    "claim_text": "The SPICE extension reported smoke points for methane burning in air.",
+    "source_excerpt": "Smoke points were found for methane, ethane, ethylene, and propane burning in air.",
+    "source_location": "PDF page 1, Abstract",
+    "claim_status": "REPORTED_RESULT",
+    "platform": "ISS_FLIGHT",
+    "gravity_level": "microgravity",
+    "topics": [
+      "soot_onset"
+    ],
+    "materials": [
+      "methane"
+    ],
+    "doi": null,
+    "source_url": "https://drum.lib.umd.edu/items/8f83b34a-3a69-45d6-9aef-26aa04bcef43",
+    "review": {
+      "status": "HUMAN_REVIEWED",
+      "reviewer": "R. Naveen",
+      "date": "2026-11-15"
+    }
+  },
+  {
+    "claim_id": "SPICE-006",
+    "investigation_id": "PSI-107",
+    "source_id": "SPICE-FSJ",
+    "claim_text": "The Fire Safety Journal paper reports 55 smoke points from ISS tests.",
+    "source_excerpt": "Microgravity was obtained on board the International Space Station. A total of 55 smoke points were found for ethylene, propane, propylene, and propylene/nitrogen mixtures.",
+    "source_location": "PDF page 1, Abstract",
+    "claim_status": "REPORTED_RESULT",
+    "platform": "ISS_FLIGHT",
+    "gravity_level": "microgravity",
+    "topics": [
+      "soot_onset"
+    ],
+    "materials": [
+      "ethylene",
+      "propane",
+      "propylene",
+      "propylene/nitrogen mixtures"
+    ],
+    "quantity": "reported smoke points",
+    "value": 55,
+    "doi": "10.1016/j.firesaf.2011.08.002",
+    "source_url": "https://terpconnect.umd.edu/~pbs/2011%20Dotson%20et%20al.%20FSJ.pdf",
+    "review": {
+      "status": "DRAFT",
+      "reviewer": null,
+      "date": null
+    }
+  },
+  {
+    "claim_id": "ESA-001",
+    "investigation_id": null,
+    "source_id": "ESA-NO-FIRE",
+    "claim_text": "ESA reported plans to study the sizes of particles emitted by spreading flames during a partial-gravity flight campaign.",
+    "source_excerpt": "A future ESA partial gravity flight campaign will be the occasion to analyse, for the first time, the size of the particles emitted by spreading flames under these conditions",
+    "source_location": "Shared knowledge for fire safety",
+    "claim_status": "OBJECTIVE_OR_HYPOTHESIS",
+    "platform": "REDUCED_GRAVITY_AIRCRAFT",
+    "gravity_level": "unspecified",
+    "topics": [
+      "smoke_particle_size"
+    ],
+    "materials": [],
+    "doi": null,
+    "source_url": "https://www.esa.int/articles/no-fire-in-the-sky-preventing-an-astronaut-s-worst-nightmare",
+    "review": {
+      "status": "HUMAN_REVIEWED",
+      "reviewer": "R. Naveen",
+      "date": "2026-11-15"
+    },
+    "attribution_note": "Described as future work in a 2021 article."
+  },
+  {
+    "claim_id": "SAMER-009",
+    "investigation_id": "PSI-101",
+    "source_id": "AST-1025124",
+    "claim_text": "Ground tests used a scanning mobility particle sizer as a reference for measuring smoke particle size distributions.",
+    "source_excerpt": "The ground tests included a Scanning Mobility Particle Sizer Spectrometer (SMPS) reference instrument for measuring particle size distributions of the smoke produced from overheating five common spacecraft materials.",
+    "source_location": "NIST abstract",
+    "claim_status": "REPORTED_RESULT",
+    "platform": "GROUND_LAB",
+    "gravity_level": "1g",
+    "topics": [
+      "measurement_method",
+      "smoke_particle_size"
+    ],
+    "materials": [],
+    "doi": "10.1080/02786826.2015.1025124",
+    "source_url": "https://www.nist.gov/publications/smoke-characterization-and-feasibility-moment-method-spacecraft-fire-detection",
+    "review": {
+      "status": "HUMAN_REVIEWED",
+      "reviewer": "R. Naveen",
+      "date": "2026-11-15"
+    }
+  },
+  {
+    "claim_id": "SAME-005",
+    "investigation_id": "PSI-102",
+    "source_id": "AST-1025125",
+    "claim_text": "Electron microscopy of returned samples identified both agglomerates and spherical particles in pyrolysis smoke.",
+    "source_excerpt": "From electron microcopy of samples returned to earth, it was found that pyrolysis smoke can form an agglomerate shape as well as a spherical shape, which had previously been the assumed shape.",
+    "source_location": "NIST abstract",
+    "claim_status": "REPORTED_RESULT",
+    "platform": "ISS_FLIGHT",
+    "gravity_level": "microgravity",
+    "topics": [
+      "smoke_morphology",
+      "pyrolysis"
+    ],
+    "materials": [],
+    "doi": "10.1080/02786826.2015.1025125",
+    "source_url": "https://www.nist.gov/publications/pyrolysis-smoke-generated-under-low-gravity-conditions",
+    "review": {
+      "status": "DRAFT",
+      "reviewer": null,
+      "date": null
+    }
+  },
+  {
+    "claim_id": "SPICE-007",
+    "investigation_id": "PSI-107",
+    "source_id": "SPICE-PROCEEDINGS",
+    "claim_text": "The conference paper reports smoke-point measurements for nonbuoyant jet diffusion flames in coflow aboard the ISS.",
+    "source_excerpt": "Laminar smoke points were measured in non-buoyant laminar jet diffusion flames in coflowing air aboard the International Space Station.",
+    "source_location": "Publisher abstract",
+    "claim_status": "REPORTED_RESULT",
+    "platform": "ISS_FLIGHT",
+    "gravity_level": "microgravity",
+    "topics": [
+      "soot_onset"
+    ],
+    "materials": [],
+    "doi": "10.3850/978-981-08-7724-8_12-04",
+    "source_url": "https://rpsonline.com.sg/proceedings/9789810877248/html/978-981-08-7724-8_12-04.php",
+    "review": {
+      "status": "HUMAN_REVIEWED",
+      "reviewer": "R. Naveen",
+      "date": "2026-11-15"
+    }
+  },
+  {
+    "claim_id": "NTRS13-004",
+    "investigation_id": null,
+    "source_id": "NTRS-20140006585-ABSTRACT",
+    "claim_text": "The NTRS abstract reports that smoke particles produced in low gravity were typically twice the size of those produced in normal gravity, with differences across materials.",
+    "source_excerpt": "The results varied between materials but the smoke particles produced in low gravity were typically twice the size of particles produced in normal gravity.",
+    "source_location": "NTRS citation abstract",
+    "claim_status": "REPORTED_RESULT",
+    "platform": "MIXED",
+    "gravity_level": "multiple",
+    "topics": [
+      "smoke_particle_size"
+    ],
+    "materials": [],
+    "doi": null,
+    "source_url": "https://ntrs.nasa.gov/citations/20140006585",
+    "review": {
+      "status": "HUMAN_REVIEWED",
+      "reviewer": "R. Naveen",
+      "date": "2026-11-15"
+    }
+  },
+  {
+    "claim_id": "NTRS13-005",
+    "investigation_id": null,
+    "source_id": "NTRS-20140006585",
+    "claim_text": "The authors report that smoke particles became substantially larger as airflow decreased.",
+    "source_excerpt": "Particle dimensions increase substantially as air flow was decreased.",
+    "source_location": "PDF page 19, Conclusions",
+    "claim_status": "REPORTED_RESULT",
+    "platform": "ISS_FLIGHT",
+    "gravity_level": "microgravity",
+    "topics": [
+      "smoke_particle_size",
+      "smoke_transport"
+    ],
+    "materials": [],
+    "doi": null,
+    "source_url": "https://ntrs.nasa.gov/citations/20140006585",
+    "review": {
+      "status": "HUMAN_REVIEWED",
+      "reviewer": "R. Naveen",
+      "date": "2026-11-15"
+    },
+    "attribution_note": "The slides include SAME-R material, but the conclusion slide does not identify the flight investigation for this result."
+  },
+  {
+    "claim_id": "NTRS13-006",
+    "investigation_id": null,
+    "source_id": "NTRS-20140006585",
+    "claim_text": "The authors suggest that measuring more than one moment of the particle size distribution may improve detection and false alarm rejection compared with measuring a single moment.",
+    "source_excerpt": "Detection methods that can measure more than one moment of the size distribution may show more successful detection and false alarm rejection than single moment detectors.",
+    "source_location": "PDF page 19, Conclusions",
+    "claim_status": "OBJECTIVE_OR_HYPOTHESIS",
+    "platform": "MIXED",
+    "gravity_level": "multiple",
+    "topics": [
+      "detector_response"
+    ],
+    "materials": [],
+    "doi": null,
+    "source_url": "https://ntrs.nasa.gov/citations/20140006585",
+    "review": {
+      "status": "HUMAN_REVIEWED",
+      "reviewer": "R. Naveen",
+      "date": "2026-11-15"
+    }
+  },
+  {
+    "claim_id": "PSI-115-001",
+    "investigation_id": "PSI-115",
+    "source_id": "PSI-115",
+    "claim_text": "The investigation aimed to use simulations to determine how gravity affects the growth of particles in pyrolysis smoke.",
+    "source_excerpt": "The objective of this investigation was to use numerical simulation to explore the influence of gravity on pyrolysis smoke growth from a fundamental perspective.",
+    "source_location": "Objective",
+    "claim_status": "OBJECTIVE_OR_HYPOTHESIS",
+    "platform": "NUMERICAL_MODEL",
+    "gravity_level": "multiple",
+    "topics": [
+      "pyrolysis",
+      "smoke_particle_size"
+    ],
+    "materials": [],
+    "doi": "10.60555/q0v5-1v28",
+    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-115",
+    "review": {
+      "status": "DRAFT",
+      "reviewer": null,
+      "date": null
+    }
+  },
+  {
+    "claim_id": "PSI-47-001",
+    "investigation_id": "PSI-47",
+    "source_id": "PSI-47",
+    "claim_text": "DAFT and DAFT-2 aimed to test whether a modified P-Trak particle counter could measure aerosols accurately in microgravity.",
+    "source_excerpt": "DAFT / DAFT-2 tests that a modified P-Trak particulate counter would be accurate in microgravity.",
+    "source_location": "Objective",
+    "claim_status": "OBJECTIVE_OR_HYPOTHESIS",
+    "platform": "ISS_FLIGHT",
+    "gravity_level": "microgravity",
+    "topics": [
+      "measurement_method"
+    ],
+    "materials": [],
+    "doi": "10.60555/ztgj-d202",
+    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-47",
+    "review": {
+      "status": "DRAFT",
+      "reviewer": null,
+      "date": null
+    }
+  }
+]

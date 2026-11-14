@@ -1,0 +1,2765 @@
+[[accession]]
+PSI-115
+
+[[acknowledgments]]
+
+
+[[added.0.bucket]]
+psi-repo-prod
+
+[[added.0.file_name]]
+PSI-115_metadata_PSI-185_Utilization of the S.zip
+
+[[added.0.organization]]
+OSD
+
+[[added.0.remote_path]]
+/Home/psi-data/PSI-115/metadata/PSI-115_metadata_PSI-185_Utilization of the S.zip
+
+[[added.0.remote_url]]
+/datamanager/file/Home/psi-data/PSI-115/metadata/PSI-115_metadata_PSI-185_Utilization of the S.zip
+
+[[added.0.resource_id.$oid]]
+65e0a4d4931988043eebcd6e
+
+[[added.0.s3_path]]
+psi-data/PSI-115/metadata/PSI-115_metadata_PSI-185_Utilization of the S.zip
+
+[[added.0.s3_version_id]]
+hE8LatATOLxjiT2lqJbA_DoV6_IP5uoP
+
+[[added.0.study_id.$oid]]
+683da39ef91ab4427dbf4534
+
+[[added.1.bucket]]
+
+
+[[added.1.file_name]]
+PSI-115_Analyzed Data_8cmGravityNumDen.dat
+
+[[added.1.organization]]
+shared
+
+[[added.1.psi_legacy_s3_path]]
+legacy/137826/226/8cmGravityNumDen.dat
+
+[[added.1.remote_path]]
+/Home/psi-data/PSI-115/Analyzed Data/PSI-115_Analyzed Data_8cmGravityNumDen.dat
+
+[[added.1.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/9884360/?inline=1&log=1
+
+[[added.1.resource_id.$oid]]
+65e737ee8e263688e9f9200c
+
+[[added.1.s3_path]]
+psi-data/PSI-115/Analyzed Data/PSI-115_Analyzed Data_8cmGravityNumDen.dat
+
+[[added.1.study_id.$oid]]
+683da39ef91ab4427dbf4534
+
+[[added.1.subcategory]]
+Modeling Data/Case1/Earth Gravity
+
+[[added.2.bucket]]
+
+
+[[added.2.file_name]]
+PSI-115_Analyzed Data_8cmGravityNucRate.dat
+
+[[added.2.organization]]
+shared
+
+[[added.2.psi_legacy_s3_path]]
+legacy/137826/226/8cmGravityNucRate.dat
+
+[[added.2.remote_path]]
+/Home/psi-data/PSI-115/Analyzed Data/PSI-115_Analyzed Data_8cmGravityNucRate.dat
+
+[[added.2.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/9884361/?inline=1&log=1
+
+[[added.2.resource_id.$oid]]
+65e737ee8e263688e9f9200c
+
+[[added.2.s3_path]]
+psi-data/PSI-115/Analyzed Data/PSI-115_Analyzed Data_8cmGravityNucRate.dat
+
+[[added.2.study_id.$oid]]
+683da39ef91ab4427dbf4534
+
+[[added.2.subcategory]]
+Modeling Data/Case1/Earth Gravity
+
+[[added.3.bucket]]
+
+
+[[added.3.file_name]]
+PSI-115_Analyzed Data_8cmGravitySmoke.dat
+
+[[added.3.organization]]
+shared
+
+[[added.3.psi_legacy_s3_path]]
+legacy/137826/226/8cmGravitySmoke.dat
+
+[[added.3.remote_path]]
+/Home/psi-data/PSI-115/Analyzed Data/PSI-115_Analyzed Data_8cmGravitySmoke.dat
+
+[[added.3.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/9884362/?inline=1&log=1
+
+[[added.3.resource_id.$oid]]
+65e737ee8e263688e9f9200c
+
+[[added.3.s3_path]]
+psi-data/PSI-115/Analyzed Data/PSI-115_Analyzed Data_8cmGravitySmoke.dat
+
+[[added.3.study_id.$oid]]
+683da39ef91ab4427dbf4534
+
+[[added.3.subcategory]]
+Modeling Data/Case1/Earth Gravity
+
+[[added.4.bucket]]
+
+
+[[added.4.file_name]]
+PSI-115_Analyzed Data_8cmGravityDAM.dat
+
+[[added.4.organization]]
+shared
+
+[[added.4.psi_legacy_s3_path]]
+legacy/137826/226/8cmGravityDAM.dat
+
+[[added.4.remote_path]]
+/Home/psi-data/PSI-115/Analyzed Data/PSI-115_Analyzed Data_8cmGravityDAM.dat
+
+[[added.4.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/9884363/?inline=1&log=1
+
+[[added.4.resource_id.$oid]]
+65e737ee8e263688e9f9200c
+
+[[added.4.s3_path]]
+psi-data/PSI-115/Analyzed Data/PSI-115_Analyzed Data_8cmGravityDAM.dat
+
+[[added.4.study_id.$oid]]
+683da39ef91ab4427dbf4534
+
+[[added.4.subcategory]]
+Modeling Data/Case1/Earth Gravity
+
+[[added.5.bucket]]
+
+
+[[added.5.file_name]]
+PSI-115_Analyzed Data_8cmGravityU.dat
+
+[[added.5.organization]]
+shared
+
+[[added.5.psi_legacy_s3_path]]
+legacy/137826/226/8cmGravityU.dat
+
+[[added.5.remote_path]]
+/Home/psi-data/PSI-115/Analyzed Data/PSI-115_Analyzed Data_8cmGravityU.dat
+
+[[added.5.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/9884364/?inline=1&log=1
+
+[[added.5.resource_id.$oid]]
+65e737ee8e263688e9f9200c
+
+[[added.5.s3_path]]
+psi-data/PSI-115/Analyzed Data/PSI-115_Analyzed Data_8cmGravityU.dat
+
+[[added.5.study_id.$oid]]
+683da39ef91ab4427dbf4534
+
+[[added.5.subcategory]]
+Modeling Data/Case1/Earth Gravity
+
+[[added.6.bucket]]
+
+
+[[added.6.file_name]]
+PSI-115_Analyzed Data_8cmGravityPSD.dat
+
+[[added.6.organization]]
+shared
+
+[[added.6.psi_legacy_s3_path]]
+legacy/137826/226/8cmGravityPSD.dat
+
+[[added.6.remote_path]]
+/Home/psi-data/PSI-115/Analyzed Data/PSI-115_Analyzed Data_8cmGravityPSD.dat
+
+[[added.6.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/9884365/?inline=1&log=1
+
+[[added.6.resource_id.$oid]]
+65e737ee8e263688e9f9200c
+
+[[added.6.s3_path]]
+psi-data/PSI-115/Analyzed Data/PSI-115_Analyzed Data_8cmGravityPSD.dat
+
+[[added.6.study_id.$oid]]
+683da39ef91ab4427dbf4534
+
+[[added.6.subcategory]]
+Modeling Data/Case1/Earth Gravity
+
+[[added.7.bucket]]
+
+
+[[added.7.file_name]]
+PSI-115_Analyzed Data_8cmGravityVort.dat
+
+[[added.7.organization]]
+shared
+
+[[added.7.psi_legacy_s3_path]]
+legacy/137826/226/8cmGravityVort.dat
+
+[[added.7.remote_path]]
+/Home/psi-data/PSI-115/Analyzed Data/PSI-115_Analyzed Data_8cmGravityVort.dat
+
+[[added.7.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/9884366/?inline=1&log=1
+
+[[added.7.resource_id.$oid]]
+65e737ee8e263688e9f9200c
+
+[[added.7.s3_path]]
+psi-data/PSI-115/Analyzed Data/PSI-115_Analyzed Data_8cmGravityVort.dat
+
+[[added.7.study_id.$oid]]
+683da39ef91ab4427dbf4534
+
+[[added.7.subcategory]]
+Modeling Data/Case1/Earth Gravity
+
+[[added.8.bucket]]
+
+
+[[added.8.file_name]]
+PSI-115_Analyzed Data_8cmGravitySpeciesMF.dat
+
+[[added.8.organization]]
+shared
+
+[[added.8.psi_legacy_s3_path]]
+legacy/137826/226/8cmGravitySpeciesMF.dat
+
+[[added.8.remote_path]]
+/Home/psi-data/PSI-115/Analyzed Data/PSI-115_Analyzed Data_8cmGravitySpeciesMF.dat
+
+[[added.8.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/9884367/?inline=1&log=1
+
+[[added.8.resource_id.$oid]]
+65e737ee8e263688e9f9200c
+
+[[added.8.s3_path]]
+psi-data/PSI-115/Analyzed Data/PSI-115_Analyzed Data_8cmGravitySpeciesMF.dat
+
+[[added.8.study_id.$oid]]
+683da39ef91ab4427dbf4534
+
+[[added.8.subcategory]]
+Modeling Data/Case1/Earth Gravity
+
+[[added.9.bucket]]
+
+
+[[added.9.file_name]]
+PSI-115_Analyzed Data_8cmGravityTemperature.dat
+
+[[added.9.organization]]
+shared
+
+[[added.9.psi_legacy_s3_path]]
+legacy/137826/226/8cmGravityTemperature.dat
+
+[[added.9.remote_path]]
+/Home/psi-data/PSI-115/Analyzed Data/PSI-115_Analyzed Data_8cmGravityTemperature.dat
+
+[[added.9.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/9884368/?inline=1&log=1
+
+[[added.9.resource_id.$oid]]
+65e737ee8e263688e9f9200c
+
+[[added.9.s3_path]]
+psi-data/PSI-115/Analyzed Data/PSI-115_Analyzed Data_8cmGravityTemperature.dat
+
+[[added.9.study_id.$oid]]
+683da39ef91ab4427dbf4534
+
+[[added.9.subcategory]]
+Modeling Data/Case1/Earth Gravity
+
+[[added.10.bucket]]
+
+
+[[added.10.file_name]]
+PSI-115_Analyzed Data_8cmGravityV.dat
+
+[[added.10.organization]]
+shared
+
+[[added.10.psi_legacy_s3_path]]
+legacy/137826/226/8cmGravityV.dat
+
+[[added.10.remote_path]]
+/Home/psi-data/PSI-115/Analyzed Data/PSI-115_Analyzed Data_8cmGravityV.dat
+
+[[added.10.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/9884369/?inline=1&log=1
+
+[[added.10.resource_id.$oid]]
+65e737ee8e263688e9f9200c
+
+[[added.10.s3_path]]
+psi-data/PSI-115/Analyzed Data/PSI-115_Analyzed Data_8cmGravityV.dat
+
+[[added.10.study_id.$oid]]
+683da39ef91ab4427dbf4534
+
+[[added.10.subcategory]]
+Modeling Data/Case1/Earth Gravity
+
+[[added.11.bucket]]
+
+
+[[added.11.file_name]]
+PSI-115_Analyzed Data_8cmGravityNS_PSD.dat
+
+[[added.11.organization]]
+shared
+
+[[added.11.psi_legacy_s3_path]]
+legacy/137827/226/8cmGravityNS_PSD.dat
+
+[[added.11.remote_path]]
+/Home/psi-data/PSI-115/Analyzed Data/PSI-115_Analyzed Data_8cmGravityNS_PSD.dat
+
+[[added.11.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/9884382/?inline=1&log=1
+
+[[added.11.resource_id.$oid]]
+65e737ee8e263688e9f9200c
+
+[[added.11.s3_path]]
+psi-data/PSI-115/Analyzed Data/PSI-115_Analyzed Data_8cmGravityNS_PSD.dat
+
+[[added.11.study_id.$oid]]
+683da39ef91ab4427dbf4534
+
+[[added.11.subcategory]]
+Modeling Data/Case1/Earth Gravity; no settling
+
+[[added.12.bucket]]
+
+
+[[added.12.file_name]]
+PSI-115_Analyzed Data_8cmGravityuR.dat
+
+[[added.12.organization]]
+shared
+
+[[added.12.psi_legacy_s3_path]]
+legacy/137828/226/8cmGravityuR.dat
+
+[[added.12.remote_path]]
+/Home/psi-data/PSI-115/Analyzed Data/PSI-115_Analyzed Data_8cmGravityuR.dat
+
+[[added.12.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/9884387/?inline=1&log=1
+
+[[added.12.resource_id.$oid]]
+65e737ee8e263688e9f9200c
+
+[[added.12.s3_path]]
+psi-data/PSI-115/Analyzed Data/PSI-115_Analyzed Data_8cmGravityuR.dat
+
+[[added.12.study_id.$oid]]
+683da39ef91ab4427dbf4534
+
+[[added.12.subcategory]]
+Modeling Data/Case1/Earth Gravity; rotated
+
+[[added.13.bucket]]
+
+
+[[added.13.file_name]]
+PSI-115_Analyzed Data_8cmGravityvR.dat
+
+[[added.13.organization]]
+shared
+
+[[added.13.psi_legacy_s3_path]]
+legacy/137828/226/8cmGravityvR.dat
+
+[[added.13.remote_path]]
+/Home/psi-data/PSI-115/Analyzed Data/PSI-115_Analyzed Data_8cmGravityvR.dat
+
+[[added.13.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/9884388/?inline=1&log=1
+
+[[added.13.resource_id.$oid]]
+65e737ee8e263688e9f9200c
+
+[[added.13.s3_path]]
+psi-data/PSI-115/Analyzed Data/PSI-115_Analyzed Data_8cmGravityvR.dat
+
+[[added.13.study_id.$oid]]
+683da39ef91ab4427dbf4534
+
+[[added.13.subcategory]]
+Modeling Data/Case1/Earth Gravity; rotated
+
+[[added.14.bucket]]
+
+
+[[added.14.file_name]]
+PSI-115_Analyzed Data_8cmGravityNumdenR.dat
+
+[[added.14.organization]]
+shared
+
+[[added.14.psi_legacy_s3_path]]
+legacy/137828/226/8cmGravityNumdenR.dat
+
+[[added.14.remote_path]]
+/Home/psi-data/PSI-115/Analyzed Data/PSI-115_Analyzed Data_8cmGravityNumdenR.dat
+
+[[added.14.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/9884390/?inline=1&log=1
+
+[[added.14.resource_id.$oid]]
+65e737ee8e263688e9f9200c
+
+[[added.14.s3_path]]
+psi-data/PSI-115/Analyzed Data/PSI-115_Analyzed Data_8cmGravityNumdenR.dat
+
+[[added.14.study_id.$oid]]
+683da39ef91ab4427dbf4534
+
+[[added.14.subcategory]]
+Modeling Data/Case1/Earth Gravity; rotated
+
+[[added.15.bucket]]
+
+
+[[added.15.file_name]]
+PSI-115_Analyzed Data_8cmNoGravityPSD.dat
+
+[[added.15.organization]]
+shared
+
+[[added.15.psi_legacy_s3_path]]
+legacy/137829/226/8cmNoGravityPSD.dat
+
+[[added.15.remote_path]]
+/Home/psi-data/PSI-115/Analyzed Data/PSI-115_Analyzed Data_8cmNoGravityPSD.dat
+
+[[added.15.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/9884403/?inline=1&log=1
+
+[[added.15.resource_id.$oid]]
+65e737ee8e263688e9f9200c
+
+[[added.15.s3_path]]
+psi-data/PSI-115/Analyzed Data/PSI-115_Analyzed Data_8cmNoGravityPSD.dat
+
+[[added.15.study_id.$oid]]
+683da39ef91ab4427dbf4534
+
+[[added.15.subcategory]]
+Modeling Data/Case1/Microgravity
+
+[[added.16.bucket]]
+
+
+[[added.16.file_name]]
+PSI-115_Analyzed Data_8cmNoGravityNumDen.dat
+
+[[added.16.organization]]
+shared
+
+[[added.16.psi_legacy_s3_path]]
+legacy/137829/226/8cmNoGravityNumDen.dat
+
+[[added.16.remote_path]]
+/Home/psi-data/PSI-115/Analyzed Data/PSI-115_Analyzed Data_8cmNoGravityNumDen.dat
+
+[[added.16.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/9884404/?inline=1&log=1
+
+[[added.16.resource_id.$oid]]
+65e737ee8e263688e9f9200c
+
+[[added.16.s3_path]]
+psi-data/PSI-115/Analyzed Data/PSI-115_Analyzed Data_8cmNoGravityNumDen.dat
+
+[[added.16.study_id.$oid]]
+683da39ef91ab4427dbf4534
+
+[[added.16.subcategory]]
+Modeling Data/Case1/Microgravity
+
+[[added.17.bucket]]
+
+
+[[added.17.file_name]]
+PSI-115_Analyzed Data_8cmNoGravitySmoke.dat
+
+[[added.17.organization]]
+shared
+
+[[added.17.psi_legacy_s3_path]]
+legacy/137829/226/8cmNoGravitySmoke.dat
+
+[[added.17.remote_path]]
+/Home/psi-data/PSI-115/Analyzed Data/PSI-115_Analyzed Data_8cmNoGravitySmoke.dat
+
+[[added.17.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/9884405/?inline=1&log=1
+
+[[added.17.resource_id.$oid]]
+65e737ee8e263688e9f9200c
+
+[[added.17.s3_path]]
+psi-data/PSI-115/Analyzed Data/PSI-115_Analyzed Data_8cmNoGravitySmoke.dat
+
+[[added.17.study_id.$oid]]
+683da39ef91ab4427dbf4534
+
+[[added.17.subcategory]]
+Modeling Data/Case1/Microgravity
+
+[[added.18.bucket]]
+
+
+[[added.18.file_name]]
+PSI-115_Analyzed Data_8cmNoGravityDAM.dat
+
+[[added.18.organization]]
+shared
+
+[[added.18.psi_legacy_s3_path]]
+legacy/137829/226/8cmNoGravityDAM.dat
+
+[[added.18.remote_path]]
+/Home/psi-data/PSI-115/Analyzed Data/PSI-115_Analyzed Data_8cmNoGravityDAM.dat
+
+[[added.18.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/9884406/?inline=1&log=1
+
+[[added.18.resource_id.$oid]]
+65e737ee8e263688e9f9200c
+
+[[added.18.s3_path]]
+psi-data/PSI-115/Analyzed Data/PSI-115_Analyzed Data_8cmNoGravityDAM.dat
+
+[[added.18.study_id.$oid]]
+683da39ef91ab4427dbf4534
+
+[[added.18.subcategory]]
+Modeling Data/Case1/Microgravity
+
+[[added.19.bucket]]
+
+
+[[added.19.file_name]]
+PSI-115_Analyzed Data_8cmNoGravityNucRate.dat
+
+[[added.19.organization]]
+shared
+
+[[added.19.psi_legacy_s3_path]]
+legacy/137829/226/8cmNoGravityNucRate.dat
+
+[[added.19.remote_path]]
+/Home/psi-data/PSI-115/Analyzed Data/PSI-115_Analyzed Data_8cmNoGravityNucRate.dat
+
+[[added.19.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/9884407/?inline=1&log=1
+
+[[added.19.resource_id.$oid]]
+65e737ee8e263688e9f9200c
+
+[[added.19.s3_path]]
+psi-data/PSI-115/Analyzed Data/PSI-115_Analyzed Data_8cmNoGravityNucRate.dat
+
+[[added.19.study_id.$oid]]
+683da39ef91ab4427dbf4534
+
+[[added.19.subcategory]]
+Modeling Data/Case1/Microgravity
+
+[[added.20.bucket]]
+
+
+[[added.20.file_name]]
+PSI-115_Analyzed Data_8cmNoGravityV.dat
+
+[[added.20.organization]]
+shared
+
+[[added.20.psi_legacy_s3_path]]
+legacy/137829/226/8cmNoGravityV.dat
+
+[[added.20.remote_path]]
+/Home/psi-data/PSI-115/Analyzed Data/PSI-115_Analyzed Data_8cmNoGravityV.dat
+
+[[added.20.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/9884408/?inline=1&log=1
+
+[[added.20.resource_id.$oid]]
+65e737ee8e263688e9f9200c
+
+[[added.20.s3_path]]
+psi-data/PSI-115/Analyzed Data/PSI-115_Analyzed Data_8cmNoGravityV.dat
+
+[[added.20.study_id.$oid]]
+683da39ef91ab4427dbf4534
+
+[[added.20.subcategory]]
+Modeling Data/Case1/Microgravity
+
+[[added.21.bucket]]
+
+
+[[added.21.file_name]]
+PSI-115_Analyzed Data_8cmNoGravityVaporMF.dat
+
+[[added.21.organization]]
+shared
+
+[[added.21.psi_legacy_s3_path]]
+legacy/137829/226/8cmNoGravityVaporMF.dat
+
+[[added.21.remote_path]]
+/Home/psi-data/PSI-115/Analyzed Data/PSI-115_Analyzed Data_8cmNoGravityVaporMF.dat
+
+[[added.21.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/9884409/?inline=1&log=1
+
+[[added.21.resource_id.$oid]]
+65e737ee8e263688e9f9200c
+
+[[added.21.s3_path]]
+psi-data/PSI-115/Analyzed Data/PSI-115_Analyzed Data_8cmNoGravityVaporMF.dat
+
+[[added.21.study_id.$oid]]
+683da39ef91ab4427dbf4534
+
+[[added.21.subcategory]]
+Modeling Data/Case1/Microgravity
+
+[[added.22.bucket]]
+
+
+[[added.22.file_name]]
+PSI-115_Analyzed Data_8cmNoGravityVort.dat
+
+[[added.22.organization]]
+shared
+
+[[added.22.psi_legacy_s3_path]]
+legacy/137829/226/8cmNoGravityVort.dat
+
+[[added.22.remote_path]]
+/Home/psi-data/PSI-115/Analyzed Data/PSI-115_Analyzed Data_8cmNoGravityVort.dat
+
+[[added.22.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/9884410/?inline=1&log=1
+
+[[added.22.resource_id.$oid]]
+65e737ee8e263688e9f9200c
+
+[[added.22.s3_path]]
+psi-data/PSI-115/Analyzed Data/PSI-115_Analyzed Data_8cmNoGravityVort.dat
+
+[[added.22.study_id.$oid]]
+683da39ef91ab4427dbf4534
+
+[[added.22.subcategory]]
+Modeling Data/Case1/Microgravity
+
+[[added.23.bucket]]
+
+
+[[added.23.file_name]]
+PSI-115_Analyzed Data_8cmNoGravityTemperature.dat
+
+[[added.23.organization]]
+shared
+
+[[added.23.psi_legacy_s3_path]]
+legacy/137829/226/8cmNoGravityTemperature.dat
+
+[[added.23.remote_path]]
+/Home/psi-data/PSI-115/Analyzed Data/PSI-115_Analyzed Data_8cmNoGravityTemperature.dat
+
+[[added.23.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/9884411/?inline=1&log=1
+
+[[added.23.resource_id.$oid]]
+65e737ee8e263688e9f9200c
+
+[[added.23.s3_path]]
+psi-data/PSI-115/Analyzed Data/PSI-115_Analyzed Data_8cmNoGravityTemperature.dat
+
+[[added.23.study_id.$oid]]
+683da39ef91ab4427dbf4534
+
+[[added.23.subcategory]]
+Modeling Data/Case1/Microgravity
+
+[[added.24.bucket]]
+
+
+[[added.24.file_name]]
+PSI-115_Analyzed Data_8cmNoGravityU.dat
+
+[[added.24.organization]]
+shared
+
+[[added.24.psi_legacy_s3_path]]
+legacy/137829/226/8cmNoGravityU.dat
+
+[[added.24.remote_path]]
+/Home/psi-data/PSI-115/Analyzed Data/PSI-115_Analyzed Data_8cmNoGravityU.dat
+
+[[added.24.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/9884412/?inline=1&log=1
+
+[[added.24.resource_id.$oid]]
+65e737ee8e263688e9f9200c
+
+[[added.24.s3_path]]
+psi-data/PSI-115/Analyzed Data/PSI-115_Analyzed Data_8cmNoGravityU.dat
+
+[[added.24.study_id.$oid]]
+683da39ef91ab4427dbf4534
+
+[[added.24.subcategory]]
+Modeling Data/Case1/Microgravity
+
+[[added.25.bucket]]
+
+
+[[added.25.file_name]]
+PSI-115_Analyzed Data_8cmNoGravityNoTF_PSD.dat
+
+[[added.25.organization]]
+shared
+
+[[added.25.psi_legacy_s3_path]]
+legacy/137830/226/8cmNoGravityNoTF_PSD.dat
+
+[[added.25.remote_path]]
+/Home/psi-data/PSI-115/Analyzed Data/PSI-115_Analyzed Data_8cmNoGravityNoTF_PSD.dat
+
+[[added.25.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/9884425/?inline=1&log=1
+
+[[added.25.resource_id.$oid]]
+65e737ee8e263688e9f9200c
+
+[[added.25.s3_path]]
+psi-data/PSI-115/Analyzed Data/PSI-115_Analyzed Data_8cmNoGravityNoTF_PSD.dat
+
+[[added.25.study_id.$oid]]
+683da39ef91ab4427dbf4534
+
+[[added.25.subcategory]]
+Modeling Data/Case1/Microgravity; no thermophoresis
+
+[[added.26.bucket]]
+
+
+[[added.26.file_name]]
+PSI-115_Analyzed Data_8cmNoGravityNoTF_u.dat
+
+[[added.26.organization]]
+shared
+
+[[added.26.psi_legacy_s3_path]]
+legacy/137830/226/8cmNoGravityNoTF_u.dat
+
+[[added.26.remote_path]]
+/Home/psi-data/PSI-115/Analyzed Data/PSI-115_Analyzed Data_8cmNoGravityNoTF_u.dat
+
+[[added.26.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/9884426/?inline=1&log=1
+
+[[added.26.resource_id.$oid]]
+65e737ee8e263688e9f9200c
+
+[[added.26.s3_path]]
+psi-data/PSI-115/Analyzed Data/PSI-115_Analyzed Data_8cmNoGravityNoTF_u.dat
+
+[[added.26.study_id.$oid]]
+683da39ef91ab4427dbf4534
+
+[[added.26.subcategory]]
+Modeling Data/Case1/Microgravity; no thermophoresis
+
+[[added.27.bucket]]
+
+
+[[added.27.file_name]]
+PSI-115_Analyzed Data_8cmNoGravityNoTF_v.dat
+
+[[added.27.organization]]
+shared
+
+[[added.27.psi_legacy_s3_path]]
+legacy/137830/226/8cmNoGravityNoTF_v.dat
+
+[[added.27.remote_path]]
+/Home/psi-data/PSI-115/Analyzed Data/PSI-115_Analyzed Data_8cmNoGravityNoTF_v.dat
+
+[[added.27.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/9884427/?inline=1&log=1
+
+[[added.27.resource_id.$oid]]
+65e737ee8e263688e9f9200c
+
+[[added.27.s3_path]]
+psi-data/PSI-115/Analyzed Data/PSI-115_Analyzed Data_8cmNoGravityNoTF_v.dat
+
+[[added.27.study_id.$oid]]
+683da39ef91ab4427dbf4534
+
+[[added.27.subcategory]]
+Modeling Data/Case1/Microgravity; no thermophoresis
+
+[[added.28.bucket]]
+
+
+[[added.28.file_name]]
+PSI-115_Analyzed Data_8cmNoGravityNoTF_NumDen.dat
+
+[[added.28.organization]]
+shared
+
+[[added.28.psi_legacy_s3_path]]
+legacy/137830/226/8cmNoGravityNoTF_NumDen.dat
+
+[[added.28.remote_path]]
+/Home/psi-data/PSI-115/Analyzed Data/PSI-115_Analyzed Data_8cmNoGravityNoTF_NumDen.dat
+
+[[added.28.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/9884428/?inline=1&log=1
+
+[[added.28.resource_id.$oid]]
+65e737ee8e263688e9f9200c
+
+[[added.28.s3_path]]
+psi-data/PSI-115/Analyzed Data/PSI-115_Analyzed Data_8cmNoGravityNoTF_NumDen.dat
+
+[[added.28.study_id.$oid]]
+683da39ef91ab4427dbf4534
+
+[[added.28.subcategory]]
+Modeling Data/Case1/Microgravity; no thermophoresis
+
+[[added.29.bucket]]
+
+
+[[added.29.file_name]]
+PSI-115_Analyzed Data_8cmNoGravityuR.dat
+
+[[added.29.organization]]
+shared
+
+[[added.29.psi_legacy_s3_path]]
+legacy/137831/226/8cmNoGravityuR.dat
+
+[[added.29.remote_path]]
+/Home/psi-data/PSI-115/Analyzed Data/PSI-115_Analyzed Data_8cmNoGravityuR.dat
+
+[[added.29.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/9884441/?inline=1&log=1
+
+[[added.29.resource_id.$oid]]
+65e737ee8e263688e9f9200c
+
+[[added.29.s3_path]]
+psi-data/PSI-115/Analyzed Data/PSI-115_Analyzed Data_8cmNoGravityuR.dat
+
+[[added.29.study_id.$oid]]
+683da39ef91ab4427dbf4534
+
+[[added.29.subcategory]]
+Modeling Data/Case1/Microgravity; rotated
+
+[[added.30.bucket]]
+
+
+[[added.30.file_name]]
+PSI-115_Analyzed Data_8cmNoGravityvR.dat
+
+[[added.30.organization]]
+shared
+
+[[added.30.psi_legacy_s3_path]]
+legacy/137831/226/8cmNoGravityvR.dat
+
+[[added.30.remote_path]]
+/Home/psi-data/PSI-115/Analyzed Data/PSI-115_Analyzed Data_8cmNoGravityvR.dat
+
+[[added.30.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/9884442/?inline=1&log=1
+
+[[added.30.resource_id.$oid]]
+65e737ee8e263688e9f9200c
+
+[[added.30.s3_path]]
+psi-data/PSI-115/Analyzed Data/PSI-115_Analyzed Data_8cmNoGravityvR.dat
+
+[[added.30.study_id.$oid]]
+683da39ef91ab4427dbf4534
+
+[[added.30.subcategory]]
+Modeling Data/Case1/Microgravity; rotated
+
+[[added.31.bucket]]
+
+
+[[added.31.file_name]]
+PSI-115_Analyzed Data_8cmNoGravityNumDenR.dat
+
+[[added.31.organization]]
+shared
+
+[[added.31.psi_legacy_s3_path]]
+legacy/137831/226/8cmNoGravityNumDenR.dat
+
+[[added.31.remote_path]]
+/Home/psi-data/PSI-115/Analyzed Data/PSI-115_Analyzed Data_8cmNoGravityNumDenR.dat
+
+[[added.31.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/9884443/?inline=1&log=1
+
+[[added.31.resource_id.$oid]]
+65e737ee8e263688e9f9200c
+
+[[added.31.s3_path]]
+psi-data/PSI-115/Analyzed Data/PSI-115_Analyzed Data_8cmNoGravityNumDenR.dat
+
+[[added.31.study_id.$oid]]
+683da39ef91ab4427dbf4534
+
+[[added.31.subcategory]]
+Modeling Data/Case1/Microgravity; rotated
+
+[[added.32.bucket]]
+
+
+[[added.32.file_name]]
+PSI-115_Analyzed Data_10cmGravitySmoke.dat
+
+[[added.32.organization]]
+shared
+
+[[added.32.psi_legacy_s3_path]]
+legacy/137832/226/10cmGravitySmoke.dat
+
+[[added.32.remote_path]]
+/Home/psi-data/PSI-115/Analyzed Data/PSI-115_Analyzed Data_10cmGravitySmoke.dat
+
+[[added.32.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/9884456/?inline=1&log=1
+
+[[added.32.resource_id.$oid]]
+65e737ee8e263688e9f9200c
+
+[[added.32.s3_path]]
+psi-data/PSI-115/Analyzed Data/PSI-115_Analyzed Data_10cmGravitySmoke.dat
+
+[[added.32.study_id.$oid]]
+683da39ef91ab4427dbf4534
+
+[[added.32.subcategory]]
+Modeling Data/Case2/Earth Gravity
+
+[[added.33.bucket]]
+
+
+[[added.33.file_name]]
+PSI-115_Analyzed Data_10cmGravityU.dat
+
+[[added.33.organization]]
+shared
+
+[[added.33.psi_legacy_s3_path]]
+legacy/137832/226/10cmGravityU.dat
+
+[[added.33.remote_path]]
+/Home/psi-data/PSI-115/Analyzed Data/PSI-115_Analyzed Data_10cmGravityU.dat
+
+[[added.33.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/9884457/?inline=1&log=1
+
+[[added.33.resource_id.$oid]]
+65e737ee8e263688e9f9200c
+
+[[added.33.s3_path]]
+psi-data/PSI-115/Analyzed Data/PSI-115_Analyzed Data_10cmGravityU.dat
+
+[[added.33.study_id.$oid]]
+683da39ef91ab4427dbf4534
+
+[[added.33.subcategory]]
+Modeling Data/Case2/Earth Gravity
+
+[[added.34.bucket]]
+
+
+[[added.34.file_name]]
+PSI-115_Analyzed Data_10cmGravityV.dat
+
+[[added.34.organization]]
+shared
+
+[[added.34.psi_legacy_s3_path]]
+legacy/137832/226/10cmGravityV.dat
+
+[[added.34.remote_path]]
+/Home/psi-data/PSI-115/Analyzed Data/PSI-115_Analyzed Data_10cmGravityV.dat
+
+[[added.34.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/9884458/?inline=1&log=1
+
+[[added.34.resource_id.$oid]]
+65e737ee8e263688e9f9200c
+
+[[added.34.s3_path]]
+psi-data/PSI-115/Analyzed Data/PSI-115_Analyzed Data_10cmGravityV.dat
+
+[[added.34.study_id.$oid]]
+683da39ef91ab4427dbf4534
+
+[[added.34.subcategory]]
+Modeling Data/Case2/Earth Gravity
+
+[[added.35.bucket]]
+
+
+[[added.35.file_name]]
+PSI-115_Analyzed Data_10cmGravityPSD.dat
+
+[[added.35.organization]]
+shared
+
+[[added.35.psi_legacy_s3_path]]
+legacy/137832/226/10cmGravityPSD.dat
+
+[[added.35.remote_path]]
+/Home/psi-data/PSI-115/Analyzed Data/PSI-115_Analyzed Data_10cmGravityPSD.dat
+
+[[added.35.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/9884459/?inline=1&log=1
+
+[[added.35.resource_id.$oid]]
+65e737ee8e263688e9f9200c
+
+[[added.35.s3_path]]
+psi-data/PSI-115/Analyzed Data/PSI-115_Analyzed Data_10cmGravityPSD.dat
+
+[[added.35.study_id.$oid]]
+683da39ef91ab4427dbf4534
+
+[[added.35.subcategory]]
+Modeling Data/Case2/Earth Gravity
+
+[[added.36.bucket]]
+
+
+[[added.36.file_name]]
+PSI-115_Analyzed Data_10cmGravityNumDen.dat
+
+[[added.36.organization]]
+shared
+
+[[added.36.psi_legacy_s3_path]]
+legacy/137832/226/10cmGravityNumDen.dat
+
+[[added.36.remote_path]]
+/Home/psi-data/PSI-115/Analyzed Data/PSI-115_Analyzed Data_10cmGravityNumDen.dat
+
+[[added.36.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/9884460/?inline=1&log=1
+
+[[added.36.resource_id.$oid]]
+65e737ee8e263688e9f9200c
+
+[[added.36.s3_path]]
+psi-data/PSI-115/Analyzed Data/PSI-115_Analyzed Data_10cmGravityNumDen.dat
+
+[[added.36.study_id.$oid]]
+683da39ef91ab4427dbf4534
+
+[[added.36.subcategory]]
+Modeling Data/Case2/Earth Gravity
+
+[[added.37.bucket]]
+
+
+[[added.37.file_name]]
+PSI-115_Analyzed Data_10cmNoGravitySmoke.dat
+
+[[added.37.organization]]
+shared
+
+[[added.37.psi_legacy_s3_path]]
+legacy/137833/226/10cmNoGravitySmoke.dat
+
+[[added.37.remote_path]]
+/Home/psi-data/PSI-115/Analyzed Data/PSI-115_Analyzed Data_10cmNoGravitySmoke.dat
+
+[[added.37.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/9884473/?inline=1&log=1
+
+[[added.37.resource_id.$oid]]
+65e737ee8e263688e9f9200c
+
+[[added.37.s3_path]]
+psi-data/PSI-115/Analyzed Data/PSI-115_Analyzed Data_10cmNoGravitySmoke.dat
+
+[[added.37.study_id.$oid]]
+683da39ef91ab4427dbf4534
+
+[[added.37.subcategory]]
+Modeling Data/Case2/Microgravity
+
+[[added.38.bucket]]
+
+
+[[added.38.file_name]]
+PSI-115_Analyzed Data_10cmNoGravityU.dat
+
+[[added.38.organization]]
+shared
+
+[[added.38.psi_legacy_s3_path]]
+legacy/137833/226/10cmNoGravityU.dat
+
+[[added.38.remote_path]]
+/Home/psi-data/PSI-115/Analyzed Data/PSI-115_Analyzed Data_10cmNoGravityU.dat
+
+[[added.38.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/9884474/?inline=1&log=1
+
+[[added.38.resource_id.$oid]]
+65e737ee8e263688e9f9200c
+
+[[added.38.s3_path]]
+psi-data/PSI-115/Analyzed Data/PSI-115_Analyzed Data_10cmNoGravityU.dat
+
+[[added.38.study_id.$oid]]
+683da39ef91ab4427dbf4534
+
+[[added.38.subcategory]]
+Modeling Data/Case2/Microgravity
+
+[[added.39.bucket]]
+
+
+[[added.39.file_name]]
+PSI-115_Analyzed Data_10cmNoGravityV.dat
+
+[[added.39.organization]]
+shared
+
+[[added.39.psi_legacy_s3_path]]
+legacy/137833/226/10cmNoGravityV.dat
+
+[[added.39.remote_path]]
+/Home/psi-data/PSI-115/Analyzed Data/PSI-115_Analyzed Data_10cmNoGravityV.dat
+
+[[added.39.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/9884475/?inline=1&log=1
+
+[[added.39.resource_id.$oid]]
+65e737ee8e263688e9f9200c
+
+[[added.39.s3_path]]
+psi-data/PSI-115/Analyzed Data/PSI-115_Analyzed Data_10cmNoGravityV.dat
+
+[[added.39.study_id.$oid]]
+683da39ef91ab4427dbf4534
+
+[[added.39.subcategory]]
+Modeling Data/Case2/Microgravity
+
+[[added.40.bucket]]
+
+
+[[added.40.file_name]]
+PSI-115_Analyzed Data_10cmNoGravityPSD.dat
+
+[[added.40.organization]]
+shared
+
+[[added.40.psi_legacy_s3_path]]
+legacy/137833/226/10cmNoGravityPSD.dat
+
+[[added.40.remote_path]]
+/Home/psi-data/PSI-115/Analyzed Data/PSI-115_Analyzed Data_10cmNoGravityPSD.dat
+
+[[added.40.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/9884476/?inline=1&log=1
+
+[[added.40.resource_id.$oid]]
+65e737ee8e263688e9f9200c
+
+[[added.40.s3_path]]
+psi-data/PSI-115/Analyzed Data/PSI-115_Analyzed Data_10cmNoGravityPSD.dat
+
+[[added.40.study_id.$oid]]
+683da39ef91ab4427dbf4534
+
+[[added.40.subcategory]]
+Modeling Data/Case2/Microgravity
+
+[[added.41.bucket]]
+
+
+[[added.41.file_name]]
+PSI-115_Analyzed Data_10cmNoGravityNumDen.dat
+
+[[added.41.organization]]
+shared
+
+[[added.41.psi_legacy_s3_path]]
+legacy/137833/226/10cmNoGravityNumDen.dat
+
+[[added.41.remote_path]]
+/Home/psi-data/PSI-115/Analyzed Data/PSI-115_Analyzed Data_10cmNoGravityNumDen.dat
+
+[[added.41.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/9884477/?inline=1&log=1
+
+[[added.41.resource_id.$oid]]
+65e737ee8e263688e9f9200c
+
+[[added.41.s3_path]]
+psi-data/PSI-115/Analyzed Data/PSI-115_Analyzed Data_10cmNoGravityNumDen.dat
+
+[[added.41.study_id.$oid]]
+683da39ef91ab4427dbf4534
+
+[[added.41.subcategory]]
+Modeling Data/Case2/Microgravity
+
+[[added.42.bucket]]
+
+
+[[added.42.file_name]]
+PSI-115_Analyzed Data_10cm_sGrid_grid3d.dat
+
+[[added.42.organization]]
+shared
+
+[[added.42.psi_legacy_s3_path]]
+legacy/137833/226/10cm_sGrid_grid3d.dat
+
+[[added.42.remote_path]]
+/Home/psi-data/PSI-115/Analyzed Data/PSI-115_Analyzed Data_10cm_sGrid_grid3d.dat
+
+[[added.42.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/9884478/?inline=1&log=1
+
+[[added.42.resource_id.$oid]]
+65e737ee8e263688e9f9200c
+
+[[added.42.s3_path]]
+psi-data/PSI-115/Analyzed Data/PSI-115_Analyzed Data_10cm_sGrid_grid3d.dat
+
+[[added.42.study_id.$oid]]
+683da39ef91ab4427dbf4534
+
+[[added.42.subcategory]]
+Modeling Data/Case2/Microgravity
+
+[[added.43.bucket]]
+
+
+[[added.43.file_name]]
+PSI-115_Analyzed Data_nodeDiameters.dat
+
+[[added.43.organization]]
+shared
+
+[[added.43.psi_legacy_s3_path]]
+legacy/137833/226/nodeDiameters.dat
+
+[[added.43.remote_path]]
+/Home/psi-data/PSI-115/Analyzed Data/PSI-115_Analyzed Data_nodeDiameters.dat
+
+[[added.43.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/9884479/?inline=1&log=1
+
+[[added.43.resource_id.$oid]]
+65e737ee8e263688e9f9200c
+
+[[added.43.s3_path]]
+psi-data/PSI-115/Analyzed Data/PSI-115_Analyzed Data_nodeDiameters.dat
+
+[[added.43.study_id.$oid]]
+683da39ef91ab4427dbf4534
+
+[[added.43.subcategory]]
+Modeling Data/Case2/Microgravity
+
+[[added.44.bucket]]
+
+
+[[added.44.file_name]]
+PSI-115_Analyzed Data_8cm_sGrid_grid3d.dat
+
+[[added.44.organization]]
+shared
+
+[[added.44.psi_legacy_s3_path]]
+legacy/137829/226/8cm_sGrid_grid3d.dat
+
+[[added.44.remote_path]]
+/Home/psi-data/PSI-115/Analyzed Data/PSI-115_Analyzed Data_8cm_sGrid_grid3d.dat
+
+[[added.44.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/9884480/?inline=1&log=1
+
+[[added.44.resource_id.$oid]]
+65e737ee8e263688e9f9200c
+
+[[added.44.s3_path]]
+psi-data/PSI-115/Analyzed Data/PSI-115_Analyzed Data_8cm_sGrid_grid3d.dat
+
+[[added.44.study_id.$oid]]
+683da39ef91ab4427dbf4534
+
+[[added.44.subcategory]]
+Modeling Data/Case1/Microgravity
+
+[[added.45.bucket]]
+
+
+[[added.45.file_name]]
+PSI-115_Reports_NNX17AF08A_FinalReport.pdf
+
+[[added.45.organization]]
+shared
+
+[[added.45.psi_legacy_s3_path]]
+legacy/137834/244/NNX17AF08A_FinalReport.pdf
+
+[[added.45.remote_path]]
+/Home/psi-data/PSI-115/Reports/PSI-115_Reports_NNX17AF08A_FinalReport.pdf
+
+[[added.45.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/9896288/?inline=1&log=1
+
+[[added.45.resource_id.$oid]]
+65f8b3442ec0b0961f8fa20a
+
+[[added.45.s3_path]]
+psi-data/PSI-115/Reports/PSI-115_Reports_NNX17AF08A_FinalReport.pdf
+
+[[added.45.study_id.$oid]]
+683da39ef91ab4427dbf4534
+
+[[added.45.subcategory]]
+
+
+[[added.46.bucket]]
+
+
+[[added.46.file_name]]
+PSI-115_Science Documents_DataOrganizationDocument.pdf
+
+[[added.46.organization]]
+shared
+
+[[added.46.psi_legacy_s3_path]]
+legacy/133006/11572/Utilization of the Smoke Aerosol Measurement Experiment Data for Advanced Modeling and Simulation of Smoke Generation in Micro-Gravity DoD.pdf
+
+[[added.46.remote_path]]
+/Home/psi-data/PSI-115/Science Documents/PSI-115_Science Documents_DataOrganizationDocument.pdf
+
+[[added.46.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/10441966/?inline=1&log=1
+
+[[added.46.resource_id.$oid]]
+65eb50812ec0b0961f8f9a45
+
+[[added.46.s3_path]]
+psi-data/PSI-115/Science Documents/PSI-115_Science Documents_DataOrganizationDocument.pdf
+
+[[added.46.study_id.$oid]]
+683da39ef91ab4427dbf4534
+
+[[added.46.subcategory]]
+
+
+[[approach]]
+The formation and growth of dibutyl-phthalate (DBP) particles in Earth gravity and microgravity environments was simulated. Direct numerical simulation via a Navier-Stokes nodal approach was utlilized. The smoke originates from pyrolysis vapor expelled from a heated sample in a geometry similar to that considered in the SAME experiments. This study considered two cross-flow velocities of sufficiently low speed that buoyancy cannot be neglected in the presence of gravity. Simulations are presented to assess the dependence of particle size distributions on thermophoresis, particle settling, and flow geometry. The final report for this investigation introduces the simulation and modeling methodology, followed by a description of the flow geometry and the parameter space under consideration.The differences in the wake geometry attributable to buoyancy for the lower of two flow speeds was examined.  Instantaneous scalar fields were used to describe particle accumulation and growth in the buoyant and non-buoyant wakes that form downstream of the hot vapor source.
+
+[[contacts.0.@id]]
+
+
+[[contacts.0.address]]
+
+
+[[contacts.0.affiliation]]
+University of Illinois
+
+[[contacts.0.comments.0.name]]
+Study Person REF
+
+[[contacts.0.comments.0.value]]
+
+
+[[contacts.0.email]]
+sgarrick@illinois.edu
+
+[[contacts.0.fax]]
+
+
+[[contacts.0.firstName]]
+Sean
+
+[[contacts.0.lastName]]
+Garrick
+
+[[contacts.0.midInitials]]
+
+
+[[contacts.0.phone]]
+
+
+[[contacts.0.roles.0.@id]]
+dEBvA2jSs25xM9IfCv5ploF8MUDFt0ACKekf97KJ
+
+[[contacts.0.roles.0.annotationValue]]
+Principal Investigator (PI)
+
+[[contacts.0.roles.0.termAccession]]
+Principal Investigator (PI)
+
+[[contacts.0.roles.0.termSource]]
+
+
+[[contacts.1.@id]]
+
+
+[[contacts.1.address]]
+
+
+[[contacts.1.affiliation]]
+NASA GRC
+
+[[contacts.1.comments.0.name]]
+Study Person REF
+
+[[contacts.1.comments.0.value]]
+
+
+[[contacts.1.email]]
+michael.c.hicks@nasa.gov
+
+[[contacts.1.fax]]
+
+
+[[contacts.1.firstName]]
+Michael
+
+[[contacts.1.lastName]]
+Hicks
+
+[[contacts.1.midInitials]]
+
+
+[[contacts.1.phone]]
+
+
+[[contacts.1.roles.0.@id]]
+Dnk4ouM7YjrcdVdTTgeNZZuCETslO4fpv4OhnLfr
+
+[[contacts.1.roles.0.annotationValue]]
+Technical Point of Contact
+
+[[contacts.1.roles.0.termAccession]]
+Technical Point of Contact
+
+[[contacts.1.roles.0.termSource]]
+
+
+[[description]]
+
+
+[[doi]]
+10.60555/q0v5-1v28
+
+[[experimentHardware]]
+
+
+[[experimentHardwareLink]]
+
+
+[[flightProgram]]
+Not Applicable
+
+[[funding]]
+NNX17AF08A
+
+[[hypothesis]]
+Without buoyancy, mixing and heat transfer are reduced, the time-temperature history of the combustion vapors (or particle precursors) and particle trajectories are significantly altered, changing the composition of the smoke. The chemical composition of the burning material also affects the characteristics of the smoke generated.
+
+[[investigationAcronym]]
+
+
+[[investigationEndDate]]
+12-31-2019
+
+[[investigationStartDate]]
+01-30-2017
+
+[[licenseIdentifier]]
+CC0-1.0
+
+[[licenseLink]]
+https://spdx.org/licenses/CC0-1.0.html
+
+[[licenseName]]
+Creative Commons Zero v1.0 Universal
+
+[[managingNasaCenter]]
+Glenn Research Center (GRC)
+
+[[missionEnd]]
+
+
+[[missionLink]]
+
+
+[[missionName]]
+
+
+[[missionStart]]
+
+
+[[modifiedDate]]
+02-Jun-2025
+
+[[objective]]
+The objective of this investigation was to use numerical simulation to explore the influence of gravity on pyrolysis smoke growth from a fundamental perspective. The intention of this effort is to quantify the differences between microgravity and Earth gravity smoke, and to identify the fluid dynamic mechanisms that cause the differences.
+
+[[projectIdentifier]]
+
+
+[[projectLink]]
+
+
+[[projectTitle]]
+
+
+[[projectType]]
+Ground Investigation
+
+[[proposalTitle]]
+
+
+[[related_glds]]
+PSI-102
+
+[[releaseDate]]
+18-Sep-2024
+
+[[removed.0.bucket]]
+
+
+[[removed.0.file_name]]
+8cmGravityNumdenR.dat
+
+[[removed.0.organization]]
+shared
+
+[[removed.0.psi_legacy_s3_path]]
+legacy/137828/226/8cmGravityNumdenR.dat
+
+[[removed.0.remote_path]]
+/Home/psi-data/PSI-115/Raw Data/8cmGravityNumdenR.dat
+
+[[removed.0.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/9884390/?inline=1&log=1
+
+[[removed.0.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.0.s3_path]]
+psi-data/PSI-115/Raw Data/8cmGravityNumdenR.dat
+
+[[removed.0.study_id.$oid]]
+675768c7754fcbc3b70fe352
+
+[[removed.0.subcategory]]
+Legacy/Case1-Earth Gravity-R (rotated)
+
+[[removed.1.bucket]]
+
+
+[[removed.1.file_name]]
+8cmNoGravityPSD.dat
+
+[[removed.1.organization]]
+shared
+
+[[removed.1.psi_legacy_s3_path]]
+legacy/137829/226/8cmNoGravityPSD.dat
+
+[[removed.1.remote_path]]
+/Home/psi-data/PSI-115/Raw Data/8cmNoGravityPSD.dat
+
+[[removed.1.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/9884403/?inline=1&log=1
+
+[[removed.1.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.1.s3_path]]
+psi-data/PSI-115/Raw Data/8cmNoGravityPSD.dat
+
+[[removed.1.study_id.$oid]]
+675768c7754fcbc3b70fe352
+
+[[removed.1.subcategory]]
+Legacy/Case1-Microgravity
+
+[[removed.2.bucket]]
+
+
+[[removed.2.file_name]]
+8cmNoGravityNumDen.dat
+
+[[removed.2.organization]]
+shared
+
+[[removed.2.psi_legacy_s3_path]]
+legacy/137829/226/8cmNoGravityNumDen.dat
+
+[[removed.2.remote_path]]
+/Home/psi-data/PSI-115/Raw Data/8cmNoGravityNumDen.dat
+
+[[removed.2.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/9884404/?inline=1&log=1
+
+[[removed.2.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.2.s3_path]]
+psi-data/PSI-115/Raw Data/8cmNoGravityNumDen.dat
+
+[[removed.2.study_id.$oid]]
+675768c7754fcbc3b70fe352
+
+[[removed.2.subcategory]]
+Legacy/Case1-Microgravity
+
+[[removed.3.bucket]]
+
+
+[[removed.3.file_name]]
+8cmNoGravitySmoke.dat
+
+[[removed.3.organization]]
+shared
+
+[[removed.3.psi_legacy_s3_path]]
+legacy/137829/226/8cmNoGravitySmoke.dat
+
+[[removed.3.remote_path]]
+/Home/psi-data/PSI-115/Raw Data/8cmNoGravitySmoke.dat
+
+[[removed.3.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/9884405/?inline=1&log=1
+
+[[removed.3.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.3.s3_path]]
+psi-data/PSI-115/Raw Data/8cmNoGravitySmoke.dat
+
+[[removed.3.study_id.$oid]]
+675768c7754fcbc3b70fe352
+
+[[removed.3.subcategory]]
+Legacy/Case1-Microgravity
+
+[[removed.4.bucket]]
+
+
+[[removed.4.file_name]]
+8cmNoGravityDAM.dat
+
+[[removed.4.organization]]
+shared
+
+[[removed.4.psi_legacy_s3_path]]
+legacy/137829/226/8cmNoGravityDAM.dat
+
+[[removed.4.remote_path]]
+/Home/psi-data/PSI-115/Raw Data/8cmNoGravityDAM.dat
+
+[[removed.4.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/9884406/?inline=1&log=1
+
+[[removed.4.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.4.s3_path]]
+psi-data/PSI-115/Raw Data/8cmNoGravityDAM.dat
+
+[[removed.4.study_id.$oid]]
+675768c7754fcbc3b70fe352
+
+[[removed.4.subcategory]]
+Legacy/Case1-Microgravity
+
+[[removed.5.bucket]]
+
+
+[[removed.5.file_name]]
+8cmNoGravityNucRate.dat
+
+[[removed.5.organization]]
+shared
+
+[[removed.5.psi_legacy_s3_path]]
+legacy/137829/226/8cmNoGravityNucRate.dat
+
+[[removed.5.remote_path]]
+/Home/psi-data/PSI-115/Raw Data/8cmNoGravityNucRate.dat
+
+[[removed.5.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/9884407/?inline=1&log=1
+
+[[removed.5.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.5.s3_path]]
+psi-data/PSI-115/Raw Data/8cmNoGravityNucRate.dat
+
+[[removed.5.study_id.$oid]]
+675768c7754fcbc3b70fe352
+
+[[removed.5.subcategory]]
+Legacy/Case1-Microgravity
+
+[[removed.6.bucket]]
+
+
+[[removed.6.file_name]]
+8cmNoGravityV.dat
+
+[[removed.6.organization]]
+shared
+
+[[removed.6.psi_legacy_s3_path]]
+legacy/137829/226/8cmNoGravityV.dat
+
+[[removed.6.remote_path]]
+/Home/psi-data/PSI-115/Raw Data/8cmNoGravityV.dat
+
+[[removed.6.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/9884408/?inline=1&log=1
+
+[[removed.6.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.6.s3_path]]
+psi-data/PSI-115/Raw Data/8cmNoGravityV.dat
+
+[[removed.6.study_id.$oid]]
+675768c7754fcbc3b70fe352
+
+[[removed.6.subcategory]]
+Legacy/Case1-Microgravity
+
+[[removed.7.bucket]]
+
+
+[[removed.7.file_name]]
+8cmNoGravityVaporMF.dat
+
+[[removed.7.organization]]
+shared
+
+[[removed.7.psi_legacy_s3_path]]
+legacy/137829/226/8cmNoGravityVaporMF.dat
+
+[[removed.7.remote_path]]
+/Home/psi-data/PSI-115/Raw Data/8cmNoGravityVaporMF.dat
+
+[[removed.7.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/9884409/?inline=1&log=1
+
+[[removed.7.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.7.s3_path]]
+psi-data/PSI-115/Raw Data/8cmNoGravityVaporMF.dat
+
+[[removed.7.study_id.$oid]]
+675768c7754fcbc3b70fe352
+
+[[removed.7.subcategory]]
+Legacy/Case1-Microgravity
+
+[[removed.8.bucket]]
+
+
+[[removed.8.file_name]]
+8cmNoGravityVort.dat
+
+[[removed.8.organization]]
+shared
+
+[[removed.8.psi_legacy_s3_path]]
+legacy/137829/226/8cmNoGravityVort.dat
+
+[[removed.8.remote_path]]
+/Home/psi-data/PSI-115/Raw Data/8cmNoGravityVort.dat
+
+[[removed.8.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/9884410/?inline=1&log=1
+
+[[removed.8.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.8.s3_path]]
+psi-data/PSI-115/Raw Data/8cmNoGravityVort.dat
+
+[[removed.8.study_id.$oid]]
+675768c7754fcbc3b70fe352
+
+[[removed.8.subcategory]]
+Legacy/Case1-Microgravity
+
+[[removed.9.bucket]]
+
+
+[[removed.9.file_name]]
+8cmNoGravityTemperature.dat
+
+[[removed.9.organization]]
+shared
+
+[[removed.9.psi_legacy_s3_path]]
+legacy/137829/226/8cmNoGravityTemperature.dat
+
+[[removed.9.remote_path]]
+/Home/psi-data/PSI-115/Raw Data/8cmNoGravityTemperature.dat
+
+[[removed.9.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/9884411/?inline=1&log=1
+
+[[removed.9.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.9.s3_path]]
+psi-data/PSI-115/Raw Data/8cmNoGravityTemperature.dat
+
+[[removed.9.study_id.$oid]]
+675768c7754fcbc3b70fe352
+
+[[removed.9.subcategory]]
+Legacy/Case1-Microgravity
+
+[[removed.10.bucket]]
+
+
+[[removed.10.file_name]]
+8cmNoGravityU.dat
+
+[[removed.10.organization]]
+shared
+
+[[removed.10.psi_legacy_s3_path]]
+legacy/137829/226/8cmNoGravityU.dat
+
+[[removed.10.remote_path]]
+/Home/psi-data/PSI-115/Raw Data/8cmNoGravityU.dat
+
+[[removed.10.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/9884412/?inline=1&log=1
+
+[[removed.10.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.10.s3_path]]
+psi-data/PSI-115/Raw Data/8cmNoGravityU.dat
+
+[[removed.10.study_id.$oid]]
+675768c7754fcbc3b70fe352
+
+[[removed.10.subcategory]]
+Legacy/Case1-Microgravity
+
+[[removed.11.bucket]]
+
+
+[[removed.11.file_name]]
+8cmNoGravityNoTF_PSD.dat
+
+[[removed.11.organization]]
+shared
+
+[[removed.11.psi_legacy_s3_path]]
+legacy/137830/226/8cmNoGravityNoTF_PSD.dat
+
+[[removed.11.remote_path]]
+/Home/psi-data/PSI-115/Raw Data/8cmNoGravityNoTF_PSD.dat
+
+[[removed.11.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/9884425/?inline=1&log=1
+
+[[removed.11.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.11.s3_path]]
+psi-data/PSI-115/Raw Data/8cmNoGravityNoTF_PSD.dat
+
+[[removed.11.study_id.$oid]]
+675768c7754fcbc3b70fe352
+
+[[removed.11.subcategory]]
+Legacy/Case1-Microgravity-NT (no thermophoresis)
+
+[[removed.12.bucket]]
+
+
+[[removed.12.file_name]]
+8cmNoGravityNoTF_u.dat
+
+[[removed.12.organization]]
+shared
+
+[[removed.12.psi_legacy_s3_path]]
+legacy/137830/226/8cmNoGravityNoTF_u.dat
+
+[[removed.12.remote_path]]
+/Home/psi-data/PSI-115/Raw Data/8cmNoGravityNoTF_u.dat
+
+[[removed.12.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/9884426/?inline=1&log=1
+
+[[removed.12.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.12.s3_path]]
+psi-data/PSI-115/Raw Data/8cmNoGravityNoTF_u.dat
+
+[[removed.12.study_id.$oid]]
+675768c7754fcbc3b70fe352
+
+[[removed.12.subcategory]]
+Legacy/Case1-Microgravity-NT (no thermophoresis)
+
+[[removed.13.bucket]]
+
+
+[[removed.13.file_name]]
+8cmNoGravityNoTF_v.dat
+
+[[removed.13.organization]]
+shared
+
+[[removed.13.psi_legacy_s3_path]]
+legacy/137830/226/8cmNoGravityNoTF_v.dat
+
+[[removed.13.remote_path]]
+/Home/psi-data/PSI-115/Raw Data/8cmNoGravityNoTF_v.dat
+
+[[removed.13.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/9884427/?inline=1&log=1
+
+[[removed.13.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.13.s3_path]]
+psi-data/PSI-115/Raw Data/8cmNoGravityNoTF_v.dat
+
+[[removed.13.study_id.$oid]]
+675768c7754fcbc3b70fe352
+
+[[removed.13.subcategory]]
+Legacy/Case1-Microgravity-NT (no thermophoresis)
+
+[[removed.14.bucket]]
+
+
+[[removed.14.file_name]]
+8cmNoGravityNoTF_NumDen.dat
+
+[[removed.14.organization]]
+shared
+
+[[removed.14.psi_legacy_s3_path]]
+legacy/137830/226/8cmNoGravityNoTF_NumDen.dat
+
+[[removed.14.remote_path]]
+/Home/psi-data/PSI-115/Raw Data/8cmNoGravityNoTF_NumDen.dat
+
+[[removed.14.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/9884428/?inline=1&log=1
+
+[[removed.14.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.14.s3_path]]
+psi-data/PSI-115/Raw Data/8cmNoGravityNoTF_NumDen.dat
+
+[[removed.14.study_id.$oid]]
+675768c7754fcbc3b70fe352
+
+[[removed.14.subcategory]]
+Legacy/Case1-Microgravity-NT (no thermophoresis)
+
+[[removed.15.bucket]]
+
+
+[[removed.15.file_name]]
+8cmNoGravityuR.dat
+
+[[removed.15.organization]]
+shared
+
+[[removed.15.psi_legacy_s3_path]]
+legacy/137831/226/8cmNoGravityuR.dat
+
+[[removed.15.remote_path]]
+/Home/psi-data/PSI-115/Raw Data/8cmNoGravityuR.dat
+
+[[removed.15.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/9884441/?inline=1&log=1
+
+[[removed.15.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.15.s3_path]]
+psi-data/PSI-115/Raw Data/8cmNoGravityuR.dat
+
+[[removed.15.study_id.$oid]]
+675768c7754fcbc3b70fe352
+
+[[removed.15.subcategory]]
+Legacy/Case1-Microgravity-R (rotated)
+
+[[removed.16.bucket]]
+
+
+[[removed.16.file_name]]
+8cmNoGravityvR.dat
+
+[[removed.16.organization]]
+shared
+
+[[removed.16.psi_legacy_s3_path]]
+legacy/137831/226/8cmNoGravityvR.dat
+
+[[removed.16.remote_path]]
+/Home/psi-data/PSI-115/Raw Data/8cmNoGravityvR.dat
+
+[[removed.16.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/9884442/?inline=1&log=1
+
+[[removed.16.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.16.s3_path]]
+psi-data/PSI-115/Raw Data/8cmNoGravityvR.dat
+
+[[removed.16.study_id.$oid]]
+675768c7754fcbc3b70fe352
+
+[[removed.16.subcategory]]
+Legacy/Case1-Microgravity-R (rotated)
+
+[[removed.17.bucket]]
+
+
+[[removed.17.file_name]]
+8cmNoGravityNumDenR.dat
+
+[[removed.17.organization]]
+shared
+
+[[removed.17.psi_legacy_s3_path]]
+legacy/137831/226/8cmNoGravityNumDenR.dat
+
+[[removed.17.remote_path]]
+/Home/psi-data/PSI-115/Raw Data/8cmNoGravityNumDenR.dat
+
+[[removed.17.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/9884443/?inline=1&log=1
+
+[[removed.17.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.17.s3_path]]
+psi-data/PSI-115/Raw Data/8cmNoGravityNumDenR.dat
+
+[[removed.17.study_id.$oid]]
+675768c7754fcbc3b70fe352
+
+[[removed.17.subcategory]]
+Legacy/Case1-Microgravity-R (rotated)
+
+[[removed.18.bucket]]
+
+
+[[removed.18.file_name]]
+10cmGravitySmoke.dat
+
+[[removed.18.organization]]
+shared
+
+[[removed.18.psi_legacy_s3_path]]
+legacy/137832/226/10cmGravitySmoke.dat
+
+[[removed.18.remote_path]]
+/Home/psi-data/PSI-115/Raw Data/10cmGravitySmoke.dat
+
+[[removed.18.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/9884456/?inline=1&log=1
+
+[[removed.18.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.18.s3_path]]
+psi-data/PSI-115/Raw Data/10cmGravitySmoke.dat
+
+[[removed.18.study_id.$oid]]
+675768c7754fcbc3b70fe352
+
+[[removed.18.subcategory]]
+Legacy/Case2-Earth Gravity
+
+[[removed.19.bucket]]
+
+
+[[removed.19.file_name]]
+10cmGravityU.dat
+
+[[removed.19.organization]]
+shared
+
+[[removed.19.psi_legacy_s3_path]]
+legacy/137832/226/10cmGravityU.dat
+
+[[removed.19.remote_path]]
+/Home/psi-data/PSI-115/Raw Data/10cmGravityU.dat
+
+[[removed.19.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/9884457/?inline=1&log=1
+
+[[removed.19.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.19.s3_path]]
+psi-data/PSI-115/Raw Data/10cmGravityU.dat
+
+[[removed.19.study_id.$oid]]
+675768c7754fcbc3b70fe352
+
+[[removed.19.subcategory]]
+Legacy/Case2-Earth Gravity
+
+[[removed.20.bucket]]
+
+
+[[removed.20.file_name]]
+10cmGravityV.dat
+
+[[removed.20.organization]]
+shared
+
+[[removed.20.psi_legacy_s3_path]]
+legacy/137832/226/10cmGravityV.dat
+
+[[removed.20.remote_path]]
+/Home/psi-data/PSI-115/Raw Data/10cmGravityV.dat
+
+[[removed.20.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/9884458/?inline=1&log=1
+
+[[removed.20.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.20.s3_path]]
+psi-data/PSI-115/Raw Data/10cmGravityV.dat
+
+[[removed.20.study_id.$oid]]
+675768c7754fcbc3b70fe352
+
+[[removed.20.subcategory]]
+Legacy/Case2-Earth Gravity
+
+[[removed.21.bucket]]
+
+
+[[removed.21.file_name]]
+10cmGravityPSD.dat
+
+[[removed.21.organization]]
+shared
+
+[[removed.21.psi_legacy_s3_path]]
+legacy/137832/226/10cmGravityPSD.dat
+
+[[removed.21.remote_path]]
+/Home/psi-data/PSI-115/Raw Data/10cmGravityPSD.dat
+
+[[removed.21.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/9884459/?inline=1&log=1
+
+[[removed.21.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.21.s3_path]]
+psi-data/PSI-115/Raw Data/10cmGravityPSD.dat
+
+[[removed.21.study_id.$oid]]
+675768c7754fcbc3b70fe352
+
+[[removed.21.subcategory]]
+Legacy/Case2-Earth Gravity
+
+[[removed.22.bucket]]
+
+
+[[removed.22.file_name]]
+10cmGravityNumDen.dat
+
+[[removed.22.organization]]
+shared
+
+[[removed.22.psi_legacy_s3_path]]
+legacy/137832/226/10cmGravityNumDen.dat
+
+[[removed.22.remote_path]]
+/Home/psi-data/PSI-115/Raw Data/10cmGravityNumDen.dat
+
+[[removed.22.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/9884460/?inline=1&log=1
+
+[[removed.22.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.22.s3_path]]
+psi-data/PSI-115/Raw Data/10cmGravityNumDen.dat
+
+[[removed.22.study_id.$oid]]
+675768c7754fcbc3b70fe352
+
+[[removed.22.subcategory]]
+Legacy/Case2-Earth Gravity
+
+[[removed.23.bucket]]
+
+
+[[removed.23.file_name]]
+10cmNoGravitySmoke.dat
+
+[[removed.23.organization]]
+shared
+
+[[removed.23.psi_legacy_s3_path]]
+legacy/137833/226/10cmNoGravitySmoke.dat
+
+[[removed.23.remote_path]]
+/Home/psi-data/PSI-115/Raw Data/10cmNoGravitySmoke.dat
+
+[[removed.23.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/9884473/?inline=1&log=1
+
+[[removed.23.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.23.s3_path]]
+psi-data/PSI-115/Raw Data/10cmNoGravitySmoke.dat
+
+[[removed.23.study_id.$oid]]
+675768c7754fcbc3b70fe352
+
+[[removed.23.subcategory]]
+Legacy/Case2-Microgravity
+
+[[removed.24.bucket]]
+
+
+[[removed.24.file_name]]
+10cmNoGravityU.dat
+
+[[removed.24.organization]]
+shared
+
+[[removed.24.psi_legacy_s3_path]]
+legacy/137833/226/10cmNoGravityU.dat
+
+[[removed.24.remote_path]]
+/Home/psi-data/PSI-115/Raw Data/10cmNoGravityU.dat
+
+[[removed.24.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/9884474/?inline=1&log=1
+
+[[removed.24.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.24.s3_path]]
+psi-data/PSI-115/Raw Data/10cmNoGravityU.dat
+
+[[removed.24.study_id.$oid]]
+675768c7754fcbc3b70fe352
+
+[[removed.24.subcategory]]
+Legacy/Case2-Microgravity
+
+[[removed.25.bucket]]
+
+
+[[removed.25.file_name]]
+10cmNoGravityV.dat
+
+[[removed.25.organization]]
+shared
+
+[[removed.25.psi_legacy_s3_path]]
+legacy/137833/226/10cmNoGravityV.dat
+
+[[removed.25.remote_path]]
+/Home/psi-data/PSI-115/Raw Data/10cmNoGravityV.dat
+
+[[removed.25.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/9884475/?inline=1&log=1
+
+[[removed.25.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.25.s3_path]]
+psi-data/PSI-115/Raw Data/10cmNoGravityV.dat
+
+[[removed.25.study_id.$oid]]
+675768c7754fcbc3b70fe352
+
+[[removed.25.subcategory]]
+Legacy/Case2-Microgravity
+
+[[removed.26.bucket]]
+
+
+[[removed.26.file_name]]
+10cmNoGravityPSD.dat
+
+[[removed.26.organization]]
+shared
+
+[[removed.26.psi_legacy_s3_path]]
+legacy/137833/226/10cmNoGravityPSD.dat
+
+[[removed.26.remote_path]]
+/Home/psi-data/PSI-115/Raw Data/10cmNoGravityPSD.dat
+
+[[removed.26.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/9884476/?inline=1&log=1
+
+[[removed.26.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.26.s3_path]]
+psi-data/PSI-115/Raw Data/10cmNoGravityPSD.dat
+
+[[removed.26.study_id.$oid]]
+675768c7754fcbc3b70fe352
+
+[[removed.26.subcategory]]
+Legacy/Case2-Microgravity
+
+[[removed.27.bucket]]
+
+
+[[removed.27.file_name]]
+10cmNoGravityNumDen.dat
+
+[[removed.27.organization]]
+shared
+
+[[removed.27.psi_legacy_s3_path]]
+legacy/137833/226/10cmNoGravityNumDen.dat
+
+[[removed.27.remote_path]]
+/Home/psi-data/PSI-115/Raw Data/10cmNoGravityNumDen.dat
+
+[[removed.27.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/9884477/?inline=1&log=1
+
+[[removed.27.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.27.s3_path]]
+psi-data/PSI-115/Raw Data/10cmNoGravityNumDen.dat
+
+[[removed.27.study_id.$oid]]
+675768c7754fcbc3b70fe352
+
+[[removed.27.subcategory]]
+Legacy/Case2-Microgravity
+
+[[removed.28.bucket]]
+
+
+[[removed.28.file_name]]
+10cm_sGrid_grid3d.dat
+
+[[removed.28.organization]]
+shared
+
+[[removed.28.psi_legacy_s3_path]]
+legacy/137833/226/10cm_sGrid_grid3d.dat
+
+[[removed.28.remote_path]]
+/Home/psi-data/PSI-115/Raw Data/10cm_sGrid_grid3d.dat
+
+[[removed.28.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/9884478/?inline=1&log=1
+
+[[removed.28.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.28.s3_path]]
+psi-data/PSI-115/Raw Data/10cm_sGrid_grid3d.dat
+
+[[removed.28.study_id.$oid]]
+675768c7754fcbc3b70fe352
+
+[[removed.28.subcategory]]
+Legacy/Case2-Microgravity
+
+[[removed.29.bucket]]
+
+
+[[removed.29.file_name]]
+nodeDiameters.dat
+
+[[removed.29.organization]]
+shared
+
+[[removed.29.psi_legacy_s3_path]]
+legacy/137833/226/nodeDiameters.dat
+
+[[removed.29.remote_path]]
+/Home/psi-data/PSI-115/Raw Data/nodeDiameters.dat
+
+[[removed.29.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/9884479/?inline=1&log=1
+
+[[removed.29.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.29.s3_path]]
+psi-data/PSI-115/Raw Data/nodeDiameters.dat
+
+[[removed.29.study_id.$oid]]
+675768c7754fcbc3b70fe352
+
+[[removed.29.subcategory]]
+Legacy/Case2-Microgravity
+
+[[removed.30.bucket]]
+
+
+[[removed.30.file_name]]
+8cm_sGrid_grid3d.dat
+
+[[removed.30.organization]]
+shared
+
+[[removed.30.psi_legacy_s3_path]]
+legacy/137829/226/8cm_sGrid_grid3d.dat
+
+[[removed.30.remote_path]]
+/Home/psi-data/PSI-115/Raw Data/8cm_sGrid_grid3d.dat
+
+[[removed.30.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/9884480/?inline=1&log=1
+
+[[removed.30.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.30.s3_path]]
+psi-data/PSI-115/Raw Data/8cm_sGrid_grid3d.dat
+
+[[removed.30.study_id.$oid]]
+675768c7754fcbc3b70fe352
+
+[[removed.30.subcategory]]
+Legacy/Case1-Microgravity
+
+[[removed.31.bucket]]
+
+
+[[removed.31.file_name]]
+nodeDiameters.dat
+
+[[removed.31.organization]]
+shared
+
+[[removed.31.psi_legacy_s3_path]]
+legacy/137833/226/nodeDiameters.dat
+
+[[removed.31.remote_path]]
+/Home/psi-data/PSI-115/Raw Data/nodeDiameters.dat
+
+[[removed.31.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/9884479/?inline=1&log=1
+
+[[removed.31.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.31.s3_path]]
+psi-data/PSI-115/Raw Data/nodeDiameters.dat
+
+[[removed.31.study_id.$oid]]
+675768c7754fcbc3b70fe352
+
+[[removed.31.subcategory]]
+Legacy/Case2-Microgravity
+
+[[removed.32.bucket]]
+
+
+[[removed.32.file_name]]
+8cm_sGrid_grid3d.dat
+
+[[removed.32.organization]]
+shared
+
+[[removed.32.psi_legacy_s3_path]]
+legacy/137829/226/8cm_sGrid_grid3d.dat
+
+[[removed.32.remote_path]]
+/Home/psi-data/PSI-115/Raw Data/8cm_sGrid_grid3d.dat
+
+[[removed.32.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/9884480/?inline=1&log=1
+
+[[removed.32.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.32.s3_path]]
+psi-data/PSI-115/Raw Data/8cm_sGrid_grid3d.dat
+
+[[removed.32.study_id.$oid]]
+675768c7754fcbc3b70fe352
+
+[[removed.32.subcategory]]
+Legacy/Case1-Microgravity
+
+[[removed.33.bucket]]
+
+
+[[removed.33.file_name]]
+nodeDiameters.dat
+
+[[removed.33.organization]]
+shared
+
+[[removed.33.psi_legacy_s3_path]]
+legacy/137833/226/nodeDiameters.dat
+
+[[removed.33.remote_path]]
+/Home/psi-data/PSI-115/Raw Data/nodeDiameters.dat
+
+[[removed.33.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/9884479/?inline=1&log=1
+
+[[removed.33.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.33.s3_path]]
+psi-data/PSI-115/Raw Data/nodeDiameters.dat
+
+[[removed.33.study_id.$oid]]
+675768c7754fcbc3b70fe352
+
+[[removed.33.subcategory]]
+Legacy/Case2-Microgravity
+
+[[removed.34.bucket]]
+
+
+[[removed.34.file_name]]
+nodeDiameters.dat
+
+[[removed.34.organization]]
+shared
+
+[[removed.34.psi_legacy_s3_path]]
+legacy/137833/226/nodeDiameters.dat
+
+[[removed.34.remote_path]]
+/Home/psi-data/PSI-115/Raw Data/nodeDiameters.dat
+
+[[removed.34.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/9884479/?inline=1&log=1
+
+[[removed.34.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.34.s3_path]]
+psi-data/PSI-115/Raw Data/nodeDiameters.dat
+
+[[removed.34.study_id.$oid]]
+675768c7754fcbc3b70fe352
+
+[[removed.34.subcategory]]
+Legacy/Case2-Microgravity
+
+[[removed.35.bucket]]
+
+
+[[removed.35.file_name]]
+8cm_sGrid_grid3d.dat
+
+[[removed.35.organization]]
+shared
+
+[[removed.35.psi_legacy_s3_path]]
+legacy/137829/226/8cm_sGrid_grid3d.dat
+
+[[removed.35.remote_path]]
+/Home/psi-data/PSI-115/Raw Data/8cm_sGrid_grid3d.dat
+
+[[removed.35.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/9884480/?inline=1&log=1
+
+[[removed.35.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.35.s3_path]]
+psi-data/PSI-115/Raw Data/8cm_sGrid_grid3d.dat
+
+[[removed.35.study_id.$oid]]
+675768c7754fcbc3b70fe352
+
+[[removed.35.subcategory]]
+Legacy/Case1-Microgravity
+
+[[removed.36.bucket]]
+
+
+[[removed.36.date_created]]
+
+
+[[removed.36.file_name]]
+NNX17AF08A_FinalReport.pdf
+
+[[removed.36.organization]]
+shared
+
+[[removed.36.psi_legacy_s3_path]]
+legacy/137834/244/NNX17AF08A_FinalReport.pdf
+
+[[removed.36.remote_path]]
+/Home/psi-data/PSI-115/Raw Data/NNX17AF08A_FinalReport.pdf
+
+[[removed.36.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/9896288/?inline=1&log=1
+
+[[removed.36.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.36.s3_path]]
+psi-data/PSI-115/Raw Data/NNX17AF08A_FinalReport.pdf
+
+[[removed.36.study_id.$oid]]
+675768c7754fcbc3b70fe352
+
+[[removed.36.subcategory]]
+Legacy/2020 - NASA Grant NNX17AF08A Final Report
+
+[[removed.37.bucket]]
+
+
+[[removed.37.date_created]]
+
+
+[[removed.37.file_name]]
+Utilization of the Smoke Aerosol Measurement Experiment Data for Advanced Modeling and Simulation of Smoke Generation in Micro-Gravity DoD.pdf
+
+[[removed.37.organization]]
+shared
+
+[[removed.37.psi_legacy_s3_path]]
+legacy/133006/11572/Utilization of the Smoke Aerosol Measurement Experiment Data for Advanced Modeling and Simulation of Smoke Generation in Micro-Gravity DoD.pdf
+
+[[removed.37.remote_path]]
+/Home/psi-data/PSI-115/Raw Data/Utilization of the Smoke Aerosol Measurement Experiment Data for Advanced Modeling and Simulation of Smoke Generation in Micro-Gravity DoD.pdf
+
+[[removed.37.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/10441966/?inline=1&log=1
+
+[[removed.37.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.37.s3_path]]
+psi-data/PSI-115/Raw Data/Utilization of the Smoke Aerosol Measurement Experiment Data for Advanced Modeling and Simulation of Smoke Generation in Micro-Gravity DoD.pdf
+
+[[removed.37.study_id.$oid]]
+675768c7754fcbc3b70fe352
+
+[[removed.37.subcategory]]
+Legacy/
+
+[[researchArea]]
+Combustion Science
+
+[[researchImpacts]]
+Models and tools that characterize particles generated as smoke can be used to ascertain how temperature, gravity, and material properties affect the smoke produced. This would directly lead to better smoke detection devices and prevent fires that can lead to loss of materiel and loss of life.
+
+[[sourceAccession]]
+
+
+[[sourceLink]]
+
+
+[[spaceProgram]]
+National Aeronautics and Space Administration (NASA), PSI Grant
+
+[[subResearchArea]]
+Smoke Aerosol, Combustion Simulation
+
+[[submissionDate]]
+18-Sep-2024
+
+[[title]]
+Utilization of the Smoke Aerosol Measurement Experiment Data for Advanced Modeling and Simulation of Smoke Generation in Micro-Gravity
+
+[[versionMessage]]
+
+
+[[versionMessageLevel]]
+
+
+[[versionReason]]
+Additional documentation release

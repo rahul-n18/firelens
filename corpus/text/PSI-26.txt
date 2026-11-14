@@ -1,0 +1,7627 @@
+[[accession]]
+PSI-26
+
+[[acknowledgments]]
+
+
+[[added.0.bucket]]
+psi-repo-prod
+
+[[added.0.file_name]]
+PSI-26_metadata_PSI-102_BASS.zip
+
+[[added.0.organization]]
+OSD
+
+[[added.0.remote_path]]
+/Home/psi-data/PSI-26/metadata/PSI-26_metadata_PSI-102_BASS.zip
+
+[[added.0.remote_url]]
+/datamanager/file/Home/psi-data/PSI-26/metadata/PSI-26_metadata_PSI-102_BASS.zip
+
+[[added.0.resource_id.$oid]]
+65e0a4d4931988043eebcd6e
+
+[[added.0.s3_path]]
+psi-data/PSI-26/metadata/PSI-26_metadata_PSI-102_BASS.zip
+
+[[added.0.s3_version_id]]
+jv5.9aq.jEw5vvoZBBEFtMrQ_8oReThK
+
+[[added.0.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.1.bucket]]
+
+
+[[added.1.file_name]]
+PSI-26_Presentations_FlammabilityAspectsofCottonFiberglassFabric_ASGSR2012.pdf
+
+[[added.1.organization]]
+shared
+
+[[added.1.psi_legacy_s3_path]]
+legacy/11328/284/ASGSR BASS SIBAL talk Final.pdf
+
+[[added.1.remote_path]]
+/Home/psi-data/PSI-26/Presentations/PSI-26_Presentations_FlammabilityAspectsofCottonFiberglassFabric_ASGSR2012.pdf
+
+[[added.1.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/70374/?inline=1&log=1
+
+[[added.1.resource_id.$oid]]
+65f8b34f2ec0b0961f8fa20b
+
+[[added.1.s3_path]]
+psi-data/PSI-26/Presentations/PSI-26_Presentations_FlammabilityAspectsofCottonFiberglassFabric_ASGSR2012.pdf
+
+[[added.1.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.1.subcategory]]
+
+
+[[added.2.bucket]]
+
+
+[[added.2.file_name]]
+PSI-26_Presentations_BASS_Overview of Recent ISS Results.pdf
+
+[[added.2.organization]]
+shared
+
+[[added.2.psi_legacy_s3_path]]
+legacy/11332/284/ISS Denver 2013-BASS.pdf
+
+[[added.2.remote_path]]
+/Home/psi-data/PSI-26/Presentations/PSI-26_Presentations_BASS_Overview of Recent ISS Results.pdf
+
+[[added.2.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/70383/?inline=1&log=1
+
+[[added.2.resource_id.$oid]]
+65f8b34f2ec0b0961f8fa20b
+
+[[added.2.s3_path]]
+psi-data/PSI-26/Presentations/PSI-26_Presentations_BASS_Overview of Recent ISS Results.pdf
+
+[[added.2.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.2.subcategory]]
+
+
+[[added.3.bucket]]
+
+
+[[added.3.file_name]]
+PSI-26_Science Documents_FlammabilityAspectsofFabric_USNationalCombustion.2013.docx
+
+[[added.3.organization]]
+shared
+
+[[added.3.psi_legacy_s3_path]]
+legacy/11366/257/US National Meeting-070HE-0218-Final.docx
+
+[[added.3.remote_path]]
+/Home/psi-data/PSI-26/Science Documents/PSI-26_Science Documents_FlammabilityAspectsofFabric_USNationalCombustion.2013.docx
+
+[[added.3.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/70471/?inline=1&log=1
+
+[[added.3.resource_id.$oid]]
+65eb50812ec0b0961f8f9a45
+
+[[added.3.s3_path]]
+psi-data/PSI-26/Science Documents/PSI-26_Science Documents_FlammabilityAspectsofFabric_USNationalCombustion.2013.docx
+
+[[added.3.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.3.subcategory]]
+
+
+[[added.4.bucket]]
+
+
+[[added.4.file_name]]
+PSI-26_Presentations_Flammability Aspects of Fabric_USNationalCombustion2013.pdf
+
+[[added.4.organization]]
+shared
+
+[[added.4.psi_legacy_s3_path]]
+legacy/11367/284/CI US National Meeting-BASS SIBAL talk.pdf
+
+[[added.4.remote_path]]
+/Home/psi-data/PSI-26/Presentations/PSI-26_Presentations_Flammability Aspects of Fabric_USNationalCombustion2013.pdf
+
+[[added.4.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/70475/?inline=1&log=1
+
+[[added.4.resource_id.$oid]]
+65f8b34f2ec0b0961f8fa20b
+
+[[added.4.s3_path]]
+psi-data/PSI-26/Presentations/PSI-26_Presentations_Flammability Aspects of Fabric_USNationalCombustion2013.pdf
+
+[[added.4.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.4.subcategory]]
+
+
+[[added.5.bucket]]
+
+
+[[added.5.file_name]]
+PSI-26_Reports_SPICE_FinalReport.pdf
+
+[[added.5.organization]]
+shared
+
+[[added.5.psi_legacy_s3_path]]
+legacy/11762/244/SPICE Final Report 12_2_2012.pdf
+
+[[added.5.remote_path]]
+/Home/psi-data/PSI-26/Reports/PSI-26_Reports_SPICE_FinalReport.pdf
+
+[[added.5.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/74490/?inline=1&log=1
+
+[[added.5.resource_id.$oid]]
+65f8b3442ec0b0961f8fa20a
+
+[[added.5.s3_path]]
+psi-data/PSI-26/Reports/PSI-26_Reports_SPICE_FinalReport.pdf
+
+[[added.5.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.5.subcategory]]
+
+
+[[added.6.bucket]]
+
+
+[[added.6.file_name]]
+PSI-26_Reports_BASS_FinalReport.pdf
+
+[[added.6.organization]]
+shared
+
+[[added.6.psi_legacy_s3_path]]
+legacy/11772/244/Ferkul-BASS Report 2013.pdf
+
+[[added.6.remote_path]]
+/Home/psi-data/PSI-26/Reports/PSI-26_Reports_BASS_FinalReport.pdf
+
+[[added.6.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/74539/?inline=1&log=1
+
+[[added.6.resource_id.$oid]]
+65f8b3442ec0b0961f8fa20a
+
+[[added.6.s3_path]]
+psi-data/PSI-26/Reports/PSI-26_Reports_BASS_FinalReport.pdf
+
+[[added.6.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.6.subcategory]]
+
+
+[[added.7.bucket]]
+
+
+[[added.7.file_name]]
+PSI-26_Engineering Documents_SLICE_SysReqDesignReview.pdf
+
+[[added.7.organization]]
+shared
+
+[[added.7.psi_legacy_s3_path]]
+legacy/15989/284/SLICE IP-A SRDR.pdf
+
+[[added.7.remote_path]]
+/Home/psi-data/PSI-26/Engineering Documents/PSI-26_Engineering Documents_SLICE_SysReqDesignReview.pdf
+
+[[added.7.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/98519/?inline=1&log=1
+
+[[added.7.resource_id.$oid]]
+65eb514f2ec0b0961f8f9a49
+
+[[added.7.s3_path]]
+psi-data/PSI-26/Engineering Documents/PSI-26_Engineering Documents_SLICE_SysReqDesignReview.pdf
+
+[[added.7.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.7.subcategory]]
+
+
+[[added.8.bucket]]
+
+
+[[added.8.file_name]]
+PSI-26_Presentations_Crew Training 2010.pdf
+
+[[added.8.organization]]
+shared
+
+[[added.8.psi_legacy_s3_path]]
+legacy/15991/284/SLICE IP-C crew training 2010.pdf
+
+[[added.8.remote_path]]
+/Home/psi-data/PSI-26/Presentations/PSI-26_Presentations_Crew Training 2010.pdf
+
+[[added.8.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/98521/?inline=1&log=1
+
+[[added.8.resource_id.$oid]]
+65f8b34f2ec0b0961f8fa20b
+
+[[added.8.s3_path]]
+psi-data/PSI-26/Presentations/PSI-26_Presentations_Crew Training 2010.pdf
+
+[[added.8.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.8.subcategory]]
+
+
+[[added.9.bucket]]
+
+
+[[added.9.file_name]]
+PSI-26_Presentations_Crew Training 2011.pdf
+
+[[added.9.organization]]
+shared
+
+[[added.9.psi_legacy_s3_path]]
+legacy/14838/284/SLICE IP-D crew training 2011.pdf
+
+[[added.9.remote_path]]
+/Home/psi-data/PSI-26/Presentations/PSI-26_Presentations_Crew Training 2011.pdf
+
+[[added.9.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/98528/?inline=1&log=1
+
+[[added.9.resource_id.$oid]]
+65f8b34f2ec0b0961f8fa20b
+
+[[added.9.s3_path]]
+psi-data/PSI-26/Presentations/PSI-26_Presentations_Crew Training 2011.pdf
+
+[[added.9.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.9.subcategory]]
+
+
+[[added.10.bucket]]
+
+
+[[added.10.file_name]]
+PSI-26_Engineering Documents_BASS_SysAcceptanceReview.1.pdf
+
+[[added.10.organization]]
+shared
+
+[[added.10.psi_legacy_s3_path]]
+legacy/19176/244/SLICE ED-04 SLICE_BASS_SAR-1_FINAL.pdf
+
+[[added.10.remote_path]]
+/Home/psi-data/PSI-26/Engineering Documents/PSI-26_Engineering Documents_BASS_SysAcceptanceReview.1.pdf
+
+[[added.10.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/152441/?inline=1&log=1
+
+[[added.10.resource_id.$oid]]
+65eb514f2ec0b0961f8f9a49
+
+[[added.10.s3_path]]
+psi-data/PSI-26/Engineering Documents/PSI-26_Engineering Documents_BASS_SysAcceptanceReview.1.pdf
+
+[[added.10.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.10.subcategory]]
+
+
+[[added.11.bucket]]
+
+
+[[added.11.file_name]]
+PSI-26_Engineering Documents_BASS_SysAcceptanceReview.2.pdf
+
+[[added.11.organization]]
+shared
+
+[[added.11.psi_legacy_s3_path]]
+legacy/19178/244/SLICE ED-05 SLICE BASS SAR-2_FINAL.pdf
+
+[[added.11.remote_path]]
+/Home/psi-data/PSI-26/Engineering Documents/PSI-26_Engineering Documents_BASS_SysAcceptanceReview.2.pdf
+
+[[added.11.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/152450/?inline=1&log=1
+
+[[added.11.resource_id.$oid]]
+65eb514f2ec0b0961f8f9a49
+
+[[added.11.s3_path]]
+psi-data/PSI-26/Engineering Documents/PSI-26_Engineering Documents_BASS_SysAcceptanceReview.2.pdf
+
+[[added.11.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.11.subcategory]]
+
+
+[[added.12.bucket]]
+
+
+[[added.12.file_name]]
+PSI-26_Raw Data_20130406 09.07.31 iss035m020950857.mp4
+
+[[added.12.organization]]
+shared
+
+[[added.12.psi_legacy_s3_path]]
+legacy/43079/224/20130406 09.07.31 iss035m020950857.mp4
+
+[[added.12.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130406 09.07.31 iss035m020950857.mp4
+
+[[added.12.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3072186/?inline=1&log=1
+
+[[added.12.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.12.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130406 09.07.31 iss035m020950857.mp4
+
+[[added.12.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.12.subcategory]]
+Reduced Gravity/2013_04_06
+
+[[added.13.bucket]]
+
+
+[[added.13.file_name]]
+PSI-26_Raw Data_20130406 10.24.05 iss035m020950943.mp4
+
+[[added.13.organization]]
+shared
+
+[[added.13.psi_legacy_s3_path]]
+legacy/43079/224/20130406 10.24.05 iss035m020950943.mp4
+
+[[added.13.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130406 10.24.05 iss035m020950943.mp4
+
+[[added.13.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3072187/?inline=1&log=1
+
+[[added.13.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.13.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130406 10.24.05 iss035m020950943.mp4
+
+[[added.13.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.13.subcategory]]
+Reduced Gravity/2013_04_06
+
+[[added.14.bucket]]
+
+
+[[added.14.file_name]]
+PSI-26_Raw Data_20130406 10.41.11 iss035m020951036.mp4
+
+[[added.14.organization]]
+shared
+
+[[added.14.psi_legacy_s3_path]]
+legacy/43079/224/20130406 10.41.11 iss035m020951036.mp4
+
+[[added.14.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130406 10.41.11 iss035m020951036.mp4
+
+[[added.14.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3072188/?inline=1&log=1
+
+[[added.14.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.14.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130406 10.41.11 iss035m020951036.mp4
+
+[[added.14.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.14.subcategory]]
+Reduced Gravity/2013_04_06
+
+[[added.15.bucket]]
+
+
+[[added.15.file_name]]
+PSI-26_Raw Data_20130406 11.28.00 iss035m.mp4
+
+[[added.15.organization]]
+shared
+
+[[added.15.psi_legacy_s3_path]]
+legacy/43079/224/20130406 11.28.00 iss035m.mp4
+
+[[added.15.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130406 11.28.00 iss035m.mp4
+
+[[added.15.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3072189/?inline=1&log=1
+
+[[added.15.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.15.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130406 11.28.00 iss035m.mp4
+
+[[added.15.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.15.subcategory]]
+Reduced Gravity/2013_04_06
+
+[[added.16.bucket]]
+
+
+[[added.16.file_name]]
+PSI-26_Raw Data_20130406 12.34.43 iss035m020951219.mp4
+
+[[added.16.organization]]
+shared
+
+[[added.16.psi_legacy_s3_path]]
+legacy/43079/224/20130406 12.34.43 iss035m020951219.mp4
+
+[[added.16.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130406 12.34.43 iss035m020951219.mp4
+
+[[added.16.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3072190/?inline=1&log=1
+
+[[added.16.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.16.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130406 12.34.43 iss035m020951219.mp4
+
+[[added.16.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.16.subcategory]]
+Reduced Gravity/2013_04_06
+
+[[added.17.bucket]]
+
+
+[[added.17.file_name]]
+PSI-26_Raw Data_20130406 13.07.56 iss035m020951302.mp4
+
+[[added.17.organization]]
+shared
+
+[[added.17.psi_legacy_s3_path]]
+legacy/43079/224/20130406 13.07.56 iss035m020951302.mp4
+
+[[added.17.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130406 13.07.56 iss035m020951302.mp4
+
+[[added.17.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3072191/?inline=1&log=1
+
+[[added.17.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.17.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130406 13.07.56 iss035m020951302.mp4
+
+[[added.17.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.17.subcategory]]
+Reduced Gravity/2013_04_06
+
+[[added.18.bucket]]
+
+
+[[added.18.file_name]]
+PSI-26_Raw Data_20130406 14.06.03 iss035m020951400.mp4
+
+[[added.18.organization]]
+shared
+
+[[added.18.psi_legacy_s3_path]]
+legacy/43079/224/20130406 14.06.03 iss035m020951400.mp4
+
+[[added.18.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130406 14.06.03 iss035m020951400.mp4
+
+[[added.18.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3072192/?inline=1&log=1
+
+[[added.18.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.18.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130406 14.06.03 iss035m020951400.mp4
+
+[[added.18.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.18.subcategory]]
+Reduced Gravity/2013_04_06
+
+[[added.19.bucket]]
+
+
+[[added.19.file_name]]
+PSI-26_Raw Data_20130406 14.59.51 iss035m020951454.mp4
+
+[[added.19.organization]]
+shared
+
+[[added.19.psi_legacy_s3_path]]
+legacy/43079/224/20130406 14.59.51 iss035m020951454.mp4
+
+[[added.19.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130406 14.59.51 iss035m020951454.mp4
+
+[[added.19.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3072193/?inline=1&log=1
+
+[[added.19.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.19.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130406 14.59.51 iss035m020951454.mp4
+
+[[added.19.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.19.subcategory]]
+Reduced Gravity/2013_04_06
+
+[[added.20.bucket]]
+
+
+[[added.20.file_name]]
+PSI-26_Raw Data_20130406 15.45.35 iss035m020951540.mp4
+
+[[added.20.organization]]
+shared
+
+[[added.20.psi_legacy_s3_path]]
+legacy/43079/224/20130406 15.45.35 iss035m020951540.mp4
+
+[[added.20.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130406 15.45.35 iss035m020951540.mp4
+
+[[added.20.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3072194/?inline=1&log=1
+
+[[added.20.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.20.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130406 15.45.35 iss035m020951540.mp4
+
+[[added.20.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.20.subcategory]]
+Reduced Gravity/2013_04_06
+
+[[added.21.bucket]]
+
+
+[[added.21.file_name]]
+PSI-26_Raw Data_2013_04_06_orig.zip
+
+[[added.21.organization]]
+shared
+
+[[added.21.psi_legacy_s3_path]]
+legacy/43079/11441/2013_04_06_orig.zip
+
+[[added.21.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_2013_04_06_orig.zip
+
+[[added.21.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3072461/?inline=1&log=1
+
+[[added.21.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.21.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_2013_04_06_orig.zip
+
+[[added.21.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.21.subcategory]]
+Reduced Gravity/2013_04_06
+
+[[added.22.bucket]]
+
+
+[[added.22.file_name]]
+PSI-26_Raw Data_2013_04_06_xmp.zip
+
+[[added.22.organization]]
+shared
+
+[[added.22.psi_legacy_s3_path]]
+legacy/43079/11526/2013_04_06_xmp.zip
+
+[[added.22.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_2013_04_06_xmp.zip
+
+[[added.22.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3072462/?inline=1&log=1
+
+[[added.22.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.22.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_2013_04_06_xmp.zip
+
+[[added.22.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.22.subcategory]]
+Reduced Gravity/2013_04_06
+
+[[added.23.bucket]]
+
+
+[[added.23.file_name]]
+PSI-26_Raw Data_20130405 18.17.49 iss035m020941810.mp4
+
+[[added.23.organization]]
+shared
+
+[[added.23.psi_legacy_s3_path]]
+legacy/43080/224/20130405 18.17.49 iss035m020941810.mp4
+
+[[added.23.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130405 18.17.49 iss035m020941810.mp4
+
+[[added.23.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3072465/?inline=1&log=1
+
+[[added.23.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.23.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130405 18.17.49 iss035m020941810.mp4
+
+[[added.23.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.23.subcategory]]
+Reduced Gravity/2013_04_05
+
+[[added.24.bucket]]
+
+
+[[added.24.file_name]]
+PSI-26_Raw Data_2013_04_04_orig.zip
+
+[[added.24.organization]]
+shared
+
+[[added.24.psi_legacy_s3_path]]
+legacy/43081/11441/2013_04_04_orig.zip
+
+[[added.24.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_2013_04_04_orig.zip
+
+[[added.24.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3072479/?inline=1&log=1
+
+[[added.24.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.24.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_2013_04_04_orig.zip
+
+[[added.24.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.24.subcategory]]
+Reduced Gravity/2013_04_04
+
+[[added.25.bucket]]
+
+
+[[added.25.file_name]]
+PSI-26_Raw Data_2013_04_09_orig.zip
+
+[[added.25.organization]]
+shared
+
+[[added.25.psi_legacy_s3_path]]
+legacy/43082/11441/2013_04_09_orig.zip
+
+[[added.25.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_2013_04_09_orig.zip
+
+[[added.25.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3072531/?inline=1&log=1
+
+[[added.25.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.25.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_2013_04_09_orig.zip
+
+[[added.25.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.25.subcategory]]
+Reduced Gravity/2013_04_09
+
+[[added.26.bucket]]
+
+
+[[added.26.file_name]]
+PSI-26_Raw Data_2013_04_09_txt.zip
+
+[[added.26.organization]]
+shared
+
+[[added.26.psi_legacy_s3_path]]
+legacy/43082/11526/2013_04_09_txt.zip
+
+[[added.26.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_2013_04_09_txt.zip
+
+[[added.26.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3072532/?inline=1&log=1
+
+[[added.26.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.26.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_2013_04_09_txt.zip
+
+[[added.26.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.26.subcategory]]
+Reduced Gravity/2013_04_09
+
+[[added.27.bucket]]
+
+
+[[added.27.file_name]]
+PSI-26_Raw Data_20130410 12.19.33 iss035m010991214.mp4
+
+[[added.27.organization]]
+shared
+
+[[added.27.psi_legacy_s3_path]]
+legacy/43095/224/20130410 12.19.33 iss035m010991214.mp4
+
+[[added.27.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130410 12.19.33 iss035m010991214.mp4
+
+[[added.27.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3074804/?inline=1&log=1
+
+[[added.27.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.27.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130410 12.19.33 iss035m010991214.mp4
+
+[[added.27.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.27.subcategory]]
+Reduced Gravity/2013_04_10
+
+[[added.28.bucket]]
+
+
+[[added.28.file_name]]
+PSI-26_Raw Data_20130410 13.13.10 iss035m010991307.mp4
+
+[[added.28.organization]]
+shared
+
+[[added.28.psi_legacy_s3_path]]
+legacy/43095/224/20130410 13.13.10 iss035m010991307.mp4
+
+[[added.28.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130410 13.13.10 iss035m010991307.mp4
+
+[[added.28.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3074805/?inline=1&log=1
+
+[[added.28.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.28.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130410 13.13.10 iss035m010991307.mp4
+
+[[added.28.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.28.subcategory]]
+Reduced Gravity/2013_04_10
+
+[[added.29.bucket]]
+
+
+[[added.29.file_name]]
+PSI-26_Raw Data_20130410 08.28.56 iss035m010990823.mp4
+
+[[added.29.organization]]
+shared
+
+[[added.29.psi_legacy_s3_path]]
+legacy/43095/224/20130410 08.28.56 iss035m010990823.mp4
+
+[[added.29.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130410 08.28.56 iss035m010990823.mp4
+
+[[added.29.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3074806/?inline=1&log=1
+
+[[added.29.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.29.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130410 08.28.56 iss035m010990823.mp4
+
+[[added.29.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.29.subcategory]]
+Reduced Gravity/2013_04_10
+
+[[added.30.bucket]]
+
+
+[[added.30.file_name]]
+PSI-26_Raw Data_20130410 08.56.46 iss035m010990851.mp4
+
+[[added.30.organization]]
+shared
+
+[[added.30.psi_legacy_s3_path]]
+legacy/43095/224/20130410 08.56.46 iss035m010990851.mp4
+
+[[added.30.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130410 08.56.46 iss035m010990851.mp4
+
+[[added.30.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3074807/?inline=1&log=1
+
+[[added.30.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.30.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130410 08.56.46 iss035m010990851.mp4
+
+[[added.30.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.30.subcategory]]
+Reduced Gravity/2013_04_10
+
+[[added.31.bucket]]
+
+
+[[added.31.file_name]]
+PSI-26_Raw Data_20130410 09.18.37 iss035m210991415.mp4
+
+[[added.31.organization]]
+shared
+
+[[added.31.psi_legacy_s3_path]]
+legacy/43095/224/20130410 09.18.37 iss035m210991415.mp4
+
+[[added.31.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130410 09.18.37 iss035m210991415.mp4
+
+[[added.31.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3074808/?inline=1&log=1
+
+[[added.31.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.31.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130410 09.18.37 iss035m210991415.mp4
+
+[[added.31.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.31.subcategory]]
+Reduced Gravity/2013_04_10
+
+[[added.32.bucket]]
+
+
+[[added.32.file_name]]
+PSI-26_Raw Data_20130410 09.44.27 iss035m010990939.mp4
+
+[[added.32.organization]]
+shared
+
+[[added.32.psi_legacy_s3_path]]
+legacy/43095/224/20130410 09.44.27 iss035m010990939.mp4
+
+[[added.32.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130410 09.44.27 iss035m010990939.mp4
+
+[[added.32.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3074809/?inline=1&log=1
+
+[[added.32.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.32.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130410 09.44.27 iss035m010990939.mp4
+
+[[added.32.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.32.subcategory]]
+Reduced Gravity/2013_04_10
+
+[[added.33.bucket]]
+
+
+[[added.33.file_name]]
+PSI-26_Raw Data_20130410 10.37.59 iss035m010991032.mp4
+
+[[added.33.organization]]
+shared
+
+[[added.33.psi_legacy_s3_path]]
+legacy/43095/224/20130410 10.37.59 iss035m010991032.mp4
+
+[[added.33.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130410 10.37.59 iss035m010991032.mp4
+
+[[added.33.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3074810/?inline=1&log=1
+
+[[added.33.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.33.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130410 10.37.59 iss035m010991032.mp4
+
+[[added.33.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.33.subcategory]]
+Reduced Gravity/2013_04_10
+
+[[added.34.bucket]]
+
+
+[[added.34.file_name]]
+PSI-26_Raw Data_2013_04_10_orig.zip
+
+[[added.34.organization]]
+shared
+
+[[added.34.psi_legacy_s3_path]]
+legacy/43095/11441/2013_04_10_orig.zip
+
+[[added.34.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_2013_04_10_orig.zip
+
+[[added.34.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3075868/?inline=1&log=1
+
+[[added.34.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.34.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_2013_04_10_orig.zip
+
+[[added.34.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.34.subcategory]]
+Reduced Gravity/2013_04_10
+
+[[added.35.bucket]]
+
+
+[[added.35.file_name]]
+PSI-26_Raw Data_2013_04_10_txt.zip
+
+[[added.35.organization]]
+shared
+
+[[added.35.psi_legacy_s3_path]]
+legacy/43095/11526/2013_04_10_txt.zip
+
+[[added.35.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_2013_04_10_txt.zip
+
+[[added.35.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3075869/?inline=1&log=1
+
+[[added.35.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.35.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_2013_04_10_txt.zip
+
+[[added.35.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.35.subcategory]]
+Reduced Gravity/2013_04_10
+
+[[added.36.bucket]]
+
+
+[[added.36.file_name]]
+PSI-26_Raw Data_2013_04_10_xmp.zip
+
+[[added.36.organization]]
+shared
+
+[[added.36.psi_legacy_s3_path]]
+legacy/43095/11526/2013_04_10_xmp.zip
+
+[[added.36.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_2013_04_10_xmp.zip
+
+[[added.36.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3075870/?inline=1&log=1
+
+[[added.36.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.36.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_2013_04_10_xmp.zip
+
+[[added.36.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.36.subcategory]]
+Reduced Gravity/2013_04_10
+
+[[added.37.bucket]]
+
+
+[[added.37.file_name]]
+PSI-26_Raw Data_20130413 12.16.41 iss035m021021209.mp4
+
+[[added.37.organization]]
+shared
+
+[[added.37.psi_legacy_s3_path]]
+legacy/43096/224/20130413 12.16.41 iss035m021021209.mp4
+
+[[added.37.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130413 12.16.41 iss035m021021209.mp4
+
+[[added.37.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3075872/?inline=1&log=1
+
+[[added.37.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.37.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130413 12.16.41 iss035m021021209.mp4
+
+[[added.37.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.37.subcategory]]
+Reduced Gravity/ 2013_04_13
+
+[[added.38.bucket]]
+
+
+[[added.38.file_name]]
+PSI-26_Raw Data_20130413 13.08.21 iss035m021021301.mp4
+
+[[added.38.organization]]
+shared
+
+[[added.38.psi_legacy_s3_path]]
+legacy/43096/224/20130413 13.08.21 iss035m021021301.mp4
+
+[[added.38.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130413 13.08.21 iss035m021021301.mp4
+
+[[added.38.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3075873/?inline=1&log=1
+
+[[added.38.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.38.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130413 13.08.21 iss035m021021301.mp4
+
+[[added.38.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.38.subcategory]]
+Reduced Gravity/ 2013_04_13
+
+[[added.39.bucket]]
+
+
+[[added.39.file_name]]
+PSI-26_Raw Data_20130413 13.46.04 iss035m021021340.mp4
+
+[[added.39.organization]]
+shared
+
+[[added.39.psi_legacy_s3_path]]
+legacy/43096/224/20130413 13.46.04 iss035m021021340.mp4
+
+[[added.39.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130413 13.46.04 iss035m021021340.mp4
+
+[[added.39.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3075874/?inline=1&log=1
+
+[[added.39.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.39.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130413 13.46.04 iss035m021021340.mp4
+
+[[added.39.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.39.subcategory]]
+Reduced Gravity/ 2013_04_13
+
+[[added.40.bucket]]
+
+
+[[added.40.file_name]]
+PSI-26_Raw Data_20130413 14.44.35 iss035m021021439.mp4
+
+[[added.40.organization]]
+shared
+
+[[added.40.psi_legacy_s3_path]]
+legacy/43096/224/20130413 14.44.35 iss035m021021439.mp4
+
+[[added.40.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130413 14.44.35 iss035m021021439.mp4
+
+[[added.40.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3075875/?inline=1&log=1
+
+[[added.40.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.40.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130413 14.44.35 iss035m021021439.mp4
+
+[[added.40.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.40.subcategory]]
+Reduced Gravity/ 2013_04_13
+
+[[added.41.bucket]]
+
+
+[[added.41.file_name]]
+PSI-26_Raw Data_20130413 14.54.06 iss035m211021753.mp4
+
+[[added.41.organization]]
+shared
+
+[[added.41.psi_legacy_s3_path]]
+legacy/43096/224/20130413 14.54.06 iss035m211021753.mp4
+
+[[added.41.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130413 14.54.06 iss035m211021753.mp4
+
+[[added.41.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3075876/?inline=1&log=1
+
+[[added.41.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.41.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130413 14.54.06 iss035m211021753.mp4
+
+[[added.41.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.41.subcategory]]
+Reduced Gravity/ 2013_04_13
+
+[[added.42.bucket]]
+
+
+[[added.42.file_name]]
+PSI-26_Raw Data_20130413 14.58.59 iss035m211021841.mp4
+
+[[added.42.organization]]
+shared
+
+[[added.42.psi_legacy_s3_path]]
+legacy/43096/224/20130413 14.58.59 iss035m211021841.mp4
+
+[[added.42.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130413 14.58.59 iss035m211021841.mp4
+
+[[added.42.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3075877/?inline=1&log=1
+
+[[added.42.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.42.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130413 14.58.59 iss035m211021841.mp4
+
+[[added.42.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.42.subcategory]]
+Reduced Gravity/ 2013_04_13
+
+[[added.43.bucket]]
+
+
+[[added.43.file_name]]
+PSI-26_Raw Data_20130413 15.22.17 iss035m021021451.mp4
+
+[[added.43.organization]]
+shared
+
+[[added.43.psi_legacy_s3_path]]
+legacy/43096/224/20130413 15.22.17 iss035m021021451.mp4
+
+[[added.43.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130413 15.22.17 iss035m021021451.mp4
+
+[[added.43.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3075878/?inline=1&log=1
+
+[[added.43.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.43.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130413 15.22.17 iss035m021021451.mp4
+
+[[added.43.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.43.subcategory]]
+Reduced Gravity/ 2013_04_13
+
+[[added.44.bucket]]
+
+
+[[added.44.file_name]]
+PSI-26_Raw Data_20130413 15.25.03 iss035m021021519.mp4
+
+[[added.44.organization]]
+shared
+
+[[added.44.psi_legacy_s3_path]]
+legacy/43096/224/20130413 15.25.03 iss035m021021519.mp4
+
+[[added.44.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130413 15.25.03 iss035m021021519.mp4
+
+[[added.44.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3075879/?inline=1&log=1
+
+[[added.44.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.44.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130413 15.25.03 iss035m021021519.mp4
+
+[[added.44.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.44.subcategory]]
+Reduced Gravity/ 2013_04_13
+
+[[added.45.bucket]]
+
+
+[[added.45.file_name]]
+PSI-26_Raw Data_20130413 16.38.10 iss035m021021615.mp4
+
+[[added.45.organization]]
+shared
+
+[[added.45.psi_legacy_s3_path]]
+legacy/43096/224/20130413 16.38.10 iss035m021021615.mp4
+
+[[added.45.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130413 16.38.10 iss035m021021615.mp4
+
+[[added.45.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3075880/?inline=1&log=1
+
+[[added.45.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.45.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130413 16.38.10 iss035m021021615.mp4
+
+[[added.45.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.45.subcategory]]
+Reduced Gravity/ 2013_04_13
+
+[[added.46.bucket]]
+
+
+[[added.46.file_name]]
+PSI-26_Raw Data_20130413 17.07.13 iss035m021021701.mp4
+
+[[added.46.organization]]
+shared
+
+[[added.46.psi_legacy_s3_path]]
+legacy/43096/224/20130413 17.07.13 iss035m021021701.mp4
+
+[[added.46.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130413 17.07.13 iss035m021021701.mp4
+
+[[added.46.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3075881/?inline=1&log=1
+
+[[added.46.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.46.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130413 17.07.13 iss035m021021701.mp4
+
+[[added.46.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.46.subcategory]]
+Reduced Gravity/ 2013_04_13
+
+[[added.47.bucket]]
+
+
+[[added.47.file_name]]
+PSI-26_Raw Data_20130413 17.59.52 iss035m021021754.mp4
+
+[[added.47.organization]]
+shared
+
+[[added.47.psi_legacy_s3_path]]
+legacy/43096/224/20130413 17.59.52 iss035m021021754.mp4
+
+[[added.47.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130413 17.59.52 iss035m021021754.mp4
+
+[[added.47.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3075882/?inline=1&log=1
+
+[[added.47.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.47.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130413 17.59.52 iss035m021021754.mp4
+
+[[added.47.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.47.subcategory]]
+Reduced Gravity/ 2013_04_13
+
+[[added.48.bucket]]
+
+
+[[added.48.file_name]]
+PSI-26_Raw Data_2013_04_13_orig.zip
+
+[[added.48.organization]]
+shared
+
+[[added.48.psi_legacy_s3_path]]
+legacy/43096/11441/2013_04_13_orig.zip
+
+[[added.48.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_2013_04_13_orig.zip
+
+[[added.48.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3077129/?inline=1&log=1
+
+[[added.48.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.48.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_2013_04_13_orig.zip
+
+[[added.48.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.48.subcategory]]
+Reduced Gravity/ 2013_04_13
+
+[[added.49.bucket]]
+
+
+[[added.49.file_name]]
+PSI-26_Raw Data_2013_04_13_txt.zip
+
+[[added.49.organization]]
+shared
+
+[[added.49.psi_legacy_s3_path]]
+legacy/43096/11526/2013_04_13_txt.zip
+
+[[added.49.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_2013_04_13_txt.zip
+
+[[added.49.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3077130/?inline=1&log=1
+
+[[added.49.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.49.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_2013_04_13_txt.zip
+
+[[added.49.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.49.subcategory]]
+Reduced Gravity/ 2013_04_13
+
+[[added.50.bucket]]
+
+
+[[added.50.file_name]]
+PSI-26_Raw Data_2013_04_13_xmp.zip
+
+[[added.50.organization]]
+shared
+
+[[added.50.psi_legacy_s3_path]]
+legacy/43096/11526/2013_04_13_xmp.zip
+
+[[added.50.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_2013_04_13_xmp.zip
+
+[[added.50.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3077131/?inline=1&log=1
+
+[[added.50.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.50.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_2013_04_13_xmp.zip
+
+[[added.50.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.50.subcategory]]
+Reduced Gravity/ 2013_04_13
+
+[[added.51.bucket]]
+
+
+[[added.51.file_name]]
+PSI-26_Raw Data_2013_04_16_orig.zip
+
+[[added.51.organization]]
+shared
+
+[[added.51.psi_legacy_s3_path]]
+legacy/43097/11441/2013_04_16_orig.zip
+
+[[added.51.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_2013_04_16_orig.zip
+
+[[added.51.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3077143/?inline=1&log=1
+
+[[added.51.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.51.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_2013_04_16_orig.zip
+
+[[added.51.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.51.subcategory]]
+Reduced Gravity/2013_04_16
+
+[[added.52.bucket]]
+
+
+[[added.52.file_name]]
+PSI-26_Raw Data_2013_04_16_txt.zip
+
+[[added.52.organization]]
+shared
+
+[[added.52.psi_legacy_s3_path]]
+legacy/43097/11526/2013_04_16_txt.zip
+
+[[added.52.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_2013_04_16_txt.zip
+
+[[added.52.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3077144/?inline=1&log=1
+
+[[added.52.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.52.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_2013_04_16_txt.zip
+
+[[added.52.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.52.subcategory]]
+Reduced Gravity/2013_04_16
+
+[[added.53.bucket]]
+
+
+[[added.53.file_name]]
+PSI-26_Raw Data_2013_04_16_xmp.zip
+
+[[added.53.organization]]
+shared
+
+[[added.53.psi_legacy_s3_path]]
+legacy/43097/11526/2013_04_16_xmp.zip
+
+[[added.53.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_2013_04_16_xmp.zip
+
+[[added.53.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3077145/?inline=1&log=1
+
+[[added.53.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.53.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_2013_04_16_xmp.zip
+
+[[added.53.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.53.subcategory]]
+Reduced Gravity/2013_04_16
+
+[[added.54.bucket]]
+
+
+[[added.54.file_name]]
+PSI-26_Raw Data_20130424 18.11.56 iss035m041131806.mp4
+
+[[added.54.organization]]
+shared
+
+[[added.54.psi_legacy_s3_path]]
+legacy/43101/224/20130424 18.11.56 iss035m041131806.mp4
+
+[[added.54.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130424 18.11.56 iss035m041131806.mp4
+
+[[added.54.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3077166/?inline=1&log=1
+
+[[added.54.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.54.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130424 18.11.56 iss035m041131806.mp4
+
+[[added.54.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.54.subcategory]]
+Reduced Gravity/ 2013_04_24
+
+[[added.55.bucket]]
+
+
+[[added.55.file_name]]
+PSI-26_Raw Data_20130424 18.32.11 iss035m041131826.mp4
+
+[[added.55.organization]]
+shared
+
+[[added.55.psi_legacy_s3_path]]
+legacy/43101/224/20130424 18.32.11 iss035m041131826.mp4
+
+[[added.55.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130424 18.32.11 iss035m041131826.mp4
+
+[[added.55.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3077167/?inline=1&log=1
+
+[[added.55.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.55.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130424 18.32.11 iss035m041131826.mp4
+
+[[added.55.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.55.subcategory]]
+Reduced Gravity/ 2013_04_24
+
+[[added.56.bucket]]
+
+
+[[added.56.file_name]]
+PSI-26_Raw Data_20130424 19.00.20.iss035m041131855.mp4
+
+[[added.56.organization]]
+shared
+
+[[added.56.psi_legacy_s3_path]]
+legacy/43101/224/20130424 19.00.20.iss035m041131855.mp4
+
+[[added.56.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130424 19.00.20.iss035m041131855.mp4
+
+[[added.56.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3077168/?inline=1&log=1
+
+[[added.56.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.56.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130424 19.00.20.iss035m041131855.mp4
+
+[[added.56.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.56.subcategory]]
+Reduced Gravity/ 2013_04_24
+
+[[added.57.bucket]]
+
+
+[[added.57.file_name]]
+PSI-26_Raw Data_20130424 19.07.56 iss035m041131902.mp4
+
+[[added.57.organization]]
+shared
+
+[[added.57.psi_legacy_s3_path]]
+legacy/43101/224/20130424 19.07.56 iss035m041131902.mp4
+
+[[added.57.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130424 19.07.56 iss035m041131902.mp4
+
+[[added.57.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3077169/?inline=1&log=1
+
+[[added.57.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.57.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130424 19.07.56 iss035m041131902.mp4
+
+[[added.57.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.57.subcategory]]
+Reduced Gravity/ 2013_04_24
+
+[[added.58.bucket]]
+
+
+[[added.58.file_name]]
+PSI-26_Raw Data_20130424 12.50.34 iss035m041131244.mp4
+
+[[added.58.organization]]
+shared
+
+[[added.58.psi_legacy_s3_path]]
+legacy/43101/224/20130424 12.50.34 iss035m041131244.mp4
+
+[[added.58.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130424 12.50.34 iss035m041131244.mp4
+
+[[added.58.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3077170/?inline=1&log=1
+
+[[added.58.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.58.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130424 12.50.34 iss035m041131244.mp4
+
+[[added.58.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.58.subcategory]]
+Reduced Gravity/ 2013_04_24
+
+[[added.59.bucket]]
+
+
+[[added.59.file_name]]
+PSI-26_Raw Data_20130424 13.42.19 iss035m041131335.mp4
+
+[[added.59.organization]]
+shared
+
+[[added.59.psi_legacy_s3_path]]
+legacy/43101/224/20130424 13.42.19 iss035m041131335.mp4
+
+[[added.59.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130424 13.42.19 iss035m041131335.mp4
+
+[[added.59.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3077171/?inline=1&log=1
+
+[[added.59.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.59.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130424 13.42.19 iss035m041131335.mp4
+
+[[added.59.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.59.subcategory]]
+Reduced Gravity/ 2013_04_24
+
+[[added.60.bucket]]
+
+
+[[added.60.file_name]]
+PSI-26_Raw Data_20130424 14.12.03 iss035m041131406.mp4
+
+[[added.60.organization]]
+shared
+
+[[added.60.psi_legacy_s3_path]]
+legacy/43101/224/20130424 14.12.03 iss035m041131406.mp4
+
+[[added.60.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130424 14.12.03 iss035m041131406.mp4
+
+[[added.60.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3077172/?inline=1&log=1
+
+[[added.60.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.60.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130424 14.12.03 iss035m041131406.mp4
+
+[[added.60.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.60.subcategory]]
+Reduced Gravity/ 2013_04_24
+
+[[added.61.bucket]]
+
+
+[[added.61.file_name]]
+PSI-26_Raw Data_20130424 14.51.40 iss035m041131446.mp4
+
+[[added.61.organization]]
+shared
+
+[[added.61.psi_legacy_s3_path]]
+legacy/43101/224/20130424 14.51.40 iss035m041131446.mp4
+
+[[added.61.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130424 14.51.40 iss035m041131446.mp4
+
+[[added.61.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3077173/?inline=1&log=1
+
+[[added.61.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.61.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130424 14.51.40 iss035m041131446.mp4
+
+[[added.61.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.61.subcategory]]
+Reduced Gravity/ 2013_04_24
+
+[[added.62.bucket]]
+
+
+[[added.62.file_name]]
+PSI-26_Raw Data_20130424 15.10.18 iss035m041131505.mp4
+
+[[added.62.organization]]
+shared
+
+[[added.62.psi_legacy_s3_path]]
+legacy/43101/224/20130424 15.10.18 iss035m041131505.mp4
+
+[[added.62.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130424 15.10.18 iss035m041131505.mp4
+
+[[added.62.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3077174/?inline=1&log=1
+
+[[added.62.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.62.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130424 15.10.18 iss035m041131505.mp4
+
+[[added.62.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.62.subcategory]]
+Reduced Gravity/ 2013_04_24
+
+[[added.63.bucket]]
+
+
+[[added.63.file_name]]
+PSI-26_Raw Data_20130424 15.26.17 iss035m211131403.mp4
+
+[[added.63.organization]]
+shared
+
+[[added.63.psi_legacy_s3_path]]
+legacy/43101/224/20130424 15.26.17 iss035m211131403.mp4
+
+[[added.63.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130424 15.26.17 iss035m211131403.mp4
+
+[[added.63.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3077175/?inline=1&log=1
+
+[[added.63.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.63.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130424 15.26.17 iss035m211131403.mp4
+
+[[added.63.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.63.subcategory]]
+Reduced Gravity/ 2013_04_24
+
+[[added.64.bucket]]
+
+
+[[added.64.file_name]]
+PSI-26_Raw Data_20130424 15.48.58 iss035m041131543.mp4
+
+[[added.64.organization]]
+shared
+
+[[added.64.psi_legacy_s3_path]]
+legacy/43101/224/20130424 15.48.58 iss035m041131543.mp4
+
+[[added.64.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130424 15.48.58 iss035m041131543.mp4
+
+[[added.64.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3077176/?inline=1&log=1
+
+[[added.64.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.64.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130424 15.48.58 iss035m041131543.mp4
+
+[[added.64.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.64.subcategory]]
+Reduced Gravity/ 2013_04_24
+
+[[added.65.bucket]]
+
+
+[[added.65.file_name]]
+PSI-26_Raw Data_20130424 17.23.57 iss035m041131718.mp4
+
+[[added.65.organization]]
+shared
+
+[[added.65.psi_legacy_s3_path]]
+legacy/43101/224/20130424 17.23.57 iss035m041131718.mp4
+
+[[added.65.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130424 17.23.57 iss035m041131718.mp4
+
+[[added.65.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3077177/?inline=1&log=1
+
+[[added.65.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.65.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130424 17.23.57 iss035m041131718.mp4
+
+[[added.65.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.65.subcategory]]
+Reduced Gravity/ 2013_04_24
+
+[[added.66.bucket]]
+
+
+[[added.66.file_name]]
+PSI-26_Raw Data_2013_04_24_orig.zip
+
+[[added.66.organization]]
+shared
+
+[[added.66.psi_legacy_s3_path]]
+legacy/43101/11441/2013_04_24_orig.zip
+
+[[added.66.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_2013_04_24_orig.zip
+
+[[added.66.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3078743/?inline=1&log=1
+
+[[added.66.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.66.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_2013_04_24_orig.zip
+
+[[added.66.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.66.subcategory]]
+Reduced Gravity/ 2013_04_24
+
+[[added.67.bucket]]
+
+
+[[added.67.file_name]]
+PSI-26_Raw Data_2013_04_24_txt.zip
+
+[[added.67.organization]]
+shared
+
+[[added.67.psi_legacy_s3_path]]
+legacy/43101/11526/2013_04_24_txt.zip
+
+[[added.67.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_2013_04_24_txt.zip
+
+[[added.67.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3078744/?inline=1&log=1
+
+[[added.67.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.67.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_2013_04_24_txt.zip
+
+[[added.67.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.67.subcategory]]
+Reduced Gravity/ 2013_04_24
+
+[[added.68.bucket]]
+
+
+[[added.68.file_name]]
+PSI-26_Raw Data_2013_04_24_xmp.zip
+
+[[added.68.organization]]
+shared
+
+[[added.68.psi_legacy_s3_path]]
+legacy/43101/11526/2013_04_24_xmp.zip
+
+[[added.68.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_2013_04_24_xmp.zip
+
+[[added.68.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3078745/?inline=1&log=1
+
+[[added.68.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.68.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_2013_04_24_xmp.zip
+
+[[added.68.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.68.subcategory]]
+Reduced Gravity/ 2013_04_24
+
+[[added.69.bucket]]
+
+
+[[added.69.file_name]]
+PSI-26_Raw Data_20130417 14.34.15 iss035m021061428.mp4
+
+[[added.69.organization]]
+shared
+
+[[added.69.psi_legacy_s3_path]]
+legacy/43102/224/20130417 14.34.15 iss035m021061428.mp4
+
+[[added.69.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130417 14.34.15 iss035m021061428.mp4
+
+[[added.69.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3078746/?inline=1&log=1
+
+[[added.69.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.69.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130417 14.34.15 iss035m021061428.mp4
+
+[[added.69.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.69.subcategory]]
+Reduced Gravity/2013_04_17
+
+[[added.70.bucket]]
+
+
+[[added.70.file_name]]
+PSI-26_Raw Data_20130417 15.14.15 iss035m021061509.mp4
+
+[[added.70.organization]]
+shared
+
+[[added.70.psi_legacy_s3_path]]
+legacy/43102/224/20130417 15.14.15 iss035m021061509.mp4
+
+[[added.70.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130417 15.14.15 iss035m021061509.mp4
+
+[[added.70.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3078747/?inline=1&log=1
+
+[[added.70.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.70.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130417 15.14.15 iss035m021061509.mp4
+
+[[added.70.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.70.subcategory]]
+Reduced Gravity/2013_04_17
+
+[[added.71.bucket]]
+
+
+[[added.71.file_name]]
+PSI-26_Raw Data_20130417 10.04.54 iss035m021060956.mp4
+
+[[added.71.organization]]
+shared
+
+[[added.71.psi_legacy_s3_path]]
+legacy/43102/224/20130417 10.04.54 iss035m021060956.mp4
+
+[[added.71.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130417 10.04.54 iss035m021060956.mp4
+
+[[added.71.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3078748/?inline=1&log=1
+
+[[added.71.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.71.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130417 10.04.54 iss035m021060956.mp4
+
+[[added.71.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.71.subcategory]]
+Reduced Gravity/2013_04_17
+
+[[added.72.bucket]]
+
+
+[[added.72.file_name]]
+PSI-26_Raw Data_20130417 10.25.14 iss035m021061020.mp4
+
+[[added.72.organization]]
+shared
+
+[[added.72.psi_legacy_s3_path]]
+legacy/43102/224/20130417 10.25.14 iss035m021061020.mp4
+
+[[added.72.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130417 10.25.14 iss035m021061020.mp4
+
+[[added.72.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3078749/?inline=1&log=1
+
+[[added.72.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.72.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130417 10.25.14 iss035m021061020.mp4
+
+[[added.72.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.72.subcategory]]
+Reduced Gravity/2013_04_17
+
+[[added.73.bucket]]
+
+
+[[added.73.file_name]]
+PSI-26_Raw Data_20130417 11.19.32 iss035m021061114.mp4
+
+[[added.73.organization]]
+shared
+
+[[added.73.psi_legacy_s3_path]]
+legacy/43102/224/20130417 11.19.32 iss035m021061114.mp4
+
+[[added.73.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130417 11.19.32 iss035m021061114.mp4
+
+[[added.73.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3078750/?inline=1&log=1
+
+[[added.73.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.73.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130417 11.19.32 iss035m021061114.mp4
+
+[[added.73.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.73.subcategory]]
+Reduced Gravity/2013_04_17
+
+[[added.74.bucket]]
+
+
+[[added.74.file_name]]
+PSI-26_Raw Data_20130417 12.01.04 iss035m021061155.mp4
+
+[[added.74.organization]]
+shared
+
+[[added.74.psi_legacy_s3_path]]
+legacy/43102/224/20130417 12.01.04 iss035m021061155.mp4
+
+[[added.74.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130417 12.01.04 iss035m021061155.mp4
+
+[[added.74.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3078751/?inline=1&log=1
+
+[[added.74.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.74.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130417 12.01.04 iss035m021061155.mp4
+
+[[added.74.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.74.subcategory]]
+Reduced Gravity/2013_04_17
+
+[[added.75.bucket]]
+
+
+[[added.75.file_name]]
+PSI-26_Raw Data_20130417 12.28.05 iss035m211061958.mp4
+
+[[added.75.organization]]
+shared
+
+[[added.75.psi_legacy_s3_path]]
+legacy/43102/224/20130417 12.28.05 iss035m211061958.mp4
+
+[[added.75.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130417 12.28.05 iss035m211061958.mp4
+
+[[added.75.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3078752/?inline=1&log=1
+
+[[added.75.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.75.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130417 12.28.05 iss035m211061958.mp4
+
+[[added.75.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.75.subcategory]]
+Reduced Gravity/2013_04_17
+
+[[added.76.bucket]]
+
+
+[[added.76.file_name]]
+PSI-26_Raw Data_20130417 12.33.11 iss035m211061905.mp4
+
+[[added.76.organization]]
+shared
+
+[[added.76.psi_legacy_s3_path]]
+legacy/43102/224/20130417 12.33.11 iss035m211061905.mp4
+
+[[added.76.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130417 12.33.11 iss035m211061905.mp4
+
+[[added.76.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3078753/?inline=1&log=1
+
+[[added.76.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.76.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130417 12.33.11 iss035m211061905.mp4
+
+[[added.76.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.76.subcategory]]
+Reduced Gravity/2013_04_17
+
+[[added.77.bucket]]
+
+
+[[added.77.file_name]]
+PSI-26_Raw Data_20130417 12.58.19 iss035m021061253.mp4
+
+[[added.77.organization]]
+shared
+
+[[added.77.psi_legacy_s3_path]]
+legacy/43102/224/20130417 12.58.19 iss035m021061253.mp4
+
+[[added.77.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130417 12.58.19 iss035m021061253.mp4
+
+[[added.77.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3078754/?inline=1&log=1
+
+[[added.77.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.77.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130417 12.58.19 iss035m021061253.mp4
+
+[[added.77.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.77.subcategory]]
+Reduced Gravity/2013_04_17
+
+[[added.78.bucket]]
+
+
+[[added.78.file_name]]
+PSI-26_Raw Data_20130417 13.45.08 iss035m021061339.mp4
+
+[[added.78.organization]]
+shared
+
+[[added.78.psi_legacy_s3_path]]
+legacy/43102/224/20130417 13.45.08 iss035m021061339.mp4
+
+[[added.78.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130417 13.45.08 iss035m021061339.mp4
+
+[[added.78.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3078755/?inline=1&log=1
+
+[[added.78.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.78.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130417 13.45.08 iss035m021061339.mp4
+
+[[added.78.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.78.subcategory]]
+Reduced Gravity/2013_04_17
+
+[[added.79.bucket]]
+
+
+[[added.79.file_name]]
+PSI-26_Raw Data_2013_04_17_orig.zip
+
+[[added.79.organization]]
+shared
+
+[[added.79.psi_legacy_s3_path]]
+legacy/43102/11441/2013_04_17_orig.zip
+
+[[added.79.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_2013_04_17_orig.zip
+
+[[added.79.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3079527/?inline=1&log=1
+
+[[added.79.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.79.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_2013_04_17_orig.zip
+
+[[added.79.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.79.subcategory]]
+Reduced Gravity/2013_04_17
+
+[[added.80.bucket]]
+
+
+[[added.80.file_name]]
+PSI-26_Raw Data_2013_04_17_txt.zip
+
+[[added.80.organization]]
+shared
+
+[[added.80.psi_legacy_s3_path]]
+legacy/43102/11526/2013_04_17_txt.zip
+
+[[added.80.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_2013_04_17_txt.zip
+
+[[added.80.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3079528/?inline=1&log=1
+
+[[added.80.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.80.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_2013_04_17_txt.zip
+
+[[added.80.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.80.subcategory]]
+Reduced Gravity/2013_04_17
+
+[[added.81.bucket]]
+
+
+[[added.81.file_name]]
+PSI-26_Raw Data_2013_04_17_xmp.zip
+
+[[added.81.organization]]
+shared
+
+[[added.81.psi_legacy_s3_path]]
+legacy/43102/11526/2013_04_17_xmp.zip
+
+[[added.81.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_2013_04_17_xmp.zip
+
+[[added.81.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3079529/?inline=1&log=1
+
+[[added.81.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.81.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_2013_04_17_xmp.zip
+
+[[added.81.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.81.subcategory]]
+Reduced Gravity/2013_04_17
+
+[[added.82.bucket]]
+
+
+[[added.82.file_name]]
+PSI-26_Raw Data_20130427 14.50.58 iss035m041161445.mp4
+
+[[added.82.organization]]
+shared
+
+[[added.82.psi_legacy_s3_path]]
+legacy/43103/224/20130427 14.50.58 iss035m041161445.mp4
+
+[[added.82.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130427 14.50.58 iss035m041161445.mp4
+
+[[added.82.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3079531/?inline=1&log=1
+
+[[added.82.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.82.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130427 14.50.58 iss035m041161445.mp4
+
+[[added.82.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.82.subcategory]]
+Reduced Gravity/2013_04_27
+
+[[added.83.bucket]]
+
+
+[[added.83.file_name]]
+PSI-26_Raw Data_20130427 09.35.33 iss035m041160926.mp4
+
+[[added.83.organization]]
+shared
+
+[[added.83.psi_legacy_s3_path]]
+legacy/43103/224/20130427 09.35.33 iss035m041160926.mp4
+
+[[added.83.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130427 09.35.33 iss035m041160926.mp4
+
+[[added.83.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3079532/?inline=1&log=1
+
+[[added.83.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.83.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130427 09.35.33 iss035m041160926.mp4
+
+[[added.83.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.83.subcategory]]
+Reduced Gravity/2013_04_27
+
+[[added.84.bucket]]
+
+
+[[added.84.file_name]]
+PSI-26_Raw Data_20130427 10.03.10 iss035m041160957.mp4
+
+[[added.84.organization]]
+shared
+
+[[added.84.psi_legacy_s3_path]]
+legacy/43103/224/20130427 10.03.10 iss035m041160957.mp4
+
+[[added.84.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130427 10.03.10 iss035m041160957.mp4
+
+[[added.84.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3079533/?inline=1&log=1
+
+[[added.84.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.84.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130427 10.03.10 iss035m041160957.mp4
+
+[[added.84.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.84.subcategory]]
+Reduced Gravity/2013_04_27
+
+[[added.85.bucket]]
+
+
+[[added.85.file_name]]
+PSI-26_Raw Data_20130427 10.59.00 iss035m041161053.mp4
+
+[[added.85.organization]]
+shared
+
+[[added.85.psi_legacy_s3_path]]
+legacy/43103/224/20130427 10.59.00 iss035m041161053.mp4
+
+[[added.85.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130427 10.59.00 iss035m041161053.mp4
+
+[[added.85.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3079534/?inline=1&log=1
+
+[[added.85.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.85.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130427 10.59.00 iss035m041161053.mp4
+
+[[added.85.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.85.subcategory]]
+Reduced Gravity/2013_04_27
+
+[[added.86.bucket]]
+
+
+[[added.86.file_name]]
+PSI-26_Raw Data_20130427 11.41.09 iss035m041161135.mp4
+
+[[added.86.organization]]
+shared
+
+[[added.86.psi_legacy_s3_path]]
+legacy/43103/224/20130427 11.41.09 iss035m041161135.mp4
+
+[[added.86.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130427 11.41.09 iss035m041161135.mp4
+
+[[added.86.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3079535/?inline=1&log=1
+
+[[added.86.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.86.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130427 11.41.09 iss035m041161135.mp4
+
+[[added.86.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.86.subcategory]]
+Reduced Gravity/2013_04_27
+
+[[added.87.bucket]]
+
+
+[[added.87.file_name]]
+PSI-26_Raw Data_20130427 11.45 32 iss035m211161447.mp4
+
+[[added.87.organization]]
+shared
+
+[[added.87.psi_legacy_s3_path]]
+legacy/43103/224/20130427 11.45 32 iss035m211161447.mp4
+
+[[added.87.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130427 11.45 32 iss035m211161447.mp4
+
+[[added.87.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3079536/?inline=1&log=1
+
+[[added.87.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.87.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130427 11.45 32 iss035m211161447.mp4
+
+[[added.87.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.87.subcategory]]
+Reduced Gravity/2013_04_27
+
+[[added.88.bucket]]
+
+
+[[added.88.file_name]]
+PSI-26_Raw Data_20130427 12.36.50 iss035m041161231.mp4
+
+[[added.88.organization]]
+shared
+
+[[added.88.psi_legacy_s3_path]]
+legacy/43103/224/20130427 12.36.50 iss035m041161231.mp4
+
+[[added.88.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130427 12.36.50 iss035m041161231.mp4
+
+[[added.88.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3079537/?inline=1&log=1
+
+[[added.88.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.88.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130427 12.36.50 iss035m041161231.mp4
+
+[[added.88.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.88.subcategory]]
+Reduced Gravity/2013_04_27
+
+[[added.89.bucket]]
+
+
+[[added.89.file_name]]
+PSI-26_Raw Data_20130427 13.04.25 iss035m041161259.mp4
+
+[[added.89.organization]]
+shared
+
+[[added.89.psi_legacy_s3_path]]
+legacy/43103/224/20130427 13.04.25 iss035m041161259.mp4
+
+[[added.89.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130427 13.04.25 iss035m041161259.mp4
+
+[[added.89.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3079538/?inline=1&log=1
+
+[[added.89.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.89.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130427 13.04.25 iss035m041161259.mp4
+
+[[added.89.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.89.subcategory]]
+Reduced Gravity/2013_04_27
+
+[[added.90.bucket]]
+
+
+[[added.90.file_name]]
+PSI-26_Raw Data_20130427 13.12.10 iss035m041161306.mp4
+
+[[added.90.organization]]
+shared
+
+[[added.90.psi_legacy_s3_path]]
+legacy/43103/224/20130427 13.12.10 iss035m041161306.mp4
+
+[[added.90.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130427 13.12.10 iss035m041161306.mp4
+
+[[added.90.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3079539/?inline=1&log=1
+
+[[added.90.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.90.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130427 13.12.10 iss035m041161306.mp4
+
+[[added.90.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.90.subcategory]]
+Reduced Gravity/2013_04_27
+
+[[added.91.bucket]]
+
+
+[[added.91.file_name]]
+PSI-26_Raw Data_20130427 14.15.22 iss035m041161410.mp4
+
+[[added.91.organization]]
+shared
+
+[[added.91.psi_legacy_s3_path]]
+legacy/43103/224/20130427 14.15.22 iss035m041161410.mp4
+
+[[added.91.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130427 14.15.22 iss035m041161410.mp4
+
+[[added.91.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3079540/?inline=1&log=1
+
+[[added.91.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.91.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130427 14.15.22 iss035m041161410.mp4
+
+[[added.91.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.91.subcategory]]
+Reduced Gravity/2013_04_27
+
+[[added.92.bucket]]
+
+
+[[added.92.file_name]]
+PSI-26_Raw Data_20130427 14.33.12 iss035m041161427.mp4
+
+[[added.92.organization]]
+shared
+
+[[added.92.psi_legacy_s3_path]]
+legacy/43103/224/20130427 14.33.12 iss035m041161427.mp4
+
+[[added.92.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130427 14.33.12 iss035m041161427.mp4
+
+[[added.92.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3079541/?inline=1&log=1
+
+[[added.92.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.92.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130427 14.33.12 iss035m041161427.mp4
+
+[[added.92.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.92.subcategory]]
+Reduced Gravity/2013_04_27
+
+[[added.93.bucket]]
+
+
+[[added.93.file_name]]
+PSI-26_Raw Data_20130427 14.44.48 iss035m041161439.mp4
+
+[[added.93.organization]]
+shared
+
+[[added.93.psi_legacy_s3_path]]
+legacy/43103/224/20130427 14.44.48 iss035m041161439.mp4
+
+[[added.93.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130427 14.44.48 iss035m041161439.mp4
+
+[[added.93.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3079542/?inline=1&log=1
+
+[[added.93.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.93.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130427 14.44.48 iss035m041161439.mp4
+
+[[added.93.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.93.subcategory]]
+Reduced Gravity/2013_04_27
+
+[[added.94.bucket]]
+
+
+[[added.94.file_name]]
+PSI-26_Raw Data_2013_04_27_orig.zip
+
+[[added.94.organization]]
+shared
+
+[[added.94.psi_legacy_s3_path]]
+legacy/43103/11441/2013_04_27_orig.zip
+
+[[added.94.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_2013_04_27_orig.zip
+
+[[added.94.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3080789/?inline=1&log=1
+
+[[added.94.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.94.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_2013_04_27_orig.zip
+
+[[added.94.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.94.subcategory]]
+Reduced Gravity/2013_04_27
+
+[[added.95.bucket]]
+
+
+[[added.95.file_name]]
+PSI-26_Raw Data_2013_04_27_txt.zip
+
+[[added.95.organization]]
+shared
+
+[[added.95.psi_legacy_s3_path]]
+legacy/43103/11526/2013_04_27_txt.zip
+
+[[added.95.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_2013_04_27_txt.zip
+
+[[added.95.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3080790/?inline=1&log=1
+
+[[added.95.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.95.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_2013_04_27_txt.zip
+
+[[added.95.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.95.subcategory]]
+Reduced Gravity/2013_04_27
+
+[[added.96.bucket]]
+
+
+[[added.96.file_name]]
+PSI-26_Raw Data_2013_04_27_xmp.zip
+
+[[added.96.organization]]
+shared
+
+[[added.96.psi_legacy_s3_path]]
+legacy/43103/11526/2013_04_27_xmp.zip
+
+[[added.96.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_2013_04_27_xmp.zip
+
+[[added.96.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3080791/?inline=1&log=1
+
+[[added.96.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.96.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_2013_04_27_xmp.zip
+
+[[added.96.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.96.subcategory]]
+Reduced Gravity/2013_04_27
+
+[[added.97.bucket]]
+
+
+[[added.97.file_name]]
+PSI-26_Raw Data_20130430 17.27.04 iss035m061191721.mp4
+
+[[added.97.organization]]
+shared
+
+[[added.97.psi_legacy_s3_path]]
+legacy/43104/224/20130430 17.27.04 iss035m061191721.mp4
+
+[[added.97.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130430 17.27.04 iss035m061191721.mp4
+
+[[added.97.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3080795/?inline=1&log=1
+
+[[added.97.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.97.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130430 17.27.04 iss035m061191721.mp4
+
+[[added.97.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.97.subcategory]]
+Reduced Gravity/2013_04_30
+
+[[added.98.bucket]]
+
+
+[[added.98.file_name]]
+PSI-26_Raw Data_20130430 12.25.36 iss035m061191220.mp4
+
+[[added.98.organization]]
+shared
+
+[[added.98.psi_legacy_s3_path]]
+legacy/43104/224/20130430 12.25.36 iss035m061191220.mp4
+
+[[added.98.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130430 12.25.36 iss035m061191220.mp4
+
+[[added.98.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3080796/?inline=1&log=1
+
+[[added.98.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.98.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130430 12.25.36 iss035m061191220.mp4
+
+[[added.98.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.98.subcategory]]
+Reduced Gravity/2013_04_30
+
+[[added.99.bucket]]
+
+
+[[added.99.file_name]]
+PSI-26_Raw Data_20130430 13.02.54 iss035m061191257.mp4
+
+[[added.99.organization]]
+shared
+
+[[added.99.psi_legacy_s3_path]]
+legacy/43104/224/20130430 13.02.54 iss035m061191257.mp4
+
+[[added.99.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130430 13.02.54 iss035m061191257.mp4
+
+[[added.99.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3080797/?inline=1&log=1
+
+[[added.99.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.99.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130430 13.02.54 iss035m061191257.mp4
+
+[[added.99.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.99.subcategory]]
+Reduced Gravity/2013_04_30
+
+[[added.100.bucket]]
+
+
+[[added.100.file_name]]
+PSI-26_Raw Data_20130430 13.20.41 iss035m061191315.mp4
+
+[[added.100.organization]]
+shared
+
+[[added.100.psi_legacy_s3_path]]
+legacy/43104/224/20130430 13.20.41 iss035m061191315.mp4
+
+[[added.100.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130430 13.20.41 iss035m061191315.mp4
+
+[[added.100.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3080798/?inline=1&log=1
+
+[[added.100.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.100.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130430 13.20.41 iss035m061191315.mp4
+
+[[added.100.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.100.subcategory]]
+Reduced Gravity/2013_04_30
+
+[[added.101.bucket]]
+
+
+[[added.101.file_name]]
+PSI-26_Raw Data_20130430 13.57.59 iss035m061191352.mp4
+
+[[added.101.organization]]
+shared
+
+[[added.101.psi_legacy_s3_path]]
+legacy/43104/224/20130430 13.57.59 iss035m061191352.mp4
+
+[[added.101.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130430 13.57.59 iss035m061191352.mp4
+
+[[added.101.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3080799/?inline=1&log=1
+
+[[added.101.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.101.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130430 13.57.59 iss035m061191352.mp4
+
+[[added.101.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.101.subcategory]]
+Reduced Gravity/2013_04_30
+
+[[added.102.bucket]]
+
+
+[[added.102.file_name]]
+PSI-26_Raw Data_20130430 14.23.37 iss035m211191506.mp4
+
+[[added.102.organization]]
+shared
+
+[[added.102.psi_legacy_s3_path]]
+legacy/43104/224/20130430 14.23.37 iss035m211191506.mp4
+
+[[added.102.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130430 14.23.37 iss035m211191506.mp4
+
+[[added.102.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3080800/?inline=1&log=1
+
+[[added.102.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.102.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130430 14.23.37 iss035m211191506.mp4
+
+[[added.102.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.102.subcategory]]
+Reduced Gravity/2013_04_30
+
+[[added.103.bucket]]
+
+
+[[added.103.file_name]]
+PSI-26_Raw Data_20130430 16.43.47 iss035m061191638.mp4
+
+[[added.103.organization]]
+shared
+
+[[added.103.psi_legacy_s3_path]]
+legacy/43104/224/20130430 16.43.47 iss035m061191638.mp4
+
+[[added.103.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130430 16.43.47 iss035m061191638.mp4
+
+[[added.103.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3080801/?inline=1&log=1
+
+[[added.103.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.103.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130430 16.43.47 iss035m061191638.mp4
+
+[[added.103.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.103.subcategory]]
+Reduced Gravity/2013_04_30
+
+[[added.104.bucket]]
+
+
+[[added.104.file_name]]
+PSI-26_Raw Data_2013_04_30_orig.zip
+
+[[added.104.organization]]
+shared
+
+[[added.104.psi_legacy_s3_path]]
+legacy/43104/11441/2013_04_30_orig.zip
+
+[[added.104.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_2013_04_30_orig.zip
+
+[[added.104.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3081476/?inline=1&log=1
+
+[[added.104.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.104.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_2013_04_30_orig.zip
+
+[[added.104.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.104.subcategory]]
+Reduced Gravity/2013_04_30
+
+[[added.105.bucket]]
+
+
+[[added.105.file_name]]
+PSI-26_Raw Data_2013_04_30_txt.zip
+
+[[added.105.organization]]
+shared
+
+[[added.105.psi_legacy_s3_path]]
+legacy/43104/11526/2013_04_30_txt.zip
+
+[[added.105.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_2013_04_30_txt.zip
+
+[[added.105.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3081477/?inline=1&log=1
+
+[[added.105.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.105.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_2013_04_30_txt.zip
+
+[[added.105.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.105.subcategory]]
+Reduced Gravity/2013_04_30
+
+[[added.106.bucket]]
+
+
+[[added.106.file_name]]
+PSI-26_Raw Data_2013_04_30_xmp.zip
+
+[[added.106.organization]]
+shared
+
+[[added.106.psi_legacy_s3_path]]
+legacy/43104/11526/2013_04_30_xmp.zip
+
+[[added.106.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_2013_04_30_xmp.zip
+
+[[added.106.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3081478/?inline=1&log=1
+
+[[added.106.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.106.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_2013_04_30_xmp.zip
+
+[[added.106.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.106.subcategory]]
+Reduced Gravity/2013_04_30
+
+[[added.107.bucket]]
+
+
+[[added.107.file_name]]
+PSI-26_Raw Data_20130503 18.32.24 iss035m051221823.mp4
+
+[[added.107.organization]]
+shared
+
+[[added.107.psi_legacy_s3_path]]
+legacy/43105/224/20130503 18.32.24 iss035m051221823.mp4
+
+[[added.107.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130503 18.32.24 iss035m051221823.mp4
+
+[[added.107.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3081490/?inline=1&log=1
+
+[[added.107.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.107.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130503 18.32.24 iss035m051221823.mp4
+
+[[added.107.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.107.subcategory]]
+Reduced Gravity/2013_05_03
+
+[[added.108.bucket]]
+
+
+[[added.108.file_name]]
+PSI-26_Raw Data_20130503 11.39.18 iss035m051221133.mp4
+
+[[added.108.organization]]
+shared
+
+[[added.108.psi_legacy_s3_path]]
+legacy/43105/224/20130503 11.39.18 iss035m051221133.mp4
+
+[[added.108.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130503 11.39.18 iss035m051221133.mp4
+
+[[added.108.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3081491/?inline=1&log=1
+
+[[added.108.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.108.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130503 11.39.18 iss035m051221133.mp4
+
+[[added.108.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.108.subcategory]]
+Reduced Gravity/2013_05_03
+
+[[added.109.bucket]]
+
+
+[[added.109.file_name]]
+PSI-26_Raw Data_20130503 11.52.25 iss035m051221147.mp4
+
+[[added.109.organization]]
+shared
+
+[[added.109.psi_legacy_s3_path]]
+legacy/43105/224/20130503 11.52.25 iss035m051221147.mp4
+
+[[added.109.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130503 11.52.25 iss035m051221147.mp4
+
+[[added.109.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3081492/?inline=1&log=1
+
+[[added.109.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.109.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130503 11.52.25 iss035m051221147.mp4
+
+[[added.109.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.109.subcategory]]
+Reduced Gravity/2013_05_03
+
+[[added.110.bucket]]
+
+
+[[added.110.file_name]]
+PSI-26_Raw Data_20130503 12.08.31 iss035m051221203.mp4
+
+[[added.110.organization]]
+shared
+
+[[added.110.psi_legacy_s3_path]]
+legacy/43105/224/20130503 12.08.31 iss035m051221203.mp4
+
+[[added.110.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130503 12.08.31 iss035m051221203.mp4
+
+[[added.110.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3081493/?inline=1&log=1
+
+[[added.110.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.110.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130503 12.08.31 iss035m051221203.mp4
+
+[[added.110.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.110.subcategory]]
+Reduced Gravity/2013_05_03
+
+[[added.111.bucket]]
+
+
+[[added.111.file_name]]
+PSI-26_Raw Data_20130503 12.28.06 iss035m051221222.mp4
+
+[[added.111.organization]]
+shared
+
+[[added.111.psi_legacy_s3_path]]
+legacy/43105/224/20130503 12.28.06 iss035m051221222.mp4
+
+[[added.111.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130503 12.28.06 iss035m051221222.mp4
+
+[[added.111.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3081494/?inline=1&log=1
+
+[[added.111.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.111.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130503 12.28.06 iss035m051221222.mp4
+
+[[added.111.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.111.subcategory]]
+Reduced Gravity/2013_05_03
+
+[[added.112.bucket]]
+
+
+[[added.112.file_name]]
+PSI-26_Raw Data_20130503 13.33.45 iss035m051221328.mp4
+
+[[added.112.organization]]
+shared
+
+[[added.112.psi_legacy_s3_path]]
+legacy/43105/224/20130503 13.33.45 iss035m051221328.mp4
+
+[[added.112.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130503 13.33.45 iss035m051221328.mp4
+
+[[added.112.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3081495/?inline=1&log=1
+
+[[added.112.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.112.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130503 13.33.45 iss035m051221328.mp4
+
+[[added.112.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.112.subcategory]]
+Reduced Gravity/2013_05_03
+
+[[added.113.bucket]]
+
+
+[[added.113.file_name]]
+PSI-26_Raw Data_20130503 14.10.04 iss035m051221404.mp4
+
+[[added.113.organization]]
+shared
+
+[[added.113.psi_legacy_s3_path]]
+legacy/43105/224/20130503 14.10.04 iss035m051221404.mp4
+
+[[added.113.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130503 14.10.04 iss035m051221404.mp4
+
+[[added.113.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3081496/?inline=1&log=1
+
+[[added.113.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.113.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130503 14.10.04 iss035m051221404.mp4
+
+[[added.113.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.113.subcategory]]
+Reduced Gravity/2013_05_03
+
+[[added.114.bucket]]
+
+
+[[added.114.file_name]]
+PSI-26_Raw Data_20130503 14.16.10 iss035m211231427.mp4
+
+[[added.114.organization]]
+shared
+
+[[added.114.psi_legacy_s3_path]]
+legacy/43105/224/20130503 14.16.10 iss035m211231427.mp4
+
+[[added.114.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130503 14.16.10 iss035m211231427.mp4
+
+[[added.114.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3081497/?inline=1&log=1
+
+[[added.114.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.114.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130503 14.16.10 iss035m211231427.mp4
+
+[[added.114.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.114.subcategory]]
+Reduced Gravity/2013_05_03
+
+[[added.115.bucket]]
+
+
+[[added.115.file_name]]
+PSI-26_Raw Data_20130503 14.55.00 iss035m051221449.mp4
+
+[[added.115.organization]]
+shared
+
+[[added.115.psi_legacy_s3_path]]
+legacy/43105/224/20130503 14.55.00 iss035m051221449.mp4
+
+[[added.115.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130503 14.55.00 iss035m051221449.mp4
+
+[[added.115.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3081498/?inline=1&log=1
+
+[[added.115.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.115.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130503 14.55.00 iss035m051221449.mp4
+
+[[added.115.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.115.subcategory]]
+Reduced Gravity/2013_05_03
+
+[[added.116.bucket]]
+
+
+[[added.116.file_name]]
+PSI-26_Raw Data_20130503 16.24.12 iss035m051221618.mp4
+
+[[added.116.organization]]
+shared
+
+[[added.116.psi_legacy_s3_path]]
+legacy/43105/224/20130503 16.24.12 iss035m051221618.mp4
+
+[[added.116.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130503 16.24.12 iss035m051221618.mp4
+
+[[added.116.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3081499/?inline=1&log=1
+
+[[added.116.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.116.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130503 16.24.12 iss035m051221618.mp4
+
+[[added.116.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.116.subcategory]]
+Reduced Gravity/2013_05_03
+
+[[added.117.bucket]]
+
+
+[[added.117.file_name]]
+PSI-26_Raw Data_20130503 17.28.23 iss035m051221723.mp4
+
+[[added.117.organization]]
+shared
+
+[[added.117.psi_legacy_s3_path]]
+legacy/43105/224/20130503 17.28.23 iss035m051221723.mp4
+
+[[added.117.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130503 17.28.23 iss035m051221723.mp4
+
+[[added.117.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3081500/?inline=1&log=1
+
+[[added.117.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.117.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130503 17.28.23 iss035m051221723.mp4
+
+[[added.117.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.117.subcategory]]
+Reduced Gravity/2013_05_03
+
+[[added.118.bucket]]
+
+
+[[added.118.file_name]]
+PSI-26_Raw Data_20130503 18.08.35 iss035m051221803.mp4
+
+[[added.118.organization]]
+shared
+
+[[added.118.psi_legacy_s3_path]]
+legacy/43105/224/20130503 18.08.35 iss035m051221803.mp4
+
+[[added.118.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130503 18.08.35 iss035m051221803.mp4
+
+[[added.118.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3081501/?inline=1&log=1
+
+[[added.118.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.118.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130503 18.08.35 iss035m051221803.mp4
+
+[[added.118.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.118.subcategory]]
+Reduced Gravity/2013_05_03
+
+[[added.119.bucket]]
+
+
+[[added.119.file_name]]
+PSI-26_Raw Data_20130503 18.16.34 iss035m051221811.mp4
+
+[[added.119.organization]]
+shared
+
+[[added.119.psi_legacy_s3_path]]
+legacy/43105/224/20130503 18.16.34 iss035m051221811.mp4
+
+[[added.119.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130503 18.16.34 iss035m051221811.mp4
+
+[[added.119.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3081502/?inline=1&log=1
+
+[[added.119.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.119.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130503 18.16.34 iss035m051221811.mp4
+
+[[added.119.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.119.subcategory]]
+Reduced Gravity/2013_05_03
+
+[[added.120.bucket]]
+
+
+[[added.120.file_name]]
+PSI-26_Raw Data_2013_05_03_txt.zip
+
+[[added.120.organization]]
+shared
+
+[[added.120.psi_legacy_s3_path]]
+legacy/43105/11526/2013_05_03_txt.zip
+
+[[added.120.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_2013_05_03_txt.zip
+
+[[added.120.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3082431/?inline=1&log=1
+
+[[added.120.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.120.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_2013_05_03_txt.zip
+
+[[added.120.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.120.subcategory]]
+Reduced Gravity/2013_05_03
+
+[[added.121.bucket]]
+
+
+[[added.121.file_name]]
+PSI-26_Raw Data_2013_05_03_xmp.zip
+
+[[added.121.organization]]
+shared
+
+[[added.121.psi_legacy_s3_path]]
+legacy/43105/11526/2013_05_03_xmp.zip
+
+[[added.121.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_2013_05_03_xmp.zip
+
+[[added.121.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3082432/?inline=1&log=1
+
+[[added.121.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.121.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_2013_05_03_xmp.zip
+
+[[added.121.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.121.subcategory]]
+Reduced Gravity/2013_05_03
+
+[[added.122.bucket]]
+
+
+[[added.122.file_name]]
+PSI-26_Raw Data_2013_05_03_orig.zip
+
+[[added.122.organization]]
+shared
+
+[[added.122.psi_legacy_s3_path]]
+legacy/43105/11441/2013_05_03_orig.zip
+
+[[added.122.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_2013_05_03_orig.zip
+
+[[added.122.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3082434/?inline=1&log=1
+
+[[added.122.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.122.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_2013_05_03_orig.zip
+
+[[added.122.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.122.subcategory]]
+Reduced Gravity/2013_05_03
+
+[[added.123.bucket]]
+
+
+[[added.123.file_name]]
+PSI-26_Raw Data_20130516 14.45.11 iss036m021351439.mp4
+
+[[added.123.organization]]
+shared
+
+[[added.123.psi_legacy_s3_path]]
+legacy/43106/224/20130516 14.45.11 iss036m021351439.mp4
+
+[[added.123.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130516 14.45.11 iss036m021351439.mp4
+
+[[added.123.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3082435/?inline=1&log=1
+
+[[added.123.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.123.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130516 14.45.11 iss036m021351439.mp4
+
+[[added.123.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.123.subcategory]]
+Reduced Gravity/2013_05_16
+
+[[added.124.bucket]]
+
+
+[[added.124.file_name]]
+PSI-26_Raw Data_20130516 08.27.09 iss036m021350821.mp4
+
+[[added.124.organization]]
+shared
+
+[[added.124.psi_legacy_s3_path]]
+legacy/43106/224/20130516 08.27.09 iss036m021350821.mp4
+
+[[added.124.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130516 08.27.09 iss036m021350821.mp4
+
+[[added.124.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3082436/?inline=1&log=1
+
+[[added.124.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.124.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130516 08.27.09 iss036m021350821.mp4
+
+[[added.124.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.124.subcategory]]
+Reduced Gravity/2013_05_16
+
+[[added.125.bucket]]
+
+
+[[added.125.file_name]]
+PSI-26_Raw Data_20130516 08.49.07 iss036m021350843.mp4
+
+[[added.125.organization]]
+shared
+
+[[added.125.psi_legacy_s3_path]]
+legacy/43106/224/20130516 08.49.07 iss036m021350843.mp4
+
+[[added.125.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130516 08.49.07 iss036m021350843.mp4
+
+[[added.125.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3082437/?inline=1&log=1
+
+[[added.125.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.125.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130516 08.49.07 iss036m021350843.mp4
+
+[[added.125.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.125.subcategory]]
+Reduced Gravity/2013_05_16
+
+[[added.126.bucket]]
+
+
+[[added.126.file_name]]
+PSI-26_Raw Data_20130516 09.54.32 iss036m021350949.mp4
+
+[[added.126.organization]]
+shared
+
+[[added.126.psi_legacy_s3_path]]
+legacy/43106/224/20130516 09.54.32 iss036m021350949.mp4
+
+[[added.126.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130516 09.54.32 iss036m021350949.mp4
+
+[[added.126.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3082438/?inline=1&log=1
+
+[[added.126.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.126.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130516 09.54.32 iss036m021350949.mp4
+
+[[added.126.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.126.subcategory]]
+Reduced Gravity/2013_05_16
+
+[[added.127.bucket]]
+
+
+[[added.127.file_name]]
+PSI-26_Raw Data_20130516 10.43.19 iss036m021351038.mp4
+
+[[added.127.organization]]
+shared
+
+[[added.127.psi_legacy_s3_path]]
+legacy/43106/224/20130516 10.43.19 iss036m021351038.mp4
+
+[[added.127.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130516 10.43.19 iss036m021351038.mp4
+
+[[added.127.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3082439/?inline=1&log=1
+
+[[added.127.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.127.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130516 10.43.19 iss036m021351038.mp4
+
+[[added.127.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.127.subcategory]]
+Reduced Gravity/2013_05_16
+
+[[added.128.bucket]]
+
+
+[[added.128.file_name]]
+PSI-26_Raw Data_20130516 11.34.08 iss036m021351128.mp4
+
+[[added.128.organization]]
+shared
+
+[[added.128.psi_legacy_s3_path]]
+legacy/43106/224/20130516 11.34.08 iss036m021351128.mp4
+
+[[added.128.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130516 11.34.08 iss036m021351128.mp4
+
+[[added.128.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3082440/?inline=1&log=1
+
+[[added.128.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.128.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130516 11.34.08 iss036m021351128.mp4
+
+[[added.128.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.128.subcategory]]
+Reduced Gravity/2013_05_16
+
+[[added.129.bucket]]
+
+
+[[added.129.file_name]]
+PSI-26_Raw Data_20130516 11.43.19 iss036m211361831.mp4
+
+[[added.129.organization]]
+shared
+
+[[added.129.psi_legacy_s3_path]]
+legacy/43106/224/20130516 11.43.19 iss036m211361831.mp4
+
+[[added.129.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130516 11.43.19 iss036m211361831.mp4
+
+[[added.129.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3082441/?inline=1&log=1
+
+[[added.129.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.129.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130516 11.43.19 iss036m211361831.mp4
+
+[[added.129.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.129.subcategory]]
+Reduced Gravity/2013_05_16
+
+[[added.130.bucket]]
+
+
+[[added.130.file_name]]
+PSI-26_Raw Data_20130516 12.17.12 iss036m021351211.mp4
+
+[[added.130.organization]]
+shared
+
+[[added.130.psi_legacy_s3_path]]
+legacy/43106/224/20130516 12.17.12 iss036m021351211.mp4
+
+[[added.130.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130516 12.17.12 iss036m021351211.mp4
+
+[[added.130.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3082442/?inline=1&log=1
+
+[[added.130.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.130.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130516 12.17.12 iss036m021351211.mp4
+
+[[added.130.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.130.subcategory]]
+Reduced Gravity/2013_05_16
+
+[[added.131.bucket]]
+
+
+[[added.131.file_name]]
+PSI-26_Raw Data_20130516 13.10.24 iss036m021351305.mp4
+
+[[added.131.organization]]
+shared
+
+[[added.131.psi_legacy_s3_path]]
+legacy/43106/224/20130516 13.10.24 iss036m021351305.mp4
+
+[[added.131.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130516 13.10.24 iss036m021351305.mp4
+
+[[added.131.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3082443/?inline=1&log=1
+
+[[added.131.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.131.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130516 13.10.24 iss036m021351305.mp4
+
+[[added.131.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.131.subcategory]]
+Reduced Gravity/2013_05_16
+
+[[added.132.bucket]]
+
+
+[[added.132.file_name]]
+PSI-26_Raw Data_20130516 13.15.31 iss036m021351310.mp4
+
+[[added.132.organization]]
+shared
+
+[[added.132.psi_legacy_s3_path]]
+legacy/43106/224/20130516 13.15.31 iss036m021351310.mp4
+
+[[added.132.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130516 13.15.31 iss036m021351310.mp4
+
+[[added.132.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3082444/?inline=1&log=1
+
+[[added.132.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.132.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130516 13.15.31 iss036m021351310.mp4
+
+[[added.132.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.132.subcategory]]
+Reduced Gravity/2013_05_16
+
+[[added.133.bucket]]
+
+
+[[added.133.file_name]]
+PSI-26_Raw Data_20130516 13.52.21 iss036m021351347.mp4
+
+[[added.133.organization]]
+shared
+
+[[added.133.psi_legacy_s3_path]]
+legacy/43106/224/20130516 13.52.21 iss036m021351347.mp4
+
+[[added.133.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130516 13.52.21 iss036m021351347.mp4
+
+[[added.133.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3082445/?inline=1&log=1
+
+[[added.133.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.133.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130516 13.52.21 iss036m021351347.mp4
+
+[[added.133.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.133.subcategory]]
+Reduced Gravity/2013_05_16
+
+[[added.134.bucket]]
+
+
+[[added.134.file_name]]
+PSI-26_Raw Data_2013_05_16_orig.zip
+
+[[added.134.organization]]
+shared
+
+[[added.134.psi_legacy_s3_path]]
+legacy/43106/11441/2013_05_16_orig.zip
+
+[[added.134.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_2013_05_16_orig.zip
+
+[[added.134.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3082719/?inline=1&log=1
+
+[[added.134.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.134.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_2013_05_16_orig.zip
+
+[[added.134.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.134.subcategory]]
+Reduced Gravity/2013_05_16
+
+[[added.135.bucket]]
+
+
+[[added.135.file_name]]
+PSI-26_Raw Data_2013_05_16_xmp.zip
+
+[[added.135.organization]]
+shared
+
+[[added.135.psi_legacy_s3_path]]
+legacy/43106/11526/2013_05_16_xmp.zip
+
+[[added.135.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_2013_05_16_xmp.zip
+
+[[added.135.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3082720/?inline=1&log=1
+
+[[added.135.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.135.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_2013_05_16_xmp.zip
+
+[[added.135.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.135.subcategory]]
+Reduced Gravity/2013_05_16
+
+[[added.136.bucket]]
+
+
+[[added.136.file_name]]
+PSI-26_Raw Data_2013_05_18_orig.zip
+
+[[added.136.organization]]
+shared
+
+[[added.136.psi_legacy_s3_path]]
+legacy/43107/11441/2013_05_18_orig.zip
+
+[[added.136.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_2013_05_18_orig.zip
+
+[[added.136.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3083474/?inline=1&log=1
+
+[[added.136.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.136.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_2013_05_18_orig.zip
+
+[[added.136.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.136.subcategory]]
+Reduced Gravity/2013_05_18
+
+[[added.137.bucket]]
+
+
+[[added.137.file_name]]
+PSI-26_Raw Data_2013_05_18_xmp.zip
+
+[[added.137.organization]]
+shared
+
+[[added.137.psi_legacy_s3_path]]
+legacy/43107/11526/2013_05_18_xmp.zip
+
+[[added.137.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_2013_05_18_xmp.zip
+
+[[added.137.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3083475/?inline=1&log=1
+
+[[added.137.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.137.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_2013_05_18_xmp.zip
+
+[[added.137.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.137.subcategory]]
+Reduced Gravity/2013_05_18
+
+[[added.138.bucket]]
+
+
+[[added.138.file_name]]
+PSI-26_Raw Data_2013_07_09_orig.zip
+
+[[added.138.organization]]
+shared
+
+[[added.138.psi_legacy_s3_path]]
+legacy/43108/11441/2013_07_09_orig.zip
+
+[[added.138.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_2013_07_09_orig.zip
+
+[[added.138.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3083479/?inline=1&log=1
+
+[[added.138.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.138.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_2013_07_09_orig.zip
+
+[[added.138.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.138.subcategory]]
+Reduced Gravity/2013_07_09
+
+[[added.139.bucket]]
+
+
+[[added.139.file_name]]
+PSI-26_Raw Data_2013_07_09_txt.zip
+
+[[added.139.organization]]
+shared
+
+[[added.139.psi_legacy_s3_path]]
+legacy/43108/11526/2013_07_09_txt.zip
+
+[[added.139.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_2013_07_09_txt.zip
+
+[[added.139.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3083480/?inline=1&log=1
+
+[[added.139.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.139.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_2013_07_09_txt.zip
+
+[[added.139.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.139.subcategory]]
+Reduced Gravity/2013_07_09
+
+[[added.140.bucket]]
+
+
+[[added.140.file_name]]
+PSI-26_Raw Data_20130531 08.34.18 iss036m041500829.mp4
+
+[[added.140.organization]]
+shared
+
+[[added.140.psi_legacy_s3_path]]
+legacy/43109/224/20130531 08.34.18 iss036m041500829.mp4
+
+[[added.140.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130531 08.34.18 iss036m041500829.mp4
+
+[[added.140.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3083481/?inline=1&log=1
+
+[[added.140.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.140.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130531 08.34.18 iss036m041500829.mp4
+
+[[added.140.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.140.subcategory]]
+Reduced Gravity/2012_05_02
+
+[[added.141.bucket]]
+
+
+[[added.141.file_name]]
+PSI-26_Raw Data_20130531 09.03.03 iss036m041500857.mp4
+
+[[added.141.organization]]
+shared
+
+[[added.141.psi_legacy_s3_path]]
+legacy/43109/224/20130531 09.03.03 iss036m041500857.mp4
+
+[[added.141.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130531 09.03.03 iss036m041500857.mp4
+
+[[added.141.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3083482/?inline=1&log=1
+
+[[added.141.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.141.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130531 09.03.03 iss036m041500857.mp4
+
+[[added.141.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.141.subcategory]]
+Reduced Gravity/2012_05_02
+
+[[added.142.bucket]]
+
+
+[[added.142.file_name]]
+PSI-26_Raw Data_20130531 09.47.43 iss036m041500942.mp4
+
+[[added.142.organization]]
+shared
+
+[[added.142.psi_legacy_s3_path]]
+legacy/43109/224/20130531 09.47.43 iss036m041500942.mp4
+
+[[added.142.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130531 09.47.43 iss036m041500942.mp4
+
+[[added.142.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3083483/?inline=1&log=1
+
+[[added.142.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.142.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130531 09.47.43 iss036m041500942.mp4
+
+[[added.142.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.142.subcategory]]
+Reduced Gravity/2012_05_02
+
+[[added.143.bucket]]
+
+
+[[added.143.file_name]]
+PSI-26_Raw Data_20130531 10.38.29 iss036m041501033.mp4
+
+[[added.143.organization]]
+shared
+
+[[added.143.psi_legacy_s3_path]]
+legacy/43109/224/20130531 10.38.29 iss036m041501033.mp4
+
+[[added.143.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130531 10.38.29 iss036m041501033.mp4
+
+[[added.143.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3083484/?inline=1&log=1
+
+[[added.143.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.143.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130531 10.38.29 iss036m041501033.mp4
+
+[[added.143.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.143.subcategory]]
+Reduced Gravity/2012_05_02
+
+[[added.144.bucket]]
+
+
+[[added.144.file_name]]
+PSI-26_Raw Data_20130531 10.43.19 iss036m211501445.mp4
+
+[[added.144.organization]]
+shared
+
+[[added.144.psi_legacy_s3_path]]
+legacy/43109/224/20130531 10.43.19 iss036m211501445.mp4
+
+[[added.144.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130531 10.43.19 iss036m211501445.mp4
+
+[[added.144.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3083485/?inline=1&log=1
+
+[[added.144.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.144.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130531 10.43.19 iss036m211501445.mp4
+
+[[added.144.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.144.subcategory]]
+Reduced Gravity/2012_05_02
+
+[[added.145.bucket]]
+
+
+[[added.145.file_name]]
+PSI-26_Raw Data_20130531 11.20.18 iss036m041501115.mp4
+
+[[added.145.organization]]
+shared
+
+[[added.145.psi_legacy_s3_path]]
+legacy/43109/224/20130531 11.20.18 iss036m041501115.mp4
+
+[[added.145.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130531 11.20.18 iss036m041501115.mp4
+
+[[added.145.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3083486/?inline=1&log=1
+
+[[added.145.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.145.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130531 11.20.18 iss036m041501115.mp4
+
+[[added.145.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.145.subcategory]]
+Reduced Gravity/2012_05_02
+
+[[added.146.bucket]]
+
+
+[[added.146.file_name]]
+PSI-26_Raw Data_20130531 12.18.18 iss036m041501213.mp4
+
+[[added.146.organization]]
+shared
+
+[[added.146.psi_legacy_s3_path]]
+legacy/43109/224/20130531 12.18.18 iss036m041501213.mp4
+
+[[added.146.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130531 12.18.18 iss036m041501213.mp4
+
+[[added.146.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3083487/?inline=1&log=1
+
+[[added.146.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.146.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130531 12.18.18 iss036m041501213.mp4
+
+[[added.146.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.146.subcategory]]
+Reduced Gravity/2012_05_02
+
+[[added.147.bucket]]
+
+
+[[added.147.file_name]]
+PSI-26_Raw Data_20130531 12.41.52 iss036m041501236.mp4
+
+[[added.147.organization]]
+shared
+
+[[added.147.psi_legacy_s3_path]]
+legacy/43109/224/20130531 12.41.52 iss036m041501236.mp4
+
+[[added.147.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130531 12.41.52 iss036m041501236.mp4
+
+[[added.147.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3083488/?inline=1&log=1
+
+[[added.147.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.147.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130531 12.41.52 iss036m041501236.mp4
+
+[[added.147.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.147.subcategory]]
+Reduced Gravity/2012_05_02
+
+[[added.148.bucket]]
+
+
+[[added.148.file_name]]
+PSI-26_Raw Data_20130531 12.58.13 iss036m041501253.mp4
+
+[[added.148.organization]]
+shared
+
+[[added.148.psi_legacy_s3_path]]
+legacy/43109/224/20130531 12.58.13 iss036m041501253.mp4
+
+[[added.148.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130531 12.58.13 iss036m041501253.mp4
+
+[[added.148.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3083489/?inline=1&log=1
+
+[[added.148.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.148.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130531 12.58.13 iss036m041501253.mp4
+
+[[added.148.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.148.subcategory]]
+Reduced Gravity/2012_05_02
+
+[[added.149.bucket]]
+
+
+[[added.149.file_name]]
+PSI-26_Raw Data_20130531 14.32.48 iss036m041501427.mp4
+
+[[added.149.organization]]
+shared
+
+[[added.149.psi_legacy_s3_path]]
+legacy/43109/224/20130531 14.32.48 iss036m041501427.mp4
+
+[[added.149.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130531 14.32.48 iss036m041501427.mp4
+
+[[added.149.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3083490/?inline=1&log=1
+
+[[added.149.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.149.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130531 14.32.48 iss036m041501427.mp4
+
+[[added.149.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.149.subcategory]]
+Reduced Gravity/2012_05_02
+
+[[added.150.bucket]]
+
+
+[[added.150.file_name]]
+PSI-26_Raw Data_20130531 15.48.53 iss036m041501543.mp4
+
+[[added.150.organization]]
+shared
+
+[[added.150.psi_legacy_s3_path]]
+legacy/43109/224/20130531 15.48.53 iss036m041501543.mp4
+
+[[added.150.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130531 15.48.53 iss036m041501543.mp4
+
+[[added.150.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3083491/?inline=1&log=1
+
+[[added.150.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.150.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130531 15.48.53 iss036m041501543.mp4
+
+[[added.150.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.150.subcategory]]
+Reduced Gravity/2012_05_02
+
+[[added.151.bucket]]
+
+
+[[added.151.file_name]]
+PSI-26_Raw Data_20130531 16.27.05 iss036m041501621.mp4
+
+[[added.151.organization]]
+shared
+
+[[added.151.psi_legacy_s3_path]]
+legacy/43109/224/20130531 16.27.05 iss036m041501621.mp4
+
+[[added.151.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130531 16.27.05 iss036m041501621.mp4
+
+[[added.151.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3083492/?inline=1&log=1
+
+[[added.151.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.151.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130531 16.27.05 iss036m041501621.mp4
+
+[[added.151.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.151.subcategory]]
+Reduced Gravity/2012_05_02
+
+[[added.152.bucket]]
+
+
+[[added.152.file_name]]
+PSI-26_Raw Data_2013_05_31_orig.zip
+
+[[added.152.organization]]
+shared
+
+[[added.152.psi_legacy_s3_path]]
+legacy/43109/11441/2013_05_31_orig.zip
+
+[[added.152.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_2013_05_31_orig.zip
+
+[[added.152.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3083644/?inline=1&log=1
+
+[[added.152.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.152.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_2013_05_31_orig.zip
+
+[[added.152.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.152.subcategory]]
+Reduced Gravity/2012_05_02
+
+[[added.153.bucket]]
+
+
+[[added.153.file_name]]
+PSI-26_Raw Data_2013_05_31_xmp.zip
+
+[[added.153.organization]]
+shared
+
+[[added.153.psi_legacy_s3_path]]
+legacy/43109/11526/2013_05_31_xmp.zip
+
+[[added.153.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_2013_05_31_xmp.zip
+
+[[added.153.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3083645/?inline=1&log=1
+
+[[added.153.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.153.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_2013_05_31_xmp.zip
+
+[[added.153.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.153.subcategory]]
+Reduced Gravity/2012_05_02
+
+[[added.154.bucket]]
+
+
+[[added.154.file_name]]
+PSI-26_Raw Data_20130518 10.08.55 iss036m061371003.mp4
+
+[[added.154.organization]]
+shared
+
+[[added.154.psi_legacy_s3_path]]
+legacy/43107/224/20130518 10.08.55 iss036m061371003.mp4
+
+[[added.154.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130518 10.08.55 iss036m061371003.mp4
+
+[[added.154.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3083646/?inline=1&log=1
+
+[[added.154.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.154.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130518 10.08.55 iss036m061371003.mp4
+
+[[added.154.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.154.subcategory]]
+Reduced Gravity/2013_05_18
+
+[[added.155.bucket]]
+
+
+[[added.155.file_name]]
+PSI-26_Raw Data_20130518 10.37.04 iss036m061371031.mp4
+
+[[added.155.organization]]
+shared
+
+[[added.155.psi_legacy_s3_path]]
+legacy/43107/224/20130518 10.37.04 iss036m061371031.mp4
+
+[[added.155.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130518 10.37.04 iss036m061371031.mp4
+
+[[added.155.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3083647/?inline=1&log=1
+
+[[added.155.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.155.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130518 10.37.04 iss036m061371031.mp4
+
+[[added.155.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.155.subcategory]]
+Reduced Gravity/2013_05_18
+
+[[added.156.bucket]]
+
+
+[[added.156.file_name]]
+PSI-26_Raw Data_20130518 11.32.45 iss036m061371127.mp4
+
+[[added.156.organization]]
+shared
+
+[[added.156.psi_legacy_s3_path]]
+legacy/43107/224/20130518 11.32.45 iss036m061371127.mp4
+
+[[added.156.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130518 11.32.45 iss036m061371127.mp4
+
+[[added.156.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3083648/?inline=1&log=1
+
+[[added.156.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.156.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130518 11.32.45 iss036m061371127.mp4
+
+[[added.156.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.156.subcategory]]
+Reduced Gravity/2013_05_18
+
+[[added.157.bucket]]
+
+
+[[added.157.file_name]]
+PSI-26_Raw Data_20130518 12.17.21 iss036m061371211.mp4
+
+[[added.157.organization]]
+shared
+
+[[added.157.psi_legacy_s3_path]]
+legacy/43107/224/20130518 12.17.21 iss036m061371211.mp4
+
+[[added.157.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130518 12.17.21 iss036m061371211.mp4
+
+[[added.157.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3083649/?inline=1&log=1
+
+[[added.157.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.157.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130518 12.17.21 iss036m061371211.mp4
+
+[[added.157.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.157.subcategory]]
+Reduced Gravity/2013_05_18
+
+[[added.158.bucket]]
+
+
+[[added.158.file_name]]
+PSI-26_Raw Data_20130518 12.24.23 iss036m211371933.mp4
+
+[[added.158.organization]]
+shared
+
+[[added.158.psi_legacy_s3_path]]
+legacy/43107/224/20130518 12.24.23 iss036m211371933.mp4
+
+[[added.158.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130518 12.24.23 iss036m211371933.mp4
+
+[[added.158.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3083650/?inline=1&log=1
+
+[[added.158.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.158.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130518 12.24.23 iss036m211371933.mp4
+
+[[added.158.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.158.subcategory]]
+Reduced Gravity/2013_05_18
+
+[[added.159.bucket]]
+
+
+[[added.159.file_name]]
+PSI-26_Raw Data_20130518 13.12.32 iss036m061371301.mp4
+
+[[added.159.organization]]
+shared
+
+[[added.159.psi_legacy_s3_path]]
+legacy/43107/224/20130518 13.12.32 iss036m061371301.mp4
+
+[[added.159.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130518 13.12.32 iss036m061371301.mp4
+
+[[added.159.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3083651/?inline=1&log=1
+
+[[added.159.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.159.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130518 13.12.32 iss036m061371301.mp4
+
+[[added.159.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.159.subcategory]]
+Reduced Gravity/2013_05_18
+
+[[added.160.bucket]]
+
+
+[[added.160.file_name]]
+PSI-26_Raw Data_20130518 13.52.35 iss036m061371347.mp4
+
+[[added.160.organization]]
+shared
+
+[[added.160.psi_legacy_s3_path]]
+legacy/43107/224/20130518 13.52.35 iss036m061371347.mp4
+
+[[added.160.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130518 13.52.35 iss036m061371347.mp4
+
+[[added.160.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3083652/?inline=1&log=1
+
+[[added.160.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.160.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130518 13.52.35 iss036m061371347.mp4
+
+[[added.160.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.160.subcategory]]
+Reduced Gravity/2013_05_18
+
+[[added.161.bucket]]
+
+
+[[added.161.file_name]]
+PSI-26_Raw Data_20130518 14.43.04 iss036m061371437.mp4
+
+[[added.161.organization]]
+shared
+
+[[added.161.psi_legacy_s3_path]]
+legacy/43107/224/20130518 14.43.04 iss036m061371437.mp4
+
+[[added.161.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130518 14.43.04 iss036m061371437.mp4
+
+[[added.161.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3083653/?inline=1&log=1
+
+[[added.161.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.161.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130518 14.43.04 iss036m061371437.mp4
+
+[[added.161.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.161.subcategory]]
+Reduced Gravity/2013_05_18
+
+[[added.162.bucket]]
+
+
+[[added.162.file_name]]
+PSI-26_Raw Data_20130518 15.27.19 iss036m061371521.mp4
+
+[[added.162.organization]]
+shared
+
+[[added.162.psi_legacy_s3_path]]
+legacy/43107/224/20130518 15.27.19 iss036m061371521.mp4
+
+[[added.162.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130518 15.27.19 iss036m061371521.mp4
+
+[[added.162.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3083654/?inline=1&log=1
+
+[[added.162.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.162.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_20130518 15.27.19 iss036m061371521.mp4
+
+[[added.162.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.162.subcategory]]
+Reduced Gravity/2013_05_18
+
+[[added.163.bucket]]
+
+
+[[added.163.file_name]]
+PSI-26_Raw Data_2012_05_02_xmp.zip
+
+[[added.163.organization]]
+shared
+
+[[added.163.psi_legacy_s3_path]]
+legacy/43110/11526/2012_05_02_xmp.zip
+
+[[added.163.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_2012_05_02_xmp.zip
+
+[[added.163.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3083765/?inline=1&log=1
+
+[[added.163.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.163.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_2012_05_02_xmp.zip
+
+[[added.163.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.163.subcategory]]
+Reduced Gravity/2012_05_02
+
+[[added.164.bucket]]
+
+
+[[added.164.file_name]]
+PSI-26_Raw Data_2012_05_03_orig.zip
+
+[[added.164.organization]]
+shared
+
+[[added.164.psi_legacy_s3_path]]
+legacy/43111/11441/2012_05_03_orig.zip
+
+[[added.164.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_2012_05_03_orig.zip
+
+[[added.164.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3084004/?inline=1&log=1
+
+[[added.164.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.164.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_2012_05_03_orig.zip
+
+[[added.164.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.164.subcategory]]
+Reduced Gravity/2012_05_03
+
+[[added.165.bucket]]
+
+
+[[added.165.file_name]]
+PSI-26_Raw Data_2012_05_03_xmp.zip
+
+[[added.165.organization]]
+shared
+
+[[added.165.psi_legacy_s3_path]]
+legacy/43111/11526/2012_05_03_xmp.zip
+
+[[added.165.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_2012_05_03_xmp.zip
+
+[[added.165.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3084005/?inline=1&log=1
+
+[[added.165.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.165.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_2012_05_03_xmp.zip
+
+[[added.165.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.165.subcategory]]
+Reduced Gravity/2012_05_03
+
+[[added.166.bucket]]
+
+
+[[added.166.file_name]]
+PSI-26_Raw Data_2012_05_10_orig.zip
+
+[[added.166.organization]]
+shared
+
+[[added.166.psi_legacy_s3_path]]
+legacy/43112/11441/2012_05_10_orig.zip
+
+[[added.166.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_2012_05_10_orig.zip
+
+[[added.166.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3084077/?inline=1&log=1
+
+[[added.166.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.166.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_2012_05_10_orig.zip
+
+[[added.166.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.166.subcategory]]
+Reduced Gravity/2012_05_10
+
+[[added.167.bucket]]
+
+
+[[added.167.file_name]]
+PSI-26_Raw Data_2012_05_11_orig.zip
+
+[[added.167.organization]]
+shared
+
+[[added.167.psi_legacy_s3_path]]
+legacy/43113/11441/2012_05_11_orig.zip
+
+[[added.167.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_2012_05_11_orig.zip
+
+[[added.167.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3084335/?inline=1&log=1
+
+[[added.167.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.167.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_2012_05_11_orig.zip
+
+[[added.167.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.167.subcategory]]
+Reduced Gravity/2012_05_11
+
+[[added.168.bucket]]
+
+
+[[added.168.file_name]]
+PSI-26_Raw Data_2012_05_12_orig.zip
+
+[[added.168.organization]]
+shared
+
+[[added.168.psi_legacy_s3_path]]
+legacy/43114/11441/2012_05_12_orig.zip
+
+[[added.168.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_2012_05_12_orig.zip
+
+[[added.168.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3085228/?inline=1&log=1
+
+[[added.168.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.168.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_2012_05_12_orig.zip
+
+[[added.168.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.168.subcategory]]
+Reduced Gravity/ 2012_05_12
+
+[[added.169.bucket]]
+
+
+[[added.169.file_name]]
+PSI-26_Raw Data_2012_06_05_orig.zip
+
+[[added.169.organization]]
+shared
+
+[[added.169.psi_legacy_s3_path]]
+legacy/43115/11441/2012_06_05_orig.zip
+
+[[added.169.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_2012_06_05_orig.zip
+
+[[added.169.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3085338/?inline=1&log=1
+
+[[added.169.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.169.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_2012_06_05_orig.zip
+
+[[added.169.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.169.subcategory]]
+Reduced Gravity/2012_06_05
+
+[[added.170.bucket]]
+
+
+[[added.170.file_name]]
+PSI-26_Raw Data_2012_06_06_orig.zip
+
+[[added.170.organization]]
+shared
+
+[[added.170.psi_legacy_s3_path]]
+legacy/43116/11441/2012_06_06_orig.zip
+
+[[added.170.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_2012_06_06_orig.zip
+
+[[added.170.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3085739/?inline=1&log=1
+
+[[added.170.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.170.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_2012_06_06_orig.zip
+
+[[added.170.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.170.subcategory]]
+Reduced Gravity/2012_06_06
+
+[[added.171.bucket]]
+
+
+[[added.171.file_name]]
+PSI-26_Raw Data_2012_06_11_orig.zip
+
+[[added.171.organization]]
+shared
+
+[[added.171.psi_legacy_s3_path]]
+legacy/43117/11441/2012_06_11_orig.zip
+
+[[added.171.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_2012_06_11_orig.zip
+
+[[added.171.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3085888/?inline=1&log=1
+
+[[added.171.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.171.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_2012_06_11_orig.zip
+
+[[added.171.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.171.subcategory]]
+Reduced Gravity/2012_06_11
+
+[[added.172.bucket]]
+
+
+[[added.172.file_name]]
+PSI-26_Raw Data_2012_06_12_orig.zip
+
+[[added.172.organization]]
+shared
+
+[[added.172.psi_legacy_s3_path]]
+legacy/43118/11441/2012_06_12_orig.zip
+
+[[added.172.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_2012_06_12_orig.zip
+
+[[added.172.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3086508/?inline=1&log=1
+
+[[added.172.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.172.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_2012_06_12_orig.zip
+
+[[added.172.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.172.subcategory]]
+Reduced Gravity/2012_06_12
+
+[[added.173.bucket]]
+
+
+[[added.173.file_name]]
+PSI-26_Raw Data_2012_06_15_orig.zip
+
+[[added.173.organization]]
+shared
+
+[[added.173.psi_legacy_s3_path]]
+legacy/43119/11441/2012_06_15_orig.zip
+
+[[added.173.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_2012_06_15_orig.zip
+
+[[added.173.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3086794/?inline=1&log=1
+
+[[added.173.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.173.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_2012_06_15_orig.zip
+
+[[added.173.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.173.subcategory]]
+Reduced Gravity/ 2012_06_15
+
+[[added.174.bucket]]
+
+
+[[added.174.file_name]]
+PSI-26_Raw Data_2012_06_19_orig.zip
+
+[[added.174.organization]]
+shared
+
+[[added.174.psi_legacy_s3_path]]
+legacy/43120/11441/2012_06_19_orig.zip
+
+[[added.174.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_2012_06_19_orig.zip
+
+[[added.174.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3087639/?inline=1&log=1
+
+[[added.174.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.174.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_2012_06_19_orig.zip
+
+[[added.174.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.174.subcategory]]
+Reduced Gravity/2012_06_19
+
+[[added.175.bucket]]
+
+
+[[added.175.file_name]]
+PSI-26_Raw Data_2012_06_28_orig.zip
+
+[[added.175.organization]]
+shared
+
+[[added.175.psi_legacy_s3_path]]
+legacy/43121/11441/2012_06_28_orig.zip
+
+[[added.175.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_2012_06_28_orig.zip
+
+[[added.175.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3087729/?inline=1&log=1
+
+[[added.175.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.175.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_2012_06_28_orig.zip
+
+[[added.175.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.175.subcategory]]
+Reduced Gravity/2012_06_28
+
+[[added.176.bucket]]
+
+
+[[added.176.file_name]]
+PSI-26_Raw Data_2012_06_29_orig.zip
+
+[[added.176.organization]]
+shared
+
+[[added.176.psi_legacy_s3_path]]
+legacy/43122/11441/2012_06_29_orig.zip
+
+[[added.176.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_2012_06_29_orig.zip
+
+[[added.176.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3088206/?inline=1&log=1
+
+[[added.176.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.176.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_2012_06_29_orig.zip
+
+[[added.176.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.176.subcategory]]
+Reduced Gravity/2012_06_29
+
+[[added.177.bucket]]
+
+
+[[added.177.file_name]]
+PSI-26_Raw Data_2012_06_30_orig.zip
+
+[[added.177.organization]]
+shared
+
+[[added.177.psi_legacy_s3_path]]
+legacy/43123/11441/2012_06_30_orig.zip
+
+[[added.177.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_2012_06_30_orig.zip
+
+[[added.177.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3088532/?inline=1&log=1
+
+[[added.177.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.177.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_2012_06_30_orig.zip
+
+[[added.177.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.177.subcategory]]
+Reduced Gravity/2012_06_30
+
+[[added.178.bucket]]
+
+
+[[added.178.file_name]]
+PSI-26_Raw Data_2012_07_04_orig.zip
+
+[[added.178.organization]]
+shared
+
+[[added.178.psi_legacy_s3_path]]
+legacy/43124/11441/2012_07_04_orig.zip
+
+[[added.178.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_2012_07_04_orig.zip
+
+[[added.178.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3089105/?inline=1&log=1
+
+[[added.178.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.178.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_2012_07_04_orig.zip
+
+[[added.178.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.178.subcategory]]
+Reduced Gravity/2012_07_04
+
+[[added.179.bucket]]
+
+
+[[added.179.file_name]]
+PSI-26_Raw Data_2012_07_12.zip
+
+[[added.179.organization]]
+shared
+
+[[added.179.psi_legacy_s3_path]]
+legacy/43125/11441/2012_07_12.zip
+
+[[added.179.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_2012_07_12.zip
+
+[[added.179.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3089945/?inline=1&log=1
+
+[[added.179.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.179.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_2012_07_12.zip
+
+[[added.179.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.179.subcategory]]
+Reduced Gravity/2012_07_12
+
+[[added.180.bucket]]
+
+
+[[added.180.file_name]]
+PSI-26_Raw Data_2012_07_23_orig.zip
+
+[[added.180.organization]]
+shared
+
+[[added.180.psi_legacy_s3_path]]
+legacy/43126/11441/2012_07_23_orig.zip
+
+[[added.180.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_2012_07_23_orig.zip
+
+[[added.180.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3090500/?inline=1&log=1
+
+[[added.180.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.180.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_2012_07_23_orig.zip
+
+[[added.180.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.180.subcategory]]
+Reduced Gravity/2012_07_23
+
+[[added.181.bucket]]
+
+
+[[added.181.file_name]]
+PSI-26_Raw Data_2012_07_20_orig.zip
+
+[[added.181.organization]]
+shared
+
+[[added.181.psi_legacy_s3_path]]
+legacy/43127/11441/2012_07_20_orig.zip
+
+[[added.181.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_2012_07_20_orig.zip
+
+[[added.181.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3090794/?inline=1&log=1
+
+[[added.181.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.181.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_2012_07_20_orig.zip
+
+[[added.181.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.181.subcategory]]
+Reduced Gravity/ 2012_07_20
+
+[[added.182.bucket]]
+
+
+[[added.182.file_name]]
+PSI-26_Raw Data_2012_08_09_orig.zip
+
+[[added.182.organization]]
+shared
+
+[[added.182.psi_legacy_s3_path]]
+legacy/43128/11441/2012_08_09_orig.zip
+
+[[added.182.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_2012_08_09_orig.zip
+
+[[added.182.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3091070/?inline=1&log=1
+
+[[added.182.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.182.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_2012_08_09_orig.zip
+
+[[added.182.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.182.subcategory]]
+Reduced Gravity/ 2012_08_09
+
+[[added.183.bucket]]
+
+
+[[added.183.file_name]]
+PSI-26_Raw Data_2012_08_17_orig.zip
+
+[[added.183.organization]]
+shared
+
+[[added.183.psi_legacy_s3_path]]
+legacy/43129/11441/2012_08_17_orig.zip
+
+[[added.183.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_2012_08_17_orig.zip
+
+[[added.183.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3091622/?inline=1&log=1
+
+[[added.183.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.183.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_2012_08_17_orig.zip
+
+[[added.183.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.183.subcategory]]
+Reduced Gravity/ 2012_08_17
+
+[[added.184.bucket]]
+
+
+[[added.184.file_name]]
+PSI-26_Raw Data_2012_08_22_orig.zip
+
+[[added.184.organization]]
+shared
+
+[[added.184.psi_legacy_s3_path]]
+legacy/43130/11441/2012_08_22_orig.zip
+
+[[added.184.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PSI-26_Raw Data_2012_08_22_orig.zip
+
+[[added.184.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3092422/?inline=1&log=1
+
+[[added.184.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.184.s3_path]]
+psi-data/PSI-26/Raw Data/PSI-26_Raw Data_2012_08_22_orig.zip
+
+[[added.184.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.184.subcategory]]
+Reduced Gravity/ 2012_08_22
+
+[[added.185.bucket]]
+
+
+[[added.185.file_name]]
+PSI-26_Science Documents_Planned_Test Matrix.xlsx
+
+[[added.185.organization]]
+shared
+
+[[added.185.psi_legacy_s3_path]]
+legacy/7280/22141/BASS Test Matrix 050213.xlsx
+
+[[added.185.remote_path]]
+/Home/psi-data/PSI-26/Science Documents/PSI-26_Science Documents_Planned_Test Matrix.xlsx
+
+[[added.185.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/12369030/?inline=1&log=1
+
+[[added.185.resource_id.$oid]]
+65eb50812ec0b0961f8f9a45
+
+[[added.185.s3_path]]
+psi-data/PSI-26/Science Documents/PSI-26_Science Documents_Planned_Test Matrix.xlsx
+
+[[added.185.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.185.subcategory]]
+
+
+[[added.186.bucket]]
+
+
+[[added.186.file_name]]
+PSI-26_Engineering Documents_BASS ERD.pptx
+
+[[added.186.organization]]
+shared
+
+[[added.186.psi_legacy_s3_path]]
+legacy/7280/218/BASS ERD.pptx
+
+[[added.186.remote_path]]
+/Home/psi-data/PSI-26/Engineering Documents/PSI-26_Engineering Documents_BASS ERD.pptx
+
+[[added.186.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/12369033/?inline=1&log=1
+
+[[added.186.resource_id.$oid]]
+65eb514f2ec0b0961f8f9a49
+
+[[added.186.s3_path]]
+psi-data/PSI-26/Engineering Documents/PSI-26_Engineering Documents_BASS ERD.pptx
+
+[[added.186.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.186.subcategory]]
+
+
+[[added.187.bucket]]
+
+
+[[added.187.file_name]]
+PSI-26_Presentations_BASS Overview.pptx
+
+[[added.187.organization]]
+shared
+
+[[added.187.psi_legacy_s3_path]]
+legacy/7280/218/BASS Overview.pptx
+
+[[added.187.remote_path]]
+/Home/psi-data/PSI-26/Presentations/PSI-26_Presentations_BASS Overview.pptx
+
+[[added.187.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/12369034/?inline=1&log=1
+
+[[added.187.resource_id.$oid]]
+65f8b34f2ec0b0961f8fa20b
+
+[[added.187.s3_path]]
+psi-data/PSI-26/Presentations/PSI-26_Presentations_BASS Overview.pptx
+
+[[added.187.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.187.subcategory]]
+
+
+[[added.188.bucket]]
+
+
+[[added.188.file_name]]
+PSI-26_Engineering Documents_Drawing_SPICE Housing.pdf
+
+[[added.188.organization]]
+shared
+
+[[added.188.psi_legacy_s3_path]]
+legacy/7280/4189/60054mdfh001.pdf
+
+[[added.188.remote_path]]
+/Home/psi-data/PSI-26/Engineering Documents/PSI-26_Engineering Documents_Drawing_SPICE Housing.pdf
+
+[[added.188.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/12651643/?inline=1&log=1
+
+[[added.188.resource_id.$oid]]
+65eb514f2ec0b0961f8f9a49
+
+[[added.188.s3_path]]
+psi-data/PSI-26/Engineering Documents/PSI-26_Engineering Documents_Drawing_SPICE Housing.pdf
+
+[[added.188.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.188.subcategory]]
+
+
+[[added.189.bucket]]
+
+
+[[added.189.file_name]]
+PSI-26_Engineering Documents_Drawing_SPICE_FanHousing.pdf
+
+[[added.189.organization]]
+shared
+
+[[added.189.psi_legacy_s3_path]]
+legacy/7280/4189/60054mdfh002.pdf
+
+[[added.189.remote_path]]
+/Home/psi-data/PSI-26/Engineering Documents/PSI-26_Engineering Documents_Drawing_SPICE_FanHousing.pdf
+
+[[added.189.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/12651644/?inline=1&log=1
+
+[[added.189.resource_id.$oid]]
+65eb514f2ec0b0961f8f9a49
+
+[[added.189.s3_path]]
+psi-data/PSI-26/Engineering Documents/PSI-26_Engineering Documents_Drawing_SPICE_FanHousing.pdf
+
+[[added.189.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.189.subcategory]]
+
+
+[[added.190.bucket]]
+
+
+[[added.190.file_name]]
+PSI-26_Engineering Documents_Drawing_PMMA.Flat.Fuel.Sample2mm.pdf
+
+[[added.190.organization]]
+shared
+
+[[added.190.psi_legacy_s3_path]]
+legacy/7280/4189/PMMA sheet MFD1066.pdf
+
+[[added.190.remote_path]]
+/Home/psi-data/PSI-26/Engineering Documents/PSI-26_Engineering Documents_Drawing_PMMA.Flat.Fuel.Sample2mm.pdf
+
+[[added.190.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/12651645/?inline=1&log=1
+
+[[added.190.resource_id.$oid]]
+65eb514f2ec0b0961f8f9a49
+
+[[added.190.s3_path]]
+psi-data/PSI-26/Engineering Documents/PSI-26_Engineering Documents_Drawing_PMMA.Flat.Fuel.Sample2mm.pdf
+
+[[added.190.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.190.subcategory]]
+
+
+[[added.191.bucket]]
+
+
+[[added.191.file_name]]
+PSI-26_Engineering Documents_Drawing_Sibal.Flat.Sample.pdf
+
+[[added.191.organization]]
+shared
+
+[[added.191.psi_legacy_s3_path]]
+legacy/7280/4189/S1183MFA1020.pdf
+
+[[added.191.remote_path]]
+/Home/psi-data/PSI-26/Engineering Documents/PSI-26_Engineering Documents_Drawing_Sibal.Flat.Sample.pdf
+
+[[added.191.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/12651647/?inline=1&log=1
+
+[[added.191.resource_id.$oid]]
+65eb514f2ec0b0961f8f9a49
+
+[[added.191.s3_path]]
+psi-data/PSI-26/Engineering Documents/PSI-26_Engineering Documents_Drawing_Sibal.Flat.Sample.pdf
+
+[[added.191.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.191.subcategory]]
+
+
+[[added.192.bucket]]
+
+
+[[added.192.file_name]]
+PSI-26_Engineering Documents_Drawing_PMMA.SampleAssembly.pdf
+
+[[added.192.organization]]
+shared
+
+[[added.192.psi_legacy_s3_path]]
+legacy/7280/4189/S1183MFA1065.pdf
+
+[[added.192.remote_path]]
+/Home/psi-data/PSI-26/Engineering Documents/PSI-26_Engineering Documents_Drawing_PMMA.SampleAssembly.pdf
+
+[[added.192.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/12651648/?inline=1&log=1
+
+[[added.192.resource_id.$oid]]
+65eb514f2ec0b0961f8f9a49
+
+[[added.192.s3_path]]
+psi-data/PSI-26/Engineering Documents/PSI-26_Engineering Documents_Drawing_PMMA.SampleAssembly.pdf
+
+[[added.192.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.192.subcategory]]
+
+
+[[added.193.bucket]]
+
+
+[[added.193.file_name]]
+PSI-26_Engineering Documents_Drawing_Spherical.Sample_2cm.pdf
+
+[[added.193.organization]]
+shared
+
+[[added.193.psi_legacy_s3_path]]
+legacy/7280/4189/s1183mfa1085-Spherical sample final.pdf
+
+[[added.193.remote_path]]
+/Home/psi-data/PSI-26/Engineering Documents/PSI-26_Engineering Documents_Drawing_Spherical.Sample_2cm.pdf
+
+[[added.193.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/12651649/?inline=1&log=1
+
+[[added.193.resource_id.$oid]]
+65eb514f2ec0b0961f8f9a49
+
+[[added.193.s3_path]]
+psi-data/PSI-26/Engineering Documents/PSI-26_Engineering Documents_Drawing_Spherical.Sample_2cm.pdf
+
+[[added.193.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.193.subcategory]]
+
+
+[[added.194.bucket]]
+
+
+[[added.194.file_name]]
+PSI-26_Engineering Documents_Drawing_Blk.PMMA.Rod.pdf
+
+[[added.194.organization]]
+shared
+
+[[added.194.psi_legacy_s3_path]]
+legacy/7280/4189/s1183mfa1090-Cylindrical Samples.pdf
+
+[[added.194.remote_path]]
+/Home/psi-data/PSI-26/Engineering Documents/PSI-26_Engineering Documents_Drawing_Blk.PMMA.Rod.pdf
+
+[[added.194.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/12651650/?inline=1&log=1
+
+[[added.194.resource_id.$oid]]
+65eb514f2ec0b0961f8f9a49
+
+[[added.194.s3_path]]
+psi-data/PSI-26/Engineering Documents/PSI-26_Engineering Documents_Drawing_Blk.PMMA.Rod.pdf
+
+[[added.194.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.194.subcategory]]
+
+
+[[added.195.bucket]]
+
+
+[[added.195.file_name]]
+PSI-26_Engineering Documents_Drawing_PMMA.Flat.Fuel.Sample_2cm.pdf
+
+[[added.195.organization]]
+shared
+
+[[added.195.psi_legacy_s3_path]]
+legacy/7280/4189/s1183mfa1110-flat.pdf
+
+[[added.195.remote_path]]
+/Home/psi-data/PSI-26/Engineering Documents/PSI-26_Engineering Documents_Drawing_PMMA.Flat.Fuel.Sample_2cm.pdf
+
+[[added.195.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/12651651/?inline=1&log=1
+
+[[added.195.resource_id.$oid]]
+65eb514f2ec0b0961f8f9a49
+
+[[added.195.s3_path]]
+psi-data/PSI-26/Engineering Documents/PSI-26_Engineering Documents_Drawing_PMMA.Flat.Fuel.Sample_2cm.pdf
+
+[[added.195.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.195.subcategory]]
+
+
+[[added.196.bucket]]
+
+
+[[added.196.file_name]]
+PSI-26_Engineering Documents_Drawing_PMMA.Flat.Samples_2cm.pdf
+
+[[added.196.organization]]
+shared
+
+[[added.196.psi_legacy_s3_path]]
+legacy/7280/4189/s1183mfa1111-flat.pdf
+
+[[added.196.remote_path]]
+/Home/psi-data/PSI-26/Engineering Documents/PSI-26_Engineering Documents_Drawing_PMMA.Flat.Samples_2cm.pdf
+
+[[added.196.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/12651652/?inline=1&log=1
+
+[[added.196.resource_id.$oid]]
+65eb514f2ec0b0961f8f9a49
+
+[[added.196.s3_path]]
+psi-data/PSI-26/Engineering Documents/PSI-26_Engineering Documents_Drawing_PMMA.Flat.Samples_2cm.pdf
+
+[[added.196.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.196.subcategory]]
+
+
+[[added.197.bucket]]
+
+
+[[added.197.file_name]]
+PSI-26_Engineering Documents_Drawing_Sibal.Flat.Fuel.Sample_2cm.pdf
+
+[[added.197.organization]]
+shared
+
+[[added.197.psi_legacy_s3_path]]
+legacy/7280/4189/S1183MFD1022.pdf
+
+[[added.197.remote_path]]
+/Home/psi-data/PSI-26/Engineering Documents/PSI-26_Engineering Documents_Drawing_Sibal.Flat.Fuel.Sample_2cm.pdf
+
+[[added.197.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/12651654/?inline=1&log=1
+
+[[added.197.resource_id.$oid]]
+65eb514f2ec0b0961f8f9a49
+
+[[added.197.s3_path]]
+psi-data/PSI-26/Engineering Documents/PSI-26_Engineering Documents_Drawing_Sibal.Flat.Fuel.Sample_2cm.pdf
+
+[[added.197.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.197.subcategory]]
+
+
+[[added.198.bucket]]
+
+
+[[added.198.file_name]]
+PSI-26_Engineering Documents_Drawing_PMMA.Spherical.Section.pdf
+
+[[added.198.organization]]
+shared
+
+[[added.198.psi_legacy_s3_path]]
+legacy/7280/4189/s1183mfd1086_REV-.pdf
+
+[[added.198.remote_path]]
+/Home/psi-data/PSI-26/Engineering Documents/PSI-26_Engineering Documents_Drawing_PMMA.Spherical.Section.pdf
+
+[[added.198.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/12651657/?inline=1&log=1
+
+[[added.198.resource_id.$oid]]
+65eb514f2ec0b0961f8f9a49
+
+[[added.198.s3_path]]
+psi-data/PSI-26/Engineering Documents/PSI-26_Engineering Documents_Drawing_PMMA.Spherical.Section.pdf
+
+[[added.198.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.198.subcategory]]
+
+
+[[added.199.bucket]]
+
+
+[[added.199.file_name]]
+PSI-26_Engineering Documents_Drawing_PMMA.Blk.Rod.Sample.pdf
+
+[[added.199.organization]]
+shared
+
+[[added.199.psi_legacy_s3_path]]
+legacy/7280/4189/s1183mfd1091_REV-.pdf
+
+[[added.199.remote_path]]
+/Home/psi-data/PSI-26/Engineering Documents/PSI-26_Engineering Documents_Drawing_PMMA.Blk.Rod.Sample.pdf
+
+[[added.199.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/12651658/?inline=1&log=1
+
+[[added.199.resource_id.$oid]]
+65eb514f2ec0b0961f8f9a49
+
+[[added.199.s3_path]]
+psi-data/PSI-26/Engineering Documents/PSI-26_Engineering Documents_Drawing_PMMA.Blk.Rod.Sample.pdf
+
+[[added.199.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.199.subcategory]]
+
+
+[[added.200.bucket]]
+
+
+[[added.200.file_name]]
+PSI-26_Engineering Documents_Drawing_PMMA.Flat_1cm.pdf
+
+[[added.200.organization]]
+shared
+
+[[added.200.psi_legacy_s3_path]]
+legacy/7280/4189/s1183mfd1116_REV-.pdf
+
+[[added.200.remote_path]]
+/Home/psi-data/PSI-26/Engineering Documents/PSI-26_Engineering Documents_Drawing_PMMA.Flat_1cm.pdf
+
+[[added.200.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/12651659/?inline=1&log=1
+
+[[added.200.resource_id.$oid]]
+65eb514f2ec0b0961f8f9a49
+
+[[added.200.s3_path]]
+psi-data/PSI-26/Engineering Documents/PSI-26_Engineering Documents_Drawing_PMMA.Flat_1cm.pdf
+
+[[added.200.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.200.subcategory]]
+
+
+[[added.201.bucket]]
+
+
+[[added.201.file_name]]
+PSI-26_Engineering Documents_SPICE-front-window.pdf
+
+[[added.201.organization]]
+shared
+
+[[added.201.psi_legacy_s3_path]]
+legacy/7280/4189/SPICE-front-window.pdf
+
+[[added.201.remote_path]]
+/Home/psi-data/PSI-26/Engineering Documents/PSI-26_Engineering Documents_SPICE-front-window.pdf
+
+[[added.201.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/12651661/?inline=1&log=1
+
+[[added.201.resource_id.$oid]]
+65eb514f2ec0b0961f8f9a49
+
+[[added.201.s3_path]]
+psi-data/PSI-26/Engineering Documents/PSI-26_Engineering Documents_SPICE-front-window.pdf
+
+[[added.201.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.201.subcategory]]
+
+
+[[added.202.bucket]]
+
+
+[[added.202.file_name]]
+PSI-26_Engineering Documents_60054MAFH000_C.pdf
+
+[[added.202.organization]]
+shared
+
+[[added.202.psi_legacy_s3_path]]
+legacy/7280/4189/60054MAFH000_C.pdf
+
+[[added.202.remote_path]]
+/Home/psi-data/PSI-26/Engineering Documents/PSI-26_Engineering Documents_60054MAFH000_C.pdf
+
+[[added.202.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/12651662/?inline=1&log=1
+
+[[added.202.resource_id.$oid]]
+65eb514f2ec0b0961f8f9a49
+
+[[added.202.s3_path]]
+psi-data/PSI-26/Engineering Documents/PSI-26_Engineering Documents_60054MAFH000_C.pdf
+
+[[added.202.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.202.subcategory]]
+
+
+[[added.203.bucket]]
+
+
+[[added.203.file_name]]
+PSI-26_Engineering Documents_Drawing_SolidFuelFrame.pdf
+
+[[added.203.organization]]
+shared
+
+[[added.203.psi_legacy_s3_path]]
+legacy/7280/4189/S1183MFA1000_A.pdf
+
+[[added.203.remote_path]]
+/Home/psi-data/PSI-26/Engineering Documents/PSI-26_Engineering Documents_Drawing_SolidFuelFrame.pdf
+
+[[added.203.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/12651663/?inline=1&log=1
+
+[[added.203.resource_id.$oid]]
+65eb514f2ec0b0961f8f9a49
+
+[[added.203.s3_path]]
+psi-data/PSI-26/Engineering Documents/PSI-26_Engineering Documents_Drawing_SolidFuelFrame.pdf
+
+[[added.203.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.203.subcategory]]
+
+
+[[added.204.bucket]]
+
+
+[[added.204.file_name]]
+PSI-26_Engineering Documents_Drawing_Flat.Sample.Frame_2cm.pdf
+
+[[added.204.organization]]
+shared
+
+[[added.204.psi_legacy_s3_path]]
+legacy/7280/4189/S1183MFD1021_A.pdf
+
+[[added.204.remote_path]]
+/Home/psi-data/PSI-26/Engineering Documents/PSI-26_Engineering Documents_Drawing_Flat.Sample.Frame_2cm.pdf
+
+[[added.204.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/12651664/?inline=1&log=1
+
+[[added.204.resource_id.$oid]]
+65eb514f2ec0b0961f8f9a49
+
+[[added.204.s3_path]]
+psi-data/PSI-26/Engineering Documents/PSI-26_Engineering Documents_Drawing_Flat.Sample.Frame_2cm.pdf
+
+[[added.204.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.204.subcategory]]
+
+
+[[added.205.bucket]]
+
+
+[[added.205.file_name]]
+PSI-26_Engineering Documents_Drawing_Flat.Sample.Frame_1cm.pdf
+
+[[added.205.organization]]
+shared
+
+[[added.205.psi_legacy_s3_path]]
+legacy/7280/4189/S1183MFD1026_A.pdf
+
+[[added.205.remote_path]]
+/Home/psi-data/PSI-26/Engineering Documents/PSI-26_Engineering Documents_Drawing_Flat.Sample.Frame_1cm.pdf
+
+[[added.205.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/12651665/?inline=1&log=1
+
+[[added.205.resource_id.$oid]]
+65eb514f2ec0b0961f8f9a49
+
+[[added.205.s3_path]]
+psi-data/PSI-26/Engineering Documents/PSI-26_Engineering Documents_Drawing_Flat.Sample.Frame_1cm.pdf
+
+[[added.205.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.205.subcategory]]
+
+
+[[added.206.bucket]]
+
+
+[[added.206.file_name]]
+PSI-26_Engineering Documents_Drawing_Solid.Fuel.Sample_2cmSphere.pdf
+
+[[added.206.organization]]
+shared
+
+[[added.206.psi_legacy_s3_path]]
+legacy/7280/4189/S1183MFD1041.pdf
+
+[[added.206.remote_path]]
+/Home/psi-data/PSI-26/Engineering Documents/PSI-26_Engineering Documents_Drawing_Solid.Fuel.Sample_2cmSphere.pdf
+
+[[added.206.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/12651666/?inline=1&log=1
+
+[[added.206.resource_id.$oid]]
+65eb514f2ec0b0961f8f9a49
+
+[[added.206.s3_path]]
+psi-data/PSI-26/Engineering Documents/PSI-26_Engineering Documents_Drawing_Solid.Fuel.Sample_2cmSphere.pdf
+
+[[added.206.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.206.subcategory]]
+
+
+[[added.207.bucket]]
+
+
+[[added.207.file_name]]
+PSI-26_Engineering Documents_Short Nozzle MFA10771.pdf
+
+[[added.207.organization]]
+shared
+
+[[added.207.psi_legacy_s3_path]]
+legacy/7280/4189/Short Nozzle MFA10771.pdf
+
+[[added.207.remote_path]]
+/Home/psi-data/PSI-26/Engineering Documents/PSI-26_Engineering Documents_Short Nozzle MFA10771.pdf
+
+[[added.207.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/12651667/?inline=1&log=1
+
+[[added.207.resource_id.$oid]]
+65eb514f2ec0b0961f8f9a49
+
+[[added.207.s3_path]]
+psi-data/PSI-26/Engineering Documents/PSI-26_Engineering Documents_Short Nozzle MFA10771.pdf
+
+[[added.207.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.207.subcategory]]
+
+
+[[added.208.bucket]]
+
+
+[[added.208.file_name]]
+PSI-26_Science Documents_SRD_BASS.pdf
+
+[[added.208.organization]]
+shared
+
+[[added.208.psi_legacy_s3_path]]
+legacy/7280/125/SRD_BASS.pdf
+
+[[added.208.remote_path]]
+/Home/psi-data/PSI-26/Science Documents/PSI-26_Science Documents_SRD_BASS.pdf
+
+[[added.208.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/12660767/?inline=1&log=1
+
+[[added.208.resource_id.$oid]]
+65eb50812ec0b0961f8f9a45
+
+[[added.208.s3_path]]
+psi-data/PSI-26/Science Documents/PSI-26_Science Documents_SRD_BASS.pdf
+
+[[added.208.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.208.subcategory]]
+
+
+[[added.209.bucket]]
+
+
+[[added.209.file_name]]
+PSI-26_Science Documents_DLD_BASS.pdf
+
+[[added.209.organization]]
+shared
+
+[[added.209.psi_legacy_s3_path]]
+legacy/7280/11572/DLD_BASS.pdf
+
+[[added.209.remote_path]]
+/Home/psi-data/PSI-26/Science Documents/PSI-26_Science Documents_DLD_BASS.pdf
+
+[[added.209.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/12660771/?inline=1&log=1
+
+[[added.209.resource_id.$oid]]
+65eb50812ec0b0961f8f9a45
+
+[[added.209.s3_path]]
+psi-data/PSI-26/Science Documents/PSI-26_Science Documents_DLD_BASS.pdf
+
+[[added.209.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.209.subcategory]]
+
+
+[[added.210.bucket]]
+
+
+[[added.210.file_name]]
+PSI-26_Science Documents_As Run_Test Matrix.xlsx
+
+[[added.210.organization]]
+shared
+
+[[added.210.psi_legacy_s3_path]]
+legacy/7280/22141/BASS test matrix.xlsx
+
+[[added.210.remote_path]]
+/Home/psi-data/PSI-26/Science Documents/PSI-26_Science Documents_As Run_Test Matrix.xlsx
+
+[[added.210.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/12660775/?inline=1&log=1
+
+[[added.210.resource_id.$oid]]
+65eb50812ec0b0961f8f9a45
+
+[[added.210.s3_path]]
+psi-data/PSI-26/Science Documents/PSI-26_Science Documents_As Run_Test Matrix.xlsx
+
+[[added.210.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[added.210.subcategory]]
+
+
+[[approach]]
+The experiment was conducted aboard the International Space Station (ISS) inside the Microgravity Glove Box (MSG). Custom-made fabric samples consisting of 75% cotton and 25% fiberglass (by mass) measuring were used as a fuel source as well as Nomex fabric and Ultem. A Kanthal wire (29-gage)igniter was used to initiate combustion at one end of the fabric. Airflow was controlled using a variable speed fan, with airflow speeds reaching as high as 40 cm/s. The airflow was directed along the fuel surface in either the opposed or concurrent direction.
+
+This investigation explored two primary air flow configurations; concurrent-flow and opposed-flow. With concurrent-flow air flows in the same direction as the flame spread and in opposed-flow air flows in the opposite direction of flame spread. Flames were observed in the top and edge profiles and data was collected on flame size, shape, color, spread rate, and potential flame quenching. The samples were placed in a small flow duct (76 mm x 76 mm cross section) that allowed for airflow across the fabric. Other sample shapes were utilized as well including spheres and cylinders.
+
+[[contacts.0.@id]]
+
+
+[[contacts.0.address]]
+
+
+[[contacts.0.affiliation]]
+NASA GRC
+
+[[contacts.0.comments.0.name]]
+Study Person REF
+
+[[contacts.0.comments.0.value]]
+
+
+[[contacts.0.email]]
+sandra.olson@nasa.gov
+
+[[contacts.0.fax]]
+
+
+[[contacts.0.firstName]]
+Sandra L.
+
+[[contacts.0.lastName]]
+Olson
+
+[[contacts.0.midInitials]]
+
+
+[[contacts.0.phone]]
+
+
+[[contacts.0.roles.0.@id]]
+UPDBsFjwjds0hw6t0IuVN6evepdczdMm2HLYqwom
+
+[[contacts.0.roles.0.annotationValue]]
+Project Scientist
+
+[[contacts.0.roles.0.termAccession]]
+Project Scientist
+
+[[contacts.0.roles.0.termSource]]
+
+
+[[contacts.1.@id]]
+
+
+[[contacts.1.address]]
+
+
+[[contacts.1.affiliation]]
+NASA GRC
+
+[[contacts.1.comments.0.name]]
+Study Person REF
+
+[[contacts.1.comments.0.value]]
+
+
+[[contacts.1.email]]
+paul.ferkul@nasa.gov
+
+[[contacts.1.fax]]
+
+
+[[contacts.1.firstName]]
+Paul
+
+[[contacts.1.lastName]]
+Ferkul
+
+[[contacts.1.midInitials]]
+
+
+[[contacts.1.phone]]
+
+
+[[contacts.1.roles.0.@id]]
+dEBvA2jSs25xM9IfCv5ploF8MUDFt0ACKekf97KJ
+
+[[contacts.1.roles.0.annotationValue]]
+Principal Investigator (PI)
+
+[[contacts.1.roles.0.termAccession]]
+Principal Investigator (PI)
+
+[[contacts.1.roles.0.termSource]]
+
+
+[[contacts.2.@id]]
+
+
+[[contacts.2.address]]
+
+
+[[contacts.2.affiliation]]
+Case Western Reserve University
+
+[[contacts.2.comments.0.name]]
+Study Person REF
+
+[[contacts.2.comments.0.value]]
+
+
+[[contacts.2.email]]
+fumiaki.takahashi@case.edu
+
+[[contacts.2.fax]]
+
+
+[[contacts.2.firstName]]
+Funiaki
+
+[[contacts.2.lastName]]
+Takahashi
+
+[[contacts.2.midInitials]]
+
+
+[[contacts.2.phone]]
+
+
+[[contacts.2.roles.0.@id]]
+59J36d8A36ZR1iSs6NNVDRYelIkilTNb30me8Erm
+
+[[contacts.2.roles.0.annotationValue]]
+Co-Investigator (Co-I)
+
+[[contacts.2.roles.0.termAccession]]
+Co-Investigator (Co-I)
+
+[[contacts.2.roles.0.termSource]]
+
+
+[[contacts.3.@id]]
+
+
+[[contacts.3.address]]
+
+
+[[contacts.3.affiliation]]
+Case Western Reserve University
+
+[[contacts.3.comments.0.name]]
+Study Person REF
+
+[[contacts.3.comments.0.value]]
+
+
+[[contacts.3.email]]
+jst2@case.edu
+
+[[contacts.3.fax]]
+
+
+[[contacts.3.firstName]]
+James
+
+[[contacts.3.lastName]]
+T'ien
+
+[[contacts.3.midInitials]]
+
+
+[[contacts.3.phone]]
+
+
+[[contacts.3.roles.0.@id]]
+59J36d8A36ZR1iSs6NNVDRYelIkilTNb30me8Erm
+
+[[contacts.3.roles.0.annotationValue]]
+Co-Investigator (Co-I)
+
+[[contacts.3.roles.0.termAccession]]
+Co-Investigator (Co-I)
+
+[[contacts.3.roles.0.termSource]]
+
+
+[[description]]
+
+
+[[doi]]
+10.60555/58h4-dy80
+
+[[experimentHardware]]
+Microgravity Science Glovebox
+
+[[experimentHardwareLink]]
+https://www1.grc.nasa.gov/space/iss-research/msg/
+
+[[experimentalTable.0._id.$oid]]
+67a3768509ed061032c125fb
+
+[[experimentalTable.0.file_name]]
+PSI-26_Experimental table_BASS.csv
+
+[[experimentalTable.0.remote_path]]
+/Home/psi-data/PSI-26/Experimental table/PSI-26_Experimental table_BASS.csv
+
+[[experimentalTable.0.remote_url]]
+/datamanager/file/Home/psi-data/PSI-26/Experimental table/PSI-26_Experimental table_BASS.csv
+
+[[experimentalTable.0.resource_id.$oid]]
+66cf53d46f1142c964b2e0a8
+
+[[experimentalTable.0.s3_path]]
+psi-data/PSI-26/Experimental table/PSI-26_Experimental table_BASS.csv
+
+[[experimentalTable.0.s3_version_id]]
+R1UsWo0ifZNvvIVOOPLjSGA21CjBoE4I
+
+[[experimentalTable.0.study_id.$oid]]
+67dafcfac3501a37c2c60df9
+
+[[experimentalTable.0.subcategory]]
+
+
+[[flightProgram]]
+International Space Station (ISS)
+
+[[funding]]
+
+
+[[hypothesis]]
+BASS experiments were based on the hypothesis that materials in microgravity, with adequate ventilation, burn as well if not better than the same material in normal gravity with other conditions being identical (pressure, oxygen concentration, temperature, etc.) To test this hypothesis with any but the thinnest materials requires extended microgravity time – longer than available in drop towers or parabolic aircraft.
+
+[[investigationAcronym]]
+BASS
+
+[[investigationEndDate]]
+06-30-2013
+
+[[investigationStartDate]]
+10-01-2009
+
+[[licenseIdentifier]]
+CC0-1.0
+
+[[licenseLink]]
+https://spdx.org/licenses/CC0-1.0.html
+
+[[licenseName]]
+Creative Commons Zero v1.0 Universal
+
+[[managingNasaCenter]]
+Glenn Research Center (GRC)
+
+[[missionEnd]]
+
+
+[[missionLink]]
+
+
+[[missionName]]
+
+
+[[missionStart]]
+
+
+[[modifiedDate]]
+19-Mar-2025
+
+[[objective]]
+The two main objectives for BASS are to:
+    1.) Begin to bridge the gap between the normal gravity NASA-STD-6001 Test#1 method, ground-based microgravity tests, and actual material flammability in microgravity. The relation between these can be investigated by observing flames burning for the longer times available in flight. Practical, realistic (thicker) fuels in typical geometries will be examined, including wake flames which have characteristics of a fire burning behind another object (for example, a fire burning in tight area which may not be easily accessible).
+    2.) Assess the effectiveness of an inert, gaseous extinguishing agent (similar to that used on ISS) in putting out flames over different materials, geometries, preheating, and flow.
+
+[[projectIdentifier]]
+
+
+[[projectLink]]
+
+
+[[projectTitle]]
+
+
+[[projectType]]
+Microgravity Investigation
+
+[[proposalTitle]]
+
+
+[[publications.0.authorList]]
+Spivey Reggie, Luz Paul
+
+[[publications.0.doi]]
+10.2514/6.2006-941
+
+[[publications.0.pubMedID]]
+
+
+[[publications.0.status.@id]]
+Rd2oZxVKYUnMCRj3tbHg0eGQhfrFmtiEFnMOyDHF
+
+[[publications.0.status.annotationValue]]
+published
+
+[[publications.0.status.termAccession]]
+http://www.ebi.ac.uk/efo/EFO_0001796
+
+[[publications.0.status.termSource]]
+EFO
+
+[[publications.0.title]]
+The Microgravity Science Glovebox as a Platform for Exploration Research on the International Space Station
+
+[[publications.1.authorList]]
+Bhattacharjee Subrata, Laue Matthew, Carmignani Luca, Ferkul Paul, Olson Sandra
+
+[[publications.1.doi]]
+10.1016/j.firesaf.2015.11.011
+
+[[publications.1.pubMedID]]
+
+
+[[publications.1.status.@id]]
+Rd2oZxVKYUnMCRj3tbHg0eGQhfrFmtiEFnMOyDHF
+
+[[publications.1.status.annotationValue]]
+published
+
+[[publications.1.status.termAccession]]
+http://www.ebi.ac.uk/efo/EFO_0001796
+
+[[publications.1.status.termSource]]
+EFO
+
+[[publications.1.title]]
+Opposed-flow flame spread: A comparison of microgravity and normal gravity experiments to establish the thermal regime
+
+[[publications.2.authorList]]
+Takahashi Shuhei, Ebisawa Tomoya, Bhattacharjee Subrata, Ihara Tadayoshi
+
+[[publications.2.doi]]
+10.1016/j.proci.2014.07.017
+
+[[publications.2.pubMedID]]
+
+
+[[publications.2.status.@id]]
+Rd2oZxVKYUnMCRj3tbHg0eGQhfrFmtiEFnMOyDHF
+
+[[publications.2.status.annotationValue]]
+published
+
+[[publications.2.status.termAccession]]
+http://www.ebi.ac.uk/efo/EFO_0001796
+
+[[publications.2.status.termSource]]
+EFO
+
+[[publications.2.title]]
+Simplified model for predicting difference between flammability limits of a thin material in normal gravity and microgravity environments
+
+[[publications.3.authorList]]
+S Bhattacharjee, R Nagarkar, Y Nakamura
+
+[[publications.3.doi]]
+10.1080/00102202.2014.900056
+
+[[publications.3.pubMedID]]
+
+
+[[publications.3.status.@id]]
+Rd2oZxVKYUnMCRj3tbHg0eGQhfrFmtiEFnMOyDHF
+
+[[publications.3.status.annotationValue]]
+published
+
+[[publications.3.status.termAccession]]
+http://www.ebi.ac.uk/efo/EFO_0001796
+
+[[publications.3.status.termSource]]
+EFO
+
+[[publications.3.title]]
+A Correlation for an Effective Flow Velocity for Capturing the Boundary Layer Effect in Opposed-Flow Flame Spread over Thin Fuels
+
+[[publications.4.authorList]]
+Bhattacharjee Subrata, Paolini Christopher P., Miller Fletcher, Nagarkar Rohit
+
+[[publications.4.doi]]
+10.1504/PCFD.2012.048249
+
+[[publications.4.pubMedID]]
+
+
+[[publications.4.status.@id]]
+Rd2oZxVKYUnMCRj3tbHg0eGQhfrFmtiEFnMOyDHF
+
+[[publications.4.status.annotationValue]]
+published
+
+[[publications.4.status.termAccession]]
+http://www.ebi.ac.uk/efo/EFO_0001796
+
+[[publications.4.status.termSource]]
+EFO
+
+[[publications.4.title]]
+Radiation signature in opposed-flow flame spread
+
+[[publications.5.authorList]]
+Bhattacharjee Subrata, Cartnignani Luca
+
+[[publications.5.doi]]
+10.1299/jsmeatem.2015.14.289
+
+[[publications.5.pubMedID]]
+
+
+[[publications.5.status.@id]]
+Rd2oZxVKYUnMCRj3tbHg0eGQhfrFmtiEFnMOyDHF
+
+[[publications.5.status.annotationValue]]
+published
+
+[[publications.5.status.termAccession]]
+http://www.ebi.ac.uk/efo/EFO_0001796
+
+[[publications.5.status.termSource]]
+EFO
+
+[[publications.5.title]]
+OS24-1 The Effect of Boundary Layer on Blow-Off Extinction in Opposed-Flow Flame Spread: Results of Experiments and Simplified Analysis(invited,Scale modeling on solid combustion,OS24 Scale modeling,FLUID AND THERMODYNAMICS)
+
+[[publications.6.authorList]]
+JR Villaraza, L Carmignani, S Bhattacharjee
+
+[[publications.6.doi]]
+
+
+[[publications.6.pubMedID]]
+
+
+[[publications.6.status.@id]]
+l87xqHQEQuC4rNfO31zRSVlRomoXfQjaWFyzxZZZ
+
+[[publications.6.status.annotationValue]]
+published
+
+[[publications.6.status.termAccession]]
+http://www.ebi.ac.uk/efo/EFO_0001796
+
+[[publications.6.status.termSource]]
+
+
+[[publications.6.title]]
+Role of Gas Radiation in the Mechanism of Opposed-Flow Flame Spread in a Microgravity Environment
+
+[[publications.7.authorList]]
+P Ferkul, SL Olson, F Takahashi, M Endo, MC Johnston, JS Tien
+
+[[publications.7.doi]]
+
+
+[[publications.7.pubMedID]]
+
+
+[[publications.7.status.@id]]
+Rd2oZxVKYUnMCRj3tbHg0eGQhfrFmtiEFnMOyDHF
+
+[[publications.7.status.annotationValue]]
+published
+
+[[publications.7.status.termAccession]]
+http://www.ebi.ac.uk/efo/EFO_0001796
+
+[[publications.7.status.termSource]]
+EFO
+
+[[publications.7.title]]
+Thickness and Fuel Preheating Effects on Material Flammability in Microgravity from the BASS Experiment
+
+[[publications.8.authorList]]
+S Bhattacharjee, M Bundy, C Paolini, G Patel, W Tran.
+
+[[publications.8.doi]]
+10.1016/j.proci.2012.05.076
+
+[[publications.8.pubMedID]]
+
+
+[[publications.8.status.@id]]
+Rd2oZxVKYUnMCRj3tbHg0eGQhfrFmtiEFnMOyDHF
+
+[[publications.8.status.annotationValue]]
+published
+
+[[publications.8.status.termAccession]]
+http://www.ebi.ac.uk/efo/EFO_0001796
+
+[[publications.8.status.termSource]]
+EFO
+
+[[publications.8.title]]
+A novel apparatus for flame spread study
+
+[[publications.9.authorList]]
+GR Bornand, FJ Miller, JM Pepper, SL Olson, IS Wichman
+
+[[publications.9.doi]]
+
+
+[[publications.9.pubMedID]]
+
+
+[[publications.9.status.@id]]
+l87xqHQEQuC4rNfO31zRSVlRomoXfQjaWFyzxZZZ
+
+[[publications.9.status.annotationValue]]
+published
+
+[[publications.9.status.termAccession]]
+http://www.ebi.ac.uk/efo/EFO_0001796
+
+[[publications.9.status.termSource]]
+
+
+[[publications.9.title]]
+Opposed-Flow Flame Spread in a Narrow Channel Apparatus over Thin PMMA Sheets
+
+[[related_glds]]
+PSI-107,PSI-25
+
+[[releaseDate]]
+30-Jun-2013
+
+[[removed.0.bucket]]
+
+
+[[removed.0.file_name]]
+Impacts_Benefits1.rtf
+
+[[removed.0.organization]]
+shared
+
+[[removed.0.psi_legacy_s3_path]]
+legacy/7280/22142/Impacts_Benefits1.rtf
+
+[[removed.0.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/Impacts_Benefits1.rtf
+
+[[removed.0.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/12369036/?inline=1&log=1
+
+[[removed.0.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.0.s3_path]]
+psi-data/PSI-26/Raw Data/Impacts_Benefits1.rtf
+
+[[removed.0.study_id.$oid]]
+67a3768509ed061032c125fc
+
+[[removed.0.subcategory]]
+Legacy/
+
+[[removed.1.bucket]]
+
+
+[[removed.1.file_name]]
+60054mdfh001.pdf
+
+[[removed.1.organization]]
+shared
+
+[[removed.1.psi_legacy_s3_path]]
+legacy/7280/4189/60054mdfh001.pdf
+
+[[removed.1.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/60054mdfh001.pdf
+
+[[removed.1.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/12651643/?inline=1&log=1
+
+[[removed.1.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.1.s3_path]]
+psi-data/PSI-26/Raw Data/60054mdfh001.pdf
+
+[[removed.1.study_id.$oid]]
+67a3768509ed061032c125fc
+
+[[removed.1.subcategory]]
+Legacy/
+
+[[removed.2.bucket]]
+
+
+[[removed.2.file_name]]
+60054mdfh002.pdf
+
+[[removed.2.organization]]
+shared
+
+[[removed.2.psi_legacy_s3_path]]
+legacy/7280/4189/60054mdfh002.pdf
+
+[[removed.2.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/60054mdfh002.pdf
+
+[[removed.2.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/12651644/?inline=1&log=1
+
+[[removed.2.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.2.s3_path]]
+psi-data/PSI-26/Raw Data/60054mdfh002.pdf
+
+[[removed.2.study_id.$oid]]
+67a3768509ed061032c125fc
+
+[[removed.2.subcategory]]
+Legacy/
+
+[[removed.3.bucket]]
+
+
+[[removed.3.file_name]]
+PMMA sheet MFD1066.pdf
+
+[[removed.3.organization]]
+shared
+
+[[removed.3.psi_legacy_s3_path]]
+legacy/7280/4189/PMMA sheet MFD1066.pdf
+
+[[removed.3.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/PMMA sheet MFD1066.pdf
+
+[[removed.3.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/12651645/?inline=1&log=1
+
+[[removed.3.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.3.s3_path]]
+psi-data/PSI-26/Raw Data/PMMA sheet MFD1066.pdf
+
+[[removed.3.study_id.$oid]]
+67a3768509ed061032c125fc
+
+[[removed.3.subcategory]]
+Legacy/
+
+[[removed.4.bucket]]
+
+
+[[removed.4.file_name]]
+S1183MFA1020.pdf
+
+[[removed.4.organization]]
+shared
+
+[[removed.4.psi_legacy_s3_path]]
+legacy/7280/4189/S1183MFA1020.pdf
+
+[[removed.4.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/S1183MFA1020.pdf
+
+[[removed.4.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/12651647/?inline=1&log=1
+
+[[removed.4.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.4.s3_path]]
+psi-data/PSI-26/Raw Data/S1183MFA1020.pdf
+
+[[removed.4.study_id.$oid]]
+67a3768509ed061032c125fc
+
+[[removed.4.subcategory]]
+Legacy/
+
+[[removed.5.bucket]]
+
+
+[[removed.5.file_name]]
+S1183MFA1065.pdf
+
+[[removed.5.organization]]
+shared
+
+[[removed.5.psi_legacy_s3_path]]
+legacy/7280/4189/S1183MFA1065.pdf
+
+[[removed.5.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/S1183MFA1065.pdf
+
+[[removed.5.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/12651648/?inline=1&log=1
+
+[[removed.5.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.5.s3_path]]
+psi-data/PSI-26/Raw Data/S1183MFA1065.pdf
+
+[[removed.5.study_id.$oid]]
+67a3768509ed061032c125fc
+
+[[removed.5.subcategory]]
+Legacy/
+
+[[removed.6.bucket]]
+
+
+[[removed.6.file_name]]
+s1183mfa1085-Spherical sample final.pdf
+
+[[removed.6.organization]]
+shared
+
+[[removed.6.psi_legacy_s3_path]]
+legacy/7280/4189/s1183mfa1085-Spherical sample final.pdf
+
+[[removed.6.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/s1183mfa1085-Spherical sample final.pdf
+
+[[removed.6.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/12651649/?inline=1&log=1
+
+[[removed.6.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.6.s3_path]]
+psi-data/PSI-26/Raw Data/s1183mfa1085-Spherical sample final.pdf
+
+[[removed.6.study_id.$oid]]
+67a3768509ed061032c125fc
+
+[[removed.6.subcategory]]
+Legacy/
+
+[[removed.7.bucket]]
+
+
+[[removed.7.file_name]]
+s1183mfa1090-Cylindrical Samples.pdf
+
+[[removed.7.organization]]
+shared
+
+[[removed.7.psi_legacy_s3_path]]
+legacy/7280/4189/s1183mfa1090-Cylindrical Samples.pdf
+
+[[removed.7.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/s1183mfa1090-Cylindrical Samples.pdf
+
+[[removed.7.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/12651650/?inline=1&log=1
+
+[[removed.7.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.7.s3_path]]
+psi-data/PSI-26/Raw Data/s1183mfa1090-Cylindrical Samples.pdf
+
+[[removed.7.study_id.$oid]]
+67a3768509ed061032c125fc
+
+[[removed.7.subcategory]]
+Legacy/
+
+[[removed.8.bucket]]
+
+
+[[removed.8.file_name]]
+s1183mfa1110-flat.pdf
+
+[[removed.8.organization]]
+shared
+
+[[removed.8.psi_legacy_s3_path]]
+legacy/7280/4189/s1183mfa1110-flat.pdf
+
+[[removed.8.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/s1183mfa1110-flat.pdf
+
+[[removed.8.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/12651651/?inline=1&log=1
+
+[[removed.8.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.8.s3_path]]
+psi-data/PSI-26/Raw Data/s1183mfa1110-flat.pdf
+
+[[removed.8.study_id.$oid]]
+67a3768509ed061032c125fc
+
+[[removed.8.subcategory]]
+Legacy/
+
+[[removed.9.bucket]]
+
+
+[[removed.9.file_name]]
+s1183mfa1111-flat.pdf
+
+[[removed.9.organization]]
+shared
+
+[[removed.9.psi_legacy_s3_path]]
+legacy/7280/4189/s1183mfa1111-flat.pdf
+
+[[removed.9.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/s1183mfa1111-flat.pdf
+
+[[removed.9.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/12651652/?inline=1&log=1
+
+[[removed.9.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.9.s3_path]]
+psi-data/PSI-26/Raw Data/s1183mfa1111-flat.pdf
+
+[[removed.9.study_id.$oid]]
+67a3768509ed061032c125fc
+
+[[removed.9.subcategory]]
+Legacy/
+
+[[removed.10.bucket]]
+
+
+[[removed.10.file_name]]
+S1183MFD1022.pdf
+
+[[removed.10.organization]]
+shared
+
+[[removed.10.psi_legacy_s3_path]]
+legacy/7280/4189/S1183MFD1022.pdf
+
+[[removed.10.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/S1183MFD1022.pdf
+
+[[removed.10.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/12651654/?inline=1&log=1
+
+[[removed.10.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.10.s3_path]]
+psi-data/PSI-26/Raw Data/S1183MFD1022.pdf
+
+[[removed.10.study_id.$oid]]
+67a3768509ed061032c125fc
+
+[[removed.10.subcategory]]
+Legacy/
+
+[[removed.11.bucket]]
+
+
+[[removed.11.file_name]]
+s1183mfd1086_REV-.pdf
+
+[[removed.11.organization]]
+shared
+
+[[removed.11.psi_legacy_s3_path]]
+legacy/7280/4189/s1183mfd1086_REV-.pdf
+
+[[removed.11.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/s1183mfd1086_REV-.pdf
+
+[[removed.11.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/12651657/?inline=1&log=1
+
+[[removed.11.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.11.s3_path]]
+psi-data/PSI-26/Raw Data/s1183mfd1086_REV-.pdf
+
+[[removed.11.study_id.$oid]]
+67a3768509ed061032c125fc
+
+[[removed.11.subcategory]]
+Legacy/
+
+[[removed.12.bucket]]
+
+
+[[removed.12.file_name]]
+s1183mfd1091_REV-.pdf
+
+[[removed.12.organization]]
+shared
+
+[[removed.12.psi_legacy_s3_path]]
+legacy/7280/4189/s1183mfd1091_REV-.pdf
+
+[[removed.12.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/s1183mfd1091_REV-.pdf
+
+[[removed.12.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/12651658/?inline=1&log=1
+
+[[removed.12.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.12.s3_path]]
+psi-data/PSI-26/Raw Data/s1183mfd1091_REV-.pdf
+
+[[removed.12.study_id.$oid]]
+67a3768509ed061032c125fc
+
+[[removed.12.subcategory]]
+Legacy/
+
+[[removed.13.bucket]]
+
+
+[[removed.13.file_name]]
+s1183mfd1116_REV-.pdf
+
+[[removed.13.organization]]
+shared
+
+[[removed.13.psi_legacy_s3_path]]
+legacy/7280/4189/s1183mfd1116_REV-.pdf
+
+[[removed.13.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/s1183mfd1116_REV-.pdf
+
+[[removed.13.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/12651659/?inline=1&log=1
+
+[[removed.13.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.13.s3_path]]
+psi-data/PSI-26/Raw Data/s1183mfd1116_REV-.pdf
+
+[[removed.13.study_id.$oid]]
+67a3768509ed061032c125fc
+
+[[removed.13.subcategory]]
+Legacy/
+
+[[removed.14.bucket]]
+
+
+[[removed.14.file_name]]
+SPICE-front-window.pdf
+
+[[removed.14.organization]]
+shared
+
+[[removed.14.psi_legacy_s3_path]]
+legacy/7280/4189/SPICE-front-window.pdf
+
+[[removed.14.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/SPICE-front-window.pdf
+
+[[removed.14.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/12651661/?inline=1&log=1
+
+[[removed.14.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.14.s3_path]]
+psi-data/PSI-26/Raw Data/SPICE-front-window.pdf
+
+[[removed.14.study_id.$oid]]
+67a3768509ed061032c125fc
+
+[[removed.14.subcategory]]
+Legacy/
+
+[[removed.15.bucket]]
+
+
+[[removed.15.file_name]]
+60054MAFH000_C.pdf
+
+[[removed.15.organization]]
+shared
+
+[[removed.15.psi_legacy_s3_path]]
+legacy/7280/4189/60054MAFH000_C.pdf
+
+[[removed.15.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/60054MAFH000_C.pdf
+
+[[removed.15.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/12651662/?inline=1&log=1
+
+[[removed.15.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.15.s3_path]]
+psi-data/PSI-26/Raw Data/60054MAFH000_C.pdf
+
+[[removed.15.study_id.$oid]]
+67a3768509ed061032c125fc
+
+[[removed.15.subcategory]]
+Legacy/
+
+[[removed.16.bucket]]
+
+
+[[removed.16.file_name]]
+S1183MFA1000_A.pdf
+
+[[removed.16.organization]]
+shared
+
+[[removed.16.psi_legacy_s3_path]]
+legacy/7280/4189/S1183MFA1000_A.pdf
+
+[[removed.16.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/S1183MFA1000_A.pdf
+
+[[removed.16.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/12651663/?inline=1&log=1
+
+[[removed.16.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.16.s3_path]]
+psi-data/PSI-26/Raw Data/S1183MFA1000_A.pdf
+
+[[removed.16.study_id.$oid]]
+67a3768509ed061032c125fc
+
+[[removed.16.subcategory]]
+Legacy/
+
+[[removed.17.bucket]]
+
+
+[[removed.17.file_name]]
+S1183MFD1021_A.pdf
+
+[[removed.17.organization]]
+shared
+
+[[removed.17.psi_legacy_s3_path]]
+legacy/7280/4189/S1183MFD1021_A.pdf
+
+[[removed.17.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/S1183MFD1021_A.pdf
+
+[[removed.17.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/12651664/?inline=1&log=1
+
+[[removed.17.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.17.s3_path]]
+psi-data/PSI-26/Raw Data/S1183MFD1021_A.pdf
+
+[[removed.17.study_id.$oid]]
+67a3768509ed061032c125fc
+
+[[removed.17.subcategory]]
+Legacy/
+
+[[removed.18.bucket]]
+
+
+[[removed.18.file_name]]
+S1183MFD1026_A.pdf
+
+[[removed.18.organization]]
+shared
+
+[[removed.18.psi_legacy_s3_path]]
+legacy/7280/4189/S1183MFD1026_A.pdf
+
+[[removed.18.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/S1183MFD1026_A.pdf
+
+[[removed.18.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/12651665/?inline=1&log=1
+
+[[removed.18.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.18.s3_path]]
+psi-data/PSI-26/Raw Data/S1183MFD1026_A.pdf
+
+[[removed.18.study_id.$oid]]
+67a3768509ed061032c125fc
+
+[[removed.18.subcategory]]
+Legacy/
+
+[[removed.19.bucket]]
+
+
+[[removed.19.file_name]]
+S1183MFD1041.pdf
+
+[[removed.19.organization]]
+shared
+
+[[removed.19.psi_legacy_s3_path]]
+legacy/7280/4189/S1183MFD1041.pdf
+
+[[removed.19.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/S1183MFD1041.pdf
+
+[[removed.19.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/12651666/?inline=1&log=1
+
+[[removed.19.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.19.s3_path]]
+psi-data/PSI-26/Raw Data/S1183MFD1041.pdf
+
+[[removed.19.study_id.$oid]]
+67a3768509ed061032c125fc
+
+[[removed.19.subcategory]]
+Legacy/
+
+[[removed.20.bucket]]
+
+
+[[removed.20.file_name]]
+Short Nozzle MFA10771.pdf
+
+[[removed.20.organization]]
+shared
+
+[[removed.20.psi_legacy_s3_path]]
+legacy/7280/4189/Short Nozzle MFA10771.pdf
+
+[[removed.20.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/Short Nozzle MFA10771.pdf
+
+[[removed.20.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/12651667/?inline=1&log=1
+
+[[removed.20.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.20.s3_path]]
+psi-data/PSI-26/Raw Data/Short Nozzle MFA10771.pdf
+
+[[removed.20.study_id.$oid]]
+67a3768509ed061032c125fc
+
+[[removed.20.subcategory]]
+Legacy/
+
+[[removed.21.bucket]]
+
+
+[[removed.21.file_name]]
+SRD_BASS.pdf
+
+[[removed.21.organization]]
+shared
+
+[[removed.21.psi_legacy_s3_path]]
+legacy/7280/125/SRD_BASS.pdf
+
+[[removed.21.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/SRD_BASS.pdf
+
+[[removed.21.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/12660767/?inline=1&log=1
+
+[[removed.21.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.21.s3_path]]
+psi-data/PSI-26/Raw Data/SRD_BASS.pdf
+
+[[removed.21.study_id.$oid]]
+67a3768509ed061032c125fc
+
+[[removed.21.subcategory]]
+Legacy/
+
+[[removed.22.bucket]]
+
+
+[[removed.22.date_created]]
+
+
+[[removed.22.file_name]]
+DLD_BASS.pdf
+
+[[removed.22.organization]]
+shared
+
+[[removed.22.psi_legacy_s3_path]]
+legacy/7280/11572/DLD_BASS.pdf
+
+[[removed.22.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/DLD_BASS.pdf
+
+[[removed.22.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/12660771/?inline=1&log=1
+
+[[removed.22.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.22.s3_path]]
+psi-data/PSI-26/Raw Data/DLD_BASS.pdf
+
+[[removed.22.study_id.$oid]]
+67a3768509ed061032c125fc
+
+[[removed.22.subcategory]]
+Legacy/
+
+[[removed.23.bucket]]
+
+
+[[removed.23.date_created]]
+
+
+[[removed.23.file_name]]
+BASS test matrix.xlsx
+
+[[removed.23.organization]]
+shared
+
+[[removed.23.psi_legacy_s3_path]]
+legacy/7280/22141/BASS test matrix.xlsx
+
+[[removed.23.remote_path]]
+/Home/psi-data/PSI-26/Raw Data/BASS test matrix.xlsx
+
+[[removed.23.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/12660775/?inline=1&log=1
+
+[[removed.23.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.23.s3_path]]
+psi-data/PSI-26/Raw Data/BASS test matrix.xlsx
+
+[[removed.23.study_id.$oid]]
+67a3768509ed061032c125fc
+
+[[removed.23.subcategory]]
+Legacy/
+
+[[researchArea]]
+Combustion Science
+
+[[researchImpacts]]
+Current NASA spacecraft materials selection is based on a standard test method (NASA–STD–6001 Test 1) that segregates material based on 1-g behavior without consideration of low gravity effects. A critical element of this understanding is the radiative heat emission from the flame. These results are used in first order models and predictions of heat release in spacecraft fires and as a means to extend heat release data from tests like the NASA cone calorimeter test (NASA–STD–6001 Test 2) to a performance-based material selection process. Using nitrogen as a flame suppressant in microgravity provides a direct link to current and planned extinguishment techniques.
+BASS results provide essential guidance to ground-based microgravity combustion research efforts. Detailed combustion models are validated using the simpler flow environment afforded by tests in microgravity. Once validated, they can be used to build more complex combustion models needed to capture the important details of flames burning in normal gravity. These models have wide applicability to the general understanding of many terrestrial combustion problems and will guide novel spacecraft design and ensure the safety of future crewed missions.
+
+[[sourceAccession]]
+
+
+[[sourceLink]]
+
+
+[[spaceProgram]]
+National Aeronautics and Space Administration (NASA)
+
+[[subResearchArea]]
+Spacecraft Fire Safety
+
+[[submissionDate]]
+30-Jun-2013
+
+[[title]]
+Burning and Suppression of Solids
+
+[[versionMessage]]
+
+
+[[versionMessageLevel]]
+
+
+[[versionReason]]
+Additional documentation release

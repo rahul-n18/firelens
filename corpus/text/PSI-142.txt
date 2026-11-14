@@ -1,0 +1,757 @@
+[[accession]]
+PSI-142
+
+[[acknowledgments]]
+
+
+[[added.0.bucket]]
+
+
+[[added.0.file_name]]
+PSI-142_Analyzed Data_PSI data summary Princeton with links.xlsx
+
+[[added.0.organization]]
+shared
+
+[[added.0.psi_legacy_s3_path]]
+legacy/116733/227/PSI data summary Princeton with links.xlsx
+
+[[added.0.remote_path]]
+/Home/psi-data/PSI-142/Analyzed Data/PSI-142_Analyzed Data_PSI data summary Princeton with links.xlsx
+
+[[added.0.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/9688113/?inline=1&log=1
+
+[[added.0.resource_id.$oid]]
+65e737ee8e263688e9f9200c
+
+[[added.0.s3_path]]
+psi-data/PSI-142/Analyzed Data/PSI-142_Analyzed Data_PSI data summary Princeton with links.xlsx
+
+[[added.0.study_id.$oid]]
+67c9ea87ccb9559f59bfc704
+
+[[added.0.subcategory]]
+Modeling Data
+
+[[added.1.bucket]]
+psi-repo-prod
+
+[[added.1.file_name]]
+PSI-142_Experimental table_Data Summary Table.csv
+
+[[added.1.organization]]
+shared
+
+[[added.1.remote_path]]
+/Home/psi-data/PSI-142/Experimental table/PSI-142_Experimental table_Data Summary Table.csv
+
+[[added.1.remote_url]]
+/datamanager/file/Home/psi-data/PSI-142/Experimental table/PSI-142_Experimental table_Data Summary Table.csv
+
+[[added.1.resource_id.$oid]]
+66cf53d46f1142c964b2e0a8
+
+[[added.1.s3_path]]
+psi-data/PSI-142/Experimental table/PSI-142_Experimental table_Data Summary Table.csv
+
+[[added.1.s3_version_id]]
+P2Yx91VbxrIhv7SqrVVtOWcd0S0af3IZ
+
+[[added.1.study_id.$oid]]
+67c9ea87ccb9559f59bfc704
+
+[[added.1.subcategory]]
+
+
+[[approach]]
+Using the experimental conditions of FLEX flight, a comparative studies of the oxygen concentration effects on the extinction limits of cool flames was conducted using three different numerical modeling schemes, (a) spark-assisted flame propagation of a n-heptane/air mixture, (b) one dimensional freely-propagating dimethyl ether (DME) flames using an arc-length continuation method and (c) simulated cool flame regimes and burning limits at elevated pressure (up to 20 atm) using DME/air mixtures.
+
+Specific research details are outlined in the publication, ''Dynamics of cool flames'' [https://doi.org/10.1016/j.pecs.2019.100787]; '' Understanding Cool Flames and Warm Flames'', [https://doi.org/10.1016/j.proci.2020.09.019] and ''Study of the low-temperature reactivity of large n-alkanes through cool diffusion flame extinction'', [https://doi.org/10.1016/j.combustflame.2017.01.028].
+
+[[contacts.0.@id]]
+
+
+[[contacts.0.address]]
+
+
+[[contacts.0.affiliation]]
+Princeton University
+
+[[contacts.0.comments.0.name]]
+Study Person REF
+
+[[contacts.0.comments.0.value]]
+
+
+[[contacts.0.email]]
+yju@princeton.edu
+
+[[contacts.0.fax]]
+
+
+[[contacts.0.firstName]]
+Yiguang
+
+[[contacts.0.lastName]]
+Ju
+
+[[contacts.0.midInitials]]
+
+
+[[contacts.0.phone]]
+
+
+[[contacts.0.roles.0.@id]]
+dEBvA2jSs25xM9IfCv5ploF8MUDFt0ACKekf97KJ
+
+[[contacts.0.roles.0.annotationValue]]
+Principal Investigator (PI)
+
+[[contacts.0.roles.0.termAccession]]
+Principal Investigator (PI)
+
+[[contacts.0.roles.0.termSource]]
+
+
+[[contacts.1.@id]]
+
+
+[[contacts.1.address]]
+
+
+[[contacts.1.affiliation]]
+NASA GRC
+
+[[contacts.1.comments.0.name]]
+Study Person REF
+
+[[contacts.1.comments.0.value]]
+
+
+[[contacts.1.email]]
+daniel.l.dietrich@nasa.gov
+
+[[contacts.1.fax]]
+
+
+[[contacts.1.firstName]]
+Daniel
+
+[[contacts.1.lastName]]
+Dietrich
+
+[[contacts.1.midInitials]]
+
+
+[[contacts.1.phone]]
+
+
+[[contacts.1.roles.0.@id]]
+Dnk4ouM7YjrcdVdTTgeNZZuCETslO4fpv4OhnLfr
+
+[[contacts.1.roles.0.annotationValue]]
+Technical Point of Contact
+
+[[contacts.1.roles.0.termAccession]]
+Technical Point of Contact
+
+[[contacts.1.roles.0.termSource]]
+
+
+[[contacts.2.@id]]
+
+
+[[contacts.2.address]]
+
+
+[[contacts.2.affiliation]]
+Princeton University
+
+[[contacts.2.comments.0.name]]
+Study Person REF
+
+[[contacts.2.comments.0.value]]
+
+
+[[contacts.2.email]]
+cbreuter@princeton.edu
+
+[[contacts.2.fax]]
+
+
+[[contacts.2.firstName]]
+Christopher
+
+[[contacts.2.lastName]]
+Reuter
+
+[[contacts.2.midInitials]]
+
+
+[[contacts.2.phone]]
+
+
+[[contacts.2.roles.0.@id]]
+59J36d8A36ZR1iSs6NNVDRYelIkilTNb30me8Erm
+
+[[contacts.2.roles.0.annotationValue]]
+Co-Investigator (Co-I)
+
+[[contacts.2.roles.0.termAccession]]
+Co-Investigator (Co-I)
+
+[[contacts.2.roles.0.termSource]]
+
+
+[[description]]
+
+
+[[doi]]
+10.60555/80qf-vj95
+
+[[experimentHardware]]
+Principal Investigator Laboratory Hardware
+
+[[experimentHardwareLink]]
+https://doi.org/10.1016/j.combustflame.2016.01.008
+
+[[experimentalTable.0._id.$oid]]
+67c9ea87ccb9559f59bfc700
+
+[[experimentalTable.0.file_name]]
+PSI-142_Experimental table_Data Summary Table.csv
+
+[[experimentalTable.0.remote_path]]
+/Home/psi-data/PSI-142/Experimental table/PSI-142_Experimental table_Data Summary Table.csv
+
+[[experimentalTable.0.remote_url]]
+/datamanager/file/Home/psi-data/PSI-142/Experimental table/PSI-142_Experimental table_Data Summary Table.csv
+
+[[experimentalTable.0.resource_id.$oid]]
+66cf53d46f1142c964b2e0a8
+
+[[experimentalTable.0.s3_path]]
+psi-data/PSI-142/Experimental table/PSI-142_Experimental table_Data Summary Table.csv
+
+[[experimentalTable.0.s3_version_id]]
+P2Yx91VbxrIhv7SqrVVtOWcd0S0af3IZ
+
+[[experimentalTable.0.study_id.$oid]]
+67c9ea87ccb9559f59bfc704
+
+[[experimentalTable.0.subcategory]]
+
+
+[[flightProgram]]
+Not Applicable
+
+[[funding]]
+NNX16AK07G
+
+[[hypothesis]]
+This investigation attempts to answer the critical question as to what conditions causes the hot flames transfer to cool flames and how the cool flame flammable region is related to hot flame flammability limit and extinction limit. The investigation hypothesizes that factors such as oxygen concentration, dilution, pressure, diffusion, and convection transport processes affect the cool flame transition.
+
+[[investigationAcronym]]
+
+
+[[investigationEndDate]]
+07-31-2021
+
+[[investigationStartDate]]
+08-01-2016
+
+[[licenseIdentifier]]
+CC0-1.0
+
+[[licenseLink]]
+https://spdx.org/licenses/CC0-1.0.html
+
+[[licenseName]]
+Creative Commons Zero v1.0 Universal
+
+[[managingNasaCenter]]
+Glenn Research Center (GRC)
+
+[[missionEnd]]
+
+
+[[missionLink]]
+
+
+[[missionName]]
+
+
+[[missionStart]]
+
+
+[[modified.0.bucket]]
+psi-repo-prod
+
+[[modified.0.file_name]]
+PSI-142_metadata_PSI-164_Quantitative Studies.zip
+
+[[modified.0.organization]]
+OSD
+
+[[modified.0.remote_path]]
+/Home/psi-data/PSI-142/metadata/PSI-142_metadata_PSI-164_Quantitative Studies.zip
+
+[[modified.0.remote_url]]
+/datamanager/file/Home/psi-data/PSI-142/metadata/PSI-142_metadata_PSI-164_Quantitative Studies.zip
+
+[[modified.0.resource_id.$oid]]
+65e0a4d4931988043eebcd6e
+
+[[modified.0.s3_path]]
+psi-data/PSI-142/metadata/PSI-142_metadata_PSI-164_Quantitative Studies.zip
+
+[[modified.0.s3_version_id]]
+YG1FzNaVcVPGTpfL1_ufVF5cdtl4TYHF
+
+[[modified.0.study_id.$oid]]
+6751dd65754fcbc3b70fa01c
+
+[[modifiedDate]]
+06-Mar-2025
+
+[[objective]]
+By using the Flame Extinguishment (FLEX) experimental data from the Physical Sciences Informatics (PSI) system of combustion science, the purpose of this grant was to conduct new simulations and ground-based experiments using ozone-sensitized counterflow flames to:
+    1) Develop a new diagram of the flammability limits of diffusional cool flames affected by radiation, diffusion, and convection.
+    2) Bridge the knowledge gap between the flammability limits and extinction limits of hot flames and cool flames.
+    3) Verify the phenomena observed on the ISS flame extinguishment experiments.
+    4) Obtain new, quantitative data of extinction limit, flame temperature, and species distribution for the validation of kinetic and radiation models involving cool flames.
+    5) Extend the cool flame experiments from the original ISS droplet experiments to a more general ground-based combustion system involving radiation, diffusion, convection, and low-temperature chemistry while maintaining a one-dimensional geometry.
+
+[[projectIdentifier]]
+
+
+[[projectLink]]
+
+
+[[projectTitle]]
+
+
+[[projectType]]
+Ground Investigation
+
+[[proposalTitle]]
+
+
+[[publications.0.authorList]]
+Ju Yiguang, Reuter Christopher B., Yehia Omar R., Farouk Tanvir I., Won Sang Hee
+
+[[publications.0.doi]]
+10.1016/j.pecs.2019.100787
+
+[[publications.0.pubMedID]]
+
+
+[[publications.0.status.@id]]
+Rd2oZxVKYUnMCRj3tbHg0eGQhfrFmtiEFnMOyDHF
+
+[[publications.0.status.annotationValue]]
+published
+
+[[publications.0.status.termAccession]]
+http://www.ebi.ac.uk/efo/EFO_0001796
+
+[[publications.0.status.termSource]]
+EFO
+
+[[publications.0.title]]
+Dynamics of cool flames
+
+[[publications.1.authorList]]
+Zhou Mengni, Yehia Omar R., Xu Wenbin, Reuter Christopher B., Wang Ziyu, Yan Chao, Jiang Bo, Ju Yiguang
+
+[[publications.1.doi]]
+10.1016/j.combustflame.2021.111471
+
+[[publications.1.pubMedID]]
+
+
+[[publications.1.status.@id]]
+Rd2oZxVKYUnMCRj3tbHg0eGQhfrFmtiEFnMOyDHF
+
+[[publications.1.status.annotationValue]]
+published
+
+[[publications.1.status.termAccession]]
+http://www.ebi.ac.uk/efo/EFO_0001796
+
+[[publications.1.status.termSource]]
+EFO
+
+[[publications.1.title]]
+The radical index and the effect of oxygen concentration on non-premixed cool flame extinction of large n-alkanes
+
+[[publications.2.authorList]]
+Ju Yiguang
+
+[[publications.2.doi]]
+10.1016/j.combustflame.2017.01.006
+
+[[publications.2.pubMedID]]
+
+
+[[publications.2.status.@id]]
+Rd2oZxVKYUnMCRj3tbHg0eGQhfrFmtiEFnMOyDHF
+
+[[publications.2.status.annotationValue]]
+published
+
+[[publications.2.status.termAccession]]
+http://www.ebi.ac.uk/efo/EFO_0001796
+
+[[publications.2.status.termSource]]
+EFO
+
+[[publications.2.title]]
+On the propagation limits and speeds of premixed cool flames at elevated pressures
+
+[[publications.3.authorList]]
+Reuter Christopher B., Lee Minhyeok, Won Sang Hee, Ju Yiguang
+
+[[publications.3.doi]]
+10.1016/j.combustflame.2017.01.028
+
+[[publications.3.pubMedID]]
+
+
+[[publications.3.status.@id]]
+Rd2oZxVKYUnMCRj3tbHg0eGQhfrFmtiEFnMOyDHF
+
+[[publications.3.status.annotationValue]]
+published
+
+[[publications.3.status.termAccession]]
+http://www.ebi.ac.uk/efo/EFO_0001796
+
+[[publications.3.status.termSource]]
+EFO
+
+[[publications.3.title]]
+Study of the low-temperature reactivity of large n-alkanes through cool diffusion flame extinction
+
+[[publications.4.authorList]]
+Reuter Christopher B., Zhang Rui, Yehia Omar R., Rezgui Yacine, Ju Yiguang
+
+[[publications.4.doi]]
+10.1016/j.combustflame.2018.06.004
+
+[[publications.4.pubMedID]]
+
+
+[[publications.4.status.@id]]
+Rd2oZxVKYUnMCRj3tbHg0eGQhfrFmtiEFnMOyDHF
+
+[[publications.4.status.annotationValue]]
+published
+
+[[publications.4.status.termAccession]]
+http://www.ebi.ac.uk/efo/EFO_0001796
+
+[[publications.4.status.termSource]]
+EFO
+
+[[publications.4.title]]
+Counterflow flame experiments and chemical kinetic modeling of dimethyl ether/methane mixtures
+
+[[publications.5.authorList]]
+Yehia Omar R., Reuter Christopher B., Ju Yiguang
+
+[[publications.5.doi]]
+10.1016/j.combustflame.2018.03.013
+
+[[publications.5.pubMedID]]
+
+
+[[publications.5.status.@id]]
+Rd2oZxVKYUnMCRj3tbHg0eGQhfrFmtiEFnMOyDHF
+
+[[publications.5.status.annotationValue]]
+published
+
+[[publications.5.status.termAccession]]
+http://www.ebi.ac.uk/efo/EFO_0001796
+
+[[publications.5.status.termSource]]
+EFO
+
+[[publications.5.title]]
+Low-temperature multistage warm diffusion flames
+
+[[publications.6.authorList]]
+Lin Eric, Reuter Christopher B., Ju Yiguang
+
+[[publications.6.doi]]
+10.1016/j.proci.2018.05.082
+
+[[publications.6.pubMedID]]
+
+
+[[publications.6.status.@id]]
+Rd2oZxVKYUnMCRj3tbHg0eGQhfrFmtiEFnMOyDHF
+
+[[publications.6.status.annotationValue]]
+published
+
+[[publications.6.status.termAccession]]
+http://www.ebi.ac.uk/efo/EFO_0001796
+
+[[publications.6.status.termSource]]
+EFO
+
+[[publications.6.title]]
+Dynamics and burning limits of near-limit hot, warm, and cool diffusion flames of dimethyl ether at elevated pressures
+
+[[publications.7.authorList]]
+Yehia Omar R., Reuter Christopher B., Ju Yiguang
+
+[[publications.7.doi]]
+10.1016/j.proci.2018.06.161
+
+[[publications.7.pubMedID]]
+
+
+[[publications.7.status.@id]]
+Rd2oZxVKYUnMCRj3tbHg0eGQhfrFmtiEFnMOyDHF
+
+[[publications.7.status.annotationValue]]
+published
+
+[[publications.7.status.termAccession]]
+http://www.ebi.ac.uk/efo/EFO_0001796
+
+[[publications.7.status.termSource]]
+EFO
+
+[[publications.7.title]]
+On the chemical characteristics and dynamics of n-alkane low-temperature multistage diffusion flames
+
+[[publications.8.authorList]]
+Kurimoto Naoki, Brumfield Brian, Yang Xueliang, Wada Tomoya, Diévart Pascal, Wysocki Gerard, Ju Yiguang
+
+[[publications.8.doi]]
+10.1016/j.proci.2014.05.120
+
+[[publications.8.pubMedID]]
+
+
+[[publications.8.status.@id]]
+Rd2oZxVKYUnMCRj3tbHg0eGQhfrFmtiEFnMOyDHF
+
+[[publications.8.status.annotationValue]]
+published
+
+[[publications.8.status.termAccession]]
+http://www.ebi.ac.uk/efo/EFO_0001796
+
+[[publications.8.status.termSource]]
+EFO
+
+[[publications.8.title]]
+Quantitative measurements of HO 2 /H 2 O 2 and intermediate species in low and intermediate temperature oxidation of dimethyl ether
+
+[[publications.9.authorList]]
+Yiguang Ju, Mengni Zhou, Omar R. Yehia, Wenbin Xu, Christopher B. Reuter, Ziyu Wang,  Chao Yan
+
+[[publications.9.doi]]
+
+
+[[publications.9.pubMedID]]
+
+
+[[publications.9.status.@id]]
+Rd2oZxVKYUnMCRj3tbHg0eGQhfrFmtiEFnMOyDHF
+
+[[publications.9.status.annotationValue]]
+published
+
+[[publications.9.status.termAccession]]
+http://www.ebi.ac.uk/efo/EFO_0001796
+
+[[publications.9.status.termSource]]
+EFO
+
+[[publications.9.title]]
+SUPPLEMENTARY MATERIAL
+The radical index and the effect of oxygen concentration on non-premixed cool flame extinction of large n-alkanes
+
+[[publications.10.authorList]]
+CB. Reuter, E. Lin, Y. Ju
+
+[[publications.10.doi]]
+
+
+[[publications.10.pubMedID]]
+
+
+[[publications.10.status.@id]]
+Rd2oZxVKYUnMCRj3tbHg0eGQhfrFmtiEFnMOyDHF
+
+[[publications.10.status.annotationValue]]
+published
+
+[[publications.10.status.termAccession]]
+http://www.ebi.ac.uk/efo/EFO_0001796
+
+[[publications.10.status.termSource]]
+EFO
+
+[[publications.10.title]]
+Pressure and Radiation Effects on the Dynamics of Hot and Cool Diffusion Flames
+
+[[publications.11.authorList]]
+Reuter Christopher B., Katta Viswanath R., Yehia Omar R., Ju Yiguang
+
+[[publications.11.doi]]
+10.1016/j.proci.2018.07.050
+
+[[publications.11.pubMedID]]
+
+
+[[publications.11.status.@id]]
+Rd2oZxVKYUnMCRj3tbHg0eGQhfrFmtiEFnMOyDHF
+
+[[publications.11.status.annotationValue]]
+published
+
+[[publications.11.status.termAccession]]
+http://www.ebi.ac.uk/efo/EFO_0001796
+
+[[publications.11.status.termSource]]
+EFO
+
+[[publications.11.title]]
+Transient interactions between a premixed double flame and a vortex
+
+[[related_glds]]
+PSI-69
+
+[[releaseDate]]
+18-Sep-2024
+
+[[removed.0.bucket]]
+
+
+[[removed.0.file_name]]
+1-Cover Page.docx
+
+[[removed.0.organization]]
+shared
+
+[[removed.0.psi_legacy_s3_path]]
+legacy/116732/10430/1-Cover Page.docx
+
+[[removed.0.remote_path]]
+/Home/psi-data/PSI-142/Raw Data/1-Cover Page.docx
+
+[[removed.0.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/9687939/?inline=1&log=1
+
+[[removed.0.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.0.s3_path]]
+psi-data/PSI-142/Raw Data/1-Cover Page.docx
+
+[[removed.0.study_id.$oid]]
+6751dd65754fcbc3b70fa01c
+
+[[removed.0.subcategory]]
+Legacy/
+
+[[removed.1.bucket]]
+
+
+[[removed.1.file_name]]
+PSI data summary Princeton with links.xlsx
+
+[[removed.1.organization]]
+shared
+
+[[removed.1.psi_legacy_s3_path]]
+legacy/116733/227/PSI data summary Princeton with links.xlsx
+
+[[removed.1.remote_path]]
+/Home/psi-data/PSI-142/Analyzed Data/PSI data summary Princeton with links.xlsx
+
+[[removed.1.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/9688113/?inline=1&log=1
+
+[[removed.1.resource_id.$oid]]
+65e737ee8e263688e9f9200c
+
+[[removed.1.s3_path]]
+psi-data/PSI-142/Analyzed Data/PSI data summary Princeton with links.xlsx
+
+[[removed.1.study_id.$oid]]
+6751dd65754fcbc3b70fa01c
+
+[[removed.1.subcategory]]
+Legacy/Analyzed Data - Data ID 1 - 8
+
+[[removed.2.bucket]]
+
+
+[[removed.2.file_name]]
+Quantitative Studies of Cool Flame Transitions at RadiationStretch Extinction Using Counterflow Flames DoD.docx
+
+[[removed.2.organization]]
+shared
+
+[[removed.2.psi_legacy_s3_path]]
+legacy/116732/11572/Quantitative Studies of Cool Flame Transitions at RadiationStretch Extinction Using Counterflow Flames DoD.docx
+
+[[removed.2.remote_path]]
+/Home/psi-data/PSI-142/Raw Data/Quantitative Studies of Cool Flame Transitions at RadiationStretch Extinction Using Counterflow Flames DoD.docx
+
+[[removed.2.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/10441948/?inline=1&log=1
+
+[[removed.2.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.2.s3_path]]
+psi-data/PSI-142/Raw Data/Quantitative Studies of Cool Flame Transitions at RadiationStretch Extinction Using Counterflow Flames DoD.docx
+
+[[removed.2.study_id.$oid]]
+6751dd65754fcbc3b70fa01c
+
+[[removed.2.subcategory]]
+Legacy/
+
+[[researchArea]]
+Combustion Science
+
+[[researchImpacts]]
+Obtaining a fundamental understanding of the warm diffusion flame is particularly relevant to combustion in highly turbulent flow fields and in microgravity environments, owing to the possibility of long residence times. The results showed that the warm flame has a double reaction zone structure and plays a critical role in the transition between cool flames and hot flames. At elevated pressures, it was found that the flammable region of warm flames and cool flames expands due to the increase in low-temperature and intermediate-temperature reactivity with pressure. Since many real engines operate in the 20-40 atm pressure range, therefore, cool flames and warm flames are relevant and important flame regimes for high-pressure near-limit combustion applications. These calculations from this investigation will serve to advance the understanding of near-limit flame dynamics and provide guidance for experimental observation of different flame regimes.
+
+[[sourceAccession]]
+
+
+[[sourceLink]]
+
+
+[[spaceProgram]]
+National Aeronautics and Space Administration (NASA)
+
+[[subResearchArea]]
+Spacecraft Fire Safety
+
+[[submissionDate]]
+18-Sep-2024
+
+[[title]]
+Quantitative Studies of Cool Flame Transitions at Radiation / Stretch Extinction Using Counterflow Flames
+
+[[versionMessage]]
+
+
+[[versionMessageLevel]]
+
+
+[[versionReason]]
+Analyzed data release

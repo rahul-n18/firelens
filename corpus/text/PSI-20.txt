@@ -1,0 +1,808 @@
+[[accession]]
+PSI-20
+
+[[acknowledgments]]
+
+
+[[added.0.bucket]]
+psi-repo-prod
+
+[[added.0.file_name]]
+PSI-20_Experimental table_ACME BRE.csv
+
+[[added.0.organization]]
+shared
+
+[[added.0.remote_path]]
+/Home/psi-data/PSI-20/Experimental table/PSI-20_Experimental table_ACME BRE.csv
+
+[[added.0.remote_url]]
+/datamanager/file/Home/psi-data/PSI-20/Experimental table/PSI-20_Experimental table_ACME BRE.csv
+
+[[added.0.resource_id.$oid]]
+66cf53d46f1142c964b2e0a8
+
+[[added.0.s3_path]]
+psi-data/PSI-20/Experimental table/PSI-20_Experimental table_ACME BRE.csv
+
+[[added.0.s3_version_id]]
+g6l26KykcaoGyHIxeLs2Opwz.04oc7z8
+
+[[added.0.study_id.$oid]]
+67900e38b7b6ff8e6502900d
+
+[[added.0.subcategory]]
+
+
+[[approach]]
+To accomplish the above objectives, flight experiments are proposed. Additionally, preliminary flight tests will be performed to verify the experiment operations and for comparison with ground-based tests.
+
+For each test, conditions will be established for the chamber contents, namely choice of diluent, oxygen concentration, and pressure. Fuel flow will commence followed by ignition. The flames will initially be observed without varying the fuel flow rate. Because burner surface temperature and heat flux will vary, this will allow a broad range of conditions to be observed during a single test. As the surface temperature of the burner increases, and the flame remains steady, a continuous set of data is produced for the flammability map. Eventually either the flame will extinguish, the surface temperature of the burner will equilibrate, or the temperature limit of the heat flux sensor will be reached. At this time the fuel flow will be terminated. So a test should terminate for a given flow rate at extinction, and for continued burning when the burner surface temperature has steadied or the temperature limit of the heat flux sensor is neared.
+
+The extinction limit could be found once the burner temperature has steadied, and the heat flux sensor has not exceeded its limit. At that state, the flow rate can be reduced in small increments, until extinction is observed and the flow rate shut off. Again, in this process, new data is being produced for the flammability map. Ignition limit tests are not proposed for microgravity, but we will explore these under normal gravity. We believe there is better control on Earth-based ignition testing and that these results should carry over to microgravity conditions.
+
+In addition to the flight experiments, in normal gravity testing will continue. These tests will involve gaseous, liquid, and solid fuels. These experiments will further establish the validation of the BRE for 1-g applications and show its usefulness to establish 1-g ignition and extinction limits. As available, drop facility testing will be used to refine procedures, test instrumentation, and help to establish viable flow conditions.
+
+We will also pursue a CFD model for the quiescent microgravity burning. This will also guide us in the flight experiments, and potentially provide a predictive methodology.
+
+[[contacts.0.@id]]
+
+
+[[contacts.0.address]]
+
+
+[[contacts.0.affiliation]]
+
+
+[[contacts.0.comments.0.name]]
+Study Person REF
+
+[[contacts.0.comments.0.value]]
+
+
+[[contacts.0.comments.1.name]]
+orcidIdentifier
+
+[[contacts.0.comments.1.value]]
+
+
+[[contacts.0.email]]
+
+
+[[contacts.0.fax]]
+
+
+[[contacts.0.firstName]]
+John L de
+
+[[contacts.0.lastName]]
+Ris
+
+[[contacts.0.midInitials]]
+
+
+[[contacts.0.phone]]
+
+
+[[contacts.0.roles.0.@id]]
+7m1YOwjIRw57ROwhjAWmE5Mf3AcwDPIZQeMpJKN7
+
+[[contacts.0.roles.0.annotationValue]]
+Co-Investigator (Co-I)
+
+[[contacts.0.roles.0.termAccession]]
+https://www.psi.nasa.gov
+
+[[contacts.0.roles.0.termSource]]
+
+
+[[contacts.1.@id]]
+
+
+[[contacts.1.address]]
+
+
+[[contacts.1.affiliation]]
+University of Maryland
+
+[[contacts.1.comments.0.name]]
+Study Person REF
+
+[[contacts.1.comments.0.value]]
+
+
+[[contacts.1.comments.1.name]]
+orcidIdentifier
+
+[[contacts.1.comments.1.value]]
+
+
+[[contacts.1.email]]
+pbs@umd.edu
+
+[[contacts.1.fax]]
+
+
+[[contacts.1.firstName]]
+Peter
+
+[[contacts.1.lastName]]
+Sunderland
+
+[[contacts.1.midInitials]]
+
+
+[[contacts.1.phone]]
+
+
+[[contacts.1.roles.0.@id]]
+UPDBsFjwjds0hw6t0IuVN6evepdczdMm2HLYqwom
+
+[[contacts.1.roles.0.annotationValue]]
+Project Scientist
+
+[[contacts.1.roles.0.termAccession]]
+Project Scientist
+
+[[contacts.1.roles.0.termSource]]
+
+
+[[contacts.2.@id]]
+
+
+[[contacts.2.address]]
+
+
+[[contacts.2.affiliation]]
+University of Maryland
+
+[[contacts.2.comments.0.name]]
+Study Person REF
+
+[[contacts.2.comments.0.value]]
+
+
+[[contacts.2.comments.1.name]]
+orcidIdentifier
+
+[[contacts.2.comments.1.value]]
+0000-0002-1863-6563
+
+[[contacts.2.email]]
+jimq@umd.edu
+
+[[contacts.2.fax]]
+
+
+[[contacts.2.firstName]]
+James
+
+[[contacts.2.lastName]]
+Quintiere
+
+[[contacts.2.midInitials]]
+G.
+
+[[contacts.2.phone]]
+
+
+[[contacts.2.roles.0.@id]]
+dEBvA2jSs25xM9IfCv5ploF8MUDFt0ACKekf97KJ
+
+[[contacts.2.roles.0.annotationValue]]
+Principal Investigator (PI)
+
+[[contacts.2.roles.0.termAccession]]
+Principal Investigator (PI)
+
+[[contacts.2.roles.0.termSource]]
+
+
+[[contacts.3.@id]]
+
+
+[[contacts.3.address]]
+
+
+[[contacts.3.affiliation]]
+NASA GRC
+
+[[contacts.3.comments.0.name]]
+Study Person REF
+
+[[contacts.3.comments.0.value]]
+
+
+[[contacts.3.comments.1.name]]
+orcidIdentifier
+
+[[contacts.3.comments.1.value]]
+
+
+[[contacts.3.email]]
+dennis.p.stocker@nasa.gov
+
+[[contacts.3.fax]]
+
+
+[[contacts.3.firstName]]
+Dennis
+
+[[contacts.3.lastName]]
+Stocker
+
+[[contacts.3.midInitials]]
+
+
+[[contacts.3.phone]]
+
+
+[[contacts.3.roles.0.@id]]
+UPDBsFjwjds0hw6t0IuVN6evepdczdMm2HLYqwom
+
+[[contacts.3.roles.0.annotationValue]]
+Project Scientist
+
+[[contacts.3.roles.0.termAccession]]
+Project Scientist
+
+[[contacts.3.roles.0.termSource]]
+
+
+[[description]]
+
+
+[[doi]]
+10.60555/vb93-3y72
+
+[[experimentHardware]]
+Combustion Integrated Rack (CIR), ACME
+
+[[experimentHardwareLink]]
+https://www1.grc.nasa.gov/space/iss-research/iss-fcf/cir/, https://www1.grc.nasa.gov/space/iss-research/iss-fcf/combustion-science/acme/
+
+[[experimentalTable.0._id.$oid]]
+67900e38b7b6ff8e6502900c
+
+[[experimentalTable.0.file_name]]
+PSI-20_Experimental table_ACME BRE.csv
+
+[[experimentalTable.0.remote_path]]
+/Home/psi-data/PSI-20/Experimental table/PSI-20_Experimental table_ACME BRE.csv
+
+[[experimentalTable.0.remote_url]]
+/datamanager/file/Home/psi-data/PSI-20/Experimental table/PSI-20_Experimental table_ACME BRE.csv
+
+[[experimentalTable.0.resource_id.$oid]]
+66cf53d46f1142c964b2e0a8
+
+[[experimentalTable.0.s3_path]]
+psi-data/PSI-20/Experimental table/PSI-20_Experimental table_ACME BRE.csv
+
+[[experimentalTable.0.s3_version_id]]
+g6l26KykcaoGyHIxeLs2Opwz.04oc7z8
+
+[[experimentalTable.0.study_id.$oid]]
+67900e38b7b6ff8e6502900d
+
+[[experimentalTable.0.subcategory]]
+
+
+[[flightProgram]]
+International Space Station (ISS)
+
+[[funding]]
+NNX10AD98G, NNX15AD06A, 80NSSC20M0119
+
+[[hypothesis]]
+The BRE investigation hypothesizes that there can exist a regime of quasi-steady burning in microgravity as a function of materials properties. Steady burning may never be achieved, and only slowly changing unsteady flames are possible. The proposed tests aboard the ISS aims to query this hypothesis by establishing a range of quasi-steady burning conditions for condensed fuels in the microgravity environment. It is hypothesized that BRE can determine a range of burning conditions in microgravity as a function of heat of gasification, reradiation heat flux, applied radiant heat flux, heat of combustion and smoke point. This could enable the Cone Calorimeter (NASA Test 2) test as a basis for establishing flammability maps for real materials.
+
+The key hypothesis is that the heat of combustion, smoke point, and heat of gasification of the fuel mixture will represent a real solid fuel (or liquid fuel absorbed in an inert matrix). Thus achieved steady burning would represent the potential for real solid fuels to achieve steady burning in microgravity. Other than a candle flame, this has not been shown before.
+
+[[investigationAcronym]]
+ACME BRE
+
+[[investigationEndDate]]
+02-08-2025
+
+[[investigationStartDate]]
+01-01-2010
+
+[[licenseIdentifier]]
+CC0-1.0
+
+[[licenseLink]]
+https://spdx.org/licenses/CC0-1.0.html
+
+[[licenseName]]
+Creative Commons Zero v1.0 Universal
+
+[[managingNasaCenter]]
+Glenn Research Center (GRC)
+
+[[missionEnd]]
+
+
+[[missionLink]]
+
+
+[[missionName]]
+
+
+[[missionStart]]
+
+
+[[modified.0.bucket]]
+psi-repo-prod
+
+[[modified.0.file_name]]
+PSI-20_metadata_PSI-96_ACME BRE.zip
+
+[[modified.0.organization]]
+OSD
+
+[[modified.0.remote_path]]
+/Home/psi-data/PSI-20/metadata/PSI-20_metadata_PSI-96_ACME BRE.zip
+
+[[modified.0.remote_url]]
+/datamanager/file/Home/psi-data/PSI-20/metadata/PSI-20_metadata_PSI-96_ACME BRE.zip
+
+[[modified.0.resource_id.$oid]]
+65e0a4d4931988043eebcd6e
+
+[[modified.0.s3_path]]
+psi-data/PSI-20/metadata/PSI-20_metadata_PSI-96_ACME BRE.zip
+
+[[modified.0.s3_version_id]]
+lqHjzzsa4.8g9sQc7JgfnVbQAiQWpJfM
+
+[[modified.0.study_id.$oid]]
+6705412df95ac2bc984346cf
+
+[[modifiedDate]]
+05-Jun-2025
+
+[[objective]]
+The BRE flight program seeks to establish the burning conditions in a quiescent microgravity ambient in terms of material properties.
+The specific flight objectives are as follows.
+  1. Observe burning behavior in long-duration microgravity for CH4/N2 and C2H4/N2mixtures on porous circular burners of 25  and 50 mm diameter. Consider O2/N2 ambients with various pressures and ambient O2 concentrations and pressures. NASA - considered atmosphere for human space missions will be examined: 14.7 psia, 21 % oxygen: 10.2 psia, 26.5 %; and 8.2 psia, 34 % oxygen. Emphasize fuel conditions that can be related to a diverse range of condensed fuels.
+  2. Consider the conditions of Objective 1 for ambients of O2/CO2 (desired).
+  3. Consider the conditions of Objectives 1 – 2 for extinction limits.
+
+[[projectIdentifier]]
+
+
+[[projectLink]]
+
+
+[[projectTitle]]
+
+
+[[projectType]]
+Microgravity Investigation
+
+[[proposalTitle]]
+Experimental Investigation of Emulated Burning Rate at Various Gravity Levels
+
+[[publications.0.authorList]]
+Zhang Yi, Bustamante Michael J, Gollner Michael J, Sunderland Peter B, Quintiere James G
+
+[[publications.0.doi]]
+10.1177/0734904113495650
+
+[[publications.0.pubMedID]]
+
+
+[[publications.0.status.@id]]
+Rd2oZxVKYUnMCRj3tbHg0eGQhfrFmtiEFnMOyDHF
+
+[[publications.0.status.annotationValue]]
+published
+
+[[publications.0.status.termAccession]]
+http://www.ebi.ac.uk/efo/EFO_0001796
+
+[[publications.0.status.termSource]]
+EFO
+
+[[publications.0.title]]
+Burning on flat wicks at various orientations
+
+[[publications.1.authorList]]
+Zhang Y., Bustamante M. J., Dotson K. T., Sunderland P. B., Quintiere J. G.
+
+[[publications.1.doi]]
+10.3850/978-981-07-5936-0_03-01
+
+[[publications.1.pubMedID]]
+
+
+[[publications.1.status.@id]]
+Rd2oZxVKYUnMCRj3tbHg0eGQhfrFmtiEFnMOyDHF
+
+[[publications.1.status.annotationValue]]
+published
+
+[[publications.1.status.termAccession]]
+http://www.ebi.ac.uk/efo/EFO_0001796
+
+[[publications.1.status.termSource]]
+EFO
+
+[[publications.1.title]]
+A Gas Burner to Emulate Condensed-Phase Burning
+
+[[publications.2.authorList]]
+MJ Bustamante
+
+[[publications.2.doi]]
+
+
+[[publications.2.pubMedID]]
+
+
+[[publications.2.status.@id]]
+l87xqHQEQuC4rNfO31zRSVlRomoXfQjaWFyzxZZZ
+
+[[publications.2.status.annotationValue]]
+published
+
+[[publications.2.status.termAccession]]
+http://www.ebi.ac.uk/efo/EFO_0001796
+
+[[publications.2.status.termSource]]
+
+
+[[publications.2.title]]
+Experimental Investigation of Liquid and Gas Fueled Flames Towards the Development of a Burning Rate Emulator (BRE) for Microgravity Applications
+
+[[publications.3.authorList]]
+P Dehghani, PB Sunderland, JG Quintiere, JL deRis
+
+[[publications.3.doi]]
+10.1016/j.combustflame.2021.01.035
+
+[[publications.3.pubMedID]]
+
+
+[[publications.3.status.@id]]
+Rd2oZxVKYUnMCRj3tbHg0eGQhfrFmtiEFnMOyDHF
+
+[[publications.3.status.annotationValue]]
+published
+
+[[publications.3.status.termAccession]]
+http://www.ebi.ac.uk/efo/EFO_0001796
+
+[[publications.3.status.termSource]]
+EFO
+
+[[publications.3.title]]
+Burning in microgravity: Experimental results and analysis
+
+[[publications.4.authorList]]
+Snegirev Alexander, Kuznetsov Egor, Markus Ekaterina, Dehghani Parham, Sunderland Peter
+
+[[publications.4.doi]]
+10.1016/j.proci.2020.06.110
+
+[[publications.4.pubMedID]]
+
+
+[[publications.4.status.@id]]
+Rd2oZxVKYUnMCRj3tbHg0eGQhfrFmtiEFnMOyDHF
+
+[[publications.4.status.annotationValue]]
+published
+
+[[publications.4.status.termAccession]]
+http://www.ebi.ac.uk/efo/EFO_0001796
+
+[[publications.4.status.termSource]]
+EFO
+
+[[publications.4.title]]
+Transient dynamics of radiative extinction in low-momentum microgravity diffusion flames
+
+[[publications.5.authorList]]
+Auth Eric, Quintiere James G., Sunderland Peter B.
+
+[[publications.5.doi]]
+10.1002/fam.2896
+
+[[publications.5.pubMedID]]
+
+
+[[publications.5.status.@id]]
+Rd2oZxVKYUnMCRj3tbHg0eGQhfrFmtiEFnMOyDHF
+
+[[publications.5.status.annotationValue]]
+published
+
+[[publications.5.status.termAccession]]
+http://www.ebi.ac.uk/efo/EFO_0001796
+
+[[publications.5.status.termSource]]
+EFO
+
+[[publications.5.title]]
+Emulation of condensed fuel flames with gaseous fuels supplied through a porous copper calorimeter
+
+[[publications.6.authorList]]
+Kuznetsov E. A., Snegirev A. Yu., Markus E. S.
+
+[[publications.6.doi]]
+10.1134/S0010508220040036
+
+[[publications.6.pubMedID]]
+
+
+[[publications.6.status.@id]]
+Rd2oZxVKYUnMCRj3tbHg0eGQhfrFmtiEFnMOyDHF
+
+[[publications.6.status.annotationValue]]
+published
+
+[[publications.6.status.termAccession]]
+http://www.ebi.ac.uk/efo/EFO_0001796
+
+[[publications.6.status.termSource]]
+EFO
+
+[[publications.6.title]]
+Radiative Extinction of Laminar Diffusion Flame above the Flat Porous Burner in Microgravity: A Computational Study
+
+[[publications.7.authorList]]
+Markan Akshit, Baum Howard R., Sunderland Peter B., Quintiere James G., de Ris John L.
+
+[[publications.7.doi]]
+10.1016/j.combustflame.2019.09.030
+
+[[publications.7.pubMedID]]
+
+
+[[publications.7.status.@id]]
+Rd2oZxVKYUnMCRj3tbHg0eGQhfrFmtiEFnMOyDHF
+
+[[publications.7.status.annotationValue]]
+published
+
+[[publications.7.status.termAccession]]
+http://www.ebi.ac.uk/efo/EFO_0001796
+
+[[publications.7.status.termSource]]
+EFO
+
+[[publications.7.title]]
+Transient ellipsoidal combustion model for a porous burner in microgravity
+
+[[publications.8.authorList]]
+Markan Akshit, Sunderland Peter B., Quintiere James G., de Ris John L., Baum Howard R.
+
+[[publications.8.doi]]
+10.1016/j.proci.2018.05.006
+
+[[publications.8.pubMedID]]
+
+
+[[publications.8.status.@id]]
+Rd2oZxVKYUnMCRj3tbHg0eGQhfrFmtiEFnMOyDHF
+
+[[publications.8.status.annotationValue]]
+published
+
+[[publications.8.status.termAccession]]
+http://www.ebi.ac.uk/efo/EFO_0001796
+
+[[publications.8.status.termSource]]
+EFO
+
+[[publications.8.title]]
+Measuring heat flux to a porous burner in microgravity
+
+[[publications.9.authorList]]
+Vermina Plathner Frida, Quintiere James G., van Hees Patrick
+
+[[publications.9.doi]]
+10.1016/j.firesaf.2019.02.003
+
+[[publications.9.pubMedID]]
+
+
+[[publications.9.status.@id]]
+Rd2oZxVKYUnMCRj3tbHg0eGQhfrFmtiEFnMOyDHF
+
+[[publications.9.status.annotationValue]]
+published
+
+[[publications.9.status.termAccession]]
+http://www.ebi.ac.uk/efo/EFO_0001796
+
+[[publications.9.status.termSource]]
+EFO
+
+[[publications.9.title]]
+Analysis of extinction and sustained ignition
+
+[[publications.10.authorList]]
+Markan Akshit, Sunderland Peter B., Quintiere James G., de Ris John L., Stocker Dennis P., Baum Howard R.
+
+[[publications.10.doi]]
+10.1016/j.combustflame.2018.01.044
+
+[[publications.10.pubMedID]]
+
+
+[[publications.10.status.@id]]
+Rd2oZxVKYUnMCRj3tbHg0eGQhfrFmtiEFnMOyDHF
+
+[[publications.10.status.annotationValue]]
+published
+
+[[publications.10.status.termAccession]]
+http://www.ebi.ac.uk/efo/EFO_0001796
+
+[[publications.10.status.termSource]]
+EFO
+
+[[publications.10.title]]
+A Burning Rate Emulator (BRE) for study of condensed fuel burning in microgravity
+
+[[publications.11.authorList]]
+Lundström Frida Vermina, Sunderland Peter B., Quintiere James G., van Hees Patrick, de Ris John L.
+
+[[publications.11.doi]]
+10.1016/j.firesaf.2016.11.003
+
+[[publications.11.pubMedID]]
+
+
+[[publications.11.status.@id]]
+Rd2oZxVKYUnMCRj3tbHg0eGQhfrFmtiEFnMOyDHF
+
+[[publications.11.status.annotationValue]]
+published
+
+[[publications.11.status.termAccession]]
+http://www.ebi.ac.uk/efo/EFO_0001796
+
+[[publications.11.status.termSource]]
+EFO
+
+[[publications.11.title]]
+Study of ignition and extinction of small-scale fires in experiments with an emulating gas burner
+
+[[publications.12.authorList]]
+Zhang Yi, Kim Matt, Guo Haiqing, Sunderland Peter B., Quintiere James G., deRis John, Stocker Dennis P.
+
+[[publications.12.doi]]
+10.1016/j.combustflame.2015.05.005
+
+[[publications.12.pubMedID]]
+
+
+[[publications.12.status.@id]]
+Rd2oZxVKYUnMCRj3tbHg0eGQhfrFmtiEFnMOyDHF
+
+[[publications.12.status.annotationValue]]
+published
+
+[[publications.12.status.termAccession]]
+http://www.ebi.ac.uk/efo/EFO_0001796
+
+[[publications.12.status.termSource]]
+EFO
+
+[[publications.12.title]]
+Emulation of condensed fuel flames with gases in microgravity
+
+[[publications.13.authorList]]
+Dehghani Parham, Quintiere James G.
+
+[[publications.13.doi]]
+10.1016/j.combustflame.2023.112809
+
+[[publications.13.pubMedID]]
+
+
+[[publications.13.status.@id]]
+Rd2oZxVKYUnMCRj3tbHg0eGQhfrFmtiEFnMOyDHF
+
+[[publications.13.status.annotationValue]]
+published
+
+[[publications.13.status.termAccession]]
+http://www.ebi.ac.uk/efo/EFO_0001796
+
+[[publications.13.status.termSource]]
+EFO
+
+[[publications.13.title]]
+Flammability maps for microgravity burning of a small flat material in a quiescent ambient
+
+[[publications.14.authorList]]
+Dehghani Parham, de Ris John L., Quintiere James G.
+
+[[publications.14.doi]]
+10.1016/j.proci.2022.08.107
+
+[[publications.14.pubMedID]]
+
+
+[[publications.14.status.@id]]
+Rd2oZxVKYUnMCRj3tbHg0eGQhfrFmtiEFnMOyDHF
+
+[[publications.14.status.annotationValue]]
+published
+
+[[publications.14.status.termAccession]]
+http://www.ebi.ac.uk/efo/EFO_0001796
+
+[[publications.14.status.termSource]]
+EFO
+
+[[publications.14.title]]
+Demonstrating steady burning for small flat materials in microgravity in a quiescent ambient
+
+[[publications.15.authorList]]
+Dehghani Parham, Quintiere James G.
+
+[[publications.15.doi]]
+10.1016/j.combustflame.2021.111572
+
+[[publications.15.pubMedID]]
+
+
+[[publications.15.status.@id]]
+Rd2oZxVKYUnMCRj3tbHg0eGQhfrFmtiEFnMOyDHF
+
+[[publications.15.status.annotationValue]]
+published
+
+[[publications.15.status.termAccession]]
+http://www.ebi.ac.uk/efo/EFO_0001796
+
+[[publications.15.status.termSource]]
+EFO
+
+[[publications.15.title]]
+Theoretical analysis and predictions of burning in microgravity using a burning emulator
+
+[[related_glds]]
+
+
+[[releaseDate]]
+15-Sep-2022
+
+[[researchArea]]
+Combustion Science
+
+[[researchImpacts]]
+BRE yielded important data relevant to spacecraft fire safety. Quasi-steady burning corresponding to various condensed-phase materials (such as PMMA and Nylon) was observed in microgravity despite the absence of air flow, where the cessation of ventilation is an established step in putting out spacecraft fires. The ongoing combustion without air flow was notably seen in elevated-oxygen atmospheres which are being considered for use in future spacecraft, whereas such flames in a normal atmosphere of 21% oxygen self-extinguished in a short time. While BRE’s results are still preliminary, they suggest that NASA may want to increase use of its alternative flammability Test 2, with the cone calorimeter, where that test can measure material properties corresponding to the microgravity flames observed with the BRE burner.
+
+[[sourceAccession]]
+
+
+[[sourceLink]]
+
+
+[[spaceProgram]]
+National Aeronautics and Space Administration (NASA)
+
+[[subResearchArea]]
+Flames of Gaseous Fuels
+
+[[submissionDate]]
+15-Sep-2022
+
+[[title]]
+Advanced Combustion via Microgravity Experiments - Burning Rate Emulator
+
+[[versionMessage]]
+
+
+[[versionMessageLevel]]
+
+
+[[versionReason]]
+Metadata update

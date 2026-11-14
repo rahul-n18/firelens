@@ -1,0 +1,37 @@
+[
+  {
+    "source_id": "AST-1025124",
+    "title": "Smoke Characterization and Feasibility of the Moment Method for Spacecraft Fire Detection",
+    "attempted_at": "2026-11-14T19:47:16Z",
+    "attempted_urls": [
+      "https://www.tandfonline.com/doi/full/10.1080/02786826.2015.1025124",
+      "https://www.tandfonline.com/doi/pdf/10.1080/02786826.2015.1025124",
+      "https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1180&context=nasapub",
+      "https://www.tandfonline.com/doi/pdf/10.1080/02786826.2015.1025124?needAccess=true"
+    ],
+    "reason": "Full-text HTML and PDF requests returned HTTP 403 from Taylor & Francis and the university PDF mirror. Exact-title NTRS search returned no records and no separate CORE copy surfaced. NIST abstract is stored."
+  },
+  {
+    "source_id": "AST-1025125",
+    "title": "Pyrolysis Smoke Generated Under Low-Gravity Conditions",
+    "attempted_at": "2026-11-14T19:47:16Z",
+    "attempted_urls": [
+      "https://www.tandfonline.com/doi/full/10.1080/02786826.2015.1025125",
+      "https://www.tandfonline.com/doi/pdf/10.1080/02786826.2015.1025125",
+      "https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1181&context=nasapub",
+      "https://www.tandfonline.com/doi/pdf/10.1080/02786826.2015.1025125?needAccess=true"
+    ],
+    "reason": "Full-text HTML and PDF requests returned HTTP 403 from Taylor & Francis and the university PDF mirror. Exact-title NTRS search returned no records and no separate CORE copy surfaced. NIST abstract is stored."
+  },
+  {
+    "source_id": "SPICE-PROCEEDINGS",
+    "title": "Laminar Smoke Points of Nonbuoyant Coflowing Flames",
+    "attempted_at": "2026-11-14T19:51:57Z",
+    "attempted_urls": [
+      "https://rpsonline.com.sg/proceedings/9789810877248/html/978-981-08-7724-8_12-04.php",
+      "https://rpsonline.com.sg/proceedings/getndoi.php?doi=978-981-08-7724-8_12-04",
+      "https://rpsonline.com.sg/proceedings/9789810877248/html/978-981-08-7724-8_12-04.xml"
+    ],
+    "reason": "The full-text link returned a payment or password page. The publisher abstract is stored. The separately published Fire Safety Journal article is stored as SPICE-FSJ."
+  }
+]

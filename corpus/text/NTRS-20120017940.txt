@@ -1,0 +1,947 @@
+[[page 1]]
+63 rd   International Astronautical Congress 2012, Naples, Italy. Copyright ©2012 by the International Astronautical Federation. All rights reserved.
+One or more authors of this work are employees of the government of the Unites States, which may preclude the work from being subject to
+copyright in Unites States, in which event no copyright is asserted in that country. 
+IAC-12. A2.7.4   1
+IAC-12. A2.7.4
+COMBUSTION, COMPLEX FLUIDS, AND FLUID PHYSICS EXPERIMENTS ON THE ISS 
+Brian J. Motil 
+NASA Glenn Research Center, Cleveland, Ohio, USA 
+David L. Urban 
+NASA Glenn Research Center, Cleveland, Ohio, USA 
+From the very early days of human spaceflight, NASA has been conducting experiments in space to understand
+the effect of weightlessness on physical and chemically reacting systems. NASA Glenn Research Center (GRC) in
+Cleveland, Ohio has been at the forefront of this research looking at both fundamental studies in microgravity as
+well as experiments targeted at reducing the risks to long duration human missions to the moon, Mars, and beyond.
+In the current International Space Station (ISS) era, we now have an orbiting laboratory that provides the highly
+desired condition of long-duration microgravity.   This allows continuous and interactive research similar to Earth-
+based laboratories. Because of these capabilities, the ISS is an indispensible laboratory for low gravity research.
+NASA GRC has been actively involved in developing and operating facilities and experiments on the ISS since the
+beginning of a permanent human presence on November 2, 2000. As the lead Center for combustion, complex
+fluids, and fluid physics; GRC has led the successful implementation of the Combustion Integrated Rack (CIR) and
+the Fluids Integrated Rack (FIR) as well as the continued use of other facilities on the ISS. These facilities have
+supported combustion experiments in fundamental droplet combustion; fire detection; fire extinguishment; soot
+phenomena; flame liftoff and stability; and material flammability.   The fluids experiments have studied capillary
+flow; magneto-rheological fluids; colloidal systems; extensional rheology; pool and nucleate boiling phenomena. In
+this paper, we provide an overview of the experiments conducted on the ISS over the past 12 years.
+INTRODUCTION AND BACKGROUND 
+with its predecessors of the last 50 years, have made
+significant contributions in two distinct thrusts. The first
+is fundamental research, which is investigating physical
+phenomena in the absence of gravity and fundamental
+laws   of   the   universe   to   provide   new   scientific
+knowledge and societal benefit. These experiments were
+conducted on a wide array of platforms from earth-
+based   to   space-based.   The   second   field   is   applied
+research, which contributes to the basic understanding
+underlying   space   exploration   technologies   such   as
+power generation and storage, space propulsion, life
+support systems, fire safety, and environmental monitor-
+ing and   control.   Both have   led   to   improved   space
+systems   or   produced   new   products   on   Earth.   The
+program   benefits   from   research   collaborations   with
+several   of   the   ISS   international   partners   (Europe,
+Russia,   Japan   and   Canada)   and   individual   foreign
+governments   with   space   programs,   such   as   France,
+Germany and Italy. 
+five disciplines   complex fluids, fundamental physics,
+fluid physics, combustion science and materials science.
+Conducted in a nearly weightless environment, experi-
+ments in these disciplines reveal how physical systems
+respond to the near absence of buoyancy-driven convec-
+tion, sedimentation or sagging. They reveal how other
+forces, such as capillary forces, which are small com-
+pared to gravity, can dominate the system behavior in
+space.   Examples   of   observations   in   space   include
+boiling in which bubbles do not rise, colloidal systems
+containing   crystalline   structures   unlike   any   seen on
+Earth, circular   flames burning around fuel   droplets,
+flame spread   measurements at very low flow rates,
+directional solidification of metal alloys producing a
+uniformly aligned microstructure that improves material
+properties, and fluids flowing   in relatively wide chan-
+nels without the use of a pump.
+In the current ISS era, we now have an orbiting la-
+boratory that provides the highly desired condition of
+long-duration microgravity. This allows continuous and
+interactive research similar to Earth-based laboratories,
+even   providing   statistical   validity   when   required.
+Because of these capabilities, the ISS is an indispensible
+laboratory for low gravity research.
+Here we describe the experiments that have been
+conducted or are underway on the ISS in combustion
+science, complex fluids, and fluid physics.
+COMBUSTION SCIENCE
+Despite being the subject of active research for over
+80 years, combustion processes remain one of the most
+poorly controlled phenomena that have a significant
+impact on human health, comfort and safety. This is
+because the simplest combustor (e.g.   kitchen stove)
+remains   beyond   our   detailed   numerical   modeling
+capabilities. This is a result of the large number of
+chemical reactions that must be modeled (hundreds),
+and the strong complications imposed by buoyancy.
+The   NASA ISS   Combustion   and   Reacting   Systems
+Discipline is organized to provide a more complete
+understanding of the fundamental controlling processes
+
+[[page 2]]
+63 rd   International Astronautical Congress 2012, Naples, Italy. Copyright ©2012 by the International Astronautical Federation. All rights reserved.
+One or more authors of this work are employees of the government of the Unites States, which may preclude the work from being subject to
+copyright in Unites States, in which event no copyright is asserted in that country. 
+IAC-12. A2.7.4   2
+through   microgravity   testing.   Microgravity   provides
+simpler one-dimensional systems that include: 
+removal of the complex interaction between
+the buoyant flow and the energy feedback to
+the flame, 
+realistic simulation of the fire risk seen in
+manned spacecraft; 
+practical simulation of the gravitational envi-
+ronment seen for reacting systems in future
+spacecraft
+Droplet Combustion
+The availability of a long-duration, high quality mi-
+crogravity environment allows researchers to study the
+textbook problem of a spherical droplet surrounded by a
+spherical flame in an infinite, quiescent ambient atmos-
+phere. A cadre of researchers from academia, industry
+and federal laboratories has successfully established this
+simple   geometry   as   an   excellent   test   bed   to   study
+fundamental combustion science problems and other
+topics of applied combustion research.
+The key element to all of these programs was the
+necessity of a high-quality microgravity environment.
+Most importantly, they provided long-duration ground-
+based   facilities   where   compromises   to   experiment
+integrity were minimized.
+The droplet combustion community is fortunate to
+currently have the Combustion Integrated Rack (CIR)
+and   Multi-User   Droplet   Combustion   Apparatus
+(MDCA), CIR insert, available to study droplet combus-
+tion aboard the International Space Station (ISS). This
+facility is currently operational and allows the dispens-
+ing, deployment and ignition of droplets ranging in size
+from 1 to 5 mm (either free-floating or fiber-supported)
+in a 0   3 atm ambient environment of up to 40 percent
+oxygen (balance of a range of inert gases and inert gas
+mixtures).
+Flame Extinguishment Experiment (FLEX)
+The Flame Extinguishment Experiment (FLEX) uses
+the CIR with the objective of the study of heptane and
+methanol droplets in ambient mixtures of oxygen and
+nitrogen   diluted   with   a   second   inert   gas   (nitrogen,
+carbon dioxide, helium and xenon). The goal of the
+research is to examine how the addition of an inert gas
+suppressant influences the flammability limit of the two
+fuels.   The   application   is   an   improved   quantitative
+understanding of how flammability limits change in
+reduced gravity. The research to date shows that the
+flammability limit is lower in reduced gravity. The
+implication of this result is that terrestrial standards for
+inert gas suppressants in low gravity do not offer the
+same margin of safety as in normal gravity.
+The FLEX experiments are of interest for terrestrial
+applications as well. The physical and chemical kinetic
+models of heptane and methanol combustion are the
+building blocks for more complex models of practical
+liquid   fuels   such   as   diesel   and jet   fuel.   The   long-
+duration experiments on the ISS provide benchmark
+data that researchers can develop, improve, and ulti-
+mately   validate   detailed   theoretical   and   numerical
+models of liquid hydrocarbon fuel combustion. The
+FLEX   experiments   performed   to   date   demonstrated
+radiative and diffusive extinction, combustion instabili-
+ties, lower flammability limits and unexplained vapori-
+zation after visible flame extinction. Comparison with
+theoretical and numerical models validated aspects of
+the   models   while   identifying areas   that   require im-
+provement.   Recently the   FLEX   experiment   released
+novel results which demonstrated the possible existence
+of cool-flame chemistry in a stable flame that does not
+transition to a hot-flame [1]. This behavior has not been
+previously reported.
+FLEX-2,   the   follow-on   experiment,   builds   upon
+FLEX. It studies a range of fuels including mixtures of
+pure fuels, real fuel surrogates, soot formation, slow
+sub-buoyant   convective   flow   effects,   and   droplet-
+droplet interactions. International collaborations extend
+this to study flame propagation in droplet arrays, and
+investigate   the   combustion   of   liquid   biologically-
+derived fuels.
+Gaseous Diffusion Flames
+Smoke Point In Coflow Experiment (SPICE)
+The Smoke Point In Coflow Experiment (SPICE)
+was   conducted   in   2009   on   the   International   Space
+Station in its Microgravity Science Glovebox (MSG)
+and   studied   laminar,   axisymmetric,   gas-jet   diffusion
+flames [2]. The object of the SPICE experiment is to
+investigate the transition to soot emission in gas-jet
+flames. The smoke-point is a result of the fuel chemistry
+and flow conditions, and is an effective indicator of the
+propensity of a fuel to emit light and to produce soot.
+Soot control remains one of the major unsolved prob-
+lems in combustion. Simple predictions of soot emission
+are the major goal of the SPICE experiment.
+Structure   &   Liftoff   In   Combustion   Experiment
+(SLICE)
+The SLICE experiment investigates the structure of
+lifting and lifted flames, where flow conditions and the
+combustion chemistry cause the flame to detach from
+the burner and stabilize at a downstream position. The
+twin purposes for the SLICE research are increased fuel
+efficiency and reduced pollutant emission in practical
+combustion devices. More explicitly, the experiment is
+being   conducted   to   advance   combustion   modeling
+
+[[page 3]]
+63 rd   International Astronautical Congress 2012, Naples, Italy. Copyright ©2012 by the International Astronautical Federation. All rights reserved.
+One or more authors of this work are employees of the government of the Unites States, which may preclude the work from being subject to
+copyright in Unites States, in which event no copyright is asserted in that country. 
+IAC-12. A2.7.4   3 
+efficiency and reduce harmful pollutants in ways never
+before possibl 
+the SLICE experiment). SLICE will be carried out using
+the Smoke Point In Coflow Experiment (SPICE) hard-
+ware in the Microgravity Science Glovebox (MSG) and
+is a precursor to the Coflow Laminar Diffusion Flame
+(CLD Flame) experiment that is now in development for
+the ISS Combustion Integrated Rack (CIR) as part of
+the   Advanced   Combustion via Microgravity Experi-
+ments (ACME) project.
+Spacecraft Fire Safety
+Spacecraft fire detection provides significant chal-
+lenges compared to terrestrial conditions because the
+properties of the smoke emitted from fires is affected by
+buoyancy. The conditions on a spacecraft require rapid
+detection of fires with limited false alarms. Two recent
+experiments examine issues related to spacecraft fire
+detection. The Dust Aerosol measurement Feasibility
+Test   (DAFT)   [3]   examined   the   background   aerosol
+particulate   levels   on   the   ISS.   The   Smoke   Aerosol
+Measurement Experiment (SAME) [4] examined the
+particle size distribution of the smoke from spacecraft
+materials. These instruments can provide useful guid-
+ance   for   the   designers   of   future   spacecraft   smoke
+detectors.
+Solid Fuel Combustion/Material Flammability
+Space-based and ground-based low gravity experi-
+ments in material flammability have revealed substantial
+differences in the behavior of flames over solid materi-
+als in reduced gravity. Many of these observations have
+specific impact on the hazard of spacecraft fires in
+addition to being of fundamental solid fuel combustion
+importance.   Microgravity   experiments   demonstrated
+that the assumed margin of safety of reduced flammabil-
+ity in microgravity, based on quiescent test results, is
+not   valid   for   most   spacecraft   environments   where
+ventilation flow strongly enhances flames. In the low
+flow conditions of microgravity or partial gravity, some
+materials are flammable at lower oxygen concentrations
+than in normal gravity. Materials are easier to ignite in
+low gravity due to reduced convective cooling from the
+fuel surface. Once established, flames in low-speed air
+flows preferentially spread into the oncoming air flow.
+This is opposite to the effect that occurs in normal
+gravity. Radiant heat transfer was shown to substantially 
+loss reduces the flammability, but an external radiative
+heat flux can cause materials to ignite and spread faster.
+Burning and Suppression of Solids (BASS)
+The Burning and Suppression of Solids (BASS) in-
+vestigation   has   been conducted   in the   Microgravity
+Science Glovebox examining the burning and extinction
+characteristics of a wide variety of fuel samples in
+microgravity. The BASS experiment will guide strate-
+gies for extinguishing accidental fires in microgravity.
+BASS results contribute to the limited database of solid
+combustion in microgravity. In addition, BASS will
+guide combustion computational models used in the
+design of fire detection and suppression systems in
+microgravity and on Earth.
+BASS tests the hypothesis that materials in micro-
+gravity, with adequate ventilation, burn as well if not
+better than the same material in normal gravity with
+other   conditions   being   identical   (pressure,   oxygen
+concentration, temperature, etc.). The fuel is ignited,
+and the air flow speed is the main variable. After some
+time, selected flames will be intentionally extinguished
+by applying a suppressant. There are important differ-
+ences in the suppression of fires in space compared to
+on Earth. On Earth it is understood that the best results 
+the base of the flame, which is both the stabilization
+point and the point where fresh air first enters the flame.
+For a fire burning in microgravity, the best point of
+application   of   suppressant   may   not be   immediately
+apparent, especially for a partially obstructed flame or a
+wake-stabilized flame. Depending on the geometry of
+the flame and the characteristics of the extinguisher
+(distance from flame, dispersion angle) it is possible
+that the suppressant stream will be ineffective or might
+actually make the flame worse through the entrainment
+of oxygen. Using nitrogen as a flame suppressant in
+microgravity   provides   a   direct   link   to   current   and
+planned extinguishment techniques.
+The significance of BASS will be to improve NASA
+fire safety strategies for spacecraft. The current NASA
+spacecraft materials selection is based on a standard test
+method   (NASA   STD   6001   Test   1)   that   segregates
+material based on 1-g behavior without consideration of
+low gravity effects. A critical element of this under-
+standing is the radiative heat emission from the flame.
+These results are used in first order models and predic-
+tions of heat release in spacecraft fires and as a means to
+extend heat release data from tests like the NASA cone
+calorimeter test (NASA   STD   6001 Test 2) to a perfor-
+mance-based material selection process. Using nitrogen
+as a flame suppressant in microgravity provides a direct
+link to current and planned extinguishment techniques.
+In addition, BASS results provide essential guidance
+to   ground-based   microgravity   combustion   research
+efforts. Detailed combustion models are validated using
+the   simpler   flow   environment   afforded   by   tests   in
+microgravity. Once validated, they can be used to build
+
+[[page 4]]
+63 rd   International Astronautical Congress 2012, Naples, Italy. Copyright ©2012 by the International Astronautical Federation. All rights reserved.
+One or more authors of this work are employees of the government of the Unites States, which may preclude the work from being subject to
+copyright in Unites States, in which event no copyright is asserted in that country. 
+IAC-12. A2.7.4   4
+more complex combustion models needed to capture the
+important details of flames burning in normal gravity.
+These models have wide applicability to the general
+understanding of many terrestrial combustion problems.
+COMPLEX FLUIDS
+Complex fluids comprise a large class of soft mate-
+rials including colloids, micro-emulsions; foams; liquid
+crystals; and granular material. It is possible to study
+these systems and gain insight into many diverse fields
+such as phase transitions, nucleation and crystal growth,
+glass formation, chaos, field theory, and much more.
+Furthermore, research in complex fluids provides the
+underpinnings of applications related to NASA explora-
+tion of planetary surfaces as well as terrestrial applica-
+tions in industries such as pharmaceutical, chemical,
+plastics, petroleum, electronics, and liquid-crystals. The
+need to conduct research in a microgravity environment
+is very clear. Because of the relatively large size of the
+basic structures, gravitational forces can dominate and
+cause   sedimentation,   convective   flows,   and   other
+property gradients. The weaker forces such as surface
+tension and entropic forces are completely masked on
+earth. In granular materials, stresses and yield properties
+are also sensitive to gravity.
+Soft Condensed Materials
+A series of experiments in soft condensed materials
+(colloids) conducted on the International Space Station
+(ISS) provide a unique opportunity to explore funda-
+mental physics and to gather data needed to push the
+frontiers in colloidal engineering. Colloids are small
+enough that they behave much like atoms and can be
+used to model their behavior. Their size, shape, and
+interactions   enable   us   to   control   them,   hence   their
+importance in industry. Paints, aerosols, and foams are
+examples of manufactured colloidal mixtures. Colloids
+also appear frequently in nature (e.g. milk). Understand-
+ing the properties of colloids should help scientists to
+specifically engineer them for the manufacture of new
+materials and products and to provide better control for
+existing products. One example is the perfection of
+stabilizers. These play a significant role in many multi-
+billion dollar industries. The gravitational effects of
+sedimentation   and   convection   have   distorted   these
+measurements in the past, and with this mask removed,
+we are able to refine our understanding of phase separa-
+tion.
+Physics of Colloids in Space (PCS)
+The PCS flight experiment was designed to study
+the phase behavior, growth dynamics, morphology, and
+mechanical properties of different types of colloidal
+suspensions; including binary colloidal alloys, colloidal
+polymer mixtures, fractal colloidal aggregates, and the
+natural   entropy   driven   transition   from   a   disordered
+glassy state to an ordered crystalline one. In the first two
+areas   mentioned,   many   basic questions about   phase
+diagrams, thermodynamic stability, and phase transfor-
+mation kinetics were answered. Detailed information
+about the structure and properties of fractal aggregates
+was obtained over a much wider range of measurement
+with more relevant conditions than possible on earth.
+Binary Colloidal Alloy Tests (BCAT)
+The BCAT-3/4/5/6 experiments were a set of note-
+book size science investigations each containing 10
+samples.   Once   in   microgravity   on   the   International
+Space Station (ISS), these samples were individually
+mixed until their structure was randomized, and they
+were   then   photographed   as   they   evolved.   Several
+different types of science questions were addressed and
+refined with each BCAT flight. When scientists learned
+something new from one BCAT experiment, they often
+chose to use a later BCAT flight to address these puz-
+zles or to narrow down the number of possible interpre-
+tations.
+The   BCAT   experiments   on   seeded-growth   (Paul
+Chaikin   and   Andrew   Hollingsworth   -   NYU)   have
+shown us that glassy (completely disorder) samples will
+crystallize in new ways in the absence of gravitational
+sedimentation   and   jamming.   [5]   They   showed   that
+certain samples will crystallize in space but not on earth. 
+particles are in making this happen.   The upcoming
+BCAT-C1 experiment   (sponsored   by CSA)   will   fly
+three   samples   with   different   concentrations   of   seed
+particles (including one sample with no seed particles)
+to help quantify this effect.   Being able to use seed
+particles   to   control   nucleation   was   computationally
+predicted to work; thanks to the BCAT experiment, we
+have confirmed this, what remains now is to quantify
+this technique.   Microgravity allows us to have both
+index matching (for clarity) and density matching (to
+avoid sedimentation in normal gravity).
+Another theme in the BCAT experiment is the study
+of phase separation with model critical fluid samples on
+the ISS. These model systems do not have the difficult
+micro-Kelvin temperature control issues of traditional
+critical fluids, and they serve as a model system for
+understanding ideal systems formed from particles that
+are all the same size (monodisperse) and whose attrac-
+tive force can be adjusted by the addition of a polymer.
+Depletion attraction is used to provide a clever way of
+setting the   effective   attractive force between particles.
+From these studies, it was found that the position of
+the critical point is not where the literature suggests it
+
+[[page 5]]
+63 rd   International Astronautical Congress 2012, Naples, Italy. Copyright ©2012 by the International Astronautical Federation. All rights reserved.
+One or more authors of this work are employees of the government of the Unites States, which may preclude the work from being subject to
+copyright in Unites States, in which event no copyright is asserted in that country. 
+IAC-12. A2.7.4   5
+should be, based on observing phase separation in the
+presence of gravity. A series of samples were created
+covering a wide range, to capture behavior deep in the
+phase-separating region (i.e. samples that would phase
+separate on the ground) as well as in the non-phase
+separating   region---based   on   observations   on   the
+ground. On ISS, all of the samples did phase separate,
+demonstrating that initial estimates of the position of the
+phase boundary and critical point (above which phase
+separation does not occur) are quite far off, and that true
+microgravity environments are needed to probe these
+physics.
+A number of new measurements relating to the rate
+of phase separation were also obtained. The classic
+experiments   showing   spinodal   decomposition   took
+minutes to complete; an earlier experiment by Bailey et
+al. [6] using PCS phase separated in a matter of hours.
+By contrast, BCAT samples phase separate in days to
+weeks, much longer than even a Space Shuttle flight,
+demonstrating the importance of the stable, microgravi-
+ty laboratory present with ISS. The investigators were
+thus able to confirm phase separation, in terms of the
+rate of growing length scales, as theory and previous
+experiments have predicted---but in a regime an order of
+magnitude smaller than has been previously shown.
+Being able to pinpoint the positions of these samples in
+a phase diagram and recording the rates of phase separa-
+tion should enable theorists to enhance their models and
+understanding of these simple textbook systems.
+On-going BCAT experiments, are addressing more
+complex multicomponent (polydisperse) phase separa-
+tion and gelation samples (Matthew Lynch and Thomas
+Kodger   Proctor and Gamble   P & G).   The goal of
+the BCAT-6-Gelation experiments is to understand the
+impact of particulate size distribution on the aging of
+gels and on late collapse. These studies are expected to
+provide improved methods for the production of gels,
+enhancing shelf life and quality, while lowering produc-
+tion cost for a wide variety of commercial products. For
+P & G, a better understanding of stabilizers is likely to
+have   a   significant   impact   on   a   multi-billion   dollar
+business. 
+m- 
+SFU / CSA) is the effect of phase separation on crystal
+growth. On Earth, gravity causes the colloids to settle,
+making such a study particularly difficult. Performing
+these experiments in the microgravity environment of
+the International Space Station is enabling scientists to
+study   growth   of   much   larger   structures,   and,   thus,
+maximize the extent to which the behavior can be
+explored. Improved understanding of these processes
+will lead to more refined manufacturing processes and
+commercial products. The competition between a phase
+separation   process   and   an   order-disorder   transition
+remains largely unstudied and offers an opportunity to
+observe some fascinating behavior. This has led to the
+upcoming BCAT-C1 flight experiment that will devote
+7 of its 10 samples to exploring this new phenomenon.
+The overarching goal of all these experiments is to
+develop   the   key   knowledge   to help   make   colloidal
+engineering a reality.   In addition, this experiment is
+helping scientists understand the fundamental properties
+of   colloid-polymer   mixtures   to   further   improve   the
+commercial use of such systems.
+Advanced Colloids Experiment (ACE)
+Fundamental studies of order and frustration, includ-
+ing the role of colloidal particle shape on structure and
+complex processes, such as self-assembly, motility, and
+non-biological self-replication are key research areas to
+address using the Light Microscopy Module (LMM), a
+powerful and versatile microscopy facility.
+The   Advanced   Colloids   Experiment   (ACE)   and
+LMM   allow   scientists   to   process,   manipulate,   and
+characterize colloidal samples in micro-gravity envi-
+ronment available on the International Space Station
+(ISS).   The near absence of gravitational settling and
+particle jamming enables scientists to not only study
+nucleation,   crystallization,   self-assembly   and   micro
+rheology but also active manipulation of such phenom-
+ena.
+To meet this goal, the ACE experiment will be con-
+ducted   in   stages,   with   the   availability   of   confocal
+microscopy being the ultimate aim. The first portion of 
+colloids scientists is called ACE-1 and was just recently
+launched. This will feature a microscope that supports
+epi-illumination   (lighting   from above)   along   with a
+simple   white-light   LED   available   for   back-lighting.
+When ACE-2 becomes available in 2014, a condenser
+will provide trans-illumination (light from below) with
+100x magnification for oil-immersion optics. ACE-2
+will also provide sample cells with more sophisticated
+temperature control and electric-field allowing study of
+new class of phenomena on ISS.
+For ACE-3 in 2016, the addition of confocal micros-
+copy (a confocal head, a confocal camera, and a laser),
+enabled 3D imaging. The ultimate goal of the ACE
+science and engineering team is to return data of suffi-
+cient accuracy, precision, and quantity to determine the
+crystal   structure,   lattice   constant   (crystal)   to   0.5%
+accuracy. The nucleation and growth rates for all phases
+shall be determined to 10% accuracy. The cooperative
+diffusion   coefficient   (liquid   and   glass),   the   elastic
+constant (crystal and glass), and the dynamic viscosity
+(crystal and glass) shall be determined to a 10% accura-
+cy. The average root mean square displacement (crystal)
+
+[[page 6]]
+63 rd   International Astronautical Congress 2012, Naples, Italy. Copyright ©2012 by the International Astronautical Federation. All rights reserved.
+One or more authors of this work are employees of the government of the Unites States, which may preclude the work from being subject to
+copyright in Unites States, in which event no copyright is asserted in that country. 
+IAC-12. A2.7.4   6
+shall be determined to 2% accuracy; the particle posi-
+tions of tracer particles to 1 nanometer; the particle
+volume fraction to 0.5%.
+Rheology and Morphology of Complex Fluids
+Newtonian fluids can be characterized by a single
+coefficient   of   viscosity   for   a   specific   temperature.
+Although this viscosity will change with temperature, it
+does not change with the flow rate or strain rate. Only a
+small group of fluids exhibit such constant viscosity,
+and they are known as Newtonian fluids. A large class
+of fluids where the viscosity changes with the strain rate
+(or relative velocity of flow) are called non-Newtonian
+fluids. Rheology generally accounts for the behavior of
+non-Newtonian fluids by characterizing the minimum
+number of functions that are needed to relate stresses
+with rate of change of strains or strain rates.
+Investigating the Structure of Paramagnetic Aggre-
+gates From Colloidal Emulsions (InSPACE)
+Magnetorheological (MR) fluids are suspensions of
+small (micron-sized) superparamagnetic particles in a
+nonmagnetic   medium.   These   controllable   fluids   can
+quickly transition into a nearly solid-like state when
+exposed to a magnetic field and return to their original
+liquid state when the magnetic field is removed. Their
+rheological properties can be controlled by controlling
+the strength of the magnetic field. Due to the rapid-
+response interface that they provide between mechanical
+components and electronic controls, MR fluids can be
+used to improve or develop new brake systems, seat
+suspensions, robotics, clutches, airplane landing gear,
+and vibration damping systems.
+The goal of InSPACE, conducted on ISS, was to de-
+termine the true three-dimensional low-energy (equilib-
+rium) structure of an MR emulsion in a pulsed magnetic
+field. The microstructure of MR fluids plays a signifi-
+cant role in determining their bulk rheological proper-
+ties. InSPACE conducted a microscopic video study of
+the MR fluid in a pulsed magnetic field to determine the
+effect of varying magnetic field, pulse frequency, and
+particle size on the equilibrium microstructures. The
+low gravity environment, provided on the ISS, elimi-
+nates   the   effects   of   sedimentation   which   otherwise
+becomes significant for these relatively large aggregate
+structures. A pulsed field was used to investigate lowest
+energy state structures. A pulsed field permits particle
+rearrangement, via diffusion when the field is off, such
+that the suspension can adopt a lower energy state
+structure.
+Shear   History   Extensional   Rheology   Experiment
+(SHERE)
+SHERE was designed to investigate the effect of
+pre-shearing (rotation) on the stress and strain response
+of a polymer fluid (a complex fluid containing long
+chains of polymer molecules) being stretched in micro-
+gravity. This information is particularly relevant for
+understanding the deformation and evolution of non-
+Newtonian   thin   fluid   columns   (threads)   in   a   wide
+variety of industries, including fiber spinning, injection
+molding, or food and consumer product processing.
+In a microgravity environment, the absence of gravi-
+tational body forces acting on the deformable fluid
+permits a large increase in the radial dimension of the
+initial liquid bridge. By increasing the initial radius, the
+viscous force is increased, and the time-evolution in the
+tensile force becomes slow enough to be measurable for
+extended times. This allowed the long dynamics of the
+filament thinning to be monitored on ISS. A stable
+microgravity environment enabled the understanding of
+the effect of the initial conditions at the end of the
+stretching phase on the capillary thinning and time to
+breakup.   Analysis   of   the   experimental   data   from
+SHERE on ISS revealed interesting elastic instabilities
+on the free surface of the fluid sample. The data showed
+the   formation   of   beads-on-a-string   structures   in   the
+absence of gravitational sagging. The development and
+evolution of such phenomena upon cessation of elonga-
+tion have not yet been described.
+FLUID PHYSICS
+The Fluid Physics discipline which focuses on gravi-
+ty-dependent research issues includes two major sub-
+disciplines. The first sub-discipline is multiphase flows
+(with and without heat transfer). Under this area, disci-
+plines included are two-phase flow; phase separation;
+boiling and condensation; flow through porous media;
+system stability; bio-fluids; and storage and handling of
+fluids (cryogenics). The second sub-discipline is inter-
+facial phenomena. Within this area, disciplines include
+capillary flow; dynamics; and instabilities. Even though
+these   studies   are   categorized   into   two   major   sub-
+disciplines, it should be noted that in most cases there is
+significant overlap. For example, it is difficult to ignore
+interfacial forces when studying storage and handling or
+two-phase flow through porous media.
+Boiling Experiment Facility (BXF)
+BXF accommodated two separate investigations, the
+Microheater Array Boiling Experiment (MABE) and the
+Nucleate Pool Boiling Experiment (NPBX), to examine
+fundamental boiling phenomena. Both experiments on
+the BXF were used to validate predictive models being
+developed for heat transfer coefficients, critical heat
+flux, and the pool boiling curves.
+
+[[page 7]]
+63 rd   International Astronautical Congress 2012, Naples, Italy. Copyright ©2012 by the International Astronautical Federation. All rights reserved.
+One or more authors of this work are employees of the government of the Unites States, which may preclude the work from being subject to
+copyright in Unites States, in which event no copyright is asserted in that country. 
+IAC-12. A2.7.4   7
+The objective of MABE was to determine the local
+boiling heat transfer mechanisms in microgravity for
+nucleate and transition boiling and the critical heat flux.
+Specially designed microheaters (0.1mm x 0.1mm or
+0.27mm x 0.27mm) operated at a constant temperature
+minimizing   the   amount   of   lateral   heat   conduction
+between them. Because of their small size, both tem-
+poral and spatial power measurements were made for
+each   microheater,   and   were   synchronized   with   the
+position of the liquid and vapor adjacent to the instru-
+mented microheaters. Each microheater is on the order
+of the bubble departure size in normal gravity, but
+significantly smaller than the bubble departure size in
+reduced gravity. The boiling process was visualized
+from the side and through the bottom of the transparent
+MABE microheater arrays. Data from this high quality
+microgravity data was used to refine the scaling parame-
+ter for heat flux with gravity, which was primarily based
+on parabolic flight experiments. The robustness of this
+framework in predicting low gravity heat transfer is
+further demonstrated by predicting many of the trends in
+the pool boiling literature that cannot be explained by
+any single model.
+The other experiment, NPBX, selectively activated
+nucleation sites in order to understand bubble growth,
+detachment, and subsequent motion of single and large
+merged bubbles under reduced-gravity conditions. The
+results of these experiments showed that a single bubble
+continues to grow to occupy the size of the chamber
+without departing the heater. During lateral merger of
+bubbles, at high superheats, a large bubble may lift off
+from the surface, but continues to hover near the sur-
+face. Neighboring bubbles are continuously pulled into
+the large bubble. At low superheats, bubbles at neigh-
+boring sites simply merge to yield a larger bubble. The
+larger bubble mostly locates in the middle of the heated
+surface and serves as a vapor sink. The latter mode
+continues to persist when boiling is occurring all over
+the heater surface. Steady state nucleate boiling and
+critical heat fluxes are found to be much lower than
+those obtained under earth normal gravity conditions.
+The data is now being used for calibration of results of
+numerical simulations. Any correlations that are devel-
+oped for nucleate boiling heat transfer under micrograv-
+ity condition must account for the existence of vapor
+escape path (sink) from the heater, size of the heater,
+and the size and geometry of the chamber.
+The IntraVenous Fluid Generation (IVGEN)
+IVGEN experiment was recently flown on the ISS
+with funding from the Human Research Program. This
+was a successful technology demonstration experiment
+to take ISS potable water, purify it through the use of a
+packed   bed with a   deionizing   resin,   mix   the   water
+uniformly with salt to generate a Normal Saline solution
+that met the United States Pharmacopeia for salt con-
+centration, impurities and sterility. Specific two-phase
+technologies   that   were   incorporated   included   mem-
+brane-based air-water separators, conductivity probes,
+and a packed bed.
+Dynamics, Instabilities and Interfacial Phenomena
+Fluid dynamics, instabilities and interfacial or capil-
+lary flow are another very important subset of fluid
+physics. Recent experiments flown on the ISS include
+the Capillary Flow Experiment (CFE) which was a suite
+of experiments that investigated capillary flows and
+flows of fluids in containers with complex geometries.
+Results will improve current computer models that are
+used by designers of low gravity fluid systems, and will
+lead to improved fluid transfer systems on future space-
+craft.   Follow-on   experiments   are   planned   to   study
+additional geometries as well as other variables such as
+different fluids.
+Constrained Vapor Bubble (CVB)
+In satellites used for communications, global posi-
+tioning systems, and defense purposes, a heat pipe is the
+device used to regulate temperature and keep the overall
+systems operating reliably. A heat pipe is a simple
+device that can efficiently transfer heat from a hot spot
+to a cooler remote location without the use of a mechan-
+ical pump.   To further insights into the operation of a
+heat pipe in space, scientists launched an investigation
+called the Constrained Vapor Bubble (CVB) to the
+International Space Station. The CVB is the prototype
+for a wickless heat pipe and was the first full-scale
+fluids study in the Fluids Integrated Rack or FIR facility
+flown on the U.S. module of the space station.   The
+Constrained Vapor Bubble (CVB) is a prototype for a
+wickless heat pipe that was studied in the microgravity
+environment of the International Space Station. It is
+both an experiment in basic thermal fluid science and a
+study of an extended fin heat exchanger. The CVB
+consists of a relatively simple setup   a quartz cuvette
+with sharp corners partially filled with pentane as the
+working fluid. Along with temperature and pressure
+measurements, the two-dimensional thickness profile of
+the pentane menisci formed at the corners of the cuvette
+were determined using the Light Microscopy Module
+(LMM) in the Fluids Integrated Rack (FIR). The flow
+processes within the device were visualized in a way not
+possible before.   Microscopic and macroscopic scale
+data collected from the experiment enhances the under-
+standing   of   the   fundamental   processes   in   boiling,
+evaporation, condensation, and adsorption in both earth
+and microgravity environments.
+
+[[page 8]]
+63 rd   International Astronautical Congress 2012, Naples, Italy. Copyright ©2012 by the International Astronautical Federation. All rights reserved.
+One or more authors of this work are employees of the government of the Unites States, which may preclude the work from being subject to
+copyright in Unites States, in which event no copyright is asserted in that country. 
+IAC-12. A2.7.4   8
+Results from the experiment [7], [8] indicated that
+the CVB operates at higher pressures and temperatures
+in microgravity, a consequence of radiation being the
+only mechanism for removing heat from the device. The
+temperature profile data along the heat pipe and corre-
+sponding heat transfer calculations demonstrated that
+CVB   performance   is   enhanced   in   the   microgravity
+environment   due   to   increased   capillary   flow   even
+though   heat   transfer   to   the   external   environment   is
+diminished by the absence of natural convection. Image
+data of the liquid profile in the grooves of the heat pipe
+indicated that the curvature gradient is considerably
+different from that on Earth and supports the conclusion
+that capillary flow and internal heat transfer are in-
+creased. Operations with the 20 mm version of the
+device allowed us to view explosive nucleation within
+the CVB upon device start-up. In this scenario, bubble
+nucleation occurred spontaneously and periodically at
+the hot end of the device. The newly formed bubble
+returned to its original size, shape and location as heat
+loss from the CVB re-established the original, pseudo-
+steady-state temperature and pressure profiles.
+Capillary Flow Experiments (CFE)
+The CFE includes a suite of fluid physics flight ex-
+periments that investigate capillary flows in low gravity
+[9], [10], [11]. The CFE data is crucial to the Space
+Exploration Initiative particularly pertaining to fluid
+management systems including fuels/cryogen storage,
+thermal   control,   water recycling, and   materials pro-
+cessing.   CFE is a simple fundamental scientific study
+that have yielded quantitative results from safe, low-
+cost, short time-to-flight, hand-held fluids experiments.
+The experiments provide critical results for capillary
+flow that cannot be achieved in ground-based tests.
+These include: 1) Dynamic effects associated with a
+moving contact boundary condition; 2) Capillary driven
+flow in interior corner networks; and 3) Critical wetting
+phenomena in complex geometries.
+The CFE experiments consist of three different ge-
+ometric configurations: the Interior Corner Flow (ICF),
+the Vane Gap (VG), and the Contact Line (CL) experi-
+ments.   The   ICF   experiment   investigates   propellant
+management   and   passive   capillary   flow   in   tapered
+geometries for which boundary conditions are not well
+understood or modeled. The VG experiment scrutinizes
+the critical wetting condition when interior corners do
+not actually make contact, in particular the corner and
+gap formed by an interior vane and the interior wall of a
+propellant tank, or between the intersections of vanes in
+a complex vane network. The CL experiment studies the
+impact of the dynamic contact line. The contact line
+controls the interface shape, stability, and dynamics of
+capillary systems in low-g. These experiments provide a
+direct measure expected behavior assuming either a free
+or pinned contact line condition. The two CL units are
+identical except for their respective wetting characteris-
+tics. 
+-2) was a
+continuation of the CFE experiments. Presently four re-
+flight units have been operated on ISS. The ICF1 and
+ICF2 units have different volumes and viscosities of the
+test fluid.   The VG1 and VG2 units have perforated
+vanes, as opposed to solid vanes for CFE.
+For the CL experiments, over 350 primary and extra
+science events have been reduced to date, where signifi-
+cant contributions include both experimental results and
+numerical comparisons. The complete database may be
+found at http://cfe.pdx.edu. To date, the damped inter-
+face oscillations (frequency and decay) as functions of
+fluid properties, wetting, contact line condition, disturb-
+ance type, and amplitude have been pursued.
+For the VG experiments, the critical wetting angles
+have been measured to within ±0.5°, nearly four times
+more accurate than planned. In addition, a bulk shift
+phenomena has been discovered that has implications
+for spacecraft tank design asymmetries.
+Capillary Channel Flow (CCF)
+The   Capillary   Channel   Flow   (CCF),   developed
+jointly by DLR and NASA, was flown on the ISS. This
+is a   versatile   experiment   for   studying   a   variety   of
+inertial-capillary dominated   flows, key to   spacecraft
+systems that cannot be studied on the ground.   Because
+hydrostatic pressure is absent in microgravity, technolo-
+gies for liquid management in space use capillary forces
+to position and transport liquids. On earth, the effect of
+capillary forces is limited to a few millimeters. In space,
+these forces still affect free surfaces that extend over
+meters. For the application of open channels in propel-
+lant tanks of spacecraft, design knowledge of the limita-
+tions   of   open   capillary   channel   flow   is imperative.
+These limitations are based on the restriction that the
+liquid fuel must be free of bubbles prior to entering the
+thrusters.
+CCF   examined   flows   in   parallel   plate   channels,
+grooves, and interior corner capillary conduits. These
+geometries   represent   a   class   of   practical   capillary
+geometries that are implemented in designs of the fuels
+and tank community of the aerospace industry. Current
+spacecraft fluid processing equipment is replete with
+such   constructs.   Validation   of   theoretical   models
+developed   for   such   geometries   is   expected   to   lend
+confidence to the application of theory to other geome-
+tries pertinent to advanced microgravity fluid systems
+development.
+The test matrix for Experimental Unit #1 (EU#1),
+which included the parallel plate and groove channel
+
+[[page 9]]
+63 rd   International Astronautical Congress 2012, Naples, Italy. Copyright ©2012 by the International Astronautical Federation. All rights reserved.
+One or more authors of this work are employees of the government of the Unites States, which may preclude the work from being subject to
+copyright in Unites States, in which event no copyright is asserted in that country. 
+IAC-12. A2.7.4   9
+geometries, was completed in March 2011. Over 1300
+data points were collected with 900 consisting of high
+speed, high resolution video image (100+ GB of video
+data).   Preliminary   data   analysis   has   verified   model
+predictions for a number of critical conditions (where
+the maximum flow rate occurs). Preliminary results 
+v-
+ered which do not appear to match existing theoretical
+models.
+The test matrix for Experimental Unit #2 (EU#2),
+which   included   the   wedge   channel   geometry,   was
+completed in October 2011. Nearly 3000 test points
+were   completed,   including   high speed   and   standard
+video imaging. Data reduction has begun on the critical
+flow rate data in the wedge geometry. Three preliminary
+flow regime maps have been generated that identify the
+passive gas/liquid separation regimes for the wedge
+channel geometry.
+CONCLUSION
+The past 12 years have shown tremendous success in
+ISS   research   in   the   Combustion   Science,   Complex
+Fluids, and Fluid Physics, disciplines. This research
+balances the need for investigations that contribute to
+NASA Exploration goals, and solve terrestrial problems
+to produce societal benefit. Planned research on the ISS
+in the next few years will see a number of new experi-
+ments exploring areas such as two phase flow through
+porous media; gaseous flame structure and soot proper-
+ties,   an   experiment   to   model   complex   interactions
+among two-phase transport mechanisms and the phase
+change phenomena that control long-term propellant
+storage tank pressurization and control in microgravity;
+solid material flammability; suspended liquid crystals;
+fire detection; and the rheology of foams to name a few.
+REFERENCES
+1.   Nayagam, V, Dietrich, D. L., Ferkul, P.V., 
+support quasi- 
+Combustion and Flame, in-press 2012.
+2.   Dotson, K. T., P. B. Sunderland, Z. G. Yuan, 
+Coflowing Flames in Micro   Fire Safe-
+ty Journal   46, 2011, pp. 550   555.
+3.   Urban, D.L. Griffin, D., Ruff, G.A., Cleary, T.,
+Yang, J., Mulholland, G.W., Yuan, Z.G., De-
+tection of Smoke from Microgravity Fires,
+SAE Transactions, pp 375-384, 2005. 
+4.   Urban, D., Ruff, G., Greenberg, P., Mulhol-
+land, G., Cleary, T., Yang, J., Yuan, Z., Bryg,
+V., Particle Morphology and Size Results from
+the Smoke Aerosol Measurement Experiment-
+Reflight, 42nd International Conference on
+Environmental Systems (ICES), San Diego,
+CA, July 16-19, 2012.
+5.   Wang, Ton, Ruojie Sha, Rémi Dreyfus, Mirjam
+E. Leunissen, Corinna Maass, David J. Pine,
+Paul M. Chaikin, and Nadrian C. Seeman, 
+-replication of Information-bearing Na- 
+2011, pp. 225   228.
+6.   Bailey, A. E., W. C. K. Poon, R. J. Christian-
+son, A. B. Schofield, U. Gasser, V. Prasad, S.
+Manley, P. N. Segre, L. Cipelletti, W. V. Mey-
+er, M. P. Doherty, S. Sankaran, A. L. Jankov-
+sky, W. L. Shiley, J. P. Bowen, J. C. Eggers, C.
+Kurta, T. Lorik, Jr., P. N. Pusey, and D. A.
+Weitz, "Spinodal Decomposition in a Model
+Colloid-Polymer Mixture in Microgravity,"
+Physical Review Letters 99, 205701, 2007.
+7.   Chatterjee, Arya, Joel L. Plawsky, Peter C.
+Wayner, Jr., David F Chao, Ronald J Sicker,
+Tibor Lorik, Louis Chestney, John Eustace,
+and Joh 
+Bubble Experiment for ISS 
+Heat Transfer, 2010 vol. 24 no. 2, April 2010.
+8.   Chatterjee, Arya, Joel L. Plawsky and Peter C.
+Wayner, Jr., David F Chao, Ronald J Sicker,
+Tibor Lorik, Louis Chestney, John Eustace, 
+n-
+strained Vapor Bubble Experiment Fin Heat 
+r-
+ing Chemistry Research, February 25, 2011.
+9.   Chen, Y., M. M. Weislogel, and C. Nardin, 
+-driven flows along rounded interior 
+-271,
+(2006).
+10. Weislogel, M. M., J. A. Baker, R. M. Jenson, 
+-steady capillary-driven flows in slender 
+e-
+chanics, vol. 685, pp. 271-305, 2011.
+11. 
+Better Non-Dimensionalization Scheme for
+Slender Flows: The Laplacian Operator Scal- 
+(2008).

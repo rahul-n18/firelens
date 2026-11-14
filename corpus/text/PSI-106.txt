@@ -1,0 +1,516 @@
+[[accession]]
+PSI-106
+
+[[acknowledgments]]
+
+
+[[added.0.bucket]]
+psi-repo-prod
+
+[[added.0.file_name]]
+PSI-106_Experimental table_Slice.csv
+
+[[added.0.organization]]
+shared
+
+[[added.0.remote_path]]
+/Home/psi-data/PSI-106/Experimental table/PSI-106_Experimental table_Slice.csv
+
+[[added.0.remote_url]]
+/datamanager/file/Home/psi-data/PSI-106/Experimental table/PSI-106_Experimental table_Slice.csv
+
+[[added.0.resource_id.$oid]]
+66cf53d46f1142c964b2e0a8
+
+[[added.0.s3_path]]
+psi-data/PSI-106/Experimental table/PSI-106_Experimental table_Slice.csv
+
+[[added.0.s3_version_id]]
+EADeatraFqeO6MioWlN8bcfAhj6fQpy5
+
+[[added.0.study_id.$oid]]
+67a4e6f009ed061032c19848
+
+[[added.0.subcategory]]
+
+
+[[approach]]
+The SLICE apparatus consisted of a fan-driven flow duct, exchangeable burner tubes, and integrated sensors to measure flow rates and temperature. This setup used several fuels such as methane, ethylene, and nitrogen-diluted mixtures. Flames were then manually ignited and observed under controlled coflow air conditions. A high resolution camera captured still images while sensor data was overlaid on these images. Calibration tests for airflow velocity, soot measurement, and the fans were conducted to ensure the accuracy of the results. More than 4,000 high-resolution images were captured across 13 testing experiments. Data was then analyzed to correlate flame structure with stability with flow dynamics and fuel properties.
+
+[[contacts.0.@id]]
+
+
+[[contacts.0.address]]
+
+
+[[contacts.0.affiliation]]
+Yale University
+
+[[contacts.0.comments.0.name]]
+Study Person REF
+
+[[contacts.0.comments.0.value]]
+
+
+[[contacts.0.email]]
+mitchell.smooke@yale.edu
+
+[[contacts.0.fax]]
+
+
+[[contacts.0.firstName]]
+Mitchell
+
+[[contacts.0.lastName]]
+Smooke
+
+[[contacts.0.midInitials]]
+D.
+
+[[contacts.0.phone]]
+
+
+[[contacts.0.roles.0.@id]]
+59J36d8A36ZR1iSs6NNVDRYelIkilTNb30me8Erm
+
+[[contacts.0.roles.0.annotationValue]]
+Co-Investigator (Co-I)
+
+[[contacts.0.roles.0.termAccession]]
+Co-Investigator (Co-I)
+
+[[contacts.0.roles.0.termSource]]
+
+
+[[contacts.1.@id]]
+
+
+[[contacts.1.address]]
+
+
+[[contacts.1.affiliation]]
+Case Western University
+
+[[contacts.1.comments.0.name]]
+Study Person REF
+
+[[contacts.1.comments.0.value]]
+
+
+[[contacts.1.email]]
+fumiaki.takahashi@case.edu
+
+[[contacts.1.fax]]
+
+
+[[contacts.1.firstName]]
+Fumiaki
+
+[[contacts.1.lastName]]
+Takahashi
+
+[[contacts.1.midInitials]]
+
+
+[[contacts.1.phone]]
+
+
+[[contacts.1.roles.0.@id]]
+59J36d8A36ZR1iSs6NNVDRYelIkilTNb30me8Erm
+
+[[contacts.1.roles.0.annotationValue]]
+Co-Investigator (Co-I)
+
+[[contacts.1.roles.0.termAccession]]
+Co-Investigator (Co-I)
+
+[[contacts.1.roles.0.termSource]]
+
+
+[[contacts.2.@id]]
+
+
+[[contacts.2.address]]
+
+
+[[contacts.2.affiliation]]
+Yale University
+
+[[contacts.2.comments.0.name]]
+Study Person REF
+
+[[contacts.2.comments.0.value]]
+
+
+[[contacts.2.email]]
+marshall.long@yale.edu
+
+[[contacts.2.fax]]
+
+
+[[contacts.2.firstName]]
+Marshall
+
+[[contacts.2.lastName]]
+Long
+
+[[contacts.2.midInitials]]
+
+
+[[contacts.2.phone]]
+
+
+[[contacts.2.roles.0.@id]]
+dEBvA2jSs25xM9IfCv5ploF8MUDFt0ACKekf97KJ
+
+[[contacts.2.roles.0.annotationValue]]
+Principal Investigator (PI)
+
+[[contacts.2.roles.0.termAccession]]
+Principal Investigator (PI)
+
+[[contacts.2.roles.0.termSource]]
+
+
+[[contacts.3.@id]]
+
+
+[[contacts.3.address]]
+
+
+[[contacts.3.affiliation]]
+NASA GRC
+
+[[contacts.3.comments.0.name]]
+Study Person REF
+
+[[contacts.3.comments.0.value]]
+
+
+[[contacts.3.email]]
+dennis.p.stocker@nasa.gov
+
+[[contacts.3.fax]]
+
+
+[[contacts.3.firstName]]
+Dennis
+
+[[contacts.3.lastName]]
+Stocker
+
+[[contacts.3.midInitials]]
+
+
+[[contacts.3.phone]]
+
+
+[[contacts.3.roles.0.@id]]
+UPDBsFjwjds0hw6t0IuVN6evepdczdMm2HLYqwom
+
+[[contacts.3.roles.0.annotationValue]]
+Project Scientist
+
+[[contacts.3.roles.0.termAccession]]
+Project Scientist
+
+[[contacts.3.roles.0.termSource]]
+
+
+[[description]]
+
+
+[[doi]]
+10.60555/pm12-rg61
+
+[[experimentHardware]]
+
+
+[[experimentHardwareLink]]
+
+
+[[experimentalTable.0._id.$oid]]
+67a4e6f009ed061032c19847
+
+[[experimentalTable.0.file_name]]
+PSI-106_Experimental table_Slice.csv
+
+[[experimentalTable.0.remote_path]]
+/Home/psi-data/PSI-106/Experimental table/PSI-106_Experimental table_Slice.csv
+
+[[experimentalTable.0.remote_url]]
+/datamanager/file/Home/psi-data/PSI-106/Experimental table/PSI-106_Experimental table_Slice.csv
+
+[[experimentalTable.0.resource_id.$oid]]
+66cf53d46f1142c964b2e0a8
+
+[[experimentalTable.0.s3_path]]
+psi-data/PSI-106/Experimental table/PSI-106_Experimental table_Slice.csv
+
+[[experimentalTable.0.s3_version_id]]
+EADeatraFqeO6MioWlN8bcfAhj6fQpy5
+
+[[experimentalTable.0.study_id.$oid]]
+67a4e6f009ed061032c19848
+
+[[experimentalTable.0.subcategory]]
+
+
+[[flightProgram]]
+International Space Station (ISS)
+
+[[funding]]
+
+
+[[hypothesis]]
+The hypothesis is that the structure and stability of laminar diffusion flames in microgravity are significantly influenced by burner diameter, coflow velocity, and fuel composition and are fundamentally different than flames observed on Earth.
+
+[[investigationAcronym]]
+SLICE
+
+[[investigationEndDate]]
+
+
+[[investigationStartDate]]
+
+
+[[licenseIdentifier]]
+CC0-1.0
+
+[[licenseLink]]
+https://spdx.org/licenses/CC0-1.0.html
+
+[[licenseName]]
+Creative Commons Zero v1.0 Universal
+
+[[managingNasaCenter]]
+Glenn Research Center (GRC)
+
+[[missionEnd]]
+
+
+[[missionLink]]
+
+
+[[missionName]]
+
+
+[[missionStart]]
+
+
+[[modified.0.bucket]]
+psi-repo-prod
+
+[[modified.0.file_name]]
+PSI-106_metadata_PSI-174_SLICE.zip
+
+[[modified.0.organization]]
+OSD
+
+[[modified.0.remote_path]]
+/Home/psi-data/PSI-106/metadata/PSI-106_metadata_PSI-174_SLICE.zip
+
+[[modified.0.remote_url]]
+/datamanager/file/Home/psi-data/PSI-106/metadata/PSI-106_metadata_PSI-174_SLICE.zip
+
+[[modified.0.resource_id.$oid]]
+65e0a4d4931988043eebcd6e
+
+[[modified.0.s3_path]]
+psi-data/PSI-106/metadata/PSI-106_metadata_PSI-174_SLICE.zip
+
+[[modified.0.s3_version_id]]
+FxECv4NQVKPGTOWxN5HvdvfoMHbZVcot
+
+[[modified.0.study_id.$oid]]
+6761c558754fcbc3b70ffb1e
+
+[[modifiedDate]]
+06-Feb-2025
+
+[[objective]]
+Objective: The objective of this investigation is to better understand the structure and stability of laminar diffusion flames in microgravity.
+
+Specific objectives of this investigation were:
+1. To investigate the structure of laminar diffusion flames in microgravity to understand the stabilizing mechanisms at the flames base.
+2. Determine the liftoff velocity limits for different fuels and burner diameters.
+3. Evaluate the impact of fuel dilution with nitrogen on soot formation and flame stability.
+4. Quantify the effects of microgravity on flame length and radiative heat loss compared to normal gravity conditions.
+5. Validate numerical models for flame dynamics, soot production, and thermal radiation in non-premixed flames.
+
+[[projectIdentifier]]
+
+
+[[projectLink]]
+
+
+[[projectTitle]]
+
+
+[[projectType]]
+Microgravity Investigation
+
+[[proposalTitle]]
+
+
+[[publications.0.authorList]]
+Cao S., Ma B., Bennett B.A.V., Giassi D., Stocker D.P., Takahashi F., Long M.B., Smooke M.D.
+
+[[publications.0.doi]]
+10.1016/j.proci.2014.05.138
+
+[[publications.0.pubMedID]]
+
+
+[[publications.0.status.@id]]
+Rd2oZxVKYUnMCRj3tbHg0eGQhfrFmtiEFnMOyDHF
+
+[[publications.0.status.annotationValue]]
+published
+
+[[publications.0.status.termAccession]]
+http://www.ebi.ac.uk/efo/EFO_0001796
+
+[[publications.0.status.termSource]]
+EFO
+
+[[publications.0.title]]
+A computational and experimental study of coflow laminar methane/air diffusion flames: Effects of fuel dilution, inlet velocity, and gravity
+
+[[publications.1.authorList]]
+Dobbins Richard R., Tinjero Jesse, Squeo Joseph, Zhao Xinyu, Hall Robert J., Colket Meredith B., Long Marshall B., Smooke Mitchell D.
+
+[[publications.1.doi]]
+10.1080/00102202.2022.2041621
+
+[[publications.1.pubMedID]]
+
+
+[[publications.1.status.@id]]
+Rd2oZxVKYUnMCRj3tbHg0eGQhfrFmtiEFnMOyDHF
+
+[[publications.1.status.annotationValue]]
+published
+
+[[publications.1.status.termAccession]]
+http://www.ebi.ac.uk/efo/EFO_0001796
+
+[[publications.1.status.termSource]]
+EFO
+
+[[publications.1.title]]
+A Combined Experimental and Computational Study of Soot Formation in Normal and Microgravity Conditions
+
+[[publications.2.authorList]]
+S Cao, BAV Bennett, B Ma, D Giassi, DP Stocker, F Takahashi, MB Long, MD Smooke
+
+[[publications.2.doi]]
+
+
+[[publications.2.pubMedID]]
+
+
+[[publications.2.status.@id]]
+l87xqHQEQuC4rNfO31zRSVlRomoXfQjaWFyzxZZZ
+
+[[publications.2.status.annotationValue]]
+published
+
+[[publications.2.status.termAccession]]
+http://www.ebi.ac.uk/efo/EFO_0001796
+
+[[publications.2.status.termSource]]
+
+
+[[publications.2.title]]
+Effects of Fuel Dilution and Gravity on Laminar Coflow Methane-Air Diffusion Flames: A Computational and Experimental Investigation
+
+[[publications.3.authorList]]
+Ma Bin, Cao Su, Giassi Davide, Stocker Dennis P., Takahashi Fumiaki, Bennett Beth Anne V., Smooke Mitchell D., Long Marshall B.
+
+[[publications.3.doi]]
+10.1016/j.proci.2014.05.064
+
+[[publications.3.pubMedID]]
+
+
+[[publications.3.status.@id]]
+Rd2oZxVKYUnMCRj3tbHg0eGQhfrFmtiEFnMOyDHF
+
+[[publications.3.status.annotationValue]]
+published
+
+[[publications.3.status.termAccession]]
+http://www.ebi.ac.uk/efo/EFO_0001796
+
+[[publications.3.status.termSource]]
+EFO
+
+[[publications.3.title]]
+An experimental and computational study of soot formation in a coflow jet flame under microgravity and normal gravity
+
+[[publications.4.authorList]]
+Giassi Davide, Cao Su, Bennett Beth Anne V., Stocker Dennis P., Takahashi Fumiaki, Smooke Mitchell D., Long Marshall B.
+
+[[publications.4.doi]]
+10.1016/j.combustflame.2016.02.012
+
+[[publications.4.pubMedID]]
+
+
+[[publications.4.status.@id]]
+Rd2oZxVKYUnMCRj3tbHg0eGQhfrFmtiEFnMOyDHF
+
+[[publications.4.status.annotationValue]]
+published
+
+[[publications.4.status.termAccession]]
+http://www.ebi.ac.uk/efo/EFO_0001796
+
+[[publications.4.status.termSource]]
+EFO
+
+[[publications.4.title]]
+Analysis of CH* concentration and flame heat release rate in laminar coflow diffusion flames under microgravity and normal gravity
+
+[[related_glds]]
+PSI-107
+
+[[releaseDate]]
+18-Sep-2024
+
+[[researchArea]]
+Combustion Science
+
+[[researchImpacts]]
+1. Improved numerical models for flame behavior lead to more efficient combustion technologies on Earth.
+2. Understanding soot formation aids in designing combustion systems with minimum emissions.
+3. Insights into flame stability and behavior to enhance fire safety.
+4. Findings will inform the development of cleaner, more efficient engines and industrial burners.
+
+[[sourceAccession]]
+
+
+[[sourceLink]]
+
+
+[[spaceProgram]]
+National Aeronautics and Space Administration (NASA)
+
+[[subResearchArea]]
+
+
+[[submissionDate]]
+18-Sep-2024
+
+[[title]]
+Structure and Liftoff In Combustion Experiment
+
+[[versionMessage]]
+
+
+[[versionMessageLevel]]
+
+
+[[versionReason]]
+Additional documentation release

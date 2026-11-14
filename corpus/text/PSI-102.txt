@@ -1,0 +1,5445 @@
+[[accession]]
+PSI-102
+
+[[acknowledgments]]
+
+
+[[added.0.bucket]]
+psi-repo-prod
+
+[[added.0.file_name]]
+PSI-102_metadata_PSI-170_SAME.zip
+
+[[added.0.organization]]
+OSD
+
+[[added.0.remote_path]]
+/Home/psi-data/PSI-102/metadata/PSI-102_metadata_PSI-170_SAME.zip
+
+[[added.0.remote_url]]
+/datamanager/file/Home/psi-data/PSI-102/metadata/PSI-102_metadata_PSI-170_SAME.zip
+
+[[added.0.resource_id.$oid]]
+65e0a4d4931988043eebcd6e
+
+[[added.0.s3_path]]
+psi-data/PSI-102/metadata/PSI-102_metadata_PSI-170_SAME.zip
+
+[[added.0.s3_version_id]]
+PVeDI1_QJASAZW4EofjbFG5FmPvhG8rP
+
+[[added.0.study_id.$oid]]
+683d9d56f91ab4427dbf4492
+
+[[added.1.bucket]]
+
+
+[[added.1.file_name]]
+PSI-102_Engineering Documents_SAME_EIRD.pdf
+
+[[added.1.organization]]
+shared
+
+[[added.1.psi_legacy_s3_path]]
+legacy/7264/125/SAME EIRD Rev 2.00 02-25-05 HIgh Q.pdf
+
+[[added.1.remote_path]]
+/Home/psi-data/PSI-102/Engineering Documents/PSI-102_Engineering Documents_SAME_EIRD.pdf
+
+[[added.1.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/70333/?inline=1&log=1
+
+[[added.1.resource_id.$oid]]
+65eb514f2ec0b0961f8f9a49
+
+[[added.1.s3_path]]
+psi-data/PSI-102/Engineering Documents/PSI-102_Engineering Documents_SAME_EIRD.pdf
+
+[[added.1.study_id.$oid]]
+683d9d56f91ab4427dbf4492
+
+[[added.1.subcategory]]
+
+
+[[added.2.bucket]]
+
+
+[[added.2.file_name]]
+PSI-102_Reports_SAME_Final Science Report.pdf
+
+[[added.2.organization]]
+shared
+
+[[added.2.psi_legacy_s3_path]]
+legacy/16404/244/SAME Final Science report  03 18 10 with papers attached.pdf
+
+[[added.2.remote_path]]
+/Home/psi-data/PSI-102/Reports/PSI-102_Reports_SAME_Final Science Report.pdf
+
+[[added.2.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/106421/?inline=1&log=1
+
+[[added.2.resource_id.$oid]]
+65f8b3442ec0b0961f8fa20a
+
+[[added.2.s3_path]]
+psi-data/PSI-102/Reports/PSI-102_Reports_SAME_Final Science Report.pdf
+
+[[added.2.study_id.$oid]]
+683d9d56f91ab4427dbf4492
+
+[[added.2.subcategory]]
+
+
+[[added.3.bucket]]
+
+
+[[added.3.file_name]]
+PSI-102_Engineering Documents_Resistive Heater Coil-TN002.mp4
+
+[[added.3.organization]]
+shared
+
+[[added.3.psi_legacy_s3_path]]
+legacy/16785/224/TN002.mp4
+
+[[added.3.remote_path]]
+/Home/psi-data/PSI-102/Engineering Documents/PSI-102_Engineering Documents_Resistive Heater Coil-TN002.mp4
+
+[[added.3.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/109895/?inline=1&log=1
+
+[[added.3.resource_id.$oid]]
+65eb514f2ec0b0961f8f9a49
+
+[[added.3.s3_path]]
+psi-data/PSI-102/Engineering Documents/PSI-102_Engineering Documents_Resistive Heater Coil-TN002.mp4
+
+[[added.3.study_id.$oid]]
+683d9d56f91ab4427dbf4492
+
+[[added.3.subcategory]]
+
+
+[[added.4.bucket]]
+
+
+[[added.4.file_name]]
+PSI-102_Engineering Documents_Resistive Heater Coil-TN001.mp4
+
+[[added.4.organization]]
+shared
+
+[[added.4.psi_legacy_s3_path]]
+legacy/16785/224/TN001.mp4
+
+[[added.4.remote_path]]
+/Home/psi-data/PSI-102/Engineering Documents/PSI-102_Engineering Documents_Resistive Heater Coil-TN001.mp4
+
+[[added.4.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/109896/?inline=1&log=1
+
+[[added.4.resource_id.$oid]]
+65eb514f2ec0b0961f8f9a49
+
+[[added.4.s3_path]]
+psi-data/PSI-102/Engineering Documents/PSI-102_Engineering Documents_Resistive Heater Coil-TN001.mp4
+
+[[added.4.study_id.$oid]]
+683d9d56f91ab4427dbf4492
+
+[[added.4.subcategory]]
+
+
+[[added.5.bucket]]
+
+
+[[added.5.file_name]]
+PSI-102_Analyzed Data_GMT252run1testhkp with plots.xls
+
+[[added.5.organization]]
+shared
+
+[[added.5.psi_legacy_s3_path]]
+legacy/16854/227/GMT252run1testhkp with plots.xls
+
+[[added.5.remote_path]]
+/Home/psi-data/PSI-102/Analyzed Data/PSI-102_Analyzed Data_GMT252run1testhkp with plots.xls
+
+[[added.5.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/131182/?inline=1&log=1
+
+[[added.5.resource_id.$oid]]
+65e737ee8e263688e9f9200c
+
+[[added.5.s3_path]]
+psi-data/PSI-102/Analyzed Data/PSI-102_Analyzed Data_GMT252run1testhkp with plots.xls
+
+[[added.5.study_id.$oid]]
+683d9d56f91ab4427dbf4492
+
+[[added.5.subcategory]]
+Reduced Gravity/Silicone/Run 01
+
+[[added.6.bucket]]
+
+
+[[added.6.file_name]]
+PSI-102_Analyzed Data_GMT252run1testhkp with plotszgy average.xls
+
+[[added.6.organization]]
+shared
+
+[[added.6.psi_legacy_s3_path]]
+legacy/16854/227/GMT252run1testhkp with plotszgy average.xls
+
+[[added.6.remote_path]]
+/Home/psi-data/PSI-102/Analyzed Data/PSI-102_Analyzed Data_GMT252run1testhkp with plotszgy average.xls
+
+[[added.6.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/131183/?inline=1&log=1
+
+[[added.6.resource_id.$oid]]
+65e737ee8e263688e9f9200c
+
+[[added.6.s3_path]]
+psi-data/PSI-102/Analyzed Data/PSI-102_Analyzed Data_GMT252run1testhkp with plotszgy average.xls
+
+[[added.6.study_id.$oid]]
+683d9d56f91ab4427dbf4492
+
+[[added.6.subcategory]]
+Reduced Gravity/Silicone/Run 01
+
+[[added.7.bucket]]
+
+
+[[added.7.file_name]]
+PSI-102_Analyzed Data_Run 1 GMT252 testlog.xls
+
+[[added.7.organization]]
+shared
+
+[[added.7.psi_legacy_s3_path]]
+legacy/16854/226/Run 1 GMT252 testlog.xls
+
+[[added.7.remote_path]]
+/Home/psi-data/PSI-102/Analyzed Data/PSI-102_Analyzed Data_Run 1 GMT252 testlog.xls
+
+[[added.7.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/131184/?inline=1&log=1
+
+[[added.7.resource_id.$oid]]
+65e737ee8e263688e9f9200c
+
+[[added.7.s3_path]]
+psi-data/PSI-102/Analyzed Data/PSI-102_Analyzed Data_Run 1 GMT252 testlog.xls
+
+[[added.7.study_id.$oid]]
+683d9d56f91ab4427dbf4492
+
+[[added.7.subcategory]]
+Reduced Gravity/Silicone/Run 01
+
+[[added.8.bucket]]
+
+
+[[added.8.file_name]]
+PSI-102_Analyzed Data_Run 2 DBP GMT 254 with averages.xls
+
+[[added.8.organization]]
+shared
+
+[[added.8.psi_legacy_s3_path]]
+legacy/16901/227/Run 2 DBP GMT 254 with averages.xls
+
+[[added.8.remote_path]]
+/Home/psi-data/PSI-102/Analyzed Data/PSI-102_Analyzed Data_Run 2 DBP GMT 254 with averages.xls
+
+[[added.8.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/131185/?inline=1&log=1
+
+[[added.8.resource_id.$oid]]
+65e737ee8e263688e9f9200c
+
+[[added.8.s3_path]]
+psi-data/PSI-102/Analyzed Data/PSI-102_Analyzed Data_Run 2 DBP GMT 254 with averages.xls
+
+[[added.8.study_id.$oid]]
+683d9d56f91ab4427dbf4492
+
+[[added.8.subcategory]]
+Reduced Gravity/Dibutyl Phthalate/Run 02
+
+[[added.9.bucket]]
+
+
+[[added.9.file_name]]
+PSI-102_Analyzed Data_GMT254HKPandLOGmultiple runs.xls
+
+[[added.9.organization]]
+shared
+
+[[added.9.psi_legacy_s3_path]]
+legacy/16901/227/GMT254HKPandLOGmultiple runs.xls
+
+[[added.9.remote_path]]
+/Home/psi-data/PSI-102/Analyzed Data/PSI-102_Analyzed Data_GMT254HKPandLOGmultiple runs.xls
+
+[[added.9.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/131186/?inline=1&log=1
+
+[[added.9.resource_id.$oid]]
+65e737ee8e263688e9f9200c
+
+[[added.9.s3_path]]
+psi-data/PSI-102/Analyzed Data/PSI-102_Analyzed Data_GMT254HKPandLOGmultiple runs.xls
+
+[[added.9.study_id.$oid]]
+683d9d56f91ab4427dbf4492
+
+[[added.9.subcategory]]
+Reduced Gravity/Dibutyl Phthalate/Run 02
+
+[[added.10.bucket]]
+
+
+[[added.10.file_name]]
+PSI-102_Analyzed Data_Run 2 GMT254 testlog.xlsx
+
+[[added.10.organization]]
+shared
+
+[[added.10.psi_legacy_s3_path]]
+legacy/16901/226/Run 2 GMT254 testlog.xlsx
+
+[[added.10.remote_path]]
+/Home/psi-data/PSI-102/Analyzed Data/PSI-102_Analyzed Data_Run 2 GMT254 testlog.xlsx
+
+[[added.10.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/131187/?inline=1&log=1
+
+[[added.10.resource_id.$oid]]
+65e737ee8e263688e9f9200c
+
+[[added.10.s3_path]]
+psi-data/PSI-102/Analyzed Data/PSI-102_Analyzed Data_Run 2 GMT254 testlog.xlsx
+
+[[added.10.study_id.$oid]]
+683d9d56f91ab4427dbf4492
+
+[[added.10.subcategory]]
+Reduced Gravity/Dibutyl Phthalate/Run 02
+
+[[added.11.bucket]]
+
+
+[[added.11.file_name]]
+PSI-102_Analyzed Data_GMT254run2btesthkp with zgy average.xls
+
+[[added.11.organization]]
+shared
+
+[[added.11.psi_legacy_s3_path]]
+legacy/16902/227/GMT254run2btesthkp with zgy average.xls
+
+[[added.11.remote_path]]
+/Home/psi-data/PSI-102/Analyzed Data/PSI-102_Analyzed Data_GMT254run2btesthkp with zgy average.xls
+
+[[added.11.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/131188/?inline=1&log=1
+
+[[added.11.resource_id.$oid]]
+65e737ee8e263688e9f9200c
+
+[[added.11.s3_path]]
+psi-data/PSI-102/Analyzed Data/PSI-102_Analyzed Data_GMT254run2btesthkp with zgy average.xls
+
+[[added.11.study_id.$oid]]
+683d9d56f91ab4427dbf4492
+
+[[added.11.subcategory]]
+Reduced Gravity/Dibutyl Phthalate/Run 03
+
+[[added.12.bucket]]
+
+
+[[added.12.file_name]]
+PSI-102_Analyzed Data_Run 2 GMT254 testlog b.xlsx
+
+[[added.12.organization]]
+shared
+
+[[added.12.psi_legacy_s3_path]]
+legacy/16902/226/Run 2 GMT254 testlog b.xlsx
+
+[[added.12.remote_path]]
+/Home/psi-data/PSI-102/Analyzed Data/PSI-102_Analyzed Data_Run 2 GMT254 testlog b.xlsx
+
+[[added.12.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/131189/?inline=1&log=1
+
+[[added.12.resource_id.$oid]]
+65e737ee8e263688e9f9200c
+
+[[added.12.s3_path]]
+psi-data/PSI-102/Analyzed Data/PSI-102_Analyzed Data_Run 2 GMT254 testlog b.xlsx
+
+[[added.12.study_id.$oid]]
+683d9d56f91ab4427dbf4492
+
+[[added.12.subcategory]]
+Reduced Gravity/Dibutyl Phthalate/Run 03
+
+[[added.13.bucket]]
+
+
+[[added.13.file_name]]
+PSI-102_Analyzed Data_DBP run 4 GMT255hkp with zgy average.xls
+
+[[added.13.organization]]
+shared
+
+[[added.13.psi_legacy_s3_path]]
+legacy/16903/227/DBP run 4 GMT255hkp with zgy average.xls
+
+[[added.13.remote_path]]
+/Home/psi-data/PSI-102/Analyzed Data/PSI-102_Analyzed Data_DBP run 4 GMT255hkp with zgy average.xls
+
+[[added.13.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/131190/?inline=1&log=1
+
+[[added.13.resource_id.$oid]]
+65e737ee8e263688e9f9200c
+
+[[added.13.s3_path]]
+psi-data/PSI-102/Analyzed Data/PSI-102_Analyzed Data_DBP run 4 GMT255hkp with zgy average.xls
+
+[[added.13.study_id.$oid]]
+683d9d56f91ab4427dbf4492
+
+[[added.13.subcategory]]
+Reduced Gravity/Dibutyl Phthalate/Run 04
+
+[[added.14.bucket]]
+
+
+[[added.14.file_name]]
+PSI-102_Analyzed Data_GMT255 log.xlsx
+
+[[added.14.organization]]
+shared
+
+[[added.14.psi_legacy_s3_path]]
+legacy/16903/226/GMT255 log.xlsx
+
+[[added.14.remote_path]]
+/Home/psi-data/PSI-102/Analyzed Data/PSI-102_Analyzed Data_GMT255 log.xlsx
+
+[[added.14.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/131191/?inline=1&log=1
+
+[[added.14.resource_id.$oid]]
+65e737ee8e263688e9f9200c
+
+[[added.14.s3_path]]
+psi-data/PSI-102/Analyzed Data/PSI-102_Analyzed Data_GMT255 log.xlsx
+
+[[added.14.study_id.$oid]]
+683d9d56f91ab4427dbf4492
+
+[[added.14.subcategory]]
+Reduced Gravity/Dibutyl Phthalate/Run 04
+
+[[added.15.bucket]]
+
+
+[[added.15.file_name]]
+PSI-102_Analyzed Data_GMT255hkp.xlsx
+
+[[added.15.organization]]
+shared
+
+[[added.15.psi_legacy_s3_path]]
+legacy/16903/226/GMT255hkp.xlsx
+
+[[added.15.remote_path]]
+/Home/psi-data/PSI-102/Analyzed Data/PSI-102_Analyzed Data_GMT255hkp.xlsx
+
+[[added.15.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/131192/?inline=1&log=1
+
+[[added.15.resource_id.$oid]]
+65e737ee8e263688e9f9200c
+
+[[added.15.s3_path]]
+psi-data/PSI-102/Analyzed Data/PSI-102_Analyzed Data_GMT255hkp.xlsx
+
+[[added.15.study_id.$oid]]
+683d9d56f91ab4427dbf4492
+
+[[added.15.subcategory]]
+Reduced Gravity/Dibutyl Phthalate/Run 04
+
+[[added.16.bucket]]
+
+
+[[added.16.file_name]]
+PSI-102_Analyzed Data_DBP  GMT257hkp.xls
+
+[[added.16.organization]]
+shared
+
+[[added.16.psi_legacy_s3_path]]
+legacy/16907/227/DBP  GMT257hkp.xls
+
+[[added.16.remote_path]]
+/Home/psi-data/PSI-102/Analyzed Data/PSI-102_Analyzed Data_DBP  GMT257hkp.xls
+
+[[added.16.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/131193/?inline=1&log=1
+
+[[added.16.resource_id.$oid]]
+65e737ee8e263688e9f9200c
+
+[[added.16.s3_path]]
+psi-data/PSI-102/Analyzed Data/PSI-102_Analyzed Data_DBP  GMT257hkp.xls
+
+[[added.16.study_id.$oid]]
+683d9d56f91ab4427dbf4492
+
+[[added.16.subcategory]]
+Reduced Gravity/Dibutyl Phthalate/Run 09
+
+[[added.17.bucket]]
+
+
+[[added.17.file_name]]
+PSI-102_Analyzed Data_dbpGMT257hkp zgy average.xls
+
+[[added.17.organization]]
+shared
+
+[[added.17.psi_legacy_s3_path]]
+legacy/16907/227/dbpGMT257hkp zgy average.xls
+
+[[added.17.remote_path]]
+/Home/psi-data/PSI-102/Analyzed Data/PSI-102_Analyzed Data_dbpGMT257hkp zgy average.xls
+
+[[added.17.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/131194/?inline=1&log=1
+
+[[added.17.resource_id.$oid]]
+65e737ee8e263688e9f9200c
+
+[[added.17.s3_path]]
+psi-data/PSI-102/Analyzed Data/PSI-102_Analyzed Data_dbpGMT257hkp zgy average.xls
+
+[[added.17.study_id.$oid]]
+683d9d56f91ab4427dbf4492
+
+[[added.17.subcategory]]
+Reduced Gravity/Dibutyl Phthalate/Run 09
+
+[[added.18.bucket]]
+
+
+[[added.18.file_name]]
+PSI-102_Analyzed Data_GMT262 Run 11 DBP hkp.xls
+
+[[added.18.organization]]
+shared
+
+[[added.18.psi_legacy_s3_path]]
+legacy/16909/227/GMT262 Run 11 DBP hkp.xls
+
+[[added.18.remote_path]]
+/Home/psi-data/PSI-102/Analyzed Data/PSI-102_Analyzed Data_GMT262 Run 11 DBP hkp.xls
+
+[[added.18.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/131195/?inline=1&log=1
+
+[[added.18.resource_id.$oid]]
+65e737ee8e263688e9f9200c
+
+[[added.18.s3_path]]
+psi-data/PSI-102/Analyzed Data/PSI-102_Analyzed Data_GMT262 Run 11 DBP hkp.xls
+
+[[added.18.study_id.$oid]]
+683d9d56f91ab4427dbf4492
+
+[[added.18.subcategory]]
+Reduced Gravity/Dibutyl Phthalate/Run 11
+
+[[added.19.bucket]]
+
+
+[[added.19.file_name]]
+PSI-102_Analyzed Data_GMT262 Run 12 dbp.xls
+
+[[added.19.organization]]
+shared
+
+[[added.19.psi_legacy_s3_path]]
+legacy/16910/227/GMT262 Run 12 dbp.xls
+
+[[added.19.remote_path]]
+/Home/psi-data/PSI-102/Analyzed Data/PSI-102_Analyzed Data_GMT262 Run 12 dbp.xls
+
+[[added.19.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/131196/?inline=1&log=1
+
+[[added.19.resource_id.$oid]]
+65e737ee8e263688e9f9200c
+
+[[added.19.s3_path]]
+psi-data/PSI-102/Analyzed Data/PSI-102_Analyzed Data_GMT262 Run 12 dbp.xls
+
+[[added.19.study_id.$oid]]
+683d9d56f91ab4427dbf4492
+
+[[added.19.subcategory]]
+Reduced Gravity/Dibutyl Phthalate/Run 12
+
+[[added.20.bucket]]
+
+
+[[added.20.file_name]]
+PSI-102_Analyzed Data_GMT263 Run 15 DBP.xls
+
+[[added.20.organization]]
+shared
+
+[[added.20.psi_legacy_s3_path]]
+legacy/16927/227/GMT263 Run 15 DBP.xls
+
+[[added.20.remote_path]]
+/Home/psi-data/PSI-102/Analyzed Data/PSI-102_Analyzed Data_GMT263 Run 15 DBP.xls
+
+[[added.20.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/131197/?inline=1&log=1
+
+[[added.20.resource_id.$oid]]
+65e737ee8e263688e9f9200c
+
+[[added.20.s3_path]]
+psi-data/PSI-102/Analyzed Data/PSI-102_Analyzed Data_GMT263 Run 15 DBP.xls
+
+[[added.20.study_id.$oid]]
+683d9d56f91ab4427dbf4492
+
+[[added.20.subcategory]]
+Reduced Gravity/Dibutyl Phthalate/Run 15
+
+[[added.21.bucket]]
+
+
+[[added.21.file_name]]
+PSI-102_Analyzed Data_GMT263 Run 16 DBP.xls
+
+[[added.21.organization]]
+shared
+
+[[added.21.psi_legacy_s3_path]]
+legacy/16929/227/GMT263 Run 16 DBP.xls
+
+[[added.21.remote_path]]
+/Home/psi-data/PSI-102/Analyzed Data/PSI-102_Analyzed Data_GMT263 Run 16 DBP.xls
+
+[[added.21.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/131198/?inline=1&log=1
+
+[[added.21.resource_id.$oid]]
+65e737ee8e263688e9f9200c
+
+[[added.21.s3_path]]
+psi-data/PSI-102/Analyzed Data/PSI-102_Analyzed Data_GMT263 Run 16 DBP.xls
+
+[[added.21.study_id.$oid]]
+683d9d56f91ab4427dbf4492
+
+[[added.21.subcategory]]
+Reduced Gravity/Dibutyl Phthalate/Run 16
+
+[[added.22.bucket]]
+
+
+[[added.22.file_name]]
+PSI-102_Analyzed Data_GMT264 Run 18 DBP.xls
+
+[[added.22.organization]]
+shared
+
+[[added.22.psi_legacy_s3_path]]
+legacy/16931/227/GMT264 Run 18 DBP.xls
+
+[[added.22.remote_path]]
+/Home/psi-data/PSI-102/Analyzed Data/PSI-102_Analyzed Data_GMT264 Run 18 DBP.xls
+
+[[added.22.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/131199/?inline=1&log=1
+
+[[added.22.resource_id.$oid]]
+65e737ee8e263688e9f9200c
+
+[[added.22.s3_path]]
+psi-data/PSI-102/Analyzed Data/PSI-102_Analyzed Data_GMT264 Run 18 DBP.xls
+
+[[added.22.study_id.$oid]]
+683d9d56f91ab4427dbf4492
+
+[[added.22.subcategory]]
+Reduced Gravity/Dibutyl Phthalate/Run 18
+
+[[added.23.bucket]]
+
+
+[[added.23.file_name]]
+PSI-102_Analyzed Data_GMT264dbptest19and20hkp.xls
+
+[[added.23.organization]]
+shared
+
+[[added.23.psi_legacy_s3_path]]
+legacy/16932/227/GMT264dbptest19and20hkp.xls
+
+[[added.23.remote_path]]
+/Home/psi-data/PSI-102/Analyzed Data/PSI-102_Analyzed Data_GMT264dbptest19and20hkp.xls
+
+[[added.23.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/131200/?inline=1&log=1
+
+[[added.23.resource_id.$oid]]
+65e737ee8e263688e9f9200c
+
+[[added.23.s3_path]]
+psi-data/PSI-102/Analyzed Data/PSI-102_Analyzed Data_GMT264dbptest19and20hkp.xls
+
+[[added.23.study_id.$oid]]
+683d9d56f91ab4427dbf4492
+
+[[added.23.subcategory]]
+Reduced Gravity/Dibutyl Phthalate/Run 19, 20
+
+[[added.24.bucket]]
+
+
+[[added.24.file_name]]
+PSI-102_Analyzed Data_GMT264 Run 22 DBP.xls
+
+[[added.24.organization]]
+shared
+
+[[added.24.psi_legacy_s3_path]]
+legacy/16933/227/GMT264 Run 22 DBP.xls
+
+[[added.24.remote_path]]
+/Home/psi-data/PSI-102/Analyzed Data/PSI-102_Analyzed Data_GMT264 Run 22 DBP.xls
+
+[[added.24.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/131201/?inline=1&log=1
+
+[[added.24.resource_id.$oid]]
+65e737ee8e263688e9f9200c
+
+[[added.24.s3_path]]
+psi-data/PSI-102/Analyzed Data/PSI-102_Analyzed Data_GMT264 Run 22 DBP.xls
+
+[[added.24.study_id.$oid]]
+683d9d56f91ab4427dbf4492
+
+[[added.24.subcategory]]
+Reduced Gravity/Dibutyl Phthalate/Run 21, 22
+
+[[added.25.bucket]]
+
+
+[[added.25.file_name]]
+PSI-102_Analyzed Data_GMT264 Run 21 DBP.xls
+
+[[added.25.organization]]
+shared
+
+[[added.25.psi_legacy_s3_path]]
+legacy/16933/227/GMT264 Run 21 DBP.xls
+
+[[added.25.remote_path]]
+/Home/psi-data/PSI-102/Analyzed Data/PSI-102_Analyzed Data_GMT264 Run 21 DBP.xls
+
+[[added.25.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/131202/?inline=1&log=1
+
+[[added.25.resource_id.$oid]]
+65e737ee8e263688e9f9200c
+
+[[added.25.s3_path]]
+psi-data/PSI-102/Analyzed Data/PSI-102_Analyzed Data_GMT264 Run 21 DBP.xls
+
+[[added.25.study_id.$oid]]
+683d9d56f91ab4427dbf4492
+
+[[added.25.subcategory]]
+Reduced Gravity/Dibutyl Phthalate/Run 21, 22
+
+[[added.26.bucket]]
+
+
+[[added.26.file_name]]
+PSI-102_Analyzed Data_GMT276dbp36hkp.xls
+
+[[added.26.organization]]
+shared
+
+[[added.26.psi_legacy_s3_path]]
+legacy/16948/227/GMT276dbp36hkp.xls
+
+[[added.26.remote_path]]
+/Home/psi-data/PSI-102/Analyzed Data/PSI-102_Analyzed Data_GMT276dbp36hkp.xls
+
+[[added.26.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/131203/?inline=1&log=1
+
+[[added.26.resource_id.$oid]]
+65e737ee8e263688e9f9200c
+
+[[added.26.s3_path]]
+psi-data/PSI-102/Analyzed Data/PSI-102_Analyzed Data_GMT276dbp36hkp.xls
+
+[[added.26.study_id.$oid]]
+683d9d56f91ab4427dbf4492
+
+[[added.26.subcategory]]
+Reduced Gravity/Dibutyl Phthalate/Run 36
+
+[[added.27.bucket]]
+
+
+[[added.27.file_name]]
+PSI-102_Analyzed Data_GMT276dbp37.xls
+
+[[added.27.organization]]
+shared
+
+[[added.27.psi_legacy_s3_path]]
+legacy/16949/227/GMT276dbp37.xls
+
+[[added.27.remote_path]]
+/Home/psi-data/PSI-102/Analyzed Data/PSI-102_Analyzed Data_GMT276dbp37.xls
+
+[[added.27.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/131204/?inline=1&log=1
+
+[[added.27.resource_id.$oid]]
+65e737ee8e263688e9f9200c
+
+[[added.27.s3_path]]
+psi-data/PSI-102/Analyzed Data/PSI-102_Analyzed Data_GMT276dbp37.xls
+
+[[added.27.study_id.$oid]]
+683d9d56f91ab4427dbf4492
+
+[[added.27.subcategory]]
+Reduced Gravity/Dibutyl Phthalate/Run 37
+
+[[added.28.bucket]]
+
+
+[[added.28.file_name]]
+PSI-102_Analyzed Data_GMT276dbp38.xls
+
+[[added.28.organization]]
+shared
+
+[[added.28.psi_legacy_s3_path]]
+legacy/16950/227/GMT276dbp38.xls
+
+[[added.28.remote_path]]
+/Home/psi-data/PSI-102/Analyzed Data/PSI-102_Analyzed Data_GMT276dbp38.xls
+
+[[added.28.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/131205/?inline=1&log=1
+
+[[added.28.resource_id.$oid]]
+65e737ee8e263688e9f9200c
+
+[[added.28.s3_path]]
+psi-data/PSI-102/Analyzed Data/PSI-102_Analyzed Data_GMT276dbp38.xls
+
+[[added.28.study_id.$oid]]
+683d9d56f91ab4427dbf4492
+
+[[added.28.subcategory]]
+Reduced Gravity/Dibutyl Phthalate/Run 38
+
+[[added.29.bucket]]
+
+
+[[added.29.file_name]]
+PSI-102_Analyzed Data_GMT276dbp39hkp.xls
+
+[[added.29.organization]]
+shared
+
+[[added.29.psi_legacy_s3_path]]
+legacy/16951/227/GMT276dbp39hkp.xls
+
+[[added.29.remote_path]]
+/Home/psi-data/PSI-102/Analyzed Data/PSI-102_Analyzed Data_GMT276dbp39hkp.xls
+
+[[added.29.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/131206/?inline=1&log=1
+
+[[added.29.resource_id.$oid]]
+65e737ee8e263688e9f9200c
+
+[[added.29.s3_path]]
+psi-data/PSI-102/Analyzed Data/PSI-102_Analyzed Data_GMT276dbp39hkp.xls
+
+[[added.29.study_id.$oid]]
+683d9d56f91ab4427dbf4492
+
+[[added.29.subcategory]]
+Reduced Gravity/Dibutyl Phthalate/Run 39
+
+[[added.30.bucket]]
+
+
+[[added.30.file_name]]
+PSI-102_Analyzed Data_GMT276dbp40hkp.xls
+
+[[added.30.organization]]
+shared
+
+[[added.30.psi_legacy_s3_path]]
+legacy/16952/227/GMT276dbp40hkp.xls
+
+[[added.30.remote_path]]
+/Home/psi-data/PSI-102/Analyzed Data/PSI-102_Analyzed Data_GMT276dbp40hkp.xls
+
+[[added.30.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/131207/?inline=1&log=1
+
+[[added.30.resource_id.$oid]]
+65e737ee8e263688e9f9200c
+
+[[added.30.s3_path]]
+psi-data/PSI-102/Analyzed Data/PSI-102_Analyzed Data_GMT276dbp40hkp.xls
+
+[[added.30.study_id.$oid]]
+683d9d56f91ab4427dbf4492
+
+[[added.30.subcategory]]
+Reduced Gravity/Dibutyl Phthalate/Run 40
+
+[[added.31.bucket]]
+
+
+[[added.31.file_name]]
+PSI-102_Analyzed Data_GMT277dbp42hkp peak 1.xls
+
+[[added.31.organization]]
+shared
+
+[[added.31.psi_legacy_s3_path]]
+legacy/16954/227/GMT277dbp42hkp peak 1.xls
+
+[[added.31.remote_path]]
+/Home/psi-data/PSI-102/Analyzed Data/PSI-102_Analyzed Data_GMT277dbp42hkp peak 1.xls
+
+[[added.31.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/131208/?inline=1&log=1
+
+[[added.31.resource_id.$oid]]
+65e737ee8e263688e9f9200c
+
+[[added.31.s3_path]]
+psi-data/PSI-102/Analyzed Data/PSI-102_Analyzed Data_GMT277dbp42hkp peak 1.xls
+
+[[added.31.study_id.$oid]]
+683d9d56f91ab4427dbf4492
+
+[[added.31.subcategory]]
+Reduced Gravity/Dibutyl Phthalate/Run 42
+
+[[added.32.bucket]]
+
+
+[[added.32.file_name]]
+PSI-102_Analyzed Data_GMT277dbp42hkp peak 2.xls
+
+[[added.32.organization]]
+shared
+
+[[added.32.psi_legacy_s3_path]]
+legacy/16954/227/GMT277dbp42hkp peak 2.xls
+
+[[added.32.remote_path]]
+/Home/psi-data/PSI-102/Analyzed Data/PSI-102_Analyzed Data_GMT277dbp42hkp peak 2.xls
+
+[[added.32.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/131209/?inline=1&log=1
+
+[[added.32.resource_id.$oid]]
+65e737ee8e263688e9f9200c
+
+[[added.32.s3_path]]
+psi-data/PSI-102/Analyzed Data/PSI-102_Analyzed Data_GMT277dbp42hkp peak 2.xls
+
+[[added.32.study_id.$oid]]
+683d9d56f91ab4427dbf4492
+
+[[added.32.subcategory]]
+Reduced Gravity/Dibutyl Phthalate/Run 42
+
+[[added.33.bucket]]
+
+
+[[added.33.file_name]]
+PSI-102_Analyzed Data_GMT277DBP43hkp.xls
+
+[[added.33.organization]]
+shared
+
+[[added.33.psi_legacy_s3_path]]
+legacy/16955/227/GMT277DBP43hkp.xls
+
+[[added.33.remote_path]]
+/Home/psi-data/PSI-102/Analyzed Data/PSI-102_Analyzed Data_GMT277DBP43hkp.xls
+
+[[added.33.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/131211/?inline=1&log=1
+
+[[added.33.resource_id.$oid]]
+65e737ee8e263688e9f9200c
+
+[[added.33.s3_path]]
+psi-data/PSI-102/Analyzed Data/PSI-102_Analyzed Data_GMT277DBP43hkp.xls
+
+[[added.33.study_id.$oid]]
+683d9d56f91ab4427dbf4492
+
+[[added.33.subcategory]]
+Reduced Gravity/Dibutyl Phthalate/Run 43
+
+[[added.34.bucket]]
+
+
+[[added.34.file_name]]
+PSI-102_Analyzed Data_GMT277dbp43hkpa.xls
+
+[[added.34.organization]]
+shared
+
+[[added.34.psi_legacy_s3_path]]
+legacy/16955/227/GMT277dbp43hkpa.xls
+
+[[added.34.remote_path]]
+/Home/psi-data/PSI-102/Analyzed Data/PSI-102_Analyzed Data_GMT277dbp43hkpa.xls
+
+[[added.34.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/131212/?inline=1&log=1
+
+[[added.34.resource_id.$oid]]
+65e737ee8e263688e9f9200c
+
+[[added.34.s3_path]]
+psi-data/PSI-102/Analyzed Data/PSI-102_Analyzed Data_GMT277dbp43hkpa.xls
+
+[[added.34.study_id.$oid]]
+683d9d56f91ab4427dbf4492
+
+[[added.34.subcategory]]
+Reduced Gravity/Dibutyl Phthalate/Run 43
+
+[[added.35.bucket]]
+
+
+[[added.35.file_name]]
+PSI-102_Analyzed Data_GMT277DBPTest44.xls
+
+[[added.35.organization]]
+shared
+
+[[added.35.psi_legacy_s3_path]]
+legacy/16956/227/GMT277DBPTest44.xls
+
+[[added.35.remote_path]]
+/Home/psi-data/PSI-102/Analyzed Data/PSI-102_Analyzed Data_GMT277DBPTest44.xls
+
+[[added.35.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/131213/?inline=1&log=1
+
+[[added.35.resource_id.$oid]]
+65e737ee8e263688e9f9200c
+
+[[added.35.s3_path]]
+psi-data/PSI-102/Analyzed Data/PSI-102_Analyzed Data_GMT277DBPTest44.xls
+
+[[added.35.study_id.$oid]]
+683d9d56f91ab4427dbf4492
+
+[[added.35.subcategory]]
+Reduced Gravity/Dibutyl Phthalate/Run 44
+
+[[added.36.bucket]]
+
+
+[[added.36.file_name]]
+PSI-102_Analyzed Data_GMT278DBP45.xls
+
+[[added.36.organization]]
+shared
+
+[[added.36.psi_legacy_s3_path]]
+legacy/16957/227/GMT278DBP45.xls
+
+[[added.36.remote_path]]
+/Home/psi-data/PSI-102/Analyzed Data/PSI-102_Analyzed Data_GMT278DBP45.xls
+
+[[added.36.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/131214/?inline=1&log=1
+
+[[added.36.resource_id.$oid]]
+65e737ee8e263688e9f9200c
+
+[[added.36.s3_path]]
+psi-data/PSI-102/Analyzed Data/PSI-102_Analyzed Data_GMT278DBP45.xls
+
+[[added.36.study_id.$oid]]
+683d9d56f91ab4427dbf4492
+
+[[added.36.subcategory]]
+Reduced Gravity/Dibutyl Phthalate/Run 45
+
+[[added.37.bucket]]
+
+
+[[added.37.file_name]]
+PSI-102_Analyzed Data_kaptonGMT257 zgy average.xls
+
+[[added.37.organization]]
+shared
+
+[[added.37.psi_legacy_s3_path]]
+legacy/16906/227/kaptonGMT257 zgy average.xls
+
+[[added.37.remote_path]]
+/Home/psi-data/PSI-102/Analyzed Data/PSI-102_Analyzed Data_kaptonGMT257 zgy average.xls
+
+[[added.37.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/131216/?inline=1&log=1
+
+[[added.37.resource_id.$oid]]
+65e737ee8e263688e9f9200c
+
+[[added.37.s3_path]]
+psi-data/PSI-102/Analyzed Data/PSI-102_Analyzed Data_kaptonGMT257 zgy average.xls
+
+[[added.37.study_id.$oid]]
+683d9d56f91ab4427dbf4492
+
+[[added.37.subcategory]]
+Reduced Gravity/Kapton/Run 08
+
+[[added.38.bucket]]
+
+
+[[added.38.file_name]]
+PSI-102_Analyzed Data_kaptonGMT257.xls
+
+[[added.38.organization]]
+shared
+
+[[added.38.psi_legacy_s3_path]]
+legacy/16906/227/kaptonGMT257.xls
+
+[[added.38.remote_path]]
+/Home/psi-data/PSI-102/Analyzed Data/PSI-102_Analyzed Data_kaptonGMT257.xls
+
+[[added.38.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/131217/?inline=1&log=1
+
+[[added.38.resource_id.$oid]]
+65e737ee8e263688e9f9200c
+
+[[added.38.s3_path]]
+psi-data/PSI-102/Analyzed Data/PSI-102_Analyzed Data_kaptonGMT257.xls
+
+[[added.38.study_id.$oid]]
+683d9d56f91ab4427dbf4492
+
+[[added.38.subcategory]]
+Reduced Gravity/Kapton/Run 08
+
+[[added.39.bucket]]
+
+
+[[added.39.file_name]]
+PSI-102_Analyzed Data_GMT263 run 14 kapton avg.xls
+
+[[added.39.organization]]
+shared
+
+[[added.39.psi_legacy_s3_path]]
+legacy/16912/227/GMT263 run 14 kapton avg.xls
+
+[[added.39.remote_path]]
+/Home/psi-data/PSI-102/Analyzed Data/PSI-102_Analyzed Data_GMT263 run 14 kapton avg.xls
+
+[[added.39.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/131218/?inline=1&log=1
+
+[[added.39.resource_id.$oid]]
+65e737ee8e263688e9f9200c
+
+[[added.39.s3_path]]
+psi-data/PSI-102/Analyzed Data/PSI-102_Analyzed Data_GMT263 run 14 kapton avg.xls
+
+[[added.39.study_id.$oid]]
+683d9d56f91ab4427dbf4492
+
+[[added.39.subcategory]]
+Reduced Gravity/Kapton/Run 14
+
+[[added.40.bucket]]
+
+
+[[added.40.file_name]]
+PSI-102_Analyzed Data_GMT271kapton29.xls
+
+[[added.40.organization]]
+shared
+
+[[added.40.psi_legacy_s3_path]]
+legacy/16940/227/GMT271kapton29.xls
+
+[[added.40.remote_path]]
+/Home/psi-data/PSI-102/Analyzed Data/PSI-102_Analyzed Data_GMT271kapton29.xls
+
+[[added.40.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/131219/?inline=1&log=1
+
+[[added.40.resource_id.$oid]]
+65e737ee8e263688e9f9200c
+
+[[added.40.s3_path]]
+psi-data/PSI-102/Analyzed Data/PSI-102_Analyzed Data_GMT271kapton29.xls
+
+[[added.40.study_id.$oid]]
+683d9d56f91ab4427dbf4492
+
+[[added.40.subcategory]]
+Reduced Gravity/Kapton/Run 29
+
+[[added.41.bucket]]
+
+
+[[added.41.file_name]]
+PSI-102_Analyzed Data_GMT272kapton30.xls
+
+[[added.41.organization]]
+shared
+
+[[added.41.psi_legacy_s3_path]]
+legacy/16941/227/GMT272kapton30.xls
+
+[[added.41.remote_path]]
+/Home/psi-data/PSI-102/Analyzed Data/PSI-102_Analyzed Data_GMT272kapton30.xls
+
+[[added.41.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/131220/?inline=1&log=1
+
+[[added.41.resource_id.$oid]]
+65e737ee8e263688e9f9200c
+
+[[added.41.s3_path]]
+psi-data/PSI-102/Analyzed Data/PSI-102_Analyzed Data_GMT272kapton30.xls
+
+[[added.41.study_id.$oid]]
+683d9d56f91ab4427dbf4492
+
+[[added.41.subcategory]]
+Reduced Gravity/Kapton/Run 30
+
+[[added.42.bucket]]
+
+
+[[added.42.file_name]]
+PSI-102_Analyzed Data_GMT273kapton33.xls
+
+[[added.42.organization]]
+shared
+
+[[added.42.psi_legacy_s3_path]]
+legacy/16944/227/GMT273kapton33.xls
+
+[[added.42.remote_path]]
+/Home/psi-data/PSI-102/Analyzed Data/PSI-102_Analyzed Data_GMT273kapton33.xls
+
+[[added.42.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/131221/?inline=1&log=1
+
+[[added.42.resource_id.$oid]]
+65e737ee8e263688e9f9200c
+
+[[added.42.s3_path]]
+psi-data/PSI-102/Analyzed Data/PSI-102_Analyzed Data_GMT273kapton33.xls
+
+[[added.42.study_id.$oid]]
+683d9d56f91ab4427dbf4492
+
+[[added.42.subcategory]]
+Reduced Gravity/Kapton/Run 33
+
+[[added.43.bucket]]
+
+
+[[added.43.file_name]]
+PSI-102_Analyzed Data_GMT273lampwick34.xls
+
+[[added.43.organization]]
+shared
+
+[[added.43.psi_legacy_s3_path]]
+legacy/16946/227/GMT273lampwick34.xls
+
+[[added.43.remote_path]]
+/Home/psi-data/PSI-102/Analyzed Data/PSI-102_Analyzed Data_GMT273lampwick34.xls
+
+[[added.43.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/131223/?inline=1&log=1
+
+[[added.43.resource_id.$oid]]
+65e737ee8e263688e9f9200c
+
+[[added.43.s3_path]]
+psi-data/PSI-102/Analyzed Data/PSI-102_Analyzed Data_GMT273lampwick34.xls
+
+[[added.43.study_id.$oid]]
+683d9d56f91ab4427dbf4492
+
+[[added.43.subcategory]]
+Reduced Gravity/Cotton Lamp wick/Run 34
+
+[[added.44.bucket]]
+
+
+[[added.44.file_name]]
+PSI-102_Analyzed Data_GMT256HKP.xls
+
+[[added.44.organization]]
+shared
+
+[[added.44.psi_legacy_s3_path]]
+legacy/16905/227/GMT256HKP.xls
+
+[[added.44.remote_path]]
+/Home/psi-data/PSI-102/Analyzed Data/PSI-102_Analyzed Data_GMT256HKP.xls
+
+[[added.44.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/131228/?inline=1&log=1
+
+[[added.44.resource_id.$oid]]
+65e737ee8e263688e9f9200c
+
+[[added.44.s3_path]]
+psi-data/PSI-102/Analyzed Data/PSI-102_Analyzed Data_GMT256HKP.xls
+
+[[added.44.study_id.$oid]]
+683d9d56f91ab4427dbf4492
+
+[[added.44.subcategory]]
+Reduced Gravity/Cotton Lamp wick/Run 06, 07
+
+[[added.45.bucket]]
+
+
+[[added.45.file_name]]
+PSI-102_Analyzed Data_GMT256HKP zgy average.xls
+
+[[added.45.organization]]
+shared
+
+[[added.45.psi_legacy_s3_path]]
+legacy/16905/227/GMT256HKP zgy average.xls
+
+[[added.45.remote_path]]
+/Home/psi-data/PSI-102/Analyzed Data/PSI-102_Analyzed Data_GMT256HKP zgy average.xls
+
+[[added.45.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/131229/?inline=1&log=1
+
+[[added.45.resource_id.$oid]]
+65e737ee8e263688e9f9200c
+
+[[added.45.s3_path]]
+psi-data/PSI-102/Analyzed Data/PSI-102_Analyzed Data_GMT256HKP zgy average.xls
+
+[[added.45.study_id.$oid]]
+683d9d56f91ab4427dbf4492
+
+[[added.45.subcategory]]
+Reduced Gravity/Cotton Lamp wick/Run 06, 07
+
+[[added.46.bucket]]
+
+
+[[added.46.file_name]]
+PSI-102_Analyzed Data_GMT256LOG.xlsx
+
+[[added.46.organization]]
+shared
+
+[[added.46.psi_legacy_s3_path]]
+legacy/16905/226/GMT256LOG.xlsx
+
+[[added.46.remote_path]]
+/Home/psi-data/PSI-102/Analyzed Data/PSI-102_Analyzed Data_GMT256LOG.xlsx
+
+[[added.46.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/131230/?inline=1&log=1
+
+[[added.46.resource_id.$oid]]
+65e737ee8e263688e9f9200c
+
+[[added.46.s3_path]]
+psi-data/PSI-102/Analyzed Data/PSI-102_Analyzed Data_GMT256LOG.xlsx
+
+[[added.46.study_id.$oid]]
+683d9d56f91ab4427dbf4492
+
+[[added.46.subcategory]]
+Reduced Gravity/Cotton Lamp wick/Run 06, 07
+
+[[added.47.bucket]]
+
+
+[[added.47.file_name]]
+PSI-102_Analyzed Data_GMT264 Run 17 lampwick.xls
+
+[[added.47.organization]]
+shared
+
+[[added.47.psi_legacy_s3_path]]
+legacy/16930/227/GMT264 Run 17 lampwick.xls
+
+[[added.47.remote_path]]
+/Home/psi-data/PSI-102/Analyzed Data/PSI-102_Analyzed Data_GMT264 Run 17 lampwick.xls
+
+[[added.47.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/131231/?inline=1&log=1
+
+[[added.47.resource_id.$oid]]
+65e737ee8e263688e9f9200c
+
+[[added.47.s3_path]]
+psi-data/PSI-102/Analyzed Data/PSI-102_Analyzed Data_GMT264 Run 17 lampwick.xls
+
+[[added.47.study_id.$oid]]
+683d9d56f91ab4427dbf4492
+
+[[added.47.subcategory]]
+Reduced Gravity/Cotton Lamp wick/Run 17
+
+[[added.48.bucket]]
+
+
+[[added.48.file_name]]
+PSI-102_Analyzed Data_GMT272lampwick31.xls
+
+[[added.48.organization]]
+shared
+
+[[added.48.psi_legacy_s3_path]]
+legacy/16942/227/GMT272lampwick31.xls
+
+[[added.48.remote_path]]
+/Home/psi-data/PSI-102/Analyzed Data/PSI-102_Analyzed Data_GMT272lampwick31.xls
+
+[[added.48.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/131232/?inline=1&log=1
+
+[[added.48.resource_id.$oid]]
+65e737ee8e263688e9f9200c
+
+[[added.48.s3_path]]
+psi-data/PSI-102/Analyzed Data/PSI-102_Analyzed Data_GMT272lampwick31.xls
+
+[[added.48.study_id.$oid]]
+683d9d56f91ab4427dbf4492
+
+[[added.48.subcategory]]
+Reduced Gravity/Cotton Lamp wick/Run 31
+
+[[added.49.bucket]]
+
+
+[[added.49.file_name]]
+PSI-102_Analyzed Data_GMT272lampwick32.xls
+
+[[added.49.organization]]
+shared
+
+[[added.49.psi_legacy_s3_path]]
+legacy/16943/227/GMT272lampwick32.xls
+
+[[added.49.remote_path]]
+/Home/psi-data/PSI-102/Analyzed Data/PSI-102_Analyzed Data_GMT272lampwick32.xls
+
+[[added.49.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/131233/?inline=1&log=1
+
+[[added.49.resource_id.$oid]]
+65e737ee8e263688e9f9200c
+
+[[added.49.s3_path]]
+psi-data/PSI-102/Analyzed Data/PSI-102_Analyzed Data_GMT272lampwick32.xls
+
+[[added.49.study_id.$oid]]
+683d9d56f91ab4427dbf4492
+
+[[added.49.subcategory]]
+Reduced Gravity/Cotton Lamp wick/Run 32
+
+[[added.50.bucket]]
+
+
+[[added.50.file_name]]
+PSI-102_Analyzed Data_GMT278Lampwick46.xls
+
+[[added.50.organization]]
+shared
+
+[[added.50.psi_legacy_s3_path]]
+legacy/16958/227/GMT278Lampwick46.xls
+
+[[added.50.remote_path]]
+/Home/psi-data/PSI-102/Analyzed Data/PSI-102_Analyzed Data_GMT278Lampwick46.xls
+
+[[added.50.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/131234/?inline=1&log=1
+
+[[added.50.resource_id.$oid]]
+65e737ee8e263688e9f9200c
+
+[[added.50.s3_path]]
+psi-data/PSI-102/Analyzed Data/PSI-102_Analyzed Data_GMT278Lampwick46.xls
+
+[[added.50.study_id.$oid]]
+683d9d56f91ab4427dbf4492
+
+[[added.50.subcategory]]
+Reduced Gravity/Cotton Lamp wick/Run 46
+
+[[added.51.bucket]]
+
+
+[[added.51.file_name]]
+PSI-102_Analyzed Data_Silicone GMT255hkp run 5s.xls
+
+[[added.51.organization]]
+shared
+
+[[added.51.psi_legacy_s3_path]]
+legacy/16904/227/Silicone GMT255hkp run 5s.xls
+
+[[added.51.remote_path]]
+/Home/psi-data/PSI-102/Analyzed Data/PSI-102_Analyzed Data_Silicone GMT255hkp run 5s.xls
+
+[[added.51.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/131235/?inline=1&log=1
+
+[[added.51.resource_id.$oid]]
+65e737ee8e263688e9f9200c
+
+[[added.51.s3_path]]
+psi-data/PSI-102/Analyzed Data/PSI-102_Analyzed Data_Silicone GMT255hkp run 5s.xls
+
+[[added.51.study_id.$oid]]
+683d9d56f91ab4427dbf4492
+
+[[added.51.subcategory]]
+Reduced Gravity/Silicone/Run 05
+
+[[added.52.bucket]]
+
+
+[[added.52.file_name]]
+PSI-102_Analyzed Data_Silicone GMT255hkp run 5s zgy average.xls
+
+[[added.52.organization]]
+shared
+
+[[added.52.psi_legacy_s3_path]]
+legacy/16904/227/Silicone GMT255hkp run 5s zgy average.xls
+
+[[added.52.remote_path]]
+/Home/psi-data/PSI-102/Analyzed Data/PSI-102_Analyzed Data_Silicone GMT255hkp run 5s zgy average.xls
+
+[[added.52.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/131236/?inline=1&log=1
+
+[[added.52.resource_id.$oid]]
+65e737ee8e263688e9f9200c
+
+[[added.52.s3_path]]
+psi-data/PSI-102/Analyzed Data/PSI-102_Analyzed Data_Silicone GMT255hkp run 5s zgy average.xls
+
+[[added.52.study_id.$oid]]
+683d9d56f91ab4427dbf4492
+
+[[added.52.subcategory]]
+Reduced Gravity/Silicone/Run 05
+
+[[added.53.bucket]]
+
+
+[[added.53.file_name]]
+PSI-102_Analyzed Data_GMT267silicon23hkp.xls
+
+[[added.53.organization]]
+shared
+
+[[added.53.psi_legacy_s3_path]]
+legacy/16934/227/GMT267silicon23hkp.xls
+
+[[added.53.remote_path]]
+/Home/psi-data/PSI-102/Analyzed Data/PSI-102_Analyzed Data_GMT267silicon23hkp.xls
+
+[[added.53.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/131237/?inline=1&log=1
+
+[[added.53.resource_id.$oid]]
+65e737ee8e263688e9f9200c
+
+[[added.53.s3_path]]
+psi-data/PSI-102/Analyzed Data/PSI-102_Analyzed Data_GMT267silicon23hkp.xls
+
+[[added.53.study_id.$oid]]
+683d9d56f91ab4427dbf4492
+
+[[added.53.subcategory]]
+Reduced Gravity/Silicone/Run 23
+
+[[added.54.bucket]]
+
+
+[[added.54.file_name]]
+PSI-102_Analyzed Data_GMT267silicon test 23 and 24 log.xlsx
+
+[[added.54.organization]]
+shared
+
+[[added.54.psi_legacy_s3_path]]
+legacy/16934/226/GMT267silicon test 23 and 24 log.xlsx
+
+[[added.54.remote_path]]
+/Home/psi-data/PSI-102/Analyzed Data/PSI-102_Analyzed Data_GMT267silicon test 23 and 24 log.xlsx
+
+[[added.54.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/131238/?inline=1&log=1
+
+[[added.54.resource_id.$oid]]
+65e737ee8e263688e9f9200c
+
+[[added.54.s3_path]]
+psi-data/PSI-102/Analyzed Data/PSI-102_Analyzed Data_GMT267silicon test 23 and 24 log.xlsx
+
+[[added.54.study_id.$oid]]
+683d9d56f91ab4427dbf4492
+
+[[added.54.subcategory]]
+Reduced Gravity/Silicone/Run 23
+
+[[added.55.bucket]]
+
+
+[[added.55.file_name]]
+PSI-102_Analyzed Data_GMT267silicon24hkp.xls
+
+[[added.55.organization]]
+shared
+
+[[added.55.psi_legacy_s3_path]]
+legacy/16935/227/GMT267silicon24hkp.xls
+
+[[added.55.remote_path]]
+/Home/psi-data/PSI-102/Analyzed Data/PSI-102_Analyzed Data_GMT267silicon24hkp.xls
+
+[[added.55.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/131239/?inline=1&log=1
+
+[[added.55.resource_id.$oid]]
+65e737ee8e263688e9f9200c
+
+[[added.55.s3_path]]
+psi-data/PSI-102/Analyzed Data/PSI-102_Analyzed Data_GMT267silicon24hkp.xls
+
+[[added.55.study_id.$oid]]
+683d9d56f91ab4427dbf4492
+
+[[added.55.subcategory]]
+Reduced Gravity/Silicone/Run 24
+
+[[added.56.bucket]]
+
+
+[[added.56.file_name]]
+PSI-102_Analyzed Data_GMT269silicon27.xls
+
+[[added.56.organization]]
+shared
+
+[[added.56.psi_legacy_s3_path]]
+legacy/16938/227/GMT269silicon27.xls
+
+[[added.56.remote_path]]
+/Home/psi-data/PSI-102/Analyzed Data/PSI-102_Analyzed Data_GMT269silicon27.xls
+
+[[added.56.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/131241/?inline=1&log=1
+
+[[added.56.resource_id.$oid]]
+65e737ee8e263688e9f9200c
+
+[[added.56.s3_path]]
+psi-data/PSI-102/Analyzed Data/PSI-102_Analyzed Data_GMT269silicon27.xls
+
+[[added.56.study_id.$oid]]
+683d9d56f91ab4427dbf4492
+
+[[added.56.subcategory]]
+Reduced Gravity/Silicone/Run 27
+
+[[added.57.bucket]]
+
+
+[[added.57.file_name]]
+PSI-102_Analyzed Data_GMT276silicone35.xls
+
+[[added.57.organization]]
+shared
+
+[[added.57.psi_legacy_s3_path]]
+legacy/16947/227/GMT276silicone35.xls
+
+[[added.57.remote_path]]
+/Home/psi-data/PSI-102/Analyzed Data/PSI-102_Analyzed Data_GMT276silicone35.xls
+
+[[added.57.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/131242/?inline=1&log=1
+
+[[added.57.resource_id.$oid]]
+65e737ee8e263688e9f9200c
+
+[[added.57.s3_path]]
+psi-data/PSI-102/Analyzed Data/PSI-102_Analyzed Data_GMT276silicone35.xls
+
+[[added.57.study_id.$oid]]
+683d9d56f91ab4427dbf4492
+
+[[added.57.subcategory]]
+Reduced Gravity/Silicone/Run 35
+
+[[added.58.bucket]]
+
+
+[[added.58.file_name]]
+PSI-102_Analyzed Data_TeflonGMT257hkp.xls
+
+[[added.58.organization]]
+shared
+
+[[added.58.psi_legacy_s3_path]]
+legacy/16908/227/TeflonGMT257hkp.xls
+
+[[added.58.remote_path]]
+/Home/psi-data/PSI-102/Analyzed Data/PSI-102_Analyzed Data_TeflonGMT257hkp.xls
+
+[[added.58.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/131243/?inline=1&log=1
+
+[[added.58.resource_id.$oid]]
+65e737ee8e263688e9f9200c
+
+[[added.58.s3_path]]
+psi-data/PSI-102/Analyzed Data/PSI-102_Analyzed Data_TeflonGMT257hkp.xls
+
+[[added.58.study_id.$oid]]
+683d9d56f91ab4427dbf4492
+
+[[added.58.subcategory]]
+Reduced Gravity/Teflon/Run 10
+
+[[added.59.bucket]]
+
+
+[[added.59.file_name]]
+PSI-102_Analyzed Data_TeflonGMT257hkp zgy average.xls
+
+[[added.59.organization]]
+shared
+
+[[added.59.psi_legacy_s3_path]]
+legacy/16908/227/TeflonGMT257hkp zgy average.xls
+
+[[added.59.remote_path]]
+/Home/psi-data/PSI-102/Analyzed Data/PSI-102_Analyzed Data_TeflonGMT257hkp zgy average.xls
+
+[[added.59.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/131244/?inline=1&log=1
+
+[[added.59.resource_id.$oid]]
+65e737ee8e263688e9f9200c
+
+[[added.59.s3_path]]
+psi-data/PSI-102/Analyzed Data/PSI-102_Analyzed Data_TeflonGMT257hkp zgy average.xls
+
+[[added.59.study_id.$oid]]
+683d9d56f91ab4427dbf4492
+
+[[added.59.subcategory]]
+Reduced Gravity/Teflon/Run 10
+
+[[added.60.bucket]]
+
+
+[[added.60.file_name]]
+PSI-102_Analyzed Data_GMT262 RUN 13 teflon.xls
+
+[[added.60.organization]]
+shared
+
+[[added.60.psi_legacy_s3_path]]
+legacy/16911/227/GMT262 RUN 13 teflon.xls
+
+[[added.60.remote_path]]
+/Home/psi-data/PSI-102/Analyzed Data/PSI-102_Analyzed Data_GMT262 RUN 13 teflon.xls
+
+[[added.60.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/131245/?inline=1&log=1
+
+[[added.60.resource_id.$oid]]
+65e737ee8e263688e9f9200c
+
+[[added.60.s3_path]]
+psi-data/PSI-102/Analyzed Data/PSI-102_Analyzed Data_GMT262 RUN 13 teflon.xls
+
+[[added.60.study_id.$oid]]
+683d9d56f91ab4427dbf4492
+
+[[added.60.subcategory]]
+Reduced Gravity/Teflon/Run 13
+
+[[added.61.bucket]]
+
+
+[[added.61.file_name]]
+PSI-102_Analyzed Data_GMT268teflon25.xls
+
+[[added.61.organization]]
+shared
+
+[[added.61.psi_legacy_s3_path]]
+legacy/16936/227/GMT268teflon25.xls
+
+[[added.61.remote_path]]
+/Home/psi-data/PSI-102/Analyzed Data/PSI-102_Analyzed Data_GMT268teflon25.xls
+
+[[added.61.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/131246/?inline=1&log=1
+
+[[added.61.resource_id.$oid]]
+65e737ee8e263688e9f9200c
+
+[[added.61.s3_path]]
+psi-data/PSI-102/Analyzed Data/PSI-102_Analyzed Data_GMT268teflon25.xls
+
+[[added.61.study_id.$oid]]
+683d9d56f91ab4427dbf4492
+
+[[added.61.subcategory]]
+Reduced Gravity/Teflon/Run 25
+
+[[added.62.bucket]]
+
+
+[[added.62.file_name]]
+PSI-102_Analyzed Data_GMT268teflon26.xls
+
+[[added.62.organization]]
+shared
+
+[[added.62.psi_legacy_s3_path]]
+legacy/16937/227/GMT268teflon26.xls
+
+[[added.62.remote_path]]
+/Home/psi-data/PSI-102/Analyzed Data/PSI-102_Analyzed Data_GMT268teflon26.xls
+
+[[added.62.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/131247/?inline=1&log=1
+
+[[added.62.resource_id.$oid]]
+65e737ee8e263688e9f9200c
+
+[[added.62.s3_path]]
+psi-data/PSI-102/Analyzed Data/PSI-102_Analyzed Data_GMT268teflon26.xls
+
+[[added.62.study_id.$oid]]
+683d9d56f91ab4427dbf4492
+
+[[added.62.subcategory]]
+Reduced Gravity/Teflon/Run 26
+
+[[added.63.bucket]]
+
+
+[[added.63.file_name]]
+PSI-102_Analyzed Data_GMT269teflon28hkp.xls
+
+[[added.63.organization]]
+shared
+
+[[added.63.psi_legacy_s3_path]]
+legacy/16939/227/GMT269teflon28hkp.xls
+
+[[added.63.remote_path]]
+/Home/psi-data/PSI-102/Analyzed Data/PSI-102_Analyzed Data_GMT269teflon28hkp.xls
+
+[[added.63.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/131248/?inline=1&log=1
+
+[[added.63.resource_id.$oid]]
+65e737ee8e263688e9f9200c
+
+[[added.63.s3_path]]
+psi-data/PSI-102/Analyzed Data/PSI-102_Analyzed Data_GMT269teflon28hkp.xls
+
+[[added.63.study_id.$oid]]
+683d9d56f91ab4427dbf4492
+
+[[added.63.subcategory]]
+Reduced Gravity/Teflon/Run 28
+
+[[added.64.bucket]]
+
+
+[[added.64.file_name]]
+PSI-102_Analyzed Data_16937___9.xml
+
+[[added.64.organization]]
+shared
+
+[[added.64.psi_legacy_s3_path]]
+legacy/16937/1483/16937___9.xml
+
+[[added.64.remote_path]]
+/Home/psi-data/PSI-102/Analyzed Data/PSI-102_Analyzed Data_16937___9.xml
+
+[[added.64.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/142205/?inline=1&log=1
+
+[[added.64.resource_id.$oid]]
+65e737ee8e263688e9f9200c
+
+[[added.64.s3_path]]
+psi-data/PSI-102/Analyzed Data/PSI-102_Analyzed Data_16937___9.xml
+
+[[added.64.study_id.$oid]]
+683d9d56f91ab4427dbf4492
+
+[[added.64.subcategory]]
+Reduced Gravity/Teflon/Run 26
+
+[[added.65.bucket]]
+
+
+[[added.65.file_name]]
+PSI-102_Analyzed Data_16904___9.xml
+
+[[added.65.organization]]
+shared
+
+[[added.65.psi_legacy_s3_path]]
+legacy/16904/1483/16904___9.xml
+
+[[added.65.remote_path]]
+/Home/psi-data/PSI-102/Analyzed Data/PSI-102_Analyzed Data_16904___9.xml
+
+[[added.65.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/142753/?inline=1&log=1
+
+[[added.65.resource_id.$oid]]
+65e737ee8e263688e9f9200c
+
+[[added.65.s3_path]]
+psi-data/PSI-102/Analyzed Data/PSI-102_Analyzed Data_16904___9.xml
+
+[[added.65.study_id.$oid]]
+683d9d56f91ab4427dbf4492
+
+[[added.65.subcategory]]
+Reduced Gravity/Silicone/Run 05
+
+[[added.66.bucket]]
+
+
+[[added.66.file_name]]
+PSI-102_Analyzed Data_16942___9.xml
+
+[[added.66.organization]]
+shared
+
+[[added.66.psi_legacy_s3_path]]
+legacy/16942/1483/16942___9.xml
+
+[[added.66.remote_path]]
+/Home/psi-data/PSI-102/Analyzed Data/PSI-102_Analyzed Data_16942___9.xml
+
+[[added.66.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/142754/?inline=1&log=1
+
+[[added.66.resource_id.$oid]]
+65e737ee8e263688e9f9200c
+
+[[added.66.s3_path]]
+psi-data/PSI-102/Analyzed Data/PSI-102_Analyzed Data_16942___9.xml
+
+[[added.66.study_id.$oid]]
+683d9d56f91ab4427dbf4492
+
+[[added.66.subcategory]]
+Reduced Gravity/Cotton Lamp wick/Run 31
+
+[[added.67.bucket]]
+
+
+[[added.67.file_name]]
+PSI-102_Analyzed Data_16912___9.xml
+
+[[added.67.organization]]
+shared
+
+[[added.67.psi_legacy_s3_path]]
+legacy/16912/1483/16912___9.xml
+
+[[added.67.remote_path]]
+/Home/psi-data/PSI-102/Analyzed Data/PSI-102_Analyzed Data_16912___9.xml
+
+[[added.67.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/142755/?inline=1&log=1
+
+[[added.67.resource_id.$oid]]
+65e737ee8e263688e9f9200c
+
+[[added.67.s3_path]]
+psi-data/PSI-102/Analyzed Data/PSI-102_Analyzed Data_16912___9.xml
+
+[[added.67.study_id.$oid]]
+683d9d56f91ab4427dbf4492
+
+[[added.67.subcategory]]
+Reduced Gravity/Kapton/Run 14
+
+[[added.68.bucket]]
+
+
+[[added.68.file_name]]
+PSI-102_Presentations_Detection of Smoke from Microgravity Fires_paper.2005.doc
+
+[[added.68.organization]]
+shared
+
+[[added.68.psi_legacy_s3_path]]
+legacy/20461/284/ICES Paper 2005-01-2930 rev.doc
+
+[[added.68.remote_path]]
+/Home/psi-data/PSI-102/Presentations/PSI-102_Presentations_Detection of Smoke from Microgravity Fires_paper.2005.doc
+
+[[added.68.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/228792/?inline=1&log=1
+
+[[added.68.resource_id.$oid]]
+65f8b34f2ec0b0961f8fa20b
+
+[[added.68.s3_path]]
+psi-data/PSI-102/Presentations/PSI-102_Presentations_Detection of Smoke from Microgravity Fires_paper.2005.doc
+
+[[added.68.study_id.$oid]]
+683d9d56f91ab4427dbf4492
+
+[[added.68.subcategory]]
+
+
+[[added.69.bucket]]
+
+
+[[added.69.file_name]]
+PSI-102_Presentations_SAME2_FlightVSGroundTestResults.pptx
+
+[[added.69.organization]]
+shared
+
+[[added.69.psi_legacy_s3_path]]
+legacy/20462/284/SAME ICES  2013 07 15 final as presented.pptx
+
+[[added.69.remote_path]]
+/Home/psi-data/PSI-102/Presentations/PSI-102_Presentations_SAME2_FlightVSGroundTestResults.pptx
+
+[[added.69.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/228798/?inline=1&log=1
+
+[[added.69.resource_id.$oid]]
+65f8b34f2ec0b0961f8fa20b
+
+[[added.69.s3_path]]
+psi-data/PSI-102/Presentations/PSI-102_Presentations_SAME2_FlightVSGroundTestResults.pptx
+
+[[added.69.study_id.$oid]]
+683d9d56f91ab4427dbf4492
+
+[[added.69.subcategory]]
+
+
+[[added.70.bucket]]
+
+
+[[added.70.file_name]]
+PSI-102_Presentations_SAME-2_ParticleMorphology and Size Results.pptx
+
+[[added.70.organization]]
+shared
+
+[[added.70.psi_legacy_s3_path]]
+legacy/20463/284/SAME ICES 2012 07 15 2012.pptx
+
+[[added.70.remote_path]]
+/Home/psi-data/PSI-102/Presentations/PSI-102_Presentations_SAME-2_ParticleMorphology and Size Results.pptx
+
+[[added.70.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/228803/?inline=1&log=1
+
+[[added.70.resource_id.$oid]]
+65f8b34f2ec0b0961f8fa20b
+
+[[added.70.s3_path]]
+psi-data/PSI-102/Presentations/PSI-102_Presentations_SAME-2_ParticleMorphology and Size Results.pptx
+
+[[added.70.study_id.$oid]]
+683d9d56f91ab4427dbf4492
+
+[[added.70.subcategory]]
+
+
+[[added.71.bucket]]
+
+
+[[added.71.file_name]]
+PSI-102_Presentations_SAME_EarlyResults.ppt
+
+[[added.71.organization]]
+shared
+
+[[added.71.psi_legacy_s3_path]]
+legacy/20464/284/Same progress report to HQ 11-16-07   11 15 07  updated.ppt
+
+[[added.71.remote_path]]
+/Home/psi-data/PSI-102/Presentations/PSI-102_Presentations_SAME_EarlyResults.ppt
+
+[[added.71.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/228812/?inline=1&log=1
+
+[[added.71.resource_id.$oid]]
+65f8b34f2ec0b0961f8fa20b
+
+[[added.71.s3_path]]
+psi-data/PSI-102/Presentations/PSI-102_Presentations_SAME_EarlyResults.ppt
+
+[[added.71.study_id.$oid]]
+683d9d56f91ab4427dbf4492
+
+[[added.71.subcategory]]
+
+
+[[added.72.bucket]]
+
+
+[[added.72.file_name]]
+PSI-102_Presentations_MeasurementofSmokeParticleSizeUnderLowGravityConditions.ppt
+
+[[added.72.organization]]
+shared
+
+[[added.72.psi_legacy_s3_path]]
+legacy/20466/284/SAME slides 7-1- 08 fixed schematic as presented .ppt
+
+[[added.72.remote_path]]
+/Home/psi-data/PSI-102/Presentations/PSI-102_Presentations_MeasurementofSmokeParticleSizeUnderLowGravityConditions.ppt
+
+[[added.72.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/228825/?inline=1&log=1
+
+[[added.72.resource_id.$oid]]
+65f8b34f2ec0b0961f8fa20b
+
+[[added.72.s3_path]]
+psi-data/PSI-102/Presentations/PSI-102_Presentations_MeasurementofSmokeParticleSizeUnderLowGravityConditions.ppt
+
+[[added.72.study_id.$oid]]
+683d9d56f91ab4427dbf4492
+
+[[added.72.subcategory]]
+
+
+[[added.73.bucket]]
+
+
+[[added.73.file_name]]
+PSI-102_Presentations_Detection of Smoke from Microgravity Fires.2005.ppt
+
+[[added.73.organization]]
+shared
+
+[[added.73.psi_legacy_s3_path]]
+legacy/20467/284/Urban ICES talk.ppt
+
+[[added.73.remote_path]]
+/Home/psi-data/PSI-102/Presentations/PSI-102_Presentations_Detection of Smoke from Microgravity Fires.2005.ppt
+
+[[added.73.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/228829/?inline=1&log=1
+
+[[added.73.resource_id.$oid]]
+65f8b34f2ec0b0961f8fa20b
+
+[[added.73.s3_path]]
+psi-data/PSI-102/Presentations/PSI-102_Presentations_Detection of Smoke from Microgravity Fires.2005.ppt
+
+[[added.73.study_id.$oid]]
+683d9d56f91ab4427dbf4492
+
+[[added.73.subcategory]]
+
+
+[[added.74.bucket]]
+
+
+[[added.74.file_name]]
+PSI-102_Engineering Documents_SAME VPRED Matrix PLN-005 Baseline.xls
+
+[[added.74.organization]]
+shared
+
+[[added.74.psi_legacy_s3_path]]
+legacy/7264/218/SAME VPRED Matrix PLN-005 Baseline.xls
+
+[[added.74.remote_path]]
+/Home/psi-data/PSI-102/Engineering Documents/PSI-102_Engineering Documents_SAME VPRED Matrix PLN-005 Baseline.xls
+
+[[added.74.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/258694/?inline=1&log=1
+
+[[added.74.resource_id.$oid]]
+65eb514f2ec0b0961f8f9a49
+
+[[added.74.s3_path]]
+psi-data/PSI-102/Engineering Documents/PSI-102_Engineering Documents_SAME VPRED Matrix PLN-005 Baseline.xls
+
+[[added.74.study_id.$oid]]
+683d9d56f91ab4427dbf4492
+
+[[added.74.subcategory]]
+
+
+[[added.75.bucket]]
+
+
+[[added.75.file_name]]
+PSI-102_Engineering Documents_SAME Verification Plan and Engineering Requirements Document (VPRED)_January 2007.pdf
+
+[[added.75.organization]]
+shared
+
+[[added.75.psi_legacy_s3_path]]
+legacy/7264/218/SAME Verification Plan and Engineering Requirements Document (VPRED)_January 2007.pdf
+
+[[added.75.remote_path]]
+/Home/psi-data/PSI-102/Engineering Documents/PSI-102_Engineering Documents_SAME Verification Plan and Engineering Requirements Document (VPRED)_January 2007.pdf
+
+[[added.75.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/258695/?inline=1&log=1
+
+[[added.75.resource_id.$oid]]
+65eb514f2ec0b0961f8f9a49
+
+[[added.75.s3_path]]
+psi-data/PSI-102/Engineering Documents/PSI-102_Engineering Documents_SAME Verification Plan and Engineering Requirements Document (VPRED)_January 2007.pdf
+
+[[added.75.study_id.$oid]]
+683d9d56f91ab4427dbf4492
+
+[[added.75.subcategory]]
+
+
+[[added.76.bucket]]
+
+
+[[added.76.file_name]]
+PSI-102_Engineering Documents_60089MFHA151-B Same Aging Chamber.pdf
+
+[[added.76.organization]]
+shared
+
+[[added.76.psi_legacy_s3_path]]
+legacy/7264/4189/60089MFHA151-B Same Aging Chamber.pdf
+
+[[added.76.remote_path]]
+/Home/psi-data/PSI-102/Engineering Documents/PSI-102_Engineering Documents_60089MFHA151-B Same Aging Chamber.pdf
+
+[[added.76.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3103109/?inline=1&log=1
+
+[[added.76.resource_id.$oid]]
+65eb514f2ec0b0961f8f9a49
+
+[[added.76.s3_path]]
+psi-data/PSI-102/Engineering Documents/PSI-102_Engineering Documents_60089MFHA151-B Same Aging Chamber.pdf
+
+[[added.76.study_id.$oid]]
+683d9d56f91ab4427dbf4492
+
+[[added.76.subcategory]]
+
+
+[[added.77.bucket]]
+
+
+[[added.77.file_name]]
+PSI-102_Engineering Documents_60089MFHA150-B Aging Chamber Assembly.pdf
+
+[[added.77.organization]]
+shared
+
+[[added.77.psi_legacy_s3_path]]
+legacy/7264/4189/60089MFHA150-B Aging Chamber Assembly.pdf
+
+[[added.77.remote_path]]
+/Home/psi-data/PSI-102/Engineering Documents/PSI-102_Engineering Documents_60089MFHA150-B Aging Chamber Assembly.pdf
+
+[[added.77.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3103110/?inline=1&log=1
+
+[[added.77.resource_id.$oid]]
+65eb514f2ec0b0961f8f9a49
+
+[[added.77.s3_path]]
+psi-data/PSI-102/Engineering Documents/PSI-102_Engineering Documents_60089MFHA150-B Aging Chamber Assembly.pdf
+
+[[added.77.study_id.$oid]]
+683d9d56f91ab4427dbf4492
+
+[[added.77.subcategory]]
+
+
+[[added.78.bucket]]
+
+
+[[added.78.file_name]]
+PSI-102_Engineering Documents_60089MFHD126-B Smoke Generation Tube.pdf
+
+[[added.78.organization]]
+shared
+
+[[added.78.psi_legacy_s3_path]]
+legacy/7264/4189/60089MFHD126-B Smoke Generation Tube.pdf
+
+[[added.78.remote_path]]
+/Home/psi-data/PSI-102/Engineering Documents/PSI-102_Engineering Documents_60089MFHD126-B Smoke Generation Tube.pdf
+
+[[added.78.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3104544/?inline=1&log=1
+
+[[added.78.resource_id.$oid]]
+65eb514f2ec0b0961f8f9a49
+
+[[added.78.s3_path]]
+psi-data/PSI-102/Engineering Documents/PSI-102_Engineering Documents_60089MFHD126-B Smoke Generation Tube.pdf
+
+[[added.78.study_id.$oid]]
+683d9d56f91ab4427dbf4492
+
+[[added.78.subcategory]]
+
+
+[[added.79.bucket]]
+
+
+[[added.79.file_name]]
+PSI-102_Engineering Documents_60089MFHD509 P-Trak Condenser Tube Modification.pdf
+
+[[added.79.organization]]
+shared
+
+[[added.79.psi_legacy_s3_path]]
+legacy/7264/4189/60089MFHD509 P-Trak Condenser Tube Modification.pdf
+
+[[added.79.remote_path]]
+/Home/psi-data/PSI-102/Engineering Documents/PSI-102_Engineering Documents_60089MFHD509 P-Trak Condenser Tube Modification.pdf
+
+[[added.79.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3104545/?inline=1&log=1
+
+[[added.79.resource_id.$oid]]
+65eb514f2ec0b0961f8f9a49
+
+[[added.79.s3_path]]
+psi-data/PSI-102/Engineering Documents/PSI-102_Engineering Documents_60089MFHD509 P-Trak Condenser Tube Modification.pdf
+
+[[added.79.study_id.$oid]]
+683d9d56f91ab4427dbf4492
+
+[[added.79.subcategory]]
+
+
+[[added.80.bucket]]
+
+
+[[added.80.file_name]]
+PSI-102_Engineering Documents_60089MFHA417-B Kapton Sample Assembly.pdf
+
+[[added.80.organization]]
+shared
+
+[[added.80.psi_legacy_s3_path]]
+legacy/7264/4189/60089MFHA417-B Kapton Sample Assembly.pdf
+
+[[added.80.remote_path]]
+/Home/psi-data/PSI-102/Engineering Documents/PSI-102_Engineering Documents_60089MFHA417-B Kapton Sample Assembly.pdf
+
+[[added.80.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3104546/?inline=1&log=1
+
+[[added.80.resource_id.$oid]]
+65eb514f2ec0b0961f8f9a49
+
+[[added.80.s3_path]]
+psi-data/PSI-102/Engineering Documents/PSI-102_Engineering Documents_60089MFHA417-B Kapton Sample Assembly.pdf
+
+[[added.80.study_id.$oid]]
+683d9d56f91ab4427dbf4492
+
+[[added.80.subcategory]]
+
+
+[[added.81.bucket]]
+
+
+[[added.81.file_name]]
+PSI-102_Engineering Documents_60089MFHA432-A Kapton Ignitor Wire Coil Assembly.pdf
+
+[[added.81.organization]]
+shared
+
+[[added.81.psi_legacy_s3_path]]
+legacy/7264/4189/60089MFHA432-A Kapton Ignitor Wire Coil Assembly.pdf
+
+[[added.81.remote_path]]
+/Home/psi-data/PSI-102/Engineering Documents/PSI-102_Engineering Documents_60089MFHA432-A Kapton Ignitor Wire Coil Assembly.pdf
+
+[[added.81.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3104547/?inline=1&log=1
+
+[[added.81.resource_id.$oid]]
+65eb514f2ec0b0961f8f9a49
+
+[[added.81.s3_path]]
+psi-data/PSI-102/Engineering Documents/PSI-102_Engineering Documents_60089MFHA432-A Kapton Ignitor Wire Coil Assembly.pdf
+
+[[added.81.study_id.$oid]]
+683d9d56f91ab4427dbf4492
+
+[[added.81.subcategory]]
+
+
+[[added.82.bucket]]
+
+
+[[added.82.file_name]]
+PSI-102_Engineering Documents_60089MFHA415 Ignitor Wire Coil Assembly (for 0 .250 OD samples).pdf
+
+[[added.82.organization]]
+shared
+
+[[added.82.psi_legacy_s3_path]]
+legacy/7264/4189/60089MFHA415 Ignitor Wire Coil Assembly (for 0 .250 OD samples).pdf
+
+[[added.82.remote_path]]
+/Home/psi-data/PSI-102/Engineering Documents/PSI-102_Engineering Documents_60089MFHA415 Ignitor Wire Coil Assembly (for 0 .250 OD samples).pdf
+
+[[added.82.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3104548/?inline=1&log=1
+
+[[added.82.resource_id.$oid]]
+65eb514f2ec0b0961f8f9a49
+
+[[added.82.s3_path]]
+psi-data/PSI-102/Engineering Documents/PSI-102_Engineering Documents_60089MFHA415 Ignitor Wire Coil Assembly (for 0 .250 OD samples).pdf
+
+[[added.82.study_id.$oid]]
+683d9d56f91ab4427dbf4492
+
+[[added.82.subcategory]]
+
+
+[[added.83.bucket]]
+
+
+[[added.83.file_name]]
+PSI-102_Engineering Documents_60089MFHA414-A Lampwick Sample Assembly.pdf
+
+[[added.83.organization]]
+shared
+
+[[added.83.psi_legacy_s3_path]]
+legacy/7264/4189/60089MFHA414-A Lampwick Sample Assembly.pdf
+
+[[added.83.remote_path]]
+/Home/psi-data/PSI-102/Engineering Documents/PSI-102_Engineering Documents_60089MFHA414-A Lampwick Sample Assembly.pdf
+
+[[added.83.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3104549/?inline=1&log=1
+
+[[added.83.resource_id.$oid]]
+65eb514f2ec0b0961f8f9a49
+
+[[added.83.s3_path]]
+psi-data/PSI-102/Engineering Documents/PSI-102_Engineering Documents_60089MFHA414-A Lampwick Sample Assembly.pdf
+
+[[added.83.study_id.$oid]]
+683d9d56f91ab4427dbf4492
+
+[[added.83.subcategory]]
+
+
+[[added.84.bucket]]
+
+
+[[added.84.file_name]]
+PSI-102_Engineering Documents_60089MFHP0001-C Same Fluids System Schematic.pdf
+
+[[added.84.organization]]
+shared
+
+[[added.84.psi_legacy_s3_path]]
+legacy/7264/4189/60089MFHP0001-C Same Fluids System Schematic.pdf
+
+[[added.84.remote_path]]
+/Home/psi-data/PSI-102/Engineering Documents/PSI-102_Engineering Documents_60089MFHP0001-C Same Fluids System Schematic.pdf
+
+[[added.84.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3104565/?inline=1&log=1
+
+[[added.84.resource_id.$oid]]
+65eb514f2ec0b0961f8f9a49
+
+[[added.84.s3_path]]
+psi-data/PSI-102/Engineering Documents/PSI-102_Engineering Documents_60089MFHP0001-C Same Fluids System Schematic.pdf
+
+[[added.84.study_id.$oid]]
+683d9d56f91ab4427dbf4492
+
+[[added.84.subcategory]]
+
+
+[[added.85.bucket]]
+
+
+[[added.85.file_name]]
+PSI-102_Engineering Documents_S1171MFHA401 Pyrell Sample Assembly.pdf
+
+[[added.85.organization]]
+shared
+
+[[added.85.psi_legacy_s3_path]]
+legacy/7264/4189/S1171MFHA401 Pyrell Sample Assembly.pdf
+
+[[added.85.remote_path]]
+/Home/psi-data/PSI-102/Engineering Documents/PSI-102_Engineering Documents_S1171MFHA401 Pyrell Sample Assembly.pdf
+
+[[added.85.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3104566/?inline=1&log=1
+
+[[added.85.resource_id.$oid]]
+65eb514f2ec0b0961f8f9a49
+
+[[added.85.s3_path]]
+psi-data/PSI-102/Engineering Documents/PSI-102_Engineering Documents_S1171MFHA401 Pyrell Sample Assembly.pdf
+
+[[added.85.study_id.$oid]]
+683d9d56f91ab4427dbf4492
+
+[[added.85.subcategory]]
+
+
+[[added.86.bucket]]
+
+
+[[added.86.file_name]]
+PSI-102_Engineering Documents_80089MFHP000-E SAME Fluids System Schematic.pdf
+
+[[added.86.organization]]
+shared
+
+[[added.86.psi_legacy_s3_path]]
+legacy/7264/4189/80089MFHP000-E SAME Fluids System Schematic.pdf
+
+[[added.86.remote_path]]
+/Home/psi-data/PSI-102/Engineering Documents/PSI-102_Engineering Documents_80089MFHP000-E SAME Fluids System Schematic.pdf
+
+[[added.86.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3104582/?inline=1&log=1
+
+[[added.86.resource_id.$oid]]
+65eb514f2ec0b0961f8f9a49
+
+[[added.86.s3_path]]
+psi-data/PSI-102/Engineering Documents/PSI-102_Engineering Documents_80089MFHP000-E SAME Fluids System Schematic.pdf
+
+[[added.86.study_id.$oid]]
+683d9d56f91ab4427dbf4492
+
+[[added.86.subcategory]]
+
+
+[[added.87.bucket]]
+
+
+[[added.87.file_name]]
+PSI-102_Engineering Documents_60089MFHA416-A Silicone Sample Assembly.pdf
+
+[[added.87.organization]]
+shared
+
+[[added.87.psi_legacy_s3_path]]
+legacy/7264/4189/60089MFHA416-A Silicone Sample Assembly.pdf
+
+[[added.87.remote_path]]
+/Home/psi-data/PSI-102/Engineering Documents/PSI-102_Engineering Documents_60089MFHA416-A Silicone Sample Assembly.pdf
+
+[[added.87.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3104598/?inline=1&log=1
+
+[[added.87.resource_id.$oid]]
+65eb514f2ec0b0961f8f9a49
+
+[[added.87.s3_path]]
+psi-data/PSI-102/Engineering Documents/PSI-102_Engineering Documents_60089MFHA416-A Silicone Sample Assembly.pdf
+
+[[added.87.study_id.$oid]]
+683d9d56f91ab4427dbf4492
+
+[[added.87.subcategory]]
+
+
+[[added.88.bucket]]
+
+
+[[added.88.file_name]]
+PSI-102_Engineering Documents_60089MFHA419 Silicone Ignitor Wire Coil Assembly.pdf
+
+[[added.88.organization]]
+shared
+
+[[added.88.psi_legacy_s3_path]]
+legacy/7264/4189/60089MFHA419 Silicone Ignitor Wire Coil Assembly.pdf
+
+[[added.88.remote_path]]
+/Home/psi-data/PSI-102/Engineering Documents/PSI-102_Engineering Documents_60089MFHA419 Silicone Ignitor Wire Coil Assembly.pdf
+
+[[added.88.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3104599/?inline=1&log=1
+
+[[added.88.resource_id.$oid]]
+65eb514f2ec0b0961f8f9a49
+
+[[added.88.s3_path]]
+psi-data/PSI-102/Engineering Documents/PSI-102_Engineering Documents_60089MFHA419 Silicone Ignitor Wire Coil Assembly.pdf
+
+[[added.88.study_id.$oid]]
+683d9d56f91ab4427dbf4492
+
+[[added.88.subcategory]]
+
+
+[[added.89.bucket]]
+
+
+[[added.89.file_name]]
+PSI-102_Engineering Documents_60089MFHA410-A Teflon Sample Assembly.pdf
+
+[[added.89.organization]]
+shared
+
+[[added.89.psi_legacy_s3_path]]
+legacy/7264/4189/60089MFHA410-A Teflon Sample Assembly.pdf
+
+[[added.89.remote_path]]
+/Home/psi-data/PSI-102/Engineering Documents/PSI-102_Engineering Documents_60089MFHA410-A Teflon Sample Assembly.pdf
+
+[[added.89.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3104600/?inline=1&log=1
+
+[[added.89.resource_id.$oid]]
+65eb514f2ec0b0961f8f9a49
+
+[[added.89.s3_path]]
+psi-data/PSI-102/Engineering Documents/PSI-102_Engineering Documents_60089MFHA410-A Teflon Sample Assembly.pdf
+
+[[added.89.study_id.$oid]]
+683d9d56f91ab4427dbf4492
+
+[[added.89.subcategory]]
+
+
+[[added.90.bucket]]
+
+
+[[added.90.file_name]]
+PSI-102_Engineering Documents_60089MFHD413 Teflon Sample Part.pdf
+
+[[added.90.organization]]
+shared
+
+[[added.90.psi_legacy_s3_path]]
+legacy/7264/4189/60089MFHD413 Teflon Sample Part.pdf
+
+[[added.90.remote_path]]
+/Home/psi-data/PSI-102/Engineering Documents/PSI-102_Engineering Documents_60089MFHD413 Teflon Sample Part.pdf
+
+[[added.90.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3104601/?inline=1&log=1
+
+[[added.90.resource_id.$oid]]
+65eb514f2ec0b0961f8f9a49
+
+[[added.90.s3_path]]
+psi-data/PSI-102/Engineering Documents/PSI-102_Engineering Documents_60089MFHD413 Teflon Sample Part.pdf
+
+[[added.90.study_id.$oid]]
+683d9d56f91ab4427dbf4492
+
+[[added.90.subcategory]]
+
+
+[[added.91.bucket]]
+
+
+[[added.91.file_name]]
+PSI-102_Engineering Documents_60089MFHA411 Teflon Ignitor Wire Coil Assembly.pdf
+
+[[added.91.organization]]
+shared
+
+[[added.91.psi_legacy_s3_path]]
+legacy/7264/4189/60089MFHA411 Teflon Ignitor Wire Coil Assembly.pdf
+
+[[added.91.remote_path]]
+/Home/psi-data/PSI-102/Engineering Documents/PSI-102_Engineering Documents_60089MFHA411 Teflon Ignitor Wire Coil Assembly.pdf
+
+[[added.91.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3104602/?inline=1&log=1
+
+[[added.91.resource_id.$oid]]
+65eb514f2ec0b0961f8f9a49
+
+[[added.91.s3_path]]
+psi-data/PSI-102/Engineering Documents/PSI-102_Engineering Documents_60089MFHA411 Teflon Ignitor Wire Coil Assembly.pdf
+
+[[added.91.study_id.$oid]]
+683d9d56f91ab4427dbf4492
+
+[[added.91.subcategory]]
+
+
+[[added.92.bucket]]
+
+
+[[added.92.file_name]]
+PSI-102_Engineering Documents_60089MFHP000-E SAME Fluids System Schematic, right side.pdf
+
+[[added.92.organization]]
+shared
+
+[[added.92.psi_legacy_s3_path]]
+legacy/7264/4189/60089MFHP000-E SAME Fluids System Schematic, right side.pdf
+
+[[added.92.remote_path]]
+/Home/psi-data/PSI-102/Engineering Documents/PSI-102_Engineering Documents_60089MFHP000-E SAME Fluids System Schematic, right side.pdf
+
+[[added.92.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3105448/?inline=1&log=1
+
+[[added.92.resource_id.$oid]]
+65eb514f2ec0b0961f8f9a49
+
+[[added.92.s3_path]]
+psi-data/PSI-102/Engineering Documents/PSI-102_Engineering Documents_60089MFHP000-E SAME Fluids System Schematic, right side.pdf
+
+[[added.92.study_id.$oid]]
+683d9d56f91ab4427dbf4492
+
+[[added.92.subcategory]]
+
+
+[[added.93.bucket]]
+
+
+[[added.93.file_name]]
+PSI-102_Engineering Documents_Fluids Control Unit, Schematic, left side.pdf
+
+[[added.93.organization]]
+shared
+
+[[added.93.psi_legacy_s3_path]]
+legacy/7264/4189/Fluids Control Unit, Schematic, left side.pdf
+
+[[added.93.remote_path]]
+/Home/psi-data/PSI-102/Engineering Documents/PSI-102_Engineering Documents_Fluids Control Unit, Schematic, left side.pdf
+
+[[added.93.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3105449/?inline=1&log=1
+
+[[added.93.resource_id.$oid]]
+65eb514f2ec0b0961f8f9a49
+
+[[added.93.s3_path]]
+psi-data/PSI-102/Engineering Documents/PSI-102_Engineering Documents_Fluids Control Unit, Schematic, left side.pdf
+
+[[added.93.study_id.$oid]]
+683d9d56f91ab4427dbf4492
+
+[[added.93.subcategory]]
+
+
+[[added.94.bucket]]
+
+
+[[added.94.file_name]]
+PSI-102_Engineering Documents_Resistive Heater Coil-TN001.zip
+
+[[added.94.organization]]
+shared
+
+[[added.94.psi_legacy_s3_path]]
+legacy/16785/14632/TN001.zip
+
+[[added.94.remote_path]]
+/Home/psi-data/PSI-102/Engineering Documents/PSI-102_Engineering Documents_Resistive Heater Coil-TN001.zip
+
+[[added.94.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7629725/?inline=1&log=1
+
+[[added.94.resource_id.$oid]]
+65eb514f2ec0b0961f8f9a49
+
+[[added.94.s3_path]]
+psi-data/PSI-102/Engineering Documents/PSI-102_Engineering Documents_Resistive Heater Coil-TN001.zip
+
+[[added.94.study_id.$oid]]
+683d9d56f91ab4427dbf4492
+
+[[added.94.subcategory]]
+
+
+[[added.95.bucket]]
+
+
+[[added.95.file_name]]
+PSI-102_Engineering Documents_Resistive Heater Coil-TN002.zip
+
+[[added.95.organization]]
+shared
+
+[[added.95.psi_legacy_s3_path]]
+legacy/16785/14632/TN002.zip
+
+[[added.95.remote_path]]
+/Home/psi-data/PSI-102/Engineering Documents/PSI-102_Engineering Documents_Resistive Heater Coil-TN002.zip
+
+[[added.95.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7629726/?inline=1&log=1
+
+[[added.95.resource_id.$oid]]
+65eb514f2ec0b0961f8f9a49
+
+[[added.95.s3_path]]
+psi-data/PSI-102/Engineering Documents/PSI-102_Engineering Documents_Resistive Heater Coil-TN002.zip
+
+[[added.95.study_id.$oid]]
+683d9d56f91ab4427dbf4492
+
+[[added.95.subcategory]]
+
+
+[[added.96.bucket]]
+
+
+[[added.96.file_name]]
+PSI-102_Engineering Documents_SAME OPS images.zip
+
+[[added.96.organization]]
+shared
+
+[[added.96.psi_legacy_s3_path]]
+legacy/16786/11441/SAME OPS images.zip
+
+[[added.96.remote_path]]
+/Home/psi-data/PSI-102/Engineering Documents/PSI-102_Engineering Documents_SAME OPS images.zip
+
+[[added.96.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7638928/?inline=1&log=1
+
+[[added.96.resource_id.$oid]]
+65eb514f2ec0b0961f8f9a49
+
+[[added.96.s3_path]]
+psi-data/PSI-102/Engineering Documents/PSI-102_Engineering Documents_SAME OPS images.zip
+
+[[added.96.study_id.$oid]]
+683d9d56f91ab4427dbf4492
+
+[[added.96.subcategory]]
+
+
+[[added.97.bucket]]
+
+
+[[added.97.file_name]]
+PSI-102_Engineering Documents_SAME_IgnitorWireCharacterizationReport.pdf
+
+[[added.97.organization]]
+shared
+
+[[added.97.psi_legacy_s3_path]]
+legacy/7264/22141/SAME_Wire_Report.pdf
+
+[[added.97.remote_path]]
+/Home/psi-data/PSI-102/Engineering Documents/PSI-102_Engineering Documents_SAME_IgnitorWireCharacterizationReport.pdf
+
+[[added.97.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/10506317/?inline=1&log=1
+
+[[added.97.resource_id.$oid]]
+65eb514f2ec0b0961f8f9a49
+
+[[added.97.s3_path]]
+psi-data/PSI-102/Engineering Documents/PSI-102_Engineering Documents_SAME_IgnitorWireCharacterizationReport.pdf
+
+[[added.97.study_id.$oid]]
+683d9d56f91ab4427dbf4492
+
+[[added.97.subcategory]]
+
+
+[[added.98.bucket]]
+
+
+[[added.98.file_name]]
+PSI-102_Engineering Documents_SAME_Wire_Test.xls
+
+[[added.98.organization]]
+shared
+
+[[added.98.psi_legacy_s3_path]]
+legacy/7264/22141/SAME_Wire_Test.xls
+
+[[added.98.remote_path]]
+/Home/psi-data/PSI-102/Engineering Documents/PSI-102_Engineering Documents_SAME_Wire_Test.xls
+
+[[added.98.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/10506318/?inline=1&log=1
+
+[[added.98.resource_id.$oid]]
+65eb514f2ec0b0961f8f9a49
+
+[[added.98.s3_path]]
+psi-data/PSI-102/Engineering Documents/PSI-102_Engineering Documents_SAME_Wire_Test.xls
+
+[[added.98.study_id.$oid]]
+683d9d56f91ab4427dbf4492
+
+[[added.98.subcategory]]
+
+
+[[added.99.bucket]]
+
+
+[[added.99.file_name]]
+PSI-102_Science Documents_SAME_Baseline Concept Description Doc.pdf
+
+[[added.99.organization]]
+shared
+
+[[added.99.psi_legacy_s3_path]]
+legacy/7264/22141/SAME_Baseline Concept Description Document_001 Rev A.pdf
+
+[[added.99.remote_path]]
+/Home/psi-data/PSI-102/Science Documents/PSI-102_Science Documents_SAME_Baseline Concept Description Doc.pdf
+
+[[added.99.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/12651668/?inline=1&log=1
+
+[[added.99.resource_id.$oid]]
+65eb50812ec0b0961f8f9a45
+
+[[added.99.s3_path]]
+psi-data/PSI-102/Science Documents/PSI-102_Science Documents_SAME_Baseline Concept Description Doc.pdf
+
+[[added.99.study_id.$oid]]
+683d9d56f91ab4427dbf4492
+
+[[added.99.subcategory]]
+
+
+[[added.100.bucket]]
+
+
+[[added.100.file_name]]
+PSI-102_Reference Data_SAME_Crew Interface Description.pdf
+
+[[added.100.organization]]
+shared
+
+[[added.100.psi_legacy_s3_path]]
+legacy/7264/22141/SAME_Crew Interface Description_008 Rev A.pdf
+
+[[added.100.remote_path]]
+/Home/psi-data/PSI-102/Reference Data/PSI-102_Reference Data_SAME_Crew Interface Description.pdf
+
+[[added.100.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/12651669/?inline=1&log=1
+
+[[added.100.resource_id.$oid]]
+66d496337d829fb74370bab8
+
+[[added.100.s3_path]]
+psi-data/PSI-102/Reference Data/PSI-102_Reference Data_SAME_Crew Interface Description.pdf
+
+[[added.100.study_id.$oid]]
+683d9d56f91ab4427dbf4492
+
+[[added.100.subcategory]]
+
+
+[[added.101.bucket]]
+
+
+[[added.101.file_name]]
+PSI-102_Science Documents_SAME_Operations Manual_007.pdf
+
+[[added.101.organization]]
+shared
+
+[[added.101.psi_legacy_s3_path]]
+legacy/7264/22141/SAME_Operations Manual_007.pdf
+
+[[added.101.remote_path]]
+/Home/psi-data/PSI-102/Science Documents/PSI-102_Science Documents_SAME_Operations Manual_007.pdf
+
+[[added.101.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/12651670/?inline=1&log=1
+
+[[added.101.resource_id.$oid]]
+65eb50812ec0b0961f8f9a45
+
+[[added.101.s3_path]]
+psi-data/PSI-102/Science Documents/PSI-102_Science Documents_SAME_Operations Manual_007.pdf
+
+[[added.101.study_id.$oid]]
+683d9d56f91ab4427dbf4492
+
+[[added.101.subcategory]]
+
+
+[[added.102.bucket]]
+
+
+[[added.102.file_name]]
+PSI-102_Reference Data_SAME_Software Description Document.pdf
+
+[[added.102.organization]]
+shared
+
+[[added.102.psi_legacy_s3_path]]
+legacy/7264/22141/SAME_Software Description Document_003 Rev A.pdf
+
+[[added.102.remote_path]]
+/Home/psi-data/PSI-102/Reference Data/PSI-102_Reference Data_SAME_Software Description Document.pdf
+
+[[added.102.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/12651671/?inline=1&log=1
+
+[[added.102.resource_id.$oid]]
+66d496337d829fb74370bab8
+
+[[added.102.s3_path]]
+psi-data/PSI-102/Reference Data/PSI-102_Reference Data_SAME_Software Description Document.pdf
+
+[[added.102.study_id.$oid]]
+683d9d56f91ab4427dbf4492
+
+[[added.102.subcategory]]
+
+
+[[added.103.bucket]]
+
+
+[[added.103.file_name]]
+PSI-102_Reference Data_SAME_Software Req Document.pdf
+
+[[added.103.organization]]
+shared
+
+[[added.103.psi_legacy_s3_path]]
+legacy/7264/22141/SAME_Software Requirement Document_004 Rev D.pdf
+
+[[added.103.remote_path]]
+/Home/psi-data/PSI-102/Reference Data/PSI-102_Reference Data_SAME_Software Req Document.pdf
+
+[[added.103.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/12651672/?inline=1&log=1
+
+[[added.103.resource_id.$oid]]
+66d496337d829fb74370bab8
+
+[[added.103.s3_path]]
+psi-data/PSI-102/Reference Data/PSI-102_Reference Data_SAME_Software Req Document.pdf
+
+[[added.103.study_id.$oid]]
+683d9d56f91ab4427dbf4492
+
+[[added.103.subcategory]]
+
+
+[[approach]]
+The crew installed the near field hardware in the Glovebox, attached the Far Field Box to the Glovebox, and positioned the video cameras. The operator then ran the self diagnostic procedures on the two smoke detectors and activated the video cameras, turned on the igniter for a predefined period of time (15 to 60 seconds), and initiated the thermophoretic soot samplers to sample the smoke. The actual duration of each combustion event was typically 2 minutes. After flight, the particulate collected on the thermophoretic probes were analyzed using a Transmission Electron microscope (TEM) to determine primary and aggregate particle dimensions. The remains of the samples were weighed to determine their mass loss. The digital data was transcribed from the video record and analyzed to determine the response of the detectors. Once the flight mass loss rates were determined, 1-g operation conditions to produce the same loss were determined.The measurements were made using smoke generated by overheated  spacecraft materials where variables such as the sample temperature, flow field, and particle aging time were more rigorously controlled.
+
+[[contacts.0.@id]]
+
+
+[[contacts.0.address]]
+
+
+[[contacts.0.affiliation]]
+NASA GRC
+
+[[contacts.0.comments.0.name]]
+Study Person REF
+
+[[contacts.0.comments.0.value]]
+
+
+[[contacts.0.email]]
+david.urban@nasa.gov
+
+[[contacts.0.fax]]
+
+
+[[contacts.0.firstName]]
+David
+
+[[contacts.0.lastName]]
+Urban
+
+[[contacts.0.midInitials]]
+
+
+[[contacts.0.phone]]
+
+
+[[contacts.0.roles.0.@id]]
+dEBvA2jSs25xM9IfCv5ploF8MUDFt0ACKekf97KJ
+
+[[contacts.0.roles.0.annotationValue]]
+Principal Investigator (PI)
+
+[[contacts.0.roles.0.termAccession]]
+Principal Investigator (PI)
+
+[[contacts.0.roles.0.termSource]]
+
+
+[[contacts.1.@id]]
+
+
+[[contacts.1.address]]
+
+
+[[contacts.1.affiliation]]
+University of Maryland
+
+[[contacts.1.comments.0.name]]
+Study Person REF
+
+[[contacts.1.comments.0.value]]
+
+
+[[contacts.1.email]]
+georgewm@umd.edu
+
+[[contacts.1.fax]]
+
+
+[[contacts.1.firstName]]
+George
+
+[[contacts.1.lastName]]
+Mulholland
+
+[[contacts.1.midInitials]]
+
+
+[[contacts.1.phone]]
+
+
+[[contacts.1.roles.0.@id]]
+59J36d8A36ZR1iSs6NNVDRYelIkilTNb30me8Erm
+
+[[contacts.1.roles.0.annotationValue]]
+Co-Investigator (Co-I)
+
+[[contacts.1.roles.0.termAccession]]
+Co-Investigator (Co-I)
+
+[[contacts.1.roles.0.termSource]]
+
+
+[[contacts.2.@id]]
+
+
+[[contacts.2.address]]
+
+
+[[contacts.2.affiliation]]
+NASA GRC
+
+[[contacts.2.comments.0.name]]
+Study Person REF
+
+[[contacts.2.comments.0.value]]
+
+
+[[contacts.2.email]]
+claire.fortenberry@nasa.gov
+
+[[contacts.2.fax]]
+
+
+[[contacts.2.firstName]]
+Claire
+
+[[contacts.2.lastName]]
+Fortenberry
+
+[[contacts.2.midInitials]]
+
+
+[[contacts.2.phone]]
+
+
+[[contacts.2.roles.0.@id]]
+UPDBsFjwjds0hw6t0IuVN6evepdczdMm2HLYqwom
+
+[[contacts.2.roles.0.annotationValue]]
+Project Scientist
+
+[[contacts.2.roles.0.termAccession]]
+Project Scientist
+
+[[contacts.2.roles.0.termSource]]
+
+
+[[contacts.3.@id]]
+
+
+[[contacts.3.address]]
+
+
+[[contacts.3.affiliation]]
+National Institute of Standards and Technology (NIST)
+
+[[contacts.3.comments.0.name]]
+Study Person REF
+
+[[contacts.3.comments.0.value]]
+
+
+[[contacts.3.email]]
+thomas.cleary@nist.gov
+
+[[contacts.3.fax]]
+
+
+[[contacts.3.firstName]]
+Thomas
+
+[[contacts.3.lastName]]
+Cleary
+
+[[contacts.3.midInitials]]
+
+
+[[contacts.3.phone]]
+
+
+[[contacts.3.roles.0.@id]]
+59J36d8A36ZR1iSs6NNVDRYelIkilTNb30me8Erm
+
+[[contacts.3.roles.0.annotationValue]]
+Co-Investigator (Co-I)
+
+[[contacts.3.roles.0.termAccession]]
+Co-Investigator (Co-I)
+
+[[contacts.3.roles.0.termSource]]
+
+
+[[contacts.4.@id]]
+
+
+[[contacts.4.address]]
+
+
+[[contacts.4.affiliation]]
+National Institute for Standards and Technology (NIST)
+
+[[contacts.4.comments.0.name]]
+Study Person REF
+
+[[contacts.4.comments.0.value]]
+
+
+[[contacts.4.email]]
+jiann.yang@nist.gov
+
+[[contacts.4.fax]]
+
+
+[[contacts.4.firstName]]
+Jiann
+
+[[contacts.4.lastName]]
+Yang
+
+[[contacts.4.midInitials]]
+
+
+[[contacts.4.phone]]
+
+
+[[contacts.4.roles.0.@id]]
+59J36d8A36ZR1iSs6NNVDRYelIkilTNb30me8Erm
+
+[[contacts.4.roles.0.annotationValue]]
+Co-Investigator (Co-I)
+
+[[contacts.4.roles.0.termAccession]]
+Co-Investigator (Co-I)
+
+[[contacts.4.roles.0.termSource]]
+
+
+[[description]]
+
+
+[[doi]]
+10.60555/gd4k-8h62
+
+[[experimentHardware]]
+Comparitive Soot Diagnostic Hardware
+
+[[experimentHardwareLink]]
+https://ntrs.nasa.gov/api/citations/19960008413/downloads/19960008413.pdf
+
+[[experimentalTable.0._id.$oid]]
+6797d223b7b6ff8e65038de3
+
+[[experimentalTable.0.file_name]]
+PSI-102_Experimental table_SAME.csv
+
+[[experimentalTable.0.remote_path]]
+/Home/psi-data/PSI-102/Experimental table/PSI-102_Experimental table_SAME.csv
+
+[[experimentalTable.0.remote_url]]
+/datamanager/file/Home/psi-data/PSI-102/Experimental table/PSI-102_Experimental table_SAME.csv
+
+[[experimentalTable.0.resource_id.$oid]]
+66cf53d46f1142c964b2e0a8
+
+[[experimentalTable.0.s3_path]]
+psi-data/PSI-102/Experimental table/PSI-102_Experimental table_SAME.csv
+
+[[experimentalTable.0.s3_version_id]]
+m3rkjq5tpO.vgTZKLJTXLUc.kxyeTV.5
+
+[[experimentalTable.0.study_id.$oid]]
+683d9d56f91ab4427dbf4492
+
+[[experimentalTable.0.subcategory]]
+
+
+[[flightProgram]]
+International Space Station (ISS)
+
+[[funding]]
+IH1013215
+
+[[hypothesis]]
+The three hypotheses that motivated this investigation:
+In a μg environment, with the absence of the strong buoyancy-induced flows, smoke particle growth from a pyrolyzing/smoldering source, as a result of nucleation, condensation, and coagulation, will lead to larger particles compared to those produced in 1g. The formation of the larger particles is favored by the expected higher vapor concentration and smoke residence times near the source due to the reduced velocities and mixing at μg conditions. In particular, it is hypothesized that liquid aerosol smokes produced in microgravity will exhibit substantially larger droplet sizes than under the same conditions in normal gravity (with a corresponding decrease in the particle number density for the same mass of smoke). The change in the size distribution and number density will, in turn, affect the response of the smoke detectors and possibly result in some detectors not producing an alarm when exposed to this smoke.
+
+[[investigationAcronym]]
+SAME
+
+[[investigationEndDate]]
+02-28-2008
+
+[[investigationStartDate]]
+03-02-2001
+
+[[licenseIdentifier]]
+CC0-1.0
+
+[[licenseLink]]
+https://spdx.org/licenses/CC0-1.0.html
+
+[[licenseName]]
+Creative Commons Zero v1.0 Universal
+
+[[managingNasaCenter]]
+Glenn Research Center (GRC)
+
+[[missionEnd]]
+
+
+[[missionLink]]
+
+
+[[missionName]]
+
+
+[[missionStart]]
+
+
+[[modifiedDate]]
+02-Jun-2025
+
+[[objective]]
+One of the major goals of this investigation was to quantify the sizes that the liquid smoke particulate achieves in low gravity and to relate the droplet size distribution to the smoke generation and smoke transport conditions in the experiment. A numerical code was to be developed to predict the smoke droplet growth as a function of the fuel pyrolysis rate, the thermodynamic properties of the pyrolysis vapor, and the flow environment.
+
+[[projectIdentifier]]
+
+
+[[projectLink]]
+
+
+[[projectTitle]]
+
+
+[[projectType]]
+Microgravity Investigation
+
+[[proposalTitle]]
+
+
+[[publications.0.authorList]]
+Urban David L., Ruff Gary A., Mulholland George W., Cleary Thomas G., Yang Jiann C., Yuan Zengguang
+
+[[publications.0.doi]]
+10.4271/2008-01-2089
+
+[[publications.0.pubMedID]]
+
+
+[[publications.0.status.@id]]
+Rd2oZxVKYUnMCRj3tbHg0eGQhfrFmtiEFnMOyDHF
+
+[[publications.0.status.annotationValue]]
+published
+
+[[publications.0.status.termAccession]]
+http://www.ebi.ac.uk/efo/EFO_0001796
+
+[[publications.0.status.termSource]]
+EFO
+
+[[publications.0.title]]
+Measurement of Smoke Particle Size under Low-Gravity Conditions
+
+[[publications.1.authorList]]
+DL Urban, GA Ruff, W Sheredy, T Cleary, J Yang, G Mulholland, Z Yuan
+
+[[publications.1.doi]]
+
+
+[[publications.1.pubMedID]]
+
+
+[[publications.1.status.@id]]
+Rd2oZxVKYUnMCRj3tbHg0eGQhfrFmtiEFnMOyDHF
+
+[[publications.1.status.annotationValue]]
+published
+
+[[publications.1.status.termAccession]]
+http://www.ebi.ac.uk/efo/EFO_0001796
+
+[[publications.1.status.termSource]]
+EFO
+
+[[publications.1.title]]
+Properties of Smoke from Overheated Spacecraft Materials in Low-Gravity
+
+[[publications.2.authorList]]
+Urban David L., Ruff Gary A., Mulholland George W., Cleary Thomas G., Yang Jiann C., Yuan Zengguang, Bryg Victoria
+
+[[publications.2.doi]]
+10.4271/2009-01-2468
+
+[[publications.2.pubMedID]]
+
+
+[[publications.2.status.@id]]
+Rd2oZxVKYUnMCRj3tbHg0eGQhfrFmtiEFnMOyDHF
+
+[[publications.2.status.annotationValue]]
+published
+
+[[publications.2.status.termAccession]]
+http://www.ebi.ac.uk/efo/EFO_0001796
+
+[[publications.2.status.termSource]]
+EFO
+
+[[publications.2.title]]
+Smoke Particle Sizes in Low-Gravity and Implications for Spacecraft Smoke Detector Design
+
+[[publications.3.authorList]]
+Urban David, Ruff Gary, Brooker John, Cleary Thomas, Yang Jiann, Mulholland George, Yuan Zeng-Guang
+
+[[publications.3.doi]]
+10.2514/6.2008-806
+
+[[publications.3.pubMedID]]
+
+
+[[publications.3.status.@id]]
+Rd2oZxVKYUnMCRj3tbHg0eGQhfrFmtiEFnMOyDHF
+
+[[publications.3.status.annotationValue]]
+published
+
+[[publications.3.status.termAccession]]
+http://www.ebi.ac.uk/efo/EFO_0001796
+
+[[publications.3.status.termSource]]
+EFO
+
+[[publications.3.title]]
+Spacecraft Fire Detection: Smoke Properties and Transport in Low-Gravity
+
+[[publications.4.authorList]]
+Brooker John E., Urban David L., Ruff Gary A.
+
+[[publications.4.doi]]
+10.4271/2007-01-3076
+
+[[publications.4.pubMedID]]
+
+
+[[publications.4.status.@id]]
+Rd2oZxVKYUnMCRj3tbHg0eGQhfrFmtiEFnMOyDHF
+
+[[publications.4.status.annotationValue]]
+published
+
+[[publications.4.status.termAccession]]
+http://www.ebi.ac.uk/efo/EFO_0001796
+
+[[publications.4.status.termSource]]
+EFO
+
+[[publications.4.title]]
+ISS Destiny Laboratory Smoke Detection Model
+
+[[publications.5.authorList]]
+DL Urban, GW Mulholland, J Yang, TG Cleary, and ZG Yuan
+
+[[publications.5.doi]]
+
+
+[[publications.5.pubMedID]]
+
+
+[[publications.5.status.@id]]
+l87xqHQEQuC4rNfO31zRSVlRomoXfQjaWFyzxZZZ
+
+[[publications.5.status.annotationValue]]
+published
+
+[[publications.5.status.termAccession]]
+http://www.ebi.ac.uk/efo/EFO_0001796
+
+[[publications.5.status.termSource]]
+
+
+[[publications.5.title]]
+Smoke: Characterization of Smoke Particulate for Spacecraft Fire Detection, Seventh International Microgravity Combustion Workshop
+
+[[publications.6.authorList]]
+DL Urban, GW Mulholland, J Yang, TG Cleary, ZG Yuan
+
+[[publications.6.doi]]
+
+
+[[publications.6.pubMedID]]
+
+
+[[publications.6.status.@id]]
+l87xqHQEQuC4rNfO31zRSVlRomoXfQjaWFyzxZZZ
+
+[[publications.6.status.annotationValue]]
+published
+
+[[publications.6.status.termAccession]]
+http://www.ebi.ac.uk/efo/EFO_0001796
+
+[[publications.6.status.termSource]]
+
+
+[[publications.6.title]]
+Smoke: Characterization of Smoke Particulate for Spacecraft Fire Detection
+
+[[publications.7.authorList]]
+Bryg VM, Yuan Z-G, Urban DL, Ruff G, Mulholland G, Agui J
+
+[[publications.7.doi]]
+10.1017/S1431927610060563
+
+[[publications.7.pubMedID]]
+
+
+[[publications.7.status.@id]]
+Rd2oZxVKYUnMCRj3tbHg0eGQhfrFmtiEFnMOyDHF
+
+[[publications.7.status.annotationValue]]
+published
+
+[[publications.7.status.termAccession]]
+http://www.ebi.ac.uk/efo/EFO_0001796
+
+[[publications.7.status.termSource]]
+EFO
+
+[[publications.7.title]]
+Characterization of Nuisance Particulates in the ISS: Space Smoke Aerosols and Lunar Dust Abatement
+
+[[publications.8.authorList]]
+Malley, WA Sheredy, DP Stocker
+
+[[publications.8.doi]]
+
+
+[[publications.8.pubMedID]]
+
+
+[[publications.8.status.@id]]
+Rd2oZxVKYUnMCRj3tbHg0eGQhfrFmtiEFnMOyDHF
+
+[[publications.8.status.annotationValue]]
+published
+
+[[publications.8.status.termAccession]]
+http://www.ebi.ac.uk/efo/EFO_0001796
+
+[[publications.8.status.termSource]]
+EFO
+
+[[publications.8.title]]
+Combustion Research on the International Space Station
+
+[[publications.9.authorList]]
+DL Urban, D Griffin, G Ruff, T Cleary, J Yang, G Mulholland, ZG Yuan
+
+[[publications.9.doi]]
+
+
+[[publications.9.pubMedID]]
+
+
+[[publications.9.status.@id]]
+Rd2oZxVKYUnMCRj3tbHg0eGQhfrFmtiEFnMOyDHF
+
+[[publications.9.status.annotationValue]]
+published
+
+[[publications.9.status.termAccession]]
+http://www.ebi.ac.uk/efo/EFO_0001796
+
+[[publications.9.status.termSource]]
+EFO
+
+[[publications.9.title]]
+Detection of Smoke from Microgravity Fires
+
+[[publications.10.authorList]]
+Ruff Gary, Urban David, King Merrill
+
+[[publications.10.doi]]
+10.2514/6.2005-341
+
+[[publications.10.pubMedID]]
+
+
+[[publications.10.status.@id]]
+Rd2oZxVKYUnMCRj3tbHg0eGQhfrFmtiEFnMOyDHF
+
+[[publications.10.status.annotationValue]]
+published
+
+[[publications.10.status.termAccession]]
+http://www.ebi.ac.uk/efo/EFO_0001796
+
+[[publications.10.status.termSource]]
+EFO
+
+[[publications.10.title]]
+A Research Plan for Fire Prevention, Detection and Suppression in Crewed Exploration Systems
+
+[[publications.11.authorList]]
+Mulholland George W., Meyer Marit, Urban David L., Ruff Gary A., Yuan Zeng-guang, Bryg Victoria, Cleary Thomas, Yang Jiann
+
+[[publications.11.doi]]
+10.1080/02786826.2015.1025125
+
+[[publications.11.pubMedID]]
+
+
+[[publications.11.status.@id]]
+Rd2oZxVKYUnMCRj3tbHg0eGQhfrFmtiEFnMOyDHF
+
+[[publications.11.status.annotationValue]]
+published
+
+[[publications.11.status.termAccession]]
+http://www.ebi.ac.uk/efo/EFO_0001796
+
+[[publications.11.status.termSource]]
+EFO
+
+[[publications.11.title]]
+Pyrolysis Smoke Generated Under Low-Gravity Conditions
+
+[[publications.12.authorList]]
+Meyer Marit E., Mulholland George W., Bryg Victoria, Urban David L., Yuan Zeng-Guang, Ruff Gary A., Cleary Thomas, Yang Jiann
+
+[[publications.12.doi]]
+10.1080/02786826.2015.1025124
+
+[[publications.12.pubMedID]]
+
+
+[[publications.12.status.@id]]
+Rd2oZxVKYUnMCRj3tbHg0eGQhfrFmtiEFnMOyDHF
+
+[[publications.12.status.annotationValue]]
+published
+
+[[publications.12.status.termAccession]]
+http://www.ebi.ac.uk/efo/EFO_0001796
+
+[[publications.12.status.termSource]]
+EFO
+
+[[publications.12.title]]
+Smoke Characterization and Feasibility of the Moment Method for Spacecraft Fire Detection
+
+[[publications.13.authorList]]
+Meyer Marit E., Urban David L., Mulholland George W., Bryg Victoria, Yuan Zeng-Guang, Ruff Gary A., Cleary Thomas, Yang Jiann
+
+[[publications.13.doi]]
+10.1016/j.firesaf.2018.04.004
+
+[[publications.13.pubMedID]]
+33654340
+
+[[publications.13.status.@id]]
+Rd2oZxVKYUnMCRj3tbHg0eGQhfrFmtiEFnMOyDHF
+
+[[publications.13.status.annotationValue]]
+published
+
+[[publications.13.status.termAccession]]
+http://www.ebi.ac.uk/efo/EFO_0001796
+
+[[publications.13.status.termSource]]
+EFO
+
+[[publications.13.title]]
+Evaluation of spacecraft smoke detector performance in the low-gravity environment
+
+[[publications.14.authorList]]
+Spivey Reggie, Jeter Linda, Vonk Chris
+
+[[publications.14.doi]]
+10.2514/6.2007-546
+
+[[publications.14.pubMedID]]
+
+
+[[publications.14.status.@id]]
+Rd2oZxVKYUnMCRj3tbHg0eGQhfrFmtiEFnMOyDHF
+
+[[publications.14.status.annotationValue]]
+published
+
+[[publications.14.status.termAccession]]
+http://www.ebi.ac.uk/efo/EFO_0001796
+
+[[publications.14.status.termSource]]
+EFO
+
+[[publications.14.title]]
+The Microgravity Science Glovebox (MSG), a Resource for Gravity-Dependent Phenomena Research on the International Space Station (ISS)
+
+[[publications.15.authorList]]
+Reggie Spivey, Kenneth B. Morris
+
+[[publications.15.doi]]
+
+
+[[publications.15.pubMedID]]
+
+
+[[publications.15.status.@id]]
+Rd2oZxVKYUnMCRj3tbHg0eGQhfrFmtiEFnMOyDHF
+
+[[publications.15.status.annotationValue]]
+published
+
+[[publications.15.status.termAccession]]
+http://www.ebi.ac.uk/efo/EFO_0001796
+
+[[publications.15.status.termSource]]
+EFO
+
+[[publications.15.title]]
+AN OVERVIEW OF THE MICROGRAVITY SCIENCE GLOVEBOX (MSG) FACILITY, AND THE GRAVITY-DEPENDENT PHENOMENARESEARCH PERFORMED IN THE MSG ON THE INTERNATIONAL SPACE STATION (ISS)
+
+[[related_glds]]
+PSI-101
+
+[[releaseDate]]
+18-Sep-2024
+
+[[removed.0.bucket]]
+
+
+[[removed.0.file_name]]
+GMT269silicon27.xls
+
+[[removed.0.organization]]
+shared
+
+[[removed.0.psi_legacy_s3_path]]
+legacy/16938/227/GMT269silicon27.xls
+
+[[removed.0.remote_path]]
+/Home/psi-data/PSI-102/Analyzed Data/GMT269silicon27.xls
+
+[[removed.0.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/131241/?inline=1&log=1
+
+[[removed.0.resource_id.$oid]]
+65e737ee8e263688e9f9200c
+
+[[removed.0.s3_path]]
+psi-data/PSI-102/Analyzed Data/GMT269silicon27.xls
+
+[[removed.0.study_id.$oid]]
+6797d223b7b6ff8e65038de4
+
+[[removed.0.subcategory]]
+Legacy/SAME - Run 27 Raw & Analyzed Data
+
+[[removed.1.bucket]]
+
+
+[[removed.1.file_name]]
+GMT276silicone35.xls
+
+[[removed.1.organization]]
+shared
+
+[[removed.1.psi_legacy_s3_path]]
+legacy/16947/227/GMT276silicone35.xls
+
+[[removed.1.remote_path]]
+/Home/psi-data/PSI-102/Analyzed Data/GMT276silicone35.xls
+
+[[removed.1.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/131242/?inline=1&log=1
+
+[[removed.1.resource_id.$oid]]
+65e737ee8e263688e9f9200c
+
+[[removed.1.s3_path]]
+psi-data/PSI-102/Analyzed Data/GMT276silicone35.xls
+
+[[removed.1.study_id.$oid]]
+6797d223b7b6ff8e65038de4
+
+[[removed.1.subcategory]]
+Legacy/SAME - Run 35 Raw & Analyzed Data
+
+[[removed.2.bucket]]
+
+
+[[removed.2.file_name]]
+TeflonGMT257hkp.xls
+
+[[removed.2.organization]]
+shared
+
+[[removed.2.psi_legacy_s3_path]]
+legacy/16908/227/TeflonGMT257hkp.xls
+
+[[removed.2.remote_path]]
+/Home/psi-data/PSI-102/Analyzed Data/TeflonGMT257hkp.xls
+
+[[removed.2.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/131243/?inline=1&log=1
+
+[[removed.2.resource_id.$oid]]
+65e737ee8e263688e9f9200c
+
+[[removed.2.s3_path]]
+psi-data/PSI-102/Analyzed Data/TeflonGMT257hkp.xls
+
+[[removed.2.study_id.$oid]]
+6797d223b7b6ff8e65038de4
+
+[[removed.2.subcategory]]
+Legacy/SAME - Run 10 Raw & Analyzed Data
+
+[[removed.3.bucket]]
+
+
+[[removed.3.file_name]]
+TeflonGMT257hkp zgy average.xls
+
+[[removed.3.organization]]
+shared
+
+[[removed.3.psi_legacy_s3_path]]
+legacy/16908/227/TeflonGMT257hkp zgy average.xls
+
+[[removed.3.remote_path]]
+/Home/psi-data/PSI-102/Analyzed Data/TeflonGMT257hkp zgy average.xls
+
+[[removed.3.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/131244/?inline=1&log=1
+
+[[removed.3.resource_id.$oid]]
+65e737ee8e263688e9f9200c
+
+[[removed.3.s3_path]]
+psi-data/PSI-102/Analyzed Data/TeflonGMT257hkp zgy average.xls
+
+[[removed.3.study_id.$oid]]
+6797d223b7b6ff8e65038de4
+
+[[removed.3.subcategory]]
+Legacy/SAME - Run 10 Raw & Analyzed Data
+
+[[removed.4.bucket]]
+
+
+[[removed.4.file_name]]
+GMT262 RUN 13 teflon.xls
+
+[[removed.4.organization]]
+shared
+
+[[removed.4.psi_legacy_s3_path]]
+legacy/16911/227/GMT262 RUN 13 teflon.xls
+
+[[removed.4.remote_path]]
+/Home/psi-data/PSI-102/Analyzed Data/GMT262 RUN 13 teflon.xls
+
+[[removed.4.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/131245/?inline=1&log=1
+
+[[removed.4.resource_id.$oid]]
+65e737ee8e263688e9f9200c
+
+[[removed.4.s3_path]]
+psi-data/PSI-102/Analyzed Data/GMT262 RUN 13 teflon.xls
+
+[[removed.4.study_id.$oid]]
+6797d223b7b6ff8e65038de4
+
+[[removed.4.subcategory]]
+Legacy/SAME - Run 13 Raw & Analyzed Data
+
+[[removed.5.bucket]]
+
+
+[[removed.5.file_name]]
+GMT268teflon25.xls
+
+[[removed.5.organization]]
+shared
+
+[[removed.5.psi_legacy_s3_path]]
+legacy/16936/227/GMT268teflon25.xls
+
+[[removed.5.remote_path]]
+/Home/psi-data/PSI-102/Analyzed Data/GMT268teflon25.xls
+
+[[removed.5.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/131246/?inline=1&log=1
+
+[[removed.5.resource_id.$oid]]
+65e737ee8e263688e9f9200c
+
+[[removed.5.s3_path]]
+psi-data/PSI-102/Analyzed Data/GMT268teflon25.xls
+
+[[removed.5.study_id.$oid]]
+6797d223b7b6ff8e65038de4
+
+[[removed.5.subcategory]]
+Legacy/SAME - Run 25 Raw & Analyzed Data
+
+[[removed.6.bucket]]
+
+
+[[removed.6.file_name]]
+GMT268teflon26.xls
+
+[[removed.6.organization]]
+shared
+
+[[removed.6.psi_legacy_s3_path]]
+legacy/16937/227/GMT268teflon26.xls
+
+[[removed.6.remote_path]]
+/Home/psi-data/PSI-102/Analyzed Data/GMT268teflon26.xls
+
+[[removed.6.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/131247/?inline=1&log=1
+
+[[removed.6.resource_id.$oid]]
+65e737ee8e263688e9f9200c
+
+[[removed.6.s3_path]]
+psi-data/PSI-102/Analyzed Data/GMT268teflon26.xls
+
+[[removed.6.study_id.$oid]]
+6797d223b7b6ff8e65038de4
+
+[[removed.6.subcategory]]
+Legacy/SAME - Run 26 Raw & Analyzed Data
+
+[[removed.7.bucket]]
+
+
+[[removed.7.file_name]]
+GMT269teflon28hkp.xls
+
+[[removed.7.organization]]
+shared
+
+[[removed.7.psi_legacy_s3_path]]
+legacy/16939/227/GMT269teflon28hkp.xls
+
+[[removed.7.remote_path]]
+/Home/psi-data/PSI-102/Analyzed Data/GMT269teflon28hkp.xls
+
+[[removed.7.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/131248/?inline=1&log=1
+
+[[removed.7.resource_id.$oid]]
+65e737ee8e263688e9f9200c
+
+[[removed.7.s3_path]]
+psi-data/PSI-102/Analyzed Data/GMT269teflon28hkp.xls
+
+[[removed.7.study_id.$oid]]
+6797d223b7b6ff8e65038de4
+
+[[removed.7.subcategory]]
+Legacy/SAME - Run 28 Raw & Analyzed Data
+
+[[removed.8.bucket]]
+
+
+[[removed.8.file_name]]
+testft Word Document.doc
+
+[[removed.8.organization]]
+shared
+
+[[removed.8.psi_legacy_s3_path]]
+legacy/16904/227/testft Word Document.doc
+
+[[removed.8.remote_path]]
+/Home/psi-data/PSI-102/Analyzed Data/testft Word Document.doc
+
+[[removed.8.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/141669/?inline=1&log=1
+
+[[removed.8.resource_id.$oid]]
+65e737ee8e263688e9f9200c
+
+[[removed.8.s3_path]]
+psi-data/PSI-102/Analyzed Data/testft Word Document.doc
+
+[[removed.8.study_id.$oid]]
+6797d223b7b6ff8e65038de4
+
+[[removed.8.subcategory]]
+Legacy/SAME - Run 05 Raw & Analyzed Data
+
+[[removed.9.bucket]]
+
+
+[[removed.9.file_name]]
+16937___9.xml
+
+[[removed.9.organization]]
+shared
+
+[[removed.9.psi_legacy_s3_path]]
+legacy/16937/1483/16937___9.xml
+
+[[removed.9.remote_path]]
+/Home/psi-data/PSI-102/Analyzed Data/16937___9.xml
+
+[[removed.9.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/142205/?inline=1&log=1
+
+[[removed.9.resource_id.$oid]]
+65e737ee8e263688e9f9200c
+
+[[removed.9.s3_path]]
+psi-data/PSI-102/Analyzed Data/16937___9.xml
+
+[[removed.9.study_id.$oid]]
+6797d223b7b6ff8e65038de4
+
+[[removed.9.subcategory]]
+Legacy/SAME - Run 26 Raw & Analyzed Data
+
+[[removed.10.bucket]]
+
+
+[[removed.10.file_name]]
+16904___9.xml
+
+[[removed.10.organization]]
+shared
+
+[[removed.10.psi_legacy_s3_path]]
+legacy/16904/1483/16904___9.xml
+
+[[removed.10.remote_path]]
+/Home/psi-data/PSI-102/Analyzed Data/16904___9.xml
+
+[[removed.10.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/142753/?inline=1&log=1
+
+[[removed.10.resource_id.$oid]]
+65e737ee8e263688e9f9200c
+
+[[removed.10.s3_path]]
+psi-data/PSI-102/Analyzed Data/16904___9.xml
+
+[[removed.10.study_id.$oid]]
+6797d223b7b6ff8e65038de4
+
+[[removed.10.subcategory]]
+Legacy/SAME - Run 05 Raw & Analyzed Data
+
+[[removed.11.bucket]]
+
+
+[[removed.11.file_name]]
+16942___9.xml
+
+[[removed.11.organization]]
+shared
+
+[[removed.11.psi_legacy_s3_path]]
+legacy/16942/1483/16942___9.xml
+
+[[removed.11.remote_path]]
+/Home/psi-data/PSI-102/Analyzed Data/16942___9.xml
+
+[[removed.11.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/142754/?inline=1&log=1
+
+[[removed.11.resource_id.$oid]]
+65e737ee8e263688e9f9200c
+
+[[removed.11.s3_path]]
+psi-data/PSI-102/Analyzed Data/16942___9.xml
+
+[[removed.11.study_id.$oid]]
+6797d223b7b6ff8e65038de4
+
+[[removed.11.subcategory]]
+Legacy/SAME - Run 31 Raw & Analyzed Data
+
+[[removed.12.bucket]]
+
+
+[[removed.12.file_name]]
+16912___9.xml
+
+[[removed.12.organization]]
+shared
+
+[[removed.12.psi_legacy_s3_path]]
+legacy/16912/1483/16912___9.xml
+
+[[removed.12.remote_path]]
+/Home/psi-data/PSI-102/Analyzed Data/16912___9.xml
+
+[[removed.12.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/142755/?inline=1&log=1
+
+[[removed.12.resource_id.$oid]]
+65e737ee8e263688e9f9200c
+
+[[removed.12.s3_path]]
+psi-data/PSI-102/Analyzed Data/16912___9.xml
+
+[[removed.12.study_id.$oid]]
+6797d223b7b6ff8e65038de4
+
+[[removed.12.subcategory]]
+Legacy/SAME - Run 14 Raw & Analyzed Data
+
+[[removed.13.bucket]]
+
+
+[[removed.13.file_name]]
+ICES Paper 2005-01-2930 rev.doc
+
+[[removed.13.organization]]
+shared
+
+[[removed.13.psi_legacy_s3_path]]
+legacy/20461/284/ICES Paper 2005-01-2930 rev.doc
+
+[[removed.13.remote_path]]
+/Home/psi-data/PSI-102/Raw Data/ICES Paper 2005-01-2930 rev.doc
+
+[[removed.13.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/228792/?inline=1&log=1
+
+[[removed.13.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.13.s3_path]]
+psi-data/PSI-102/Raw Data/ICES Paper 2005-01-2930 rev.doc
+
+[[removed.13.study_id.$oid]]
+6797d223b7b6ff8e65038de4
+
+[[removed.13.subcategory]]
+Legacy/Detection of Smoke from Microgravity Fires-ICES Paper 2005-01-2930
+
+[[removed.14.bucket]]
+
+
+[[removed.14.file_name]]
+SAME ICES  2013 07 15 final as presented.pptx
+
+[[removed.14.organization]]
+shared
+
+[[removed.14.psi_legacy_s3_path]]
+legacy/20462/284/SAME ICES  2013 07 15 final as presented.pptx
+
+[[removed.14.remote_path]]
+/Home/psi-data/PSI-102/Raw Data/SAME ICES  2013 07 15 final as presented.pptx
+
+[[removed.14.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/228798/?inline=1&log=1
+
+[[removed.14.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.14.s3_path]]
+psi-data/PSI-102/Raw Data/SAME ICES  2013 07 15 final as presented.pptx
+
+[[removed.14.study_id.$oid]]
+6797d223b7b6ff8e65038de4
+
+[[removed.14.subcategory]]
+Legacy/Smoke Aerosol Measurement Experiment-2: Comparison of Flight Experiment Results with Ground Test Results
+
+[[removed.15.bucket]]
+
+
+[[removed.15.file_name]]
+SAME ICES 2012 07 15 2012.pptx
+
+[[removed.15.organization]]
+shared
+
+[[removed.15.psi_legacy_s3_path]]
+legacy/20463/284/SAME ICES 2012 07 15 2012.pptx
+
+[[removed.15.remote_path]]
+/Home/psi-data/PSI-102/Raw Data/SAME ICES 2012 07 15 2012.pptx
+
+[[removed.15.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/228803/?inline=1&log=1
+
+[[removed.15.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.15.s3_path]]
+psi-data/PSI-102/Raw Data/SAME ICES 2012 07 15 2012.pptx
+
+[[removed.15.study_id.$oid]]
+6797d223b7b6ff8e65038de4
+
+[[removed.15.subcategory]]
+Legacy/Particle Morphology and Size Results from the Smoke Aerosol Measurement Experiment-2
+
+[[removed.16.bucket]]
+
+
+[[removed.16.file_name]]
+Same progress report to HQ 11-16-07   11 15 07  updated.ppt
+
+[[removed.16.organization]]
+shared
+
+[[removed.16.psi_legacy_s3_path]]
+legacy/20464/284/Same progress report to HQ 11-16-07   11 15 07  updated.ppt
+
+[[removed.16.remote_path]]
+/Home/psi-data/PSI-102/Raw Data/Same progress report to HQ 11-16-07   11 15 07  updated.ppt
+
+[[removed.16.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/228812/?inline=1&log=1
+
+[[removed.16.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.16.s3_path]]
+psi-data/PSI-102/Raw Data/Same progress report to HQ 11-16-07   11 15 07  updated.ppt
+
+[[removed.16.study_id.$oid]]
+6797d223b7b6ff8e65038de4
+
+[[removed.16.subcategory]]
+Legacy/Early Results from the &quot;SAME&quot; Experiment
+
+[[removed.17.bucket]]
+
+
+[[removed.17.file_name]]
+SAME slides 7-1- 08 fixed schematic as presented .ppt
+
+[[removed.17.organization]]
+shared
+
+[[removed.17.psi_legacy_s3_path]]
+legacy/20466/284/SAME slides 7-1- 08 fixed schematic as presented .ppt
+
+[[removed.17.remote_path]]
+/Home/psi-data/PSI-102/Raw Data/SAME slides 7-1- 08 fixed schematic as presented .ppt
+
+[[removed.17.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/228825/?inline=1&log=1
+
+[[removed.17.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.17.s3_path]]
+psi-data/PSI-102/Raw Data/SAME slides 7-1- 08 fixed schematic as presented .ppt
+
+[[removed.17.study_id.$oid]]
+6797d223b7b6ff8e65038de4
+
+[[removed.17.subcategory]]
+Legacy/Measurement of Smoke Particle Size under Low-Gravity Conditions
+
+[[removed.18.bucket]]
+
+
+[[removed.18.file_name]]
+Urban ICES talk.ppt
+
+[[removed.18.organization]]
+shared
+
+[[removed.18.psi_legacy_s3_path]]
+legacy/20467/284/Urban ICES talk.ppt
+
+[[removed.18.remote_path]]
+/Home/psi-data/PSI-102/Raw Data/Urban ICES talk.ppt
+
+[[removed.18.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/228829/?inline=1&log=1
+
+[[removed.18.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.18.s3_path]]
+psi-data/PSI-102/Raw Data/Urban ICES talk.ppt
+
+[[removed.18.study_id.$oid]]
+6797d223b7b6ff8e65038de4
+
+[[removed.18.subcategory]]
+Legacy/Detection of Smoke from Microgravity Fires
+
+[[removed.19.bucket]]
+
+
+[[removed.19.file_name]]
+SAME VPRED Matrix PLN-005 Baseline.xls
+
+[[removed.19.organization]]
+shared
+
+[[removed.19.psi_legacy_s3_path]]
+legacy/7264/218/SAME VPRED Matrix PLN-005 Baseline.xls
+
+[[removed.19.remote_path]]
+/Home/psi-data/PSI-102/Raw Data/SAME VPRED Matrix PLN-005 Baseline.xls
+
+[[removed.19.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/258694/?inline=1&log=1
+
+[[removed.19.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.19.s3_path]]
+psi-data/PSI-102/Raw Data/SAME VPRED Matrix PLN-005 Baseline.xls
+
+[[removed.19.study_id.$oid]]
+6797d223b7b6ff8e65038de4
+
+[[removed.19.subcategory]]
+Legacy/
+
+[[removed.20.bucket]]
+
+
+[[removed.20.file_name]]
+SAME Verification Plan and Engineering Requirements Document (VPRED)_January 2007.pdf
+
+[[removed.20.organization]]
+shared
+
+[[removed.20.psi_legacy_s3_path]]
+legacy/7264/218/SAME Verification Plan and Engineering Requirements Document (VPRED)_January 2007.pdf
+
+[[removed.20.remote_path]]
+/Home/psi-data/PSI-102/Raw Data/SAME Verification Plan and Engineering Requirements Document (VPRED)_January 2007.pdf
+
+[[removed.20.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/258695/?inline=1&log=1
+
+[[removed.20.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.20.s3_path]]
+psi-data/PSI-102/Raw Data/SAME Verification Plan and Engineering Requirements Document (VPRED)_January 2007.pdf
+
+[[removed.20.study_id.$oid]]
+6797d223b7b6ff8e65038de4
+
+[[removed.20.subcategory]]
+Legacy/
+
+[[removed.21.bucket]]
+
+
+[[removed.21.file_name]]
+60089MFHA151-B Same Aging Chamber.pdf
+
+[[removed.21.organization]]
+shared
+
+[[removed.21.psi_legacy_s3_path]]
+legacy/7264/4189/60089MFHA151-B Same Aging Chamber.pdf
+
+[[removed.21.remote_path]]
+/Home/psi-data/PSI-102/Raw Data/60089MFHA151-B Same Aging Chamber.pdf
+
+[[removed.21.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3103109/?inline=1&log=1
+
+[[removed.21.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.21.s3_path]]
+psi-data/PSI-102/Raw Data/60089MFHA151-B Same Aging Chamber.pdf
+
+[[removed.21.study_id.$oid]]
+6797d223b7b6ff8e65038de4
+
+[[removed.21.subcategory]]
+Legacy/
+
+[[removed.22.bucket]]
+
+
+[[removed.22.file_name]]
+60089MFHA150-B Aging Chamber Assembly.pdf
+
+[[removed.22.organization]]
+shared
+
+[[removed.22.psi_legacy_s3_path]]
+legacy/7264/4189/60089MFHA150-B Aging Chamber Assembly.pdf
+
+[[removed.22.remote_path]]
+/Home/psi-data/PSI-102/Raw Data/60089MFHA150-B Aging Chamber Assembly.pdf
+
+[[removed.22.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3103110/?inline=1&log=1
+
+[[removed.22.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.22.s3_path]]
+psi-data/PSI-102/Raw Data/60089MFHA150-B Aging Chamber Assembly.pdf
+
+[[removed.22.study_id.$oid]]
+6797d223b7b6ff8e65038de4
+
+[[removed.22.subcategory]]
+Legacy/
+
+[[removed.23.bucket]]
+
+
+[[removed.23.file_name]]
+60089MFHD126-B Smoke Generation Tube.pdf
+
+[[removed.23.organization]]
+shared
+
+[[removed.23.psi_legacy_s3_path]]
+legacy/7264/4189/60089MFHD126-B Smoke Generation Tube.pdf
+
+[[removed.23.remote_path]]
+/Home/psi-data/PSI-102/Raw Data/60089MFHD126-B Smoke Generation Tube.pdf
+
+[[removed.23.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3104544/?inline=1&log=1
+
+[[removed.23.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.23.s3_path]]
+psi-data/PSI-102/Raw Data/60089MFHD126-B Smoke Generation Tube.pdf
+
+[[removed.23.study_id.$oid]]
+6797d223b7b6ff8e65038de4
+
+[[removed.23.subcategory]]
+Legacy/
+
+[[removed.24.bucket]]
+
+
+[[removed.24.file_name]]
+60089MFHD509 P-Trak Condenser Tube Modification.pdf
+
+[[removed.24.organization]]
+shared
+
+[[removed.24.psi_legacy_s3_path]]
+legacy/7264/4189/60089MFHD509 P-Trak Condenser Tube Modification.pdf
+
+[[removed.24.remote_path]]
+/Home/psi-data/PSI-102/Raw Data/60089MFHD509 P-Trak Condenser Tube Modification.pdf
+
+[[removed.24.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3104545/?inline=1&log=1
+
+[[removed.24.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.24.s3_path]]
+psi-data/PSI-102/Raw Data/60089MFHD509 P-Trak Condenser Tube Modification.pdf
+
+[[removed.24.study_id.$oid]]
+6797d223b7b6ff8e65038de4
+
+[[removed.24.subcategory]]
+Legacy/
+
+[[removed.25.bucket]]
+
+
+[[removed.25.file_name]]
+60089MFHA417-B Kapton Sample Assembly.pdf
+
+[[removed.25.organization]]
+shared
+
+[[removed.25.psi_legacy_s3_path]]
+legacy/7264/4189/60089MFHA417-B Kapton Sample Assembly.pdf
+
+[[removed.25.remote_path]]
+/Home/psi-data/PSI-102/Raw Data/60089MFHA417-B Kapton Sample Assembly.pdf
+
+[[removed.25.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3104546/?inline=1&log=1
+
+[[removed.25.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.25.s3_path]]
+psi-data/PSI-102/Raw Data/60089MFHA417-B Kapton Sample Assembly.pdf
+
+[[removed.25.study_id.$oid]]
+6797d223b7b6ff8e65038de4
+
+[[removed.25.subcategory]]
+Legacy/
+
+[[removed.26.bucket]]
+
+
+[[removed.26.file_name]]
+60089MFHA432-A Kapton Ignitor Wire Coil Assembly.pdf
+
+[[removed.26.organization]]
+shared
+
+[[removed.26.psi_legacy_s3_path]]
+legacy/7264/4189/60089MFHA432-A Kapton Ignitor Wire Coil Assembly.pdf
+
+[[removed.26.remote_path]]
+/Home/psi-data/PSI-102/Raw Data/60089MFHA432-A Kapton Ignitor Wire Coil Assembly.pdf
+
+[[removed.26.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3104547/?inline=1&log=1
+
+[[removed.26.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.26.s3_path]]
+psi-data/PSI-102/Raw Data/60089MFHA432-A Kapton Ignitor Wire Coil Assembly.pdf
+
+[[removed.26.study_id.$oid]]
+6797d223b7b6ff8e65038de4
+
+[[removed.26.subcategory]]
+Legacy/
+
+[[removed.27.bucket]]
+
+
+[[removed.27.file_name]]
+60089MFHA415 Ignitor Wire Coil Assembly (for 0 .250 OD samples).pdf
+
+[[removed.27.organization]]
+shared
+
+[[removed.27.psi_legacy_s3_path]]
+legacy/7264/4189/60089MFHA415 Ignitor Wire Coil Assembly (for 0 .250 OD samples).pdf
+
+[[removed.27.remote_path]]
+/Home/psi-data/PSI-102/Raw Data/60089MFHA415 Ignitor Wire Coil Assembly (for 0 .250 OD samples).pdf
+
+[[removed.27.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3104548/?inline=1&log=1
+
+[[removed.27.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.27.s3_path]]
+psi-data/PSI-102/Raw Data/60089MFHA415 Ignitor Wire Coil Assembly (for 0 .250 OD samples).pdf
+
+[[removed.27.study_id.$oid]]
+6797d223b7b6ff8e65038de4
+
+[[removed.27.subcategory]]
+Legacy/
+
+[[removed.28.bucket]]
+
+
+[[removed.28.file_name]]
+60089MFHA414-A Lampwick Sample Assembly.pdf
+
+[[removed.28.organization]]
+shared
+
+[[removed.28.psi_legacy_s3_path]]
+legacy/7264/4189/60089MFHA414-A Lampwick Sample Assembly.pdf
+
+[[removed.28.remote_path]]
+/Home/psi-data/PSI-102/Raw Data/60089MFHA414-A Lampwick Sample Assembly.pdf
+
+[[removed.28.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3104549/?inline=1&log=1
+
+[[removed.28.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.28.s3_path]]
+psi-data/PSI-102/Raw Data/60089MFHA414-A Lampwick Sample Assembly.pdf
+
+[[removed.28.study_id.$oid]]
+6797d223b7b6ff8e65038de4
+
+[[removed.28.subcategory]]
+Legacy/
+
+[[removed.29.bucket]]
+
+
+[[removed.29.file_name]]
+60089MFHP0001-C Same Fluids System Schematic.pdf
+
+[[removed.29.organization]]
+shared
+
+[[removed.29.psi_legacy_s3_path]]
+legacy/7264/4189/60089MFHP0001-C Same Fluids System Schematic.pdf
+
+[[removed.29.remote_path]]
+/Home/psi-data/PSI-102/Raw Data/60089MFHP0001-C Same Fluids System Schematic.pdf
+
+[[removed.29.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3104565/?inline=1&log=1
+
+[[removed.29.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.29.s3_path]]
+psi-data/PSI-102/Raw Data/60089MFHP0001-C Same Fluids System Schematic.pdf
+
+[[removed.29.study_id.$oid]]
+6797d223b7b6ff8e65038de4
+
+[[removed.29.subcategory]]
+Legacy/
+
+[[removed.30.bucket]]
+
+
+[[removed.30.file_name]]
+S1171MFHA401 Pyrell Sample Assembly.pdf
+
+[[removed.30.organization]]
+shared
+
+[[removed.30.psi_legacy_s3_path]]
+legacy/7264/4189/S1171MFHA401 Pyrell Sample Assembly.pdf
+
+[[removed.30.remote_path]]
+/Home/psi-data/PSI-102/Raw Data/S1171MFHA401 Pyrell Sample Assembly.pdf
+
+[[removed.30.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3104566/?inline=1&log=1
+
+[[removed.30.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.30.s3_path]]
+psi-data/PSI-102/Raw Data/S1171MFHA401 Pyrell Sample Assembly.pdf
+
+[[removed.30.study_id.$oid]]
+6797d223b7b6ff8e65038de4
+
+[[removed.30.subcategory]]
+Legacy/
+
+[[removed.31.bucket]]
+
+
+[[removed.31.file_name]]
+80089MFHP000-E SAME Fluids System Schematic.pdf
+
+[[removed.31.organization]]
+shared
+
+[[removed.31.psi_legacy_s3_path]]
+legacy/7264/4189/80089MFHP000-E SAME Fluids System Schematic.pdf
+
+[[removed.31.remote_path]]
+/Home/psi-data/PSI-102/Raw Data/80089MFHP000-E SAME Fluids System Schematic.pdf
+
+[[removed.31.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3104582/?inline=1&log=1
+
+[[removed.31.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.31.s3_path]]
+psi-data/PSI-102/Raw Data/80089MFHP000-E SAME Fluids System Schematic.pdf
+
+[[removed.31.study_id.$oid]]
+6797d223b7b6ff8e65038de4
+
+[[removed.31.subcategory]]
+Legacy/
+
+[[removed.32.bucket]]
+
+
+[[removed.32.file_name]]
+60089MFHA416-A Silicone Sample Assembly.pdf
+
+[[removed.32.organization]]
+shared
+
+[[removed.32.psi_legacy_s3_path]]
+legacy/7264/4189/60089MFHA416-A Silicone Sample Assembly.pdf
+
+[[removed.32.remote_path]]
+/Home/psi-data/PSI-102/Raw Data/60089MFHA416-A Silicone Sample Assembly.pdf
+
+[[removed.32.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3104598/?inline=1&log=1
+
+[[removed.32.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.32.s3_path]]
+psi-data/PSI-102/Raw Data/60089MFHA416-A Silicone Sample Assembly.pdf
+
+[[removed.32.study_id.$oid]]
+6797d223b7b6ff8e65038de4
+
+[[removed.32.subcategory]]
+Legacy/
+
+[[removed.33.bucket]]
+
+
+[[removed.33.file_name]]
+60089MFHA419 Silicone Ignitor Wire Coil Assembly.pdf
+
+[[removed.33.organization]]
+shared
+
+[[removed.33.psi_legacy_s3_path]]
+legacy/7264/4189/60089MFHA419 Silicone Ignitor Wire Coil Assembly.pdf
+
+[[removed.33.remote_path]]
+/Home/psi-data/PSI-102/Raw Data/60089MFHA419 Silicone Ignitor Wire Coil Assembly.pdf
+
+[[removed.33.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3104599/?inline=1&log=1
+
+[[removed.33.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.33.s3_path]]
+psi-data/PSI-102/Raw Data/60089MFHA419 Silicone Ignitor Wire Coil Assembly.pdf
+
+[[removed.33.study_id.$oid]]
+6797d223b7b6ff8e65038de4
+
+[[removed.33.subcategory]]
+Legacy/
+
+[[removed.34.bucket]]
+
+
+[[removed.34.file_name]]
+60089MFHA410-A Teflon Sample Assembly.pdf
+
+[[removed.34.organization]]
+shared
+
+[[removed.34.psi_legacy_s3_path]]
+legacy/7264/4189/60089MFHA410-A Teflon Sample Assembly.pdf
+
+[[removed.34.remote_path]]
+/Home/psi-data/PSI-102/Raw Data/60089MFHA410-A Teflon Sample Assembly.pdf
+
+[[removed.34.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3104600/?inline=1&log=1
+
+[[removed.34.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.34.s3_path]]
+psi-data/PSI-102/Raw Data/60089MFHA410-A Teflon Sample Assembly.pdf
+
+[[removed.34.study_id.$oid]]
+6797d223b7b6ff8e65038de4
+
+[[removed.34.subcategory]]
+Legacy/
+
+[[removed.35.bucket]]
+
+
+[[removed.35.file_name]]
+60089MFHD413 Teflon Sample Part.pdf
+
+[[removed.35.organization]]
+shared
+
+[[removed.35.psi_legacy_s3_path]]
+legacy/7264/4189/60089MFHD413 Teflon Sample Part.pdf
+
+[[removed.35.remote_path]]
+/Home/psi-data/PSI-102/Raw Data/60089MFHD413 Teflon Sample Part.pdf
+
+[[removed.35.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3104601/?inline=1&log=1
+
+[[removed.35.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.35.s3_path]]
+psi-data/PSI-102/Raw Data/60089MFHD413 Teflon Sample Part.pdf
+
+[[removed.35.study_id.$oid]]
+6797d223b7b6ff8e65038de4
+
+[[removed.35.subcategory]]
+Legacy/
+
+[[removed.36.bucket]]
+
+
+[[removed.36.file_name]]
+60089MFHA411 Teflon Ignitor Wire Coil Assembly.pdf
+
+[[removed.36.organization]]
+shared
+
+[[removed.36.psi_legacy_s3_path]]
+legacy/7264/4189/60089MFHA411 Teflon Ignitor Wire Coil Assembly.pdf
+
+[[removed.36.remote_path]]
+/Home/psi-data/PSI-102/Raw Data/60089MFHA411 Teflon Ignitor Wire Coil Assembly.pdf
+
+[[removed.36.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3104602/?inline=1&log=1
+
+[[removed.36.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.36.s3_path]]
+psi-data/PSI-102/Raw Data/60089MFHA411 Teflon Ignitor Wire Coil Assembly.pdf
+
+[[removed.36.study_id.$oid]]
+6797d223b7b6ff8e65038de4
+
+[[removed.36.subcategory]]
+Legacy/
+
+[[removed.37.bucket]]
+
+
+[[removed.37.file_name]]
+60089MFHP000-E SAME Fluids System Schematic, right side.pdf
+
+[[removed.37.organization]]
+shared
+
+[[removed.37.psi_legacy_s3_path]]
+legacy/7264/4189/60089MFHP000-E SAME Fluids System Schematic, right side.pdf
+
+[[removed.37.remote_path]]
+/Home/psi-data/PSI-102/Raw Data/60089MFHP000-E SAME Fluids System Schematic, right side.pdf
+
+[[removed.37.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3105448/?inline=1&log=1
+
+[[removed.37.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.37.s3_path]]
+psi-data/PSI-102/Raw Data/60089MFHP000-E SAME Fluids System Schematic, right side.pdf
+
+[[removed.37.study_id.$oid]]
+6797d223b7b6ff8e65038de4
+
+[[removed.37.subcategory]]
+Legacy/
+
+[[removed.38.bucket]]
+
+
+[[removed.38.file_name]]
+Fluids Control Unit, Schematic, left side.pdf
+
+[[removed.38.organization]]
+shared
+
+[[removed.38.psi_legacy_s3_path]]
+legacy/7264/4189/Fluids Control Unit, Schematic, left side.pdf
+
+[[removed.38.remote_path]]
+/Home/psi-data/PSI-102/Raw Data/Fluids Control Unit, Schematic, left side.pdf
+
+[[removed.38.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/3105449/?inline=1&log=1
+
+[[removed.38.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.38.s3_path]]
+psi-data/PSI-102/Raw Data/Fluids Control Unit, Schematic, left side.pdf
+
+[[removed.38.study_id.$oid]]
+6797d223b7b6ff8e65038de4
+
+[[removed.38.subcategory]]
+Legacy/
+
+[[removed.39.bucket]]
+
+
+[[removed.39.file_name]]
+TN001.zip
+
+[[removed.39.organization]]
+shared
+
+[[removed.39.psi_legacy_s3_path]]
+legacy/16785/14632/TN001.zip
+
+[[removed.39.remote_path]]
+/Home/psi-data/PSI-102/Raw Data/TN001.zip
+
+[[removed.39.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7629725/?inline=1&log=1
+
+[[removed.39.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.39.s3_path]]
+psi-data/PSI-102/Raw Data/TN001.zip
+
+[[removed.39.study_id.$oid]]
+6797d223b7b6ff8e65038de4
+
+[[removed.39.subcategory]]
+Legacy/SAME Operations/SAME Resistive Heater Coil
+
+[[removed.40.bucket]]
+
+
+[[removed.40.file_name]]
+TN002.zip
+
+[[removed.40.organization]]
+shared
+
+[[removed.40.psi_legacy_s3_path]]
+legacy/16785/14632/TN002.zip
+
+[[removed.40.remote_path]]
+/Home/psi-data/PSI-102/Raw Data/TN002.zip
+
+[[removed.40.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7629726/?inline=1&log=1
+
+[[removed.40.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.40.s3_path]]
+psi-data/PSI-102/Raw Data/TN002.zip
+
+[[removed.40.study_id.$oid]]
+6797d223b7b6ff8e65038de4
+
+[[removed.40.subcategory]]
+Legacy/SAME Operations/SAME Resistive Heater Coil
+
+[[removed.41.bucket]]
+
+
+[[removed.41.file_name]]
+SAME OPS images.zip
+
+[[removed.41.organization]]
+shared
+
+[[removed.41.psi_legacy_s3_path]]
+legacy/16786/11441/SAME OPS images.zip
+
+[[removed.41.remote_path]]
+/Home/psi-data/PSI-102/Raw Data/SAME OPS images.zip
+
+[[removed.41.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7638928/?inline=1&log=1
+
+[[removed.41.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.41.s3_path]]
+psi-data/PSI-102/Raw Data/SAME OPS images.zip
+
+[[removed.41.study_id.$oid]]
+6797d223b7b6ff8e65038de4
+
+[[removed.41.subcategory]]
+Legacy/SAME Operations/SAME Operations Images
+
+[[removed.42.bucket]]
+
+
+[[removed.42.file_name]]
+SAME DoD.docx
+
+[[removed.42.organization]]
+shared
+
+[[removed.42.psi_legacy_s3_path]]
+legacy/7264/11572/SAME DoD.docx
+
+[[removed.42.remote_path]]
+/Home/psi-data/PSI-102/Raw Data/SAME DoD.docx
+
+[[removed.42.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/10441953/?inline=1&log=1
+
+[[removed.42.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.42.s3_path]]
+psi-data/PSI-102/Raw Data/SAME DoD.docx
+
+[[removed.42.study_id.$oid]]
+6797d223b7b6ff8e65038de4
+
+[[removed.42.subcategory]]
+Legacy/
+
+[[removed.43.bucket]]
+
+
+[[removed.43.file_name]]
+SAME_Wire_Report.pdf
+
+[[removed.43.organization]]
+shared
+
+[[removed.43.psi_legacy_s3_path]]
+legacy/7264/22141/SAME_Wire_Report.pdf
+
+[[removed.43.remote_path]]
+/Home/psi-data/PSI-102/Raw Data/SAME_Wire_Report.pdf
+
+[[removed.43.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/10506317/?inline=1&log=1
+
+[[removed.43.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.43.s3_path]]
+psi-data/PSI-102/Raw Data/SAME_Wire_Report.pdf
+
+[[removed.43.study_id.$oid]]
+6797d223b7b6ff8e65038de4
+
+[[removed.43.subcategory]]
+Legacy/
+
+[[removed.44.bucket]]
+
+
+[[removed.44.file_name]]
+SAME_Wire_Test.xls
+
+[[removed.44.organization]]
+shared
+
+[[removed.44.psi_legacy_s3_path]]
+legacy/7264/22141/SAME_Wire_Test.xls
+
+[[removed.44.remote_path]]
+/Home/psi-data/PSI-102/Raw Data/SAME_Wire_Test.xls
+
+[[removed.44.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/10506318/?inline=1&log=1
+
+[[removed.44.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.44.s3_path]]
+psi-data/PSI-102/Raw Data/SAME_Wire_Test.xls
+
+[[removed.44.study_id.$oid]]
+6797d223b7b6ff8e65038de4
+
+[[removed.44.subcategory]]
+Legacy/
+
+[[removed.45.bucket]]
+
+
+[[removed.45.file_name]]
+SAME Benefits.pdf
+
+[[removed.45.organization]]
+shared
+
+[[removed.45.psi_legacy_s3_path]]
+legacy/7264/22142/SAME Benefits.pdf
+
+[[removed.45.remote_path]]
+/Home/psi-data/PSI-102/Raw Data/SAME Benefits.pdf
+
+[[removed.45.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/10506373/?inline=1&log=1
+
+[[removed.45.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.45.s3_path]]
+psi-data/PSI-102/Raw Data/SAME Benefits.pdf
+
+[[removed.45.study_id.$oid]]
+6797d223b7b6ff8e65038de4
+
+[[removed.45.subcategory]]
+Legacy/
+
+[[removed.46.bucket]]
+
+
+[[removed.46.file_name]]
+InnovationV15N4_StrangeBehavior.pdf
+
+[[removed.46.organization]]
+shared
+
+[[removed.46.psi_legacy_s3_path]]
+legacy/7264/22142/InnovationV15N4_StrangeBehavior.pdf
+
+[[removed.46.remote_path]]
+/Home/psi-data/PSI-102/Raw Data/InnovationV15N4_StrangeBehavior.pdf
+
+[[removed.46.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/10506374/?inline=1&log=1
+
+[[removed.46.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.46.s3_path]]
+psi-data/PSI-102/Raw Data/InnovationV15N4_StrangeBehavior.pdf
+
+[[removed.46.study_id.$oid]]
+6797d223b7b6ff8e65038de4
+
+[[removed.46.subcategory]]
+Legacy/
+
+[[removed.47.bucket]]
+
+
+[[removed.47.file_name]]
+SAME_Baseline Concept Description Document_001 Rev A.pdf
+
+[[removed.47.organization]]
+shared
+
+[[removed.47.psi_legacy_s3_path]]
+legacy/7264/22141/SAME_Baseline Concept Description Document_001 Rev A.pdf
+
+[[removed.47.remote_path]]
+/Home/psi-data/PSI-102/Raw Data/SAME_Baseline Concept Description Document_001 Rev A.pdf
+
+[[removed.47.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/12651668/?inline=1&log=1
+
+[[removed.47.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.47.s3_path]]
+psi-data/PSI-102/Raw Data/SAME_Baseline Concept Description Document_001 Rev A.pdf
+
+[[removed.47.study_id.$oid]]
+6797d223b7b6ff8e65038de4
+
+[[removed.47.subcategory]]
+Legacy/
+
+[[removed.48.bucket]]
+
+
+[[removed.48.file_name]]
+SAME_Crew Interface Description_008 Rev A.pdf
+
+[[removed.48.organization]]
+shared
+
+[[removed.48.psi_legacy_s3_path]]
+legacy/7264/22141/SAME_Crew Interface Description_008 Rev A.pdf
+
+[[removed.48.remote_path]]
+/Home/psi-data/PSI-102/Raw Data/SAME_Crew Interface Description_008 Rev A.pdf
+
+[[removed.48.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/12651669/?inline=1&log=1
+
+[[removed.48.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.48.s3_path]]
+psi-data/PSI-102/Raw Data/SAME_Crew Interface Description_008 Rev A.pdf
+
+[[removed.48.study_id.$oid]]
+6797d223b7b6ff8e65038de4
+
+[[removed.48.subcategory]]
+Legacy/
+
+[[removed.49.bucket]]
+
+
+[[removed.49.date_created]]
+
+
+[[removed.49.file_name]]
+SAME_Operations Manual_007.pdf
+
+[[removed.49.organization]]
+shared
+
+[[removed.49.psi_legacy_s3_path]]
+legacy/7264/22141/SAME_Operations Manual_007.pdf
+
+[[removed.49.remote_path]]
+/Home/psi-data/PSI-102/Raw Data/SAME_Operations Manual_007.pdf
+
+[[removed.49.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/12651670/?inline=1&log=1
+
+[[removed.49.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.49.s3_path]]
+psi-data/PSI-102/Raw Data/SAME_Operations Manual_007.pdf
+
+[[removed.49.study_id.$oid]]
+6797d223b7b6ff8e65038de4
+
+[[removed.49.subcategory]]
+Legacy/
+
+[[removed.50.bucket]]
+
+
+[[removed.50.date_created]]
+
+
+[[removed.50.file_name]]
+SAME_Software Description Document_003 Rev A.pdf
+
+[[removed.50.organization]]
+shared
+
+[[removed.50.psi_legacy_s3_path]]
+legacy/7264/22141/SAME_Software Description Document_003 Rev A.pdf
+
+[[removed.50.remote_path]]
+/Home/psi-data/PSI-102/Raw Data/SAME_Software Description Document_003 Rev A.pdf
+
+[[removed.50.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/12651671/?inline=1&log=1
+
+[[removed.50.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.50.s3_path]]
+psi-data/PSI-102/Raw Data/SAME_Software Description Document_003 Rev A.pdf
+
+[[removed.50.study_id.$oid]]
+6797d223b7b6ff8e65038de4
+
+[[removed.50.subcategory]]
+Legacy/
+
+[[removed.51.bucket]]
+
+
+[[removed.51.date_created]]
+
+
+[[removed.51.file_name]]
+SAME_Software Requirement Document_004 Rev D.pdf
+
+[[removed.51.organization]]
+shared
+
+[[removed.51.psi_legacy_s3_path]]
+legacy/7264/22141/SAME_Software Requirement Document_004 Rev D.pdf
+
+[[removed.51.remote_path]]
+/Home/psi-data/PSI-102/Raw Data/SAME_Software Requirement Document_004 Rev D.pdf
+
+[[removed.51.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/12651672/?inline=1&log=1
+
+[[removed.51.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.51.s3_path]]
+psi-data/PSI-102/Raw Data/SAME_Software Requirement Document_004 Rev D.pdf
+
+[[removed.51.study_id.$oid]]
+6797d223b7b6ff8e65038de4
+
+[[removed.51.subcategory]]
+Legacy/
+
+[[researchArea]]
+Combustion Science
+
+[[researchImpacts]]
+The SAME experiment will provide technology for an advanced fire detector for future spacecraft that will be used for long duration missions. SAME will provide quantitative data on the sensitivity of these detectors to reduced gravity smokes that will allow evaluation of the adequacy of these existing technologies using relevant data. The current Fire Prevention, Detection, and Suppression (FPDS) program plan allows for the re-evaluation of future sensor technology, to allow new technology and capability to be utilized. The results from SAME are needed to provide the reduced gravity baseline data against which future detection technology developments can be evaluated.The smoke detectors developed from the results of SAME can also be useful in other extreme environments on Earth, such as submarines or underwater laboratories. Accurate detection of smoke in these environments can save lives.
+
+[[sourceAccession]]
+
+
+[[sourceLink]]
+
+
+[[spaceProgram]]
+National Aeronautics and Space Administration (NASA)
+
+[[subResearchArea]]
+Spacecraft Fire Safety
+
+[[submissionDate]]
+18-Sep-2024
+
+[[title]]
+Smoke and Aerosol Measurement Experiment
+
+[[versionMessage]]
+
+
+[[versionMessageLevel]]
+
+
+[[versionReason]]
+Additional documentation release

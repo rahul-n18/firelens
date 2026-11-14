@@ -1,0 +1,278 @@
+[[copyright.determinationType]]
+PUBLIC_USE_PERMITTED
+
+[[copyright.thirdPartyContentCondition]]
+NOT_SET
+
+[[copyright.id]]
+20a840affefb419e9fe1f3afd99fe352
+
+[[subjectCategories.0]]
+Mechanical Engineering
+
+[[subjectCategories.1]]
+Space Transportation And Safety
+
+[[keywords.0]]
+Fire
+
+[[keywords.1]]
+Fire Safety
+
+[[keywords.2]]
+Smoke
+
+[[exportControl.isExportControl]]
+NO
+
+[[exportControl.ear]]
+NO
+
+[[exportControl.id]]
+2d4325fb64fd4296bb2e459a704b2d4b
+
+[[exportControl.itar]]
+NO
+
+[[distributionDate]]
+2019-07-12T00:00:00.0000000+00:00
+
+[[otherReportNumbers.0]]
+GRC-E-DAA-TN9488
+
+[[otherReportNumbers.1]]
+Report Number: GRC-E-DAA-TN9488
+
+[[fundingNumbers.0.number]]
+NNX08AX49G
+
+[[fundingNumbers.0.id]]
+63ca68e4c330402d8c0df8e15667e3ec
+
+[[fundingNumbers.0.type]]
+CONTRACT_GRANT
+
+[[fundingNumbers.1.number]]
+WBS 904211.04.02.30.19
+
+[[fundingNumbers.1.id]]
+fd125ee47d2544a59c15d14016a6c9bd
+
+[[fundingNumbers.1.type]]
+WBS
+
+[[title]]
+Evaluation of Low-Gravity Smoke Particulate for Spacecraft Fire Detection
+
+[[stiType]]
+CONFERENCE_PAPER
+
+[[distribution]]
+PUBLIC
+
+[[submittedDate]]
+2014-06-03T11:16:30.0130000+00:00
+
+[[authorAffiliations.0.meta.author.name]]
+Urban, David
+
+[[authorAffiliations.0.meta.organization.name]]
+NASA Glenn Research Center
+
+[[authorAffiliations.0.meta.organization.location]]
+Cleveland, OH United States
+
+[[authorAffiliations.0.id]]
+639591c1785640a38ce4414b4c48b18c
+
+[[authorAffiliations.1.meta.author.name]]
+Ruff, Gary A.
+
+[[authorAffiliations.1.meta.organization.name]]
+NASA Glenn Research Center
+
+[[authorAffiliations.1.meta.organization.location]]
+Cleveland, OH United States
+
+[[authorAffiliations.1.id]]
+603b0d84906740eb948a57af28c560ef
+
+[[authorAffiliations.2.meta.author.name]]
+Greenberg, Paul
+
+[[authorAffiliations.2.meta.organization.name]]
+NASA Glenn Research Center
+
+[[authorAffiliations.2.meta.organization.location]]
+Cleveland, OH, United States
+
+[[authorAffiliations.2.id]]
+e4805b5974f744eeb104bc0da73f0ba6
+
+[[authorAffiliations.3.meta.author.name]]
+Meyer, Marit
+
+[[authorAffiliations.3.meta.organization.name]]
+NASA Glenn Research Center
+
+[[authorAffiliations.3.meta.organization.location]]
+Cleveland, OH, United States
+
+[[authorAffiliations.3.id]]
+3fd5a34b686540d4a2421074815adfc8
+
+[[authorAffiliations.4.meta.author.name]]
+Mulholland, George
+
+[[authorAffiliations.4.meta.organization.name]]
+Maryland Univ.
+
+[[authorAffiliations.4.meta.organization.location]]
+College Park, MD, United States
+
+[[authorAffiliations.4.id]]
+09f89c5b013140ee9d465dbdc029f6d1
+
+[[authorAffiliations.5.meta.author.name]]
+Yuan, Zeng-guang
+
+[[authorAffiliations.5.meta.organization.name]]
+National Center for Space Exploration Research on Fluids and Combustion
+
+[[authorAffiliations.5.meta.organization.location]]
+Cleveland, OH, United States
+
+[[authorAffiliations.5.id]]
+18c95f4f60764bad8257dc1a945a94fd
+
+[[authorAffiliations.6.meta.author.name]]
+Bryg, Victoria
+
+[[authorAffiliations.6.meta.organization.name]]
+National Center for Space Exploration Research on Fluids and Combustion
+
+[[authorAffiliations.6.meta.organization.location]]
+Cleveland, OH, United States
+
+[[authorAffiliations.6.id]]
+fcdb14fbdcbf4afebc585301791a1263
+
+[[authorAffiliations.7.meta.author.name]]
+Cleary, Thomas
+
+[[authorAffiliations.7.meta.organization.name]]
+National Inst. of Standards and Technology
+
+[[authorAffiliations.7.meta.organization.location]]
+Boulder, CO, United States
+
+[[authorAffiliations.7.id]]
+b4698146a7dc48f0bd3b10c8f9d57ee1
+
+[[authorAffiliations.8.meta.author.name]]
+Yang, Jiann
+
+[[authorAffiliations.8.meta.organization.name]]
+National Inst. of Standards and Technology
+
+[[authorAffiliations.8.meta.organization.location]]
+Boulder, CO, United States
+
+[[authorAffiliations.8.id]]
+14634250feda40e191f889f1d924e539
+
+[[stiTypeDetails]]
+Conference Paper
+
+[[technicalReviewType]]
+TECHNICAL_REVIEW_TYPE_NONE
+
+[[modified]]
+2025-08-31T18:39:21.7150190+00:00
+
+[[legacyMeta.__type]]
+LegacyMetaIndex, StrivesApi.ServiceModel
+
+[[legacyMeta.accessionNumber]]
+
+
+[[created]]
+2014-06-03T11:16:30.0130000+00:00
+
+[[center.code]]
+GRC
+
+[[center.name]]
+Glenn Research Center
+
+[[center.id]]
+19eeb25fa404421d9eaa5f876e853e3c
+
+[[abstract]]
+Tests were conducted on the International Space Station to evaluate the smoke particulate size from materials and conditions that are typical of those expected in spacecraft fires. Five different materials representative of those found in spacecraft (Teflon, Kapton, cotton, silicone rubber and Pyrell) were heated to temperatures below the ignition point with conditions controlled to provide repeatable sample surface temperatures and air flow. The air flow past the sample during the heating period ranged from quiescent to 8 cm/s. The effective transport time to the measurement instruments was varied from 11 to 800 seconds to simulate different smoke transport conditions in spacecraft. The resultant aerosol was evaluated by three instruments which measured different moments of the particle size distribution. These moment diagnostics were used to determine the particle number concentration (zeroth moment), the diameter concentration (first moment), and the mass concentration (third moment). These statistics were combined to determine the diameter of average mass and the count mean diameter and by assuming a log-normal distribution, the geometric mean diameter and the geometric standard deviations were also calculated. Smoke particle samples were collected on TEM grids using a thermal precipitator for post flight analysis. The TEM grids were analyzed to determine the particle morphology and shape parameters. The different materials produced particles with significantly different morphologies. Overall the majority of the average smoke particle sizes were found to be in the 200 to 400 nanometer range with the quiescent cases and the cases with increased transport time typically producing with substantially larger particles. The results varied between materials but the smoke particles produced in low gravity were typically twice the size of particles produced in normal gravity. These results can be used to establish design requirements for future spacecraft smoke detectors.
+
+[[disseminated]]
+DOCUMENT_AND_METADATA
+
+[[meetings.0.country]]
+United States
+
+[[meetings.0.endDate]]
+2013-05-22T00:00:00.0000000+00:00
+
+[[meetings.0.sponsors.0.organizationId]]
+9b8b9dce88b647adb0010a8c9fab369e
+
+[[meetings.0.sponsors.0.meta.organization.name]]
+Combustion Inst.
+
+[[meetings.0.sponsors.0.meta.organization.location]]
+Pittsburgh, PA, United States
+
+[[meetings.0.sponsors.0.meetingId]]
+7a0673644e7e44f19c713e281913abe7
+
+[[meetings.0.sponsors.0.id]]
+ec07098cbdcf4254b51d4279c7d57fb3
+
+[[meetings.0.name]]
+U. S. National Combustion Meeting
+
+[[meetings.0.location]]
+Park City, Utah
+
+[[meetings.0.id]]
+7a0673644e7e44f19c713e281913abe7
+
+[[meetings.0.startDate]]
+2013-05-19T00:00:00.0000000+00:00
+
+[[publications.0.id]]
+39e0aae77bd248849bab0f8a05d54557
+
+[[publications.0.publicationDate]]
+2013-05-19T00:00:00.0000000+00:00
+
+[[status]]
+CURATED
+
+[[downloads.0.mimetype]]
+application/pdf
+
+[[downloads.0.name]]
+20140006585.pdf
+
+[[downloads.0.type]]
+STI
+
+[[downloads.0.links.original]]
+/api/citations/20140006585/downloads/20140006585.pdf
+
+[[downloads.0.links.pdf]]
+/api/citations/20140006585/downloads/20140006585.pdf
+
+[[downloads.0.links.fulltext]]
+/api/citations/20140006585/downloads/20140006585.txt
+
+[[index]]
+submissions-2026-11-12-06-24

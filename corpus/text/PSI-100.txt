@@ -1,0 +1,5769 @@
+[[accession]]
+PSI-100
+
+[[acknowledgments]]
+
+
+[[added.0.bucket]]
+
+
+[[added.0.file_name]]
+PSI-100_Engineering Documents_SAFFIRE Offgassing Testing Strategy.pdf
+
+[[added.0.organization]]
+shared
+
+[[added.0.psi_legacy_s3_path]]
+legacy/97836/284/SAFFIRE Offgassing Testing Strategy.pdf
+
+[[added.0.remote_path]]
+/Home/psi-data/PSI-100/Engineering Documents/PSI-100_Engineering Documents_SAFFIRE Offgassing Testing Strategy.pdf
+
+[[added.0.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7652463/?inline=1&log=1
+
+[[added.0.resource_id.$oid]]
+65eb514f2ec0b0961f8f9a49
+
+[[added.0.s3_path]]
+psi-data/PSI-100/Engineering Documents/PSI-100_Engineering Documents_SAFFIRE Offgassing Testing Strategy.pdf
+
+[[added.0.study_id.$oid]]
+6841ac438970fb41b9cebbfc
+
+[[added.0.subcategory]]
+
+
+[[added.1.bucket]]
+
+
+[[added.1.file_name]]
+PSI-100_Presentations_SAFFIRE_45 I Con of Env Sys presentation.pdf
+
+[[added.1.organization]]
+shared
+
+[[added.1.psi_legacy_s3_path]]
+legacy/97837/284/SAFFIRE_45 I Con of Env Sys presentation.pdf
+
+[[added.1.remote_path]]
+/Home/psi-data/PSI-100/Presentations/PSI-100_Presentations_SAFFIRE_45 I Con of Env Sys presentation.pdf
+
+[[added.1.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7652470/?inline=1&log=1
+
+[[added.1.resource_id.$oid]]
+65f8b34f2ec0b0961f8fa20b
+
+[[added.1.s3_path]]
+psi-data/PSI-100/Presentations/PSI-100_Presentations_SAFFIRE_45 I Con of Env Sys presentation.pdf
+
+[[added.1.study_id.$oid]]
+6841ac438970fb41b9cebbfc
+
+[[added.1.subcategory]]
+
+
+[[added.2.bucket]]
+
+
+[[added.2.file_name]]
+PSI-100_Presentations_SAFFIRE_46th I Con of Env Sys presentation.pdf
+
+[[added.2.organization]]
+shared
+
+[[added.2.psi_legacy_s3_path]]
+legacy/97840/284/SAFFIRE_46th I Con of Env Sys presentation.pdf
+
+[[added.2.remote_path]]
+/Home/psi-data/PSI-100/Presentations/PSI-100_Presentations_SAFFIRE_46th I Con of Env Sys presentation.pdf
+
+[[added.2.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7652515/?inline=1&log=1
+
+[[added.2.resource_id.$oid]]
+65f8b34f2ec0b0961f8fa20b
+
+[[added.2.s3_path]]
+psi-data/PSI-100/Presentations/PSI-100_Presentations_SAFFIRE_46th I Con of Env Sys presentation.pdf
+
+[[added.2.study_id.$oid]]
+6841ac438970fb41b9cebbfc
+
+[[added.2.subcategory]]
+
+
+[[added.3.bucket]]
+
+
+[[added.3.file_name]]
+PSI-100_Presentations_SAFFIRE_47th I Con of Env Sys presentation.pdf
+
+[[added.3.organization]]
+shared
+
+[[added.3.psi_legacy_s3_path]]
+legacy/97841/284/SAFFIRE_47th I Con of Env Sys presentation.pdf
+
+[[added.3.remote_path]]
+/Home/psi-data/PSI-100/Presentations/PSI-100_Presentations_SAFFIRE_47th I Con of Env Sys presentation.pdf
+
+[[added.3.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7652521/?inline=1&log=1
+
+[[added.3.resource_id.$oid]]
+65f8b34f2ec0b0961f8fa20b
+
+[[added.3.s3_path]]
+psi-data/PSI-100/Presentations/PSI-100_Presentations_SAFFIRE_47th I Con of Env Sys presentation.pdf
+
+[[added.3.study_id.$oid]]
+6841ac438970fb41b9cebbfc
+
+[[added.3.subcategory]]
+
+
+[[added.4.bucket]]
+
+
+[[added.4.file_name]]
+PSI-100_Raw Data_SAFFIRE-III_F1C1_Distortion Grid_1200x920.zip
+
+[[added.4.organization]]
+shared
+
+[[added.4.psi_legacy_s3_path]]
+legacy/102362/11441/SAFFIRE-III_F1C1_1200x920.zip
+
+[[added.4.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_F1C1_Distortion Grid_1200x920.zip
+
+[[added.4.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7762573/?inline=1&log=1
+
+[[added.4.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.4.s3_path]]
+psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_F1C1_Distortion Grid_1200x920.zip
+
+[[added.4.study_id.$oid]]
+6841ac438970fb41b9cebbfc
+
+[[added.4.subcategory]]
+Reduced Gravity/SAFFIRE-III F1C1
+
+[[added.5.bucket]]
+
+
+[[added.5.file_name]]
+PSI-100_Raw Data_SAFFIRE-III_F1C1_Distortion Grid_1360x1024.zip
+
+[[added.5.organization]]
+shared
+
+[[added.5.psi_legacy_s3_path]]
+legacy/102363/11441/SAFFIRE-III_F1C1_1360x1024.zip
+
+[[added.5.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_F1C1_Distortion Grid_1360x1024.zip
+
+[[added.5.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7762576/?inline=1&log=1
+
+[[added.5.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.5.s3_path]]
+psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_F1C1_Distortion Grid_1360x1024.zip
+
+[[added.5.study_id.$oid]]
+6841ac438970fb41b9cebbfc
+
+[[added.5.subcategory]]
+Reduced Gravity/SAFFIRE-III F1C1
+
+[[added.6.bucket]]
+
+
+[[added.6.file_name]]
+PSI-100_Raw Data_SAFFIRE-III_F1C1_BIT_jpeg.zip
+
+[[added.6.organization]]
+shared
+
+[[added.6.psi_legacy_s3_path]]
+legacy/102364/11441/SAFFIRE-III_F1C1_BIT_jpeg.zip
+
+[[added.6.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_F1C1_BIT_jpeg.zip
+
+[[added.6.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7762577/?inline=1&log=1
+
+[[added.6.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.6.s3_path]]
+psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_F1C1_BIT_jpeg.zip
+
+[[added.6.study_id.$oid]]
+6841ac438970fb41b9cebbfc
+
+[[added.6.subcategory]]
+Reduced Gravity/SAFFIRE-III F1C1
+
+[[added.7.bucket]]
+
+
+[[added.7.file_name]]
+PSI-100_Raw Data_SAFFIRE-III_F1C1_F1_jpeg.zip
+
+[[added.7.organization]]
+shared
+
+[[added.7.psi_legacy_s3_path]]
+legacy/102365/11441/SAFFIRE-III_F1C1_F1_jpeg.zip
+
+[[added.7.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_F1C1_F1_jpeg.zip
+
+[[added.7.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7763178/?inline=1&log=1
+
+[[added.7.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.7.s3_path]]
+psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_F1C1_F1_jpeg.zip
+
+[[added.7.study_id.$oid]]
+6841ac438970fb41b9cebbfc
+
+[[added.7.subcategory]]
+Reduced Gravity/SAFFIRE-III F1C1
+
+[[added.8.bucket]]
+
+
+[[added.8.file_name]]
+PSI-100_Raw Data_SAFFIRE-III_F1C1_RAW2TIFF.zip
+
+[[added.8.organization]]
+shared
+
+[[added.8.psi_legacy_s3_path]]
+legacy/102366/11441/SAFFIRE-III_F1C1_RAW2TIFF.zip
+
+[[added.8.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_F1C1_RAW2TIFF.zip
+
+[[added.8.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7764589/?inline=1&log=1
+
+[[added.8.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.8.s3_path]]
+psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_F1C1_RAW2TIFF.zip
+
+[[added.8.study_id.$oid]]
+6841ac438970fb41b9cebbfc
+
+[[added.8.subcategory]]
+Reduced Gravity/SAFFIRE-III F1C1
+
+[[added.9.bucket]]
+
+
+[[added.9.file_name]]
+PSI-100_Raw Data_SAFFIRE-III_F1C1_JPEG_Mapped.zip
+
+[[added.9.organization]]
+shared
+
+[[added.9.psi_legacy_s3_path]]
+legacy/102367/11441/SAFFIRE-III_F1C1_JPEG_Mapped.zip
+
+[[added.9.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_F1C1_JPEG_Mapped.zip
+
+[[added.9.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7764861/?inline=1&log=1
+
+[[added.9.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.9.s3_path]]
+psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_F1C1_JPEG_Mapped.zip
+
+[[added.9.study_id.$oid]]
+6841ac438970fb41b9cebbfc
+
+[[added.9.subcategory]]
+Reduced Gravity/SAFFIRE-III F1C1
+
+[[added.10.bucket]]
+
+
+[[added.10.file_name]]
+PSI-100_Raw Data_SAFFIRE-III_F1C1_jpeg2png.zip
+
+[[added.10.organization]]
+shared
+
+[[added.10.psi_legacy_s3_path]]
+legacy/102368/11441/SAFFIRE-III_F1C1_jpeg2png.zip
+
+[[added.10.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_F1C1_jpeg2png.zip
+
+[[added.10.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7766498/?inline=1&log=1
+
+[[added.10.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.10.s3_path]]
+psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_F1C1_jpeg2png.zip
+
+[[added.10.study_id.$oid]]
+6841ac438970fb41b9cebbfc
+
+[[added.10.subcategory]]
+Reduced Gravity/SAFFIRE-III F1C1
+
+[[added.11.bucket]]
+
+
+[[added.11.file_name]]
+PSI-100_Raw Data_SAFFIRE-III_F1C1_RAW2TIFF_Mapped.zip
+
+[[added.11.organization]]
+shared
+
+[[added.11.psi_legacy_s3_path]]
+legacy/102369/11441/SAFFIRE-III_F1C1_RAW2TIFF_Mapped.zip
+
+[[added.11.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_F1C1_RAW2TIFF_Mapped.zip
+
+[[added.11.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7769330/?inline=1&log=1
+
+[[added.11.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.11.s3_path]]
+psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_F1C1_RAW2TIFF_Mapped.zip
+
+[[added.11.study_id.$oid]]
+6841ac438970fb41b9cebbfc
+
+[[added.11.subcategory]]
+Reduced Gravity/SAFFIRE-III F1C1
+
+[[added.12.bucket]]
+
+
+[[added.12.file_name]]
+PSI-100_Raw Data_SAFFIRE-III_F1C2_Distortion Grid_1280x920.zip
+
+[[added.12.organization]]
+shared
+
+[[added.12.psi_legacy_s3_path]]
+legacy/102370/11441/SAFFIRE-III_F1C2_1280x920.zip
+
+[[added.12.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_F1C2_Distortion Grid_1280x920.zip
+
+[[added.12.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7770133/?inline=1&log=1
+
+[[added.12.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.12.s3_path]]
+psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_F1C2_Distortion Grid_1280x920.zip
+
+[[added.12.study_id.$oid]]
+6841ac438970fb41b9cebbfc
+
+[[added.12.subcategory]]
+Reduced Gravity/SAFFIRE-III F1C2
+
+[[added.13.bucket]]
+
+
+[[added.13.file_name]]
+PSI-100_Raw Data_SAFFIRE-III_F1C2_Distortion Grid_1360x1024.zip
+
+[[added.13.organization]]
+shared
+
+[[added.13.psi_legacy_s3_path]]
+legacy/102371/11441/SAFFIRE-III_F1C2_1360x1024.zip
+
+[[added.13.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_F1C2_Distortion Grid_1360x1024.zip
+
+[[added.13.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7770427/?inline=1&log=1
+
+[[added.13.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.13.s3_path]]
+psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_F1C2_Distortion Grid_1360x1024.zip
+
+[[added.13.study_id.$oid]]
+6841ac438970fb41b9cebbfc
+
+[[added.13.subcategory]]
+Reduced Gravity/SAFFIRE-III F1C2
+
+[[added.14.bucket]]
+
+
+[[added.14.file_name]]
+PSI-100_Raw Data_SAFFIRE-III_F1C2_BIT_jpeg.zip
+
+[[added.14.organization]]
+shared
+
+[[added.14.psi_legacy_s3_path]]
+legacy/102372/11441/SAFFIRE-III_F1C2_BIT_jpeg.zip
+
+[[added.14.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_F1C2_BIT_jpeg.zip
+
+[[added.14.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7770428/?inline=1&log=1
+
+[[added.14.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.14.s3_path]]
+psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_F1C2_BIT_jpeg.zip
+
+[[added.14.study_id.$oid]]
+6841ac438970fb41b9cebbfc
+
+[[added.14.subcategory]]
+Reduced Gravity/SAFFIRE-III F1C2
+
+[[added.15.bucket]]
+
+
+[[added.15.file_name]]
+PSI-100_Raw Data_SAFFIRE-III_F1C2_F1_jpeg.zip
+
+[[added.15.organization]]
+shared
+
+[[added.15.psi_legacy_s3_path]]
+legacy/102373/11441/SAFFIRE-III_F1C2_F1_jpeg.zip
+
+[[added.15.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_F1C2_F1_jpeg.zip
+
+[[added.15.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7771451/?inline=1&log=1
+
+[[added.15.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.15.s3_path]]
+psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_F1C2_F1_jpeg.zip
+
+[[added.15.study_id.$oid]]
+6841ac438970fb41b9cebbfc
+
+[[added.15.subcategory]]
+Reduced Gravity/SAFFIRE-III F1C2
+
+[[added.16.bucket]]
+
+
+[[added.16.file_name]]
+PSI-100_Raw Data_SAFFIRE-III_F1C2_RAW2TIFF.zip
+
+[[added.16.organization]]
+shared
+
+[[added.16.psi_legacy_s3_path]]
+legacy/102374/11441/SAFFIRE-III_F1C2_RAW2TIFF.zip
+
+[[added.16.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_F1C2_RAW2TIFF.zip
+
+[[added.16.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7773509/?inline=1&log=1
+
+[[added.16.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.16.s3_path]]
+psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_F1C2_RAW2TIFF.zip
+
+[[added.16.study_id.$oid]]
+6841ac438970fb41b9cebbfc
+
+[[added.16.subcategory]]
+Reduced Gravity/SAFFIRE-III F1C2
+
+[[added.17.bucket]]
+
+
+[[added.17.file_name]]
+PSI-100_Raw Data_SAFFIRE-III_F1C2_JPEG_Mapped.zip
+
+[[added.17.organization]]
+shared
+
+[[added.17.psi_legacy_s3_path]]
+legacy/102375/11441/SAFFIRE-III_F1C2_JPEG_Mapped.zip
+
+[[added.17.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_F1C2_JPEG_Mapped.zip
+
+[[added.17.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7774591/?inline=1&log=1
+
+[[added.17.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.17.s3_path]]
+psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_F1C2_JPEG_Mapped.zip
+
+[[added.17.study_id.$oid]]
+6841ac438970fb41b9cebbfc
+
+[[added.17.subcategory]]
+Reduced Gravity/SAFFIRE-III F1C2
+
+[[added.18.bucket]]
+
+
+[[added.18.file_name]]
+PSI-100_Raw Data_SAFFIRE-III_F1C2_Raw2TIFF_Mapped.zip
+
+[[added.18.organization]]
+shared
+
+[[added.18.psi_legacy_s3_path]]
+legacy/102376/11441/SAFFIRE-III_F1C2_Raw2TIFF_Mapped.zip
+
+[[added.18.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_F1C2_Raw2TIFF_Mapped.zip
+
+[[added.18.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7776228/?inline=1&log=1
+
+[[added.18.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.18.s3_path]]
+psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_F1C2_Raw2TIFF_Mapped.zip
+
+[[added.18.study_id.$oid]]
+6841ac438970fb41b9cebbfc
+
+[[added.18.subcategory]]
+Reduced Gravity/SAFFIRE-III F1C2
+
+[[added.19.bucket]]
+
+
+[[added.19.file_name]]
+PSI-100_Raw Data_SAFFIRE-III_F1C2_jpeg2png.zip
+
+[[added.19.organization]]
+shared
+
+[[added.19.psi_legacy_s3_path]]
+legacy/102377/11441/SAFFIRE-III_F1C2_jpeg2png.zip
+
+[[added.19.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_F1C2_jpeg2png.zip
+
+[[added.19.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7776500/?inline=1&log=1
+
+[[added.19.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.19.s3_path]]
+psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_F1C2_jpeg2png.zip
+
+[[added.19.study_id.$oid]]
+6841ac438970fb41b9cebbfc
+
+[[added.19.subcategory]]
+Reduced Gravity/SAFFIRE-III F1C2
+
+[[added.20.bucket]]
+
+
+[[added.20.file_name]]
+PSI-100_Raw Data_SAFFIRE-III_F2C1_F2_Jpeg.zip
+
+[[added.20.organization]]
+shared
+
+[[added.20.psi_legacy_s3_path]]
+legacy/102378/11441/SAFFIRE-III_F2C1_F2_Jpeg.zip
+
+[[added.20.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_F2C1_F2_Jpeg.zip
+
+[[added.20.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7780717/?inline=1&log=1
+
+[[added.20.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.20.s3_path]]
+psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_F2C1_F2_Jpeg.zip
+
+[[added.20.study_id.$oid]]
+6841ac438970fb41b9cebbfc
+
+[[added.20.subcategory]]
+Reduced Gravity/SAFFIRE-III F2C1
+
+[[added.21.bucket]]
+
+
+[[added.21.file_name]]
+PSI-100_Raw Data_SAFFIRE-III_F2C1_RAW2TIFF.zip
+
+[[added.21.organization]]
+shared
+
+[[added.21.psi_legacy_s3_path]]
+legacy/102379/11441/SAFFIRE-III_F2C1_RAW2TIFF.zip
+
+[[added.21.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_F2C1_RAW2TIFF.zip
+
+[[added.21.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7781530/?inline=1&log=1
+
+[[added.21.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.21.s3_path]]
+psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_F2C1_RAW2TIFF.zip
+
+[[added.21.study_id.$oid]]
+6841ac438970fb41b9cebbfc
+
+[[added.21.subcategory]]
+Reduced Gravity/SAFFIRE-III F2C1
+
+[[added.22.bucket]]
+
+
+[[added.22.file_name]]
+PSI-100_Raw Data_SAFFIRE-III_F2C1_JPEG_Mapped.zip
+
+[[added.22.organization]]
+shared
+
+[[added.22.psi_legacy_s3_path]]
+legacy/102380/11441/SAFFIRE-III_F2C1_JPEG_Mapped.zip
+
+[[added.22.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_F2C1_JPEG_Mapped.zip
+
+[[added.22.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7781531/?inline=1&log=1
+
+[[added.22.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.22.s3_path]]
+psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_F2C1_JPEG_Mapped.zip
+
+[[added.22.study_id.$oid]]
+6841ac438970fb41b9cebbfc
+
+[[added.22.subcategory]]
+Reduced Gravity/SAFFIRE-III F2C1
+
+[[added.23.bucket]]
+
+
+[[added.23.file_name]]
+PSI-100_Raw Data_SAFFIRE-III_F2C1_jpeg2png.zip
+
+[[added.23.organization]]
+shared
+
+[[added.23.psi_legacy_s3_path]]
+legacy/102381/11441/SAFFIRE-III_F2C1_jpeg2png.zip
+
+[[added.23.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_F2C1_jpeg2png.zip
+
+[[added.23.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7783063/?inline=1&log=1
+
+[[added.23.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.23.s3_path]]
+psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_F2C1_jpeg2png.zip
+
+[[added.23.study_id.$oid]]
+6841ac438970fb41b9cebbfc
+
+[[added.23.subcategory]]
+Reduced Gravity/SAFFIRE-III F2C1
+
+[[added.24.bucket]]
+
+
+[[added.24.file_name]]
+PSI-100_Raw Data_SAFFIRE-III_F2C1_Raw2TIFF_Mapped.zip
+
+[[added.24.organization]]
+shared
+
+[[added.24.psi_legacy_s3_path]]
+legacy/102382/11441/SAFFIRE-III_F2C1_Raw2TIFF_Mapped.zip
+
+[[added.24.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_F2C1_Raw2TIFF_Mapped.zip
+
+[[added.24.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7785298/?inline=1&log=1
+
+[[added.24.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.24.s3_path]]
+psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_F2C1_Raw2TIFF_Mapped.zip
+
+[[added.24.study_id.$oid]]
+6841ac438970fb41b9cebbfc
+
+[[added.24.subcategory]]
+Reduced Gravity/SAFFIRE-III F2C1
+
+[[added.25.bucket]]
+
+
+[[added.25.file_name]]
+PSI-100_Raw Data_SAFFIRE-III_F2C2_F2_jpeg.zip
+
+[[added.25.organization]]
+shared
+
+[[added.25.psi_legacy_s3_path]]
+legacy/102383/11441/SAFFIRE-III_F2C2_F2_jpeg.zip
+
+[[added.25.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_F2C2_F2_jpeg.zip
+
+[[added.25.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7785299/?inline=1&log=1
+
+[[added.25.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.25.s3_path]]
+psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_F2C2_F2_jpeg.zip
+
+[[added.25.study_id.$oid]]
+6841ac438970fb41b9cebbfc
+
+[[added.25.subcategory]]
+Reduced Gravity/SAFFIRE-III F2C2
+
+[[added.26.bucket]]
+
+
+[[added.26.file_name]]
+PSI-100_Raw Data_SAFFIRE-III_F2C2_RAW2TIFF.zip
+
+[[added.26.organization]]
+shared
+
+[[added.26.psi_legacy_s3_path]]
+legacy/102384/11441/SAFFIRE-III_F2C2_RAW2TIFF.zip
+
+[[added.26.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_F2C2_RAW2TIFF.zip
+
+[[added.26.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7786651/?inline=1&log=1
+
+[[added.26.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.26.s3_path]]
+psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_F2C2_RAW2TIFF.zip
+
+[[added.26.study_id.$oid]]
+6841ac438970fb41b9cebbfc
+
+[[added.26.subcategory]]
+Reduced Gravity/SAFFIRE-III F2C2
+
+[[added.27.bucket]]
+
+
+[[added.27.file_name]]
+PSI-100_Raw Data_SAFFIRE-III_F2C2_JPEG_Mapped.zip
+
+[[added.27.organization]]
+shared
+
+[[added.27.psi_legacy_s3_path]]
+legacy/102385/11441/SAFFIRE-III_F2C2_JPEG_Mapped.zip
+
+[[added.27.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_F2C2_JPEG_Mapped.zip
+
+[[added.27.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7786652/?inline=1&log=1
+
+[[added.27.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.27.s3_path]]
+psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_F2C2_JPEG_Mapped.zip
+
+[[added.27.study_id.$oid]]
+6841ac438970fb41b9cebbfc
+
+[[added.27.subcategory]]
+Reduced Gravity/SAFFIRE-III F2C2
+
+[[added.28.bucket]]
+
+
+[[added.28.file_name]]
+PSI-100_Raw Data_SAFFIRE-III_F2C2_jpeg2png.zip
+
+[[added.28.organization]]
+shared
+
+[[added.28.psi_legacy_s3_path]]
+legacy/102386/11441/SAFFIRE-III_F2C2_jpeg2png.zip
+
+[[added.28.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_F2C2_jpeg2png.zip
+
+[[added.28.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7788585/?inline=1&log=1
+
+[[added.28.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.28.s3_path]]
+psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_F2C2_jpeg2png.zip
+
+[[added.28.study_id.$oid]]
+6841ac438970fb41b9cebbfc
+
+[[added.28.subcategory]]
+Reduced Gravity/SAFFIRE-III F2C2
+
+[[added.29.bucket]]
+
+
+[[added.29.file_name]]
+PSI-100_Raw Data_SAFFIRE-III_F2C2_Raw2TIFF_Mapped.zip
+
+[[added.29.organization]]
+shared
+
+[[added.29.psi_legacy_s3_path]]
+legacy/102387/11441/SAFFIRE-III_F2C2_Raw2TIFF_Mapped.zip
+
+[[added.29.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_F2C2_Raw2TIFF_Mapped.zip
+
+[[added.29.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7791019/?inline=1&log=1
+
+[[added.29.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.29.s3_path]]
+psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_F2C2_Raw2TIFF_Mapped.zip
+
+[[added.29.study_id.$oid]]
+6841ac438970fb41b9cebbfc
+
+[[added.29.subcategory]]
+Reduced Gravity/SAFFIRE-III F2C2
+
+[[added.30.bucket]]
+
+
+[[added.30.file_name]]
+PSI-100_Raw Data_SAFFIRE-III_S1C1_BIT_jpeg.zip
+
+[[added.30.organization]]
+shared
+
+[[added.30.psi_legacy_s3_path]]
+legacy/102388/11441/SAFFIRE-III_S1C1_BIT_jpeg.zip
+
+[[added.30.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_S1C1_BIT_jpeg.zip
+
+[[added.30.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7791020/?inline=1&log=1
+
+[[added.30.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.30.s3_path]]
+psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_S1C1_BIT_jpeg.zip
+
+[[added.30.study_id.$oid]]
+6841ac438970fb41b9cebbfc
+
+[[added.30.subcategory]]
+Reduced Gravity/SAFFIRE-III S1C1
+
+[[added.31.bucket]]
+
+
+[[added.31.file_name]]
+PSI-100_Raw Data_SAFFIRE-III_S1C1_RAW2TIFF.zip
+
+[[added.31.organization]]
+shared
+
+[[added.31.psi_legacy_s3_path]]
+legacy/102390/11441/SAFFIRE-III_S1C1_RAW2TIFF.zip
+
+[[added.31.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_S1C1_RAW2TIFF.zip
+
+[[added.31.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7791321/?inline=1&log=1
+
+[[added.31.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.31.s3_path]]
+psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_S1C1_RAW2TIFF.zip
+
+[[added.31.study_id.$oid]]
+6841ac438970fb41b9cebbfc
+
+[[added.31.subcategory]]
+Reduced Gravity/SAFFIRE-III S1C1
+
+[[added.32.bucket]]
+
+
+[[added.32.file_name]]
+PSI-100_Raw Data_SAFFIRE-III_S1C1_Raw2TIFF_Mapped.zip
+
+[[added.32.organization]]
+shared
+
+[[added.32.psi_legacy_s3_path]]
+legacy/102393/11441/SAFFIRE-III_S1C1_Raw2TIFF_Mapped.zip
+
+[[added.32.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_S1C1_Raw2TIFF_Mapped.zip
+
+[[added.32.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7792945/?inline=1&log=1
+
+[[added.32.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.32.s3_path]]
+psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_S1C1_Raw2TIFF_Mapped.zip
+
+[[added.32.study_id.$oid]]
+6841ac438970fb41b9cebbfc
+
+[[added.32.subcategory]]
+Reduced Gravity/SAFFIRE-III S1C1
+
+[[added.33.bucket]]
+
+
+[[added.33.file_name]]
+PSI-100_Raw Data_SAFFIRE-III_S1C1_Raw2TIFF_Map_icmad.zip
+
+[[added.33.organization]]
+shared
+
+[[added.33.psi_legacy_s3_path]]
+legacy/102394/11441/SAFFIRE-III_S1C1_Raw2TIFF_Map_icmad.zip
+
+[[added.33.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_S1C1_Raw2TIFF_Map_icmad.zip
+
+[[added.33.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7794564/?inline=1&log=1
+
+[[added.33.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.33.s3_path]]
+psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_S1C1_Raw2TIFF_Map_icmad.zip
+
+[[added.33.study_id.$oid]]
+6841ac438970fb41b9cebbfc
+
+[[added.33.subcategory]]
+Reduced Gravity/SAFFIRE-III S1C1
+
+[[added.34.bucket]]
+
+
+[[added.34.file_name]]
+PSI-100_Raw Data_SAFFIRE-III_S1C2_BIT_jpeg.zip
+
+[[added.34.organization]]
+shared
+
+[[added.34.psi_legacy_s3_path]]
+legacy/102395/11441/SAFFIRE-III_S1C2_BIT_jpeg.zip
+
+[[added.34.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_S1C2_BIT_jpeg.zip
+
+[[added.34.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7796183/?inline=1&log=1
+
+[[added.34.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.34.s3_path]]
+psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_S1C2_BIT_jpeg.zip
+
+[[added.34.study_id.$oid]]
+6841ac438970fb41b9cebbfc
+
+[[added.34.subcategory]]
+Reduced Gravity/SAFFIRE-III S1C2
+
+[[added.35.bucket]]
+
+
+[[added.35.file_name]]
+PSI-100_Raw Data_SAFFIRE-III_S1C2_RAW2TIFF.zip
+
+[[added.35.organization]]
+shared
+
+[[added.35.psi_legacy_s3_path]]
+legacy/102397/11441/SAFFIRE-III_S1C2_RAW2TIFF.zip
+
+[[added.35.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_S1C2_RAW2TIFF.zip
+
+[[added.35.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7796484/?inline=1&log=1
+
+[[added.35.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.35.s3_path]]
+psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_S1C2_RAW2TIFF.zip
+
+[[added.35.study_id.$oid]]
+6841ac438970fb41b9cebbfc
+
+[[added.35.subcategory]]
+Reduced Gravity/SAFFIRE-III S1C2
+
+[[added.36.bucket]]
+
+
+[[added.36.file_name]]
+PSI-100_Raw Data_SAFFIRE-III_S1C2_Raw2TIFF_mapped.zip
+
+[[added.36.organization]]
+shared
+
+[[added.36.psi_legacy_s3_path]]
+legacy/102400/11441/SAFFIRE-III_S1C2_Raw2TIFF_mapped.zip
+
+[[added.36.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_S1C2_Raw2TIFF_mapped.zip
+
+[[added.36.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7798251/?inline=1&log=1
+
+[[added.36.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.36.s3_path]]
+psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_S1C2_Raw2TIFF_mapped.zip
+
+[[added.36.study_id.$oid]]
+6841ac438970fb41b9cebbfc
+
+[[added.36.subcategory]]
+Reduced Gravity/SAFFIRE-III S1C2
+
+[[added.37.bucket]]
+
+
+[[added.37.file_name]]
+PSI-100_Raw Data_SAFFIRE-III_S1C2_Raw2TIFF_Map_icmad.zip
+
+[[added.37.organization]]
+shared
+
+[[added.37.psi_legacy_s3_path]]
+legacy/102401/11441/SAFFIRE-III_S1C2_Raw2TIFF_Map_icmad.zip
+
+[[added.37.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_S1C2_Raw2TIFF_Map_icmad.zip
+
+[[added.37.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7800018/?inline=1&log=1
+
+[[added.37.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.37.s3_path]]
+psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_S1C2_Raw2TIFF_Map_icmad.zip
+
+[[added.37.study_id.$oid]]
+6841ac438970fb41b9cebbfc
+
+[[added.37.subcategory]]
+Reduced Gravity/SAFFIRE-III S1C2
+
+[[added.38.bucket]]
+
+
+[[added.38.file_name]]
+PSI-100_Raw Data_SAFFIRE-III_S2C2_RAW2TIFF.zip
+
+[[added.38.organization]]
+shared
+
+[[added.38.psi_legacy_s3_path]]
+legacy/102406/11441/SAFFIRE-III_S2C2_RAW2TIFF.zip
+
+[[added.38.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_S2C2_RAW2TIFF.zip
+
+[[added.38.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7801785/?inline=1&log=1
+
+[[added.38.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.38.s3_path]]
+psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_S2C2_RAW2TIFF.zip
+
+[[added.38.study_id.$oid]]
+6841ac438970fb41b9cebbfc
+
+[[added.38.subcategory]]
+Reduced Gravity/SAFFIRE-III S2C2
+
+[[added.39.bucket]]
+
+
+[[added.39.file_name]]
+PSI-100_Raw Data_SAFFIRE-III_S2C2_Raw2TIFF_Map_icmad.zip
+
+[[added.39.organization]]
+shared
+
+[[added.39.psi_legacy_s3_path]]
+legacy/102410/11441/SAFFIRE-III_S2C2_Raw2TIFF_Map_icmad.zip
+
+[[added.39.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_S2C2_Raw2TIFF_Map_icmad.zip
+
+[[added.39.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7802780/?inline=1&log=1
+
+[[added.39.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.39.s3_path]]
+psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_S2C2_Raw2TIFF_Map_icmad.zip
+
+[[added.39.study_id.$oid]]
+6841ac438970fb41b9cebbfc
+
+[[added.39.subcategory]]
+Reduced Gravity/SAFFIRE-III S2C2
+
+[[added.40.bucket]]
+
+
+[[added.40.file_name]]
+PSI-100_Raw Data_Saffire_Data_Table2017.161.00.42.03-EU.csv
+
+[[added.40.organization]]
+shared
+
+[[added.40.psi_legacy_s3_path]]
+legacy/102413/226/Saffire_Data_Table2017.161.00.42.03-EU.csv
+
+[[added.40.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/PSI-100_Raw Data_Saffire_Data_Table2017.161.00.42.03-EU.csv
+
+[[added.40.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7810146/?inline=1&log=1
+
+[[added.40.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.40.s3_path]]
+psi-data/PSI-100/Raw Data/PSI-100_Raw Data_Saffire_Data_Table2017.161.00.42.03-EU.csv
+
+[[added.40.study_id.$oid]]
+6841ac438970fb41b9cebbfc
+
+[[added.40.subcategory]]
+Reduced Gravity/Data Package Sensor Telemetry
+
+[[added.41.bucket]]
+
+
+[[added.41.file_name]]
+PSI-100_Raw Data_Saffire-III Telemetry Data.xlsx
+
+[[added.41.organization]]
+shared
+
+[[added.41.psi_legacy_s3_path]]
+legacy/102413/226/Saffire-III Telemetry Data.xlsx
+
+[[added.41.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/PSI-100_Raw Data_Saffire-III Telemetry Data.xlsx
+
+[[added.41.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7810147/?inline=1&log=1
+
+[[added.41.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.41.s3_path]]
+psi-data/PSI-100/Raw Data/PSI-100_Raw Data_Saffire-III Telemetry Data.xlsx
+
+[[added.41.study_id.$oid]]
+6841ac438970fb41b9cebbfc
+
+[[added.41.subcategory]]
+Reduced Gravity/Data Package Sensor Telemetry
+
+[[added.42.bucket]]
+
+
+[[added.42.file_name]]
+PSI-100_Raw Data_Saffire-III 1 Hz Telemetry Data.xlsx
+
+[[added.42.organization]]
+shared
+
+[[added.42.psi_legacy_s3_path]]
+legacy/102413/226/Saffire-III 1 Hz Telemetry Data.xlsx
+
+[[added.42.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/PSI-100_Raw Data_Saffire-III 1 Hz Telemetry Data.xlsx
+
+[[added.42.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7810148/?inline=1&log=1
+
+[[added.42.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.42.s3_path]]
+psi-data/PSI-100/Raw Data/PSI-100_Raw Data_Saffire-III 1 Hz Telemetry Data.xlsx
+
+[[added.42.study_id.$oid]]
+6841ac438970fb41b9cebbfc
+
+[[added.42.subcategory]]
+Reduced Gravity/Data Package Sensor Telemetry
+
+[[added.43.bucket]]
+
+
+[[added.43.file_name]]
+PSI-100_Raw Data_Raw telemetry file.csv
+
+[[added.43.organization]]
+shared
+
+[[added.43.psi_legacy_s3_path]]
+legacy/102413/226/Raw telemetry file.csv
+
+[[added.43.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/PSI-100_Raw Data_Raw telemetry file.csv
+
+[[added.43.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7810366/?inline=1&log=1
+
+[[added.43.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.43.s3_path]]
+psi-data/PSI-100/Raw Data/PSI-100_Raw Data_Raw telemetry file.csv
+
+[[added.43.study_id.$oid]]
+6841ac438970fb41b9cebbfc
+
+[[added.43.subcategory]]
+Reduced Gravity/Data Package Sensor Telemetry
+
+[[added.44.bucket]]
+
+
+[[added.44.file_name]]
+PSI-100_Raw Data_Saffire-III Sample 1 Figure for TM.docx
+
+[[added.44.organization]]
+shared
+
+[[added.44.psi_legacy_s3_path]]
+legacy/102414/226/Saffire-III Sample 1 Figure for TM.docx
+
+[[added.44.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/PSI-100_Raw Data_Saffire-III Sample 1 Figure for TM.docx
+
+[[added.44.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7810696/?inline=1&log=1
+
+[[added.44.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.44.s3_path]]
+psi-data/PSI-100/Raw Data/PSI-100_Raw Data_Saffire-III Sample 1 Figure for TM.docx
+
+[[added.44.study_id.$oid]]
+6841ac438970fb41b9cebbfc
+
+[[added.44.subcategory]]
+Reduced Gravity/Data Package Sensor Telemetry/S1
+
+[[added.45.bucket]]
+
+
+[[added.45.file_name]]
+PSI-100_Raw Data_Saffire III Sample 1 Sensors.xlsx
+
+[[added.45.organization]]
+shared
+
+[[added.45.psi_legacy_s3_path]]
+legacy/102414/226/Saffire III Sample 1 Sensors.xlsx
+
+[[added.45.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/PSI-100_Raw Data_Saffire III Sample 1 Sensors.xlsx
+
+[[added.45.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7810697/?inline=1&log=1
+
+[[added.45.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.45.s3_path]]
+psi-data/PSI-100/Raw Data/PSI-100_Raw Data_Saffire III Sample 1 Sensors.xlsx
+
+[[added.45.study_id.$oid]]
+6841ac438970fb41b9cebbfc
+
+[[added.45.subcategory]]
+Reduced Gravity/Data Package Sensor Telemetry/S1
+
+[[added.46.bucket]]
+
+
+[[added.46.file_name]]
+PSI-100_Raw Data_Saffire-III Sample 2 Figure for TM.docx
+
+[[added.46.organization]]
+shared
+
+[[added.46.psi_legacy_s3_path]]
+legacy/102415/226/Saffire-III Sample 2 Figure for TM.docx
+
+[[added.46.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/PSI-100_Raw Data_Saffire-III Sample 2 Figure for TM.docx
+
+[[added.46.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7810704/?inline=1&log=1
+
+[[added.46.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.46.s3_path]]
+psi-data/PSI-100/Raw Data/PSI-100_Raw Data_Saffire-III Sample 2 Figure for TM.docx
+
+[[added.46.study_id.$oid]]
+6841ac438970fb41b9cebbfc
+
+[[added.46.subcategory]]
+Reduced Gravity/Data Package Sensor Telemetry/S2
+
+[[added.47.bucket]]
+
+
+[[added.47.file_name]]
+PSI-100_Raw Data_Saffire III Sample 2 Sensors.xlsx
+
+[[added.47.organization]]
+shared
+
+[[added.47.psi_legacy_s3_path]]
+legacy/102415/226/Saffire III Sample 2 Sensors.xlsx
+
+[[added.47.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/PSI-100_Raw Data_Saffire III Sample 2 Sensors.xlsx
+
+[[added.47.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7810705/?inline=1&log=1
+
+[[added.47.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.47.s3_path]]
+psi-data/PSI-100/Raw Data/PSI-100_Raw Data_Saffire III Sample 2 Sensors.xlsx
+
+[[added.47.study_id.$oid]]
+6841ac438970fb41b9cebbfc
+
+[[added.47.subcategory]]
+Reduced Gravity/Data Package Sensor Telemetry/S2
+
+[[added.48.bucket]]
+
+
+[[added.48.file_name]]
+PSI-100_Raw Data_SAFFIRE_III_S1C1_JPEG_Mapped_part3.zip
+
+[[added.48.organization]]
+shared
+
+[[added.48.psi_legacy_s3_path]]
+legacy/102426/11441/SAFFIRE_III_S1C1_JPEG_Mapped_part3.zip
+
+[[added.48.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE_III_S1C1_JPEG_Mapped_part3.zip
+
+[[added.48.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7825083/?inline=1&log=1
+
+[[added.48.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.48.s3_path]]
+psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE_III_S1C1_JPEG_Mapped_part3.zip
+
+[[added.48.study_id.$oid]]
+6841ac438970fb41b9cebbfc
+
+[[added.48.subcategory]]
+Reduced Gravity/SAFFIRE-III S1C1
+
+[[added.49.bucket]]
+
+
+[[added.49.file_name]]
+PSI-100_Raw Data_SAFFIRE_III_S1C1_JPEG_Mapped_part4.zip
+
+[[added.49.organization]]
+shared
+
+[[added.49.psi_legacy_s3_path]]
+legacy/102426/11441/SAFFIRE_III_S1C1_JPEG_Mapped_part4.zip
+
+[[added.49.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE_III_S1C1_JPEG_Mapped_part4.zip
+
+[[added.49.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7825084/?inline=1&log=1
+
+[[added.49.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.49.s3_path]]
+psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE_III_S1C1_JPEG_Mapped_part4.zip
+
+[[added.49.study_id.$oid]]
+6841ac438970fb41b9cebbfc
+
+[[added.49.subcategory]]
+Reduced Gravity/SAFFIRE-III S1C1
+
+[[added.50.bucket]]
+
+
+[[added.50.file_name]]
+PSI-100_Raw Data_SAFFIRE_III_S1C1_JPEG_Mapped_part1.zip
+
+[[added.50.organization]]
+shared
+
+[[added.50.psi_legacy_s3_path]]
+legacy/102426/11441/SAFFIRE_III_S1C1_JPEG_Mapped_part1.zip
+
+[[added.50.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE_III_S1C1_JPEG_Mapped_part1.zip
+
+[[added.50.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7825085/?inline=1&log=1
+
+[[added.50.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.50.s3_path]]
+psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE_III_S1C1_JPEG_Mapped_part1.zip
+
+[[added.50.study_id.$oid]]
+6841ac438970fb41b9cebbfc
+
+[[added.50.subcategory]]
+Reduced Gravity/SAFFIRE-III S1C1
+
+[[added.51.bucket]]
+
+
+[[added.51.file_name]]
+PSI-100_Raw Data_SAFFIRE_III_S1C1_JPEG_Mapped_part2.zip
+
+[[added.51.organization]]
+shared
+
+[[added.51.psi_legacy_s3_path]]
+legacy/102426/11441/SAFFIRE_III_S1C1_JPEG_Mapped_part2.zip
+
+[[added.51.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE_III_S1C1_JPEG_Mapped_part2.zip
+
+[[added.51.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7825086/?inline=1&log=1
+
+[[added.51.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.51.s3_path]]
+psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE_III_S1C1_JPEG_Mapped_part2.zip
+
+[[added.51.study_id.$oid]]
+6841ac438970fb41b9cebbfc
+
+[[added.51.subcategory]]
+Reduced Gravity/SAFFIRE-III S1C1
+
+[[added.52.bucket]]
+
+
+[[added.52.file_name]]
+PSI-100_Raw Data_SAFFIRE_III_S1C1_jpeg2png_part4.zip
+
+[[added.52.organization]]
+shared
+
+[[added.52.psi_legacy_s3_path]]
+legacy/102392/11441/SAFFIRE_III_S1C1_jpeg2png_part4.zip
+
+[[added.52.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE_III_S1C1_jpeg2png_part4.zip
+
+[[added.52.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7825088/?inline=1&log=1
+
+[[added.52.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.52.s3_path]]
+psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE_III_S1C1_jpeg2png_part4.zip
+
+[[added.52.study_id.$oid]]
+6841ac438970fb41b9cebbfc
+
+[[added.52.subcategory]]
+Reduced Gravity/SAFFIRE-III S1C1
+
+[[added.53.bucket]]
+
+
+[[added.53.file_name]]
+PSI-100_Raw Data_SAFFIRE_III_S1C1_jpeg2png_part1.zip
+
+[[added.53.organization]]
+shared
+
+[[added.53.psi_legacy_s3_path]]
+legacy/102392/11441/SAFFIRE_III_S1C1_jpeg2png_part1.zip
+
+[[added.53.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE_III_S1C1_jpeg2png_part1.zip
+
+[[added.53.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7825089/?inline=1&log=1
+
+[[added.53.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.53.s3_path]]
+psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE_III_S1C1_jpeg2png_part1.zip
+
+[[added.53.study_id.$oid]]
+6841ac438970fb41b9cebbfc
+
+[[added.53.subcategory]]
+Reduced Gravity/SAFFIRE-III S1C1
+
+[[added.54.bucket]]
+
+
+[[added.54.file_name]]
+PSI-100_Raw Data_SAFFIRE_III_S1C1_jpeg2png_part2.zip
+
+[[added.54.organization]]
+shared
+
+[[added.54.psi_legacy_s3_path]]
+legacy/102392/11441/SAFFIRE_III_S1C1_jpeg2png_part2.zip
+
+[[added.54.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE_III_S1C1_jpeg2png_part2.zip
+
+[[added.54.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7825090/?inline=1&log=1
+
+[[added.54.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.54.s3_path]]
+psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE_III_S1C1_jpeg2png_part2.zip
+
+[[added.54.study_id.$oid]]
+6841ac438970fb41b9cebbfc
+
+[[added.54.subcategory]]
+Reduced Gravity/SAFFIRE-III S1C1
+
+[[added.55.bucket]]
+
+
+[[added.55.file_name]]
+PSI-100_Raw Data_SAFFIRE_III_S1C1_jpeg2png_part3.zip
+
+[[added.55.organization]]
+shared
+
+[[added.55.psi_legacy_s3_path]]
+legacy/102392/11441/SAFFIRE_III_S1C1_jpeg2png_part3.zip
+
+[[added.55.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE_III_S1C1_jpeg2png_part3.zip
+
+[[added.55.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7825091/?inline=1&log=1
+
+[[added.55.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.55.s3_path]]
+psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE_III_S1C1_jpeg2png_part3.zip
+
+[[added.55.study_id.$oid]]
+6841ac438970fb41b9cebbfc
+
+[[added.55.subcategory]]
+Reduced Gravity/SAFFIRE-III S1C1
+
+[[added.56.bucket]]
+
+
+[[added.56.file_name]]
+PSI-100_Raw Data_SAFFIRE_III_S1C2_jpeg_part2.zip
+
+[[added.56.organization]]
+shared
+
+[[added.56.psi_legacy_s3_path]]
+legacy/102396/11441/SAFFIRE_III_S1C2_jpeg_part2.zip
+
+[[added.56.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE_III_S1C2_jpeg_part2.zip
+
+[[added.56.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7825579/?inline=1&log=1
+
+[[added.56.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.56.s3_path]]
+psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE_III_S1C2_jpeg_part2.zip
+
+[[added.56.study_id.$oid]]
+6841ac438970fb41b9cebbfc
+
+[[added.56.subcategory]]
+Reduced Gravity/SAFFIRE-III S1C2
+
+[[added.57.bucket]]
+
+
+[[added.57.file_name]]
+PSI-100_Raw Data_SAFFIRE_III_S1C2_jpeg_part1.zip
+
+[[added.57.organization]]
+shared
+
+[[added.57.psi_legacy_s3_path]]
+legacy/102396/11441/SAFFIRE_III_S1C2_jpeg_part1.zip
+
+[[added.57.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE_III_S1C2_jpeg_part1.zip
+
+[[added.57.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7825593/?inline=1&log=1
+
+[[added.57.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.57.s3_path]]
+psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE_III_S1C2_jpeg_part1.zip
+
+[[added.57.study_id.$oid]]
+6841ac438970fb41b9cebbfc
+
+[[added.57.subcategory]]
+Reduced Gravity/SAFFIRE-III S1C2
+
+[[added.58.bucket]]
+
+
+[[added.58.file_name]]
+PSI-100_Raw Data_SAFFIRE_III_S1C2_jpeg_part4.zip
+
+[[added.58.organization]]
+shared
+
+[[added.58.psi_legacy_s3_path]]
+legacy/102396/11441/SAFFIRE_III_S1C2_jpeg_part4.zip
+
+[[added.58.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE_III_S1C2_jpeg_part4.zip
+
+[[added.58.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7825598/?inline=1&log=1
+
+[[added.58.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.58.s3_path]]
+psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE_III_S1C2_jpeg_part4.zip
+
+[[added.58.study_id.$oid]]
+6841ac438970fb41b9cebbfc
+
+[[added.58.subcategory]]
+Reduced Gravity/SAFFIRE-III S1C2
+
+[[added.59.bucket]]
+
+
+[[added.59.file_name]]
+PSI-100_Raw Data_SAFFIRE_III_S1C2_jpeg_part3.zip
+
+[[added.59.organization]]
+shared
+
+[[added.59.psi_legacy_s3_path]]
+legacy/102396/11441/SAFFIRE_III_S1C2_jpeg_part3.zip
+
+[[added.59.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE_III_S1C2_jpeg_part3.zip
+
+[[added.59.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7825604/?inline=1&log=1
+
+[[added.59.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.59.s3_path]]
+psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE_III_S1C2_jpeg_part3.zip
+
+[[added.59.study_id.$oid]]
+6841ac438970fb41b9cebbfc
+
+[[added.59.subcategory]]
+Reduced Gravity/SAFFIRE-III S1C2
+
+[[added.60.bucket]]
+
+
+[[added.60.file_name]]
+PSI-100_Raw Data_SAFFIRE_III_S1C1_jpeg_part3.zip
+
+[[added.60.organization]]
+shared
+
+[[added.60.psi_legacy_s3_path]]
+legacy/102389/11441/SAFFIRE_III_S1C1_jpeg_part3.zip
+
+[[added.60.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE_III_S1C1_jpeg_part3.zip
+
+[[added.60.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7828371/?inline=1&log=1
+
+[[added.60.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.60.s3_path]]
+psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE_III_S1C1_jpeg_part3.zip
+
+[[added.60.study_id.$oid]]
+6841ac438970fb41b9cebbfc
+
+[[added.60.subcategory]]
+Reduced Gravity/SAFFIRE-III S1C1
+
+[[added.61.bucket]]
+
+
+[[added.61.file_name]]
+PSI-100_Raw Data_SAFFIRE_III_S1C1_jpeg_part2.zip
+
+[[added.61.organization]]
+shared
+
+[[added.61.psi_legacy_s3_path]]
+legacy/102389/11441/SAFFIRE_III_S1C1_jpeg_part2.zip
+
+[[added.61.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE_III_S1C1_jpeg_part2.zip
+
+[[added.61.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7828372/?inline=1&log=1
+
+[[added.61.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.61.s3_path]]
+psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE_III_S1C1_jpeg_part2.zip
+
+[[added.61.study_id.$oid]]
+6841ac438970fb41b9cebbfc
+
+[[added.61.subcategory]]
+Reduced Gravity/SAFFIRE-III S1C1
+
+[[added.62.bucket]]
+
+
+[[added.62.file_name]]
+PSI-100_Raw Data_SAFFIRE_III_S1C1_jpeg_part1.zip
+
+[[added.62.organization]]
+shared
+
+[[added.62.psi_legacy_s3_path]]
+legacy/102389/11441/SAFFIRE_III_S1C1_jpeg_part1.zip
+
+[[added.62.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE_III_S1C1_jpeg_part1.zip
+
+[[added.62.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7828373/?inline=1&log=1
+
+[[added.62.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.62.s3_path]]
+psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE_III_S1C1_jpeg_part1.zip
+
+[[added.62.study_id.$oid]]
+6841ac438970fb41b9cebbfc
+
+[[added.62.subcategory]]
+Reduced Gravity/SAFFIRE-III S1C1
+
+[[added.63.bucket]]
+
+
+[[added.63.file_name]]
+PSI-100_Raw Data_SAFFIRE_III_S1C1_jpeg_part4.zip
+
+[[added.63.organization]]
+shared
+
+[[added.63.psi_legacy_s3_path]]
+legacy/102389/11441/SAFFIRE_III_S1C1_jpeg_part4.zip
+
+[[added.63.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE_III_S1C1_jpeg_part4.zip
+
+[[added.63.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7828374/?inline=1&log=1
+
+[[added.63.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.63.s3_path]]
+psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE_III_S1C1_jpeg_part4.zip
+
+[[added.63.study_id.$oid]]
+6841ac438970fb41b9cebbfc
+
+[[added.63.subcategory]]
+Reduced Gravity/SAFFIRE-III S1C1
+
+[[added.64.bucket]]
+
+
+[[added.64.file_name]]
+PSI-100_Raw Data_SAFFIRE_III_S1C2_JPEG_Mapped_Part2.zip
+
+[[added.64.organization]]
+shared
+
+[[added.64.psi_legacy_s3_path]]
+legacy/102398/11441/SAFFIRE_III_S1C2_JPEG_Mapped_Part2.zip
+
+[[added.64.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE_III_S1C2_JPEG_Mapped_Part2.zip
+
+[[added.64.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7828800/?inline=1&log=1
+
+[[added.64.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.64.s3_path]]
+psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE_III_S1C2_JPEG_Mapped_Part2.zip
+
+[[added.64.study_id.$oid]]
+6841ac438970fb41b9cebbfc
+
+[[added.64.subcategory]]
+Reduced Gravity/SAFFIRE-III S1C2
+
+[[added.65.bucket]]
+
+
+[[added.65.file_name]]
+PSI-100_Raw Data_SAFFIRE_III_S1C2_JPEG_Mapped_part1.zip
+
+[[added.65.organization]]
+shared
+
+[[added.65.psi_legacy_s3_path]]
+legacy/102398/11441/SAFFIRE_III_S1C2_JPEG_Mapped_part1.zip
+
+[[added.65.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE_III_S1C2_JPEG_Mapped_part1.zip
+
+[[added.65.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7828801/?inline=1&log=1
+
+[[added.65.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.65.s3_path]]
+psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE_III_S1C2_JPEG_Mapped_part1.zip
+
+[[added.65.study_id.$oid]]
+6841ac438970fb41b9cebbfc
+
+[[added.65.subcategory]]
+Reduced Gravity/SAFFIRE-III S1C2
+
+[[added.66.bucket]]
+
+
+[[added.66.file_name]]
+PSI-100_Raw Data_SAFFIRE_III_S1C2_JPEG_Mapped_Part4.zip
+
+[[added.66.organization]]
+shared
+
+[[added.66.psi_legacy_s3_path]]
+legacy/102398/11441/SAFFIRE_III_S1C2_JPEG_Mapped_Part4.zip
+
+[[added.66.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE_III_S1C2_JPEG_Mapped_Part4.zip
+
+[[added.66.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7828802/?inline=1&log=1
+
+[[added.66.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.66.s3_path]]
+psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE_III_S1C2_JPEG_Mapped_Part4.zip
+
+[[added.66.study_id.$oid]]
+6841ac438970fb41b9cebbfc
+
+[[added.66.subcategory]]
+Reduced Gravity/SAFFIRE-III S1C2
+
+[[added.67.bucket]]
+
+
+[[added.67.file_name]]
+PSI-100_Raw Data_SAFFIRE_III_S1C2_JPEG_Mapped_Part3.zip
+
+[[added.67.organization]]
+shared
+
+[[added.67.psi_legacy_s3_path]]
+legacy/102398/11441/SAFFIRE_III_S1C2_JPEG_Mapped_Part3.zip
+
+[[added.67.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE_III_S1C2_JPEG_Mapped_Part3.zip
+
+[[added.67.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7828803/?inline=1&log=1
+
+[[added.67.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.67.s3_path]]
+psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE_III_S1C2_JPEG_Mapped_Part3.zip
+
+[[added.67.study_id.$oid]]
+6841ac438970fb41b9cebbfc
+
+[[added.67.subcategory]]
+Reduced Gravity/SAFFIRE-III S1C2
+
+[[added.68.bucket]]
+
+
+[[added.68.file_name]]
+PSI-100_Raw Data_SAFFIRE_III_S1C2_jpeg2png_part3.zip
+
+[[added.68.organization]]
+shared
+
+[[added.68.psi_legacy_s3_path]]
+legacy/102399/11441/SAFFIRE_III_S1C2_jpeg2png_part3.zip
+
+[[added.68.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE_III_S1C2_jpeg2png_part3.zip
+
+[[added.68.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7831263/?inline=1&log=1
+
+[[added.68.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.68.s3_path]]
+psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE_III_S1C2_jpeg2png_part3.zip
+
+[[added.68.study_id.$oid]]
+6841ac438970fb41b9cebbfc
+
+[[added.68.subcategory]]
+Reduced Gravity/SAFFIRE-III S1C2
+
+[[added.69.bucket]]
+
+
+[[added.69.file_name]]
+PSI-100_Raw Data_SAFFIRE_III_S1C2_jpeg2png_part1.zip
+
+[[added.69.organization]]
+shared
+
+[[added.69.psi_legacy_s3_path]]
+legacy/102399/11441/SAFFIRE_III_S1C2_jpeg2png_part1.zip
+
+[[added.69.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE_III_S1C2_jpeg2png_part1.zip
+
+[[added.69.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7831264/?inline=1&log=1
+
+[[added.69.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.69.s3_path]]
+psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE_III_S1C2_jpeg2png_part1.zip
+
+[[added.69.study_id.$oid]]
+6841ac438970fb41b9cebbfc
+
+[[added.69.subcategory]]
+Reduced Gravity/SAFFIRE-III S1C2
+
+[[added.70.bucket]]
+
+
+[[added.70.file_name]]
+PSI-100_Raw Data_SAFFIRE_III_S1C2_jpeg2png_part2.zip
+
+[[added.70.organization]]
+shared
+
+[[added.70.psi_legacy_s3_path]]
+legacy/102399/11441/SAFFIRE_III_S1C2_jpeg2png_part2.zip
+
+[[added.70.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE_III_S1C2_jpeg2png_part2.zip
+
+[[added.70.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7831265/?inline=1&log=1
+
+[[added.70.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.70.s3_path]]
+psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE_III_S1C2_jpeg2png_part2.zip
+
+[[added.70.study_id.$oid]]
+6841ac438970fb41b9cebbfc
+
+[[added.70.subcategory]]
+Reduced Gravity/SAFFIRE-III S1C2
+
+[[added.71.bucket]]
+
+
+[[added.71.file_name]]
+PSI-100_Raw Data_SAFFIRE_III_S1C2_jpeg2png_part4.zip
+
+[[added.71.organization]]
+shared
+
+[[added.71.psi_legacy_s3_path]]
+legacy/102399/11441/SAFFIRE_III_S1C2_jpeg2png_part4.zip
+
+[[added.71.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE_III_S1C2_jpeg2png_part4.zip
+
+[[added.71.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7831266/?inline=1&log=1
+
+[[added.71.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.71.s3_path]]
+psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE_III_S1C2_jpeg2png_part4.zip
+
+[[added.71.study_id.$oid]]
+6841ac438970fb41b9cebbfc
+
+[[added.71.subcategory]]
+Reduced Gravity/SAFFIRE-III S1C2
+
+[[added.72.bucket]]
+
+
+[[added.72.file_name]]
+PSI-100_Raw Data_SAFFIRE-III_S2C1_S2_jpeg.zip
+
+[[added.72.organization]]
+shared
+
+[[added.72.psi_legacy_s3_path]]
+legacy/102402/11441/SAFFIRE-III_S2C1_S2_jpeg.zip
+
+[[added.72.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_S2C1_S2_jpeg.zip
+
+[[added.72.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7831267/?inline=1&log=1
+
+[[added.72.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.72.s3_path]]
+psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_S2C1_S2_jpeg.zip
+
+[[added.72.study_id.$oid]]
+6841ac438970fb41b9cebbfc
+
+[[added.72.subcategory]]
+Reduced Gravity/SAFFIRE-III S2C1
+
+[[added.73.bucket]]
+
+
+[[added.73.file_name]]
+PSI-100_Raw Data_SAFFIRE-III_S2C1_JPEG_Mapped.zip
+
+[[added.73.organization]]
+shared
+
+[[added.73.psi_legacy_s3_path]]
+legacy/102403/11441/SAFFIRE-III_S2C1_JPEG_Mapped.zip
+
+[[added.73.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_S2C1_JPEG_Mapped.zip
+
+[[added.73.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7831269/?inline=1&log=1
+
+[[added.73.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.73.s3_path]]
+psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_S2C1_JPEG_Mapped.zip
+
+[[added.73.study_id.$oid]]
+6841ac438970fb41b9cebbfc
+
+[[added.73.subcategory]]
+Reduced Gravity/SAFFIRE-III S2C1
+
+[[added.74.bucket]]
+
+
+[[added.74.file_name]]
+PSI-100_Raw Data_SAFFIRE-III_S2C1_jpeg2png.zip
+
+[[added.74.organization]]
+shared
+
+[[added.74.psi_legacy_s3_path]]
+legacy/102404/11441/SAFFIRE-III_S2C1_jpeg2png.zip
+
+[[added.74.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_S2C1_jpeg2png.zip
+
+[[added.74.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7831270/?inline=1&log=1
+
+[[added.74.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.74.s3_path]]
+psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_S2C1_jpeg2png.zip
+
+[[added.74.study_id.$oid]]
+6841ac438970fb41b9cebbfc
+
+[[added.74.subcategory]]
+Reduced Gravity/SAFFIRE-III S2C1
+
+[[added.75.bucket]]
+
+
+[[added.75.file_name]]
+PSI-100_Raw Data_SAFFIRE-III_S2C2_S2_jpeg.zip
+
+[[added.75.organization]]
+shared
+
+[[added.75.psi_legacy_s3_path]]
+legacy/102405/11441/SAFFIRE-III_S2C2_S2_jpeg.zip
+
+[[added.75.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_S2C2_S2_jpeg.zip
+
+[[added.75.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7831271/?inline=1&log=1
+
+[[added.75.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.75.s3_path]]
+psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_S2C2_S2_jpeg.zip
+
+[[added.75.study_id.$oid]]
+6841ac438970fb41b9cebbfc
+
+[[added.75.subcategory]]
+Reduced Gravity/SAFFIRE-III S2C2
+
+[[added.76.bucket]]
+
+
+[[added.76.file_name]]
+PSI-100_Raw Data_SAFFIRE-III_S2C2_JPEG_Mapped.zip
+
+[[added.76.organization]]
+shared
+
+[[added.76.psi_legacy_s3_path]]
+legacy/102407/11441/SAFFIRE-III_S2C2_JPEG_Mapped.zip
+
+[[added.76.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_S2C2_JPEG_Mapped.zip
+
+[[added.76.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7831273/?inline=1&log=1
+
+[[added.76.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.76.s3_path]]
+psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_S2C2_JPEG_Mapped.zip
+
+[[added.76.study_id.$oid]]
+6841ac438970fb41b9cebbfc
+
+[[added.76.subcategory]]
+Reduced Gravity/SAFFIRE-III S2C2
+
+[[added.77.bucket]]
+
+
+[[added.77.file_name]]
+PSI-100_Raw Data_SAFFIRE-III_S2C2_jpeg2png.zip
+
+[[added.77.organization]]
+shared
+
+[[added.77.psi_legacy_s3_path]]
+legacy/102408/11441/SAFFIRE-III_S2C2_jpeg2png.zip
+
+[[added.77.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_S2C2_jpeg2png.zip
+
+[[added.77.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7831274/?inline=1&log=1
+
+[[added.77.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.77.s3_path]]
+psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_S2C2_jpeg2png.zip
+
+[[added.77.study_id.$oid]]
+6841ac438970fb41b9cebbfc
+
+[[added.77.subcategory]]
+Reduced Gravity/SAFFIRE-III S2C2
+
+[[added.78.bucket]]
+
+
+[[added.78.file_name]]
+PSI-100_Raw Data_SAFFIRE-III_S2C2_Raw2TIFF_Mapped.zip
+
+[[added.78.organization]]
+shared
+
+[[added.78.psi_legacy_s3_path]]
+legacy/102409/11441/SAFFIRE-III_S2C2_Raw2TIFF_Mapped.zip
+
+[[added.78.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_S2C2_Raw2TIFF_Mapped.zip
+
+[[added.78.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7832269/?inline=1&log=1
+
+[[added.78.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[added.78.s3_path]]
+psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_S2C2_Raw2TIFF_Mapped.zip
+
+[[added.78.study_id.$oid]]
+6841ac438970fb41b9cebbfc
+
+[[added.78.subcategory]]
+Reduced Gravity/SAFFIRE-III S2C2
+
+[[added.79.bucket]]
+
+
+[[added.79.file_name]]
+PSI-100_Science Documents_SAFFIRE-III Image Directory Nomenclature_v3.0.pdf
+
+[[added.79.organization]]
+shared
+
+[[added.79.psi_legacy_s3_path]]
+legacy/102178/10430/SAFFIRE-III Image Directory Nomenclature_v3.0.pdf
+
+[[added.79.remote_path]]
+/Home/psi-data/PSI-100/Science Documents/PSI-100_Science Documents_SAFFIRE-III Image Directory Nomenclature_v3.0.pdf
+
+[[added.79.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7837567/?inline=1&log=1
+
+[[added.79.resource_id.$oid]]
+65eb50812ec0b0961f8f9a45
+
+[[added.79.s3_path]]
+psi-data/PSI-100/Science Documents/PSI-100_Science Documents_SAFFIRE-III Image Directory Nomenclature_v3.0.pdf
+
+[[added.79.study_id.$oid]]
+6841ac438970fb41b9cebbfc
+
+[[added.79.subcategory]]
+
+
+[[added.80.bucket]]
+
+
+[[added.80.file_name]]
+PSI-100_Science Documents_SAFFIRE-III_MergeResult-raw_Final.xlsx
+
+[[added.80.organization]]
+shared
+
+[[added.80.psi_legacy_s3_path]]
+legacy/102178/10430/SAFFIRE-III_MergeResult-raw_Final.xlsx
+
+[[added.80.remote_path]]
+/Home/psi-data/PSI-100/Science Documents/PSI-100_Science Documents_SAFFIRE-III_MergeResult-raw_Final.xlsx
+
+[[added.80.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7837568/?inline=1&log=1
+
+[[added.80.resource_id.$oid]]
+65eb50812ec0b0961f8f9a45
+
+[[added.80.s3_path]]
+psi-data/PSI-100/Science Documents/PSI-100_Science Documents_SAFFIRE-III_MergeResult-raw_Final.xlsx
+
+[[added.80.study_id.$oid]]
+6841ac438970fb41b9cebbfc
+
+[[added.80.subcategory]]
+
+
+[[added.81.bucket]]
+
+
+[[added.81.file_name]]
+PSI-100_Science Documents_SAFFIRE-III_MergeResult-jpeg_Final.xlsx
+
+[[added.81.organization]]
+shared
+
+[[added.81.psi_legacy_s3_path]]
+legacy/102178/10430/SAFFIRE-III_MergeResult-jpeg_Final.xlsx
+
+[[added.81.remote_path]]
+/Home/psi-data/PSI-100/Science Documents/PSI-100_Science Documents_SAFFIRE-III_MergeResult-jpeg_Final.xlsx
+
+[[added.81.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7837569/?inline=1&log=1
+
+[[added.81.resource_id.$oid]]
+65eb50812ec0b0961f8f9a45
+
+[[added.81.s3_path]]
+psi-data/PSI-100/Science Documents/PSI-100_Science Documents_SAFFIRE-III_MergeResult-jpeg_Final.xlsx
+
+[[added.81.study_id.$oid]]
+6841ac438970fb41b9cebbfc
+
+[[added.81.subcategory]]
+
+
+[[added.82.bucket]]
+
+
+[[added.82.file_name]]
+PSI-100_Science Documents_SAFFIRE Objectives, Development and Status.pdf
+
+[[added.82.organization]]
+shared
+
+[[added.82.psi_legacy_s3_path]]
+legacy/102178/10430/SAFFIRE Objectives, Development and Status.pdf
+
+[[added.82.remote_path]]
+/Home/psi-data/PSI-100/Science Documents/PSI-100_Science Documents_SAFFIRE Objectives, Development and Status.pdf
+
+[[added.82.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7882760/?inline=1&log=1
+
+[[added.82.resource_id.$oid]]
+65eb50812ec0b0961f8f9a45
+
+[[added.82.s3_path]]
+psi-data/PSI-100/Science Documents/PSI-100_Science Documents_SAFFIRE Objectives, Development and Status.pdf
+
+[[added.82.study_id.$oid]]
+6841ac438970fb41b9cebbfc
+
+[[added.82.subcategory]]
+
+
+[[added.83.bucket]]
+
+
+[[added.83.file_name]]
+PSI-100_Science Documents_SAFFIRE-I and SAFFIRE-III Readme.docx
+
+[[added.83.organization]]
+shared
+
+[[added.83.psi_legacy_s3_path]]
+legacy/102178/11572/SAFFIRE-I and SAFFIRE-III DoD.docx
+
+[[added.83.remote_path]]
+/Home/psi-data/PSI-100/Science Documents/PSI-100_Science Documents_SAFFIRE-I and SAFFIRE-III Readme.docx
+
+[[added.83.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/10441959/?inline=1&log=1
+
+[[added.83.resource_id.$oid]]
+65eb50812ec0b0961f8f9a45
+
+[[added.83.s3_path]]
+psi-data/PSI-100/Science Documents/PSI-100_Science Documents_SAFFIRE-I and SAFFIRE-III Readme.docx
+
+[[added.83.study_id.$oid]]
+6841ac438970fb41b9cebbfc
+
+[[added.83.subcategory]]
+
+
+[[added.84.bucket]]
+
+
+[[added.84.file_name]]
+PSI-100_Engineering Documents_SAFFIRE-III Operations.pdf
+
+[[added.84.organization]]
+shared
+
+[[added.84.psi_legacy_s3_path]]
+legacy/102178/22141/SAFFIRE-III Operations.pdf
+
+[[added.84.remote_path]]
+/Home/psi-data/PSI-100/Engineering Documents/PSI-100_Engineering Documents_SAFFIRE-III Operations.pdf
+
+[[added.84.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/10506314/?inline=1&log=1
+
+[[added.84.resource_id.$oid]]
+65eb514f2ec0b0961f8f9a49
+
+[[added.84.s3_path]]
+psi-data/PSI-100/Engineering Documents/PSI-100_Engineering Documents_SAFFIRE-III Operations.pdf
+
+[[added.84.study_id.$oid]]
+6841ac438970fb41b9cebbfc
+
+[[added.84.subcategory]]
+
+
+[[approach]]
+The Saffire-III experiments were performed on the Orbital Science’s Cygnus resupply vehicle after it deberthed from the ISS. As a follow on to the Saffire 1 investigation, the Saffire III investigation also used SIBAL as the sample material. However, the experiments were conducted at a flow velocity of 30 cm/s compared to 20 cm/s during Saffire I. The flow was either concurrent or opposed.  Once the sample was ignited flame images were captured using two cameras. In addition, thermocouples provided flow, flame, and plume temperatures, two radiometers recorded flame radiation, solid state sensors were used to measure pressure, CO2 and O2 mole faction, and two anemometer tracked flow velocity. All data was compressed, and subsequently downlinked. Details related to samples and experimental parameters are provided in the Experimental Details file in the Science document folder.
+
+[[contacts.0.@id]]
+
+
+[[contacts.0.address]]
+
+
+[[contacts.0.affiliation]]
+NASA GRC
+
+[[contacts.0.email]]
+david.urban@nasa.gov
+
+[[contacts.0.fax]]
+
+
+[[contacts.0.firstName]]
+David
+
+[[contacts.0.lastName]]
+Urban
+
+[[contacts.0.midInitials]]
+L.
+
+[[contacts.0.phone]]
+
+
+[[contacts.0.roles.0.@id]]
+dEBvA2jSs25xM9IfCv5ploF8MUDFt0ACKekf97KJ
+
+[[contacts.0.roles.0.annotationValue]]
+Principal Investigator (PI)
+
+[[contacts.0.roles.0.termAccession]]
+Principal Investigator (PI)
+
+[[contacts.0.roles.0.termSource]]
+
+
+[[description]]
+
+
+[[doi]]
+10.60555/040q-4h36
+
+[[experimentHardware]]
+Saffire III enclosure in Cygnus
+
+[[experimentHardwareLink]]
+https://www1.grc.nasa.gov/space/iss-research/msg/saffire/
+
+[[experimentalTable.0._id.$oid]]
+6792d422b7b6ff8e650381da
+
+[[experimentalTable.0.file_name]]
+PSI-100_Experimental table_SAFFIRE-3.csv
+
+[[experimentalTable.0.remote_path]]
+/Home/psi-data/PSI-100/Experimental table/PSI-100_Experimental table_SAFFIRE-3.csv
+
+[[experimentalTable.0.remote_url]]
+/datamanager/file/Home/psi-data/PSI-100/Experimental table/PSI-100_Experimental table_SAFFIRE-3.csv
+
+[[experimentalTable.0.resource_id.$oid]]
+66cf53d46f1142c964b2e0a8
+
+[[experimentalTable.0.s3_path]]
+psi-data/PSI-100/Experimental table/PSI-100_Experimental table_SAFFIRE-3.csv
+
+[[experimentalTable.0.s3_version_id]]
+AQXs1TocpP6NKs8L3qWuMYbRHZo8Wgbl
+
+[[experimentalTable.0.study_id.$oid]]
+6841ac438970fb41b9cebbfc
+
+[[experimentalTable.0.subcategory]]
+
+
+[[flightProgram]]
+International Space Station (ISS)
+
+[[funding]]
+NASA
+
+[[hypothesis]]
+This investigation hypothesizes that due to large differences between fire behavior in normal and reduced gravity, the use of terrestrial fires and fire standards to design spacecraft fire safety systems presents an inherent risk to the vehicle because of the significant level of uncertainty. While this approach has been successful thus far, the uncertainty and risk will increase as exploration missions venture further from earth with considerably longer transit times for a safe return. There is a significant lack of microgravity data available for spacecraft designers on which to base their fire safety designs and procedures. To address this knowledge gap, this investigation proposed to conduct large-scale fire safety experiments in an expendable spacecraft without risk to a crew.
+
+[[investigationAcronym]]
+SAFFIRE-III
+
+[[investigationEndDate]]
+
+
+[[investigationStartDate]]
+04-18-2017
+
+[[licenseIdentifier]]
+CC0-1.0
+
+[[licenseLink]]
+https://spdx.org/licenses/CC0-1.0.html
+
+[[licenseName]]
+Creative Commons Zero v1.0 Universal
+
+[[managingNasaCenter]]
+Glenn Research Center (GRC)
+
+[[missionEnd]]
+
+
+[[missionLink]]
+
+
+[[missionName]]
+
+
+[[missionStart]]
+
+
+[[modified.0.bucket]]
+psi-repo-prod
+
+[[modified.0.file_name]]
+PSI-100_metadata_PSI-168_SAFFIRE-III.zip
+
+[[modified.0.organization]]
+OSD
+
+[[modified.0.remote_path]]
+/Home/psi-data/PSI-100/metadata/PSI-100_metadata_PSI-168_SAFFIRE-III.zip
+
+[[modified.0.remote_url]]
+/datamanager/file/Home/psi-data/PSI-100/metadata/PSI-100_metadata_PSI-168_SAFFIRE-III.zip
+
+[[modified.0.resource_id.$oid]]
+65e0a4d4931988043eebcd6e
+
+[[modified.0.s3_path]]
+psi-data/PSI-100/metadata/PSI-100_metadata_PSI-168_SAFFIRE-III.zip
+
+[[modified.0.s3_version_id]]
+wCFyJz0PfPni8aRSECc62xicLWlpWANi
+
+[[modified.0.study_id.$oid]]
+6792d422b7b6ff8e650381db
+
+[[modifiedDate]]
+05-Jun-2025
+
+[[objective]]
+The objectives of this investigation were to:
+(1) determine how rapidly a large scale fire grows in low-gravity and (2) investigate the low-g flammability limits compared to those obtained in NASA’s normal gravity material flammability screening test.
+
+[[projectIdentifier]]
+
+
+[[projectLink]]
+
+
+[[projectTitle]]
+
+
+[[projectType]]
+Microgravity Investigation
+
+[[proposalTitle]]
+
+
+[[publications.0.authorList]]
+JE Niehaus, PV Ferkul, SA Gokoglu, GA Ruff
+
+[[publications.0.doi]]
+
+
+[[publications.0.pubMedID]]
+
+
+[[publications.0.status.@id]]
+Rd2oZxVKYUnMCRj3tbHg0eGQhfrFmtiEFnMOyDHF
+
+[[publications.0.status.annotationValue]]
+published
+
+[[publications.0.status.termAccession]]
+http://www.ebi.ac.uk/efo/EFO_0001796
+
+[[publications.0.status.termSource]]
+EFO
+
+[[publications.0.title]]
+Buoyant Effects on the Flammability of Silicone Samples Planned for the Spacecraft Fire Experiment (Saffire), 45th International Conference on Environmental Systems ICES-2015-[293] 12-16 July 2015, Bellevue, Washington
+
+[[publications.1.authorList]]
+W Schoren, GA Ruff, DL Urban
+
+[[publications.1.doi]]
+
+
+[[publications.1.pubMedID]]
+
+
+[[publications.1.status.@id]]
+l87xqHQEQuC4rNfO31zRSVlRomoXfQjaWFyzxZZZ
+
+[[publications.1.status.annotationValue]]
+published
+
+[[publications.1.status.termAccession]]
+http://www.ebi.ac.uk/efo/EFO_0001796
+
+[[publications.1.status.termSource]]
+
+
+[[publications.1.title]]
+The Spacecraft Fire Experiment (Saffire) - Objectives, Development and Status
+
+[[publications.2.authorList]]
+https://ntrs.nasa.gov/citations/20170000230
+
+[[publications.2.doi]]
+
+
+[[publications.2.pubMedID]]
+
+
+[[publications.2.status.@id]]
+Rd2oZxVKYUnMCRj3tbHg0eGQhfrFmtiEFnMOyDHF
+
+[[publications.2.status.annotationValue]]
+published
+
+[[publications.2.status.termAccession]]
+http://www.ebi.ac.uk/efo/EFO_0001796
+
+[[publications.2.status.termSource]]
+EFO
+
+[[publications.2.title]]
+Operation and Development Status of the Spacecraft Fire Experiments (Saffire), 46th International Conference on Environmental Systems (ICES), July 2016
+
+[[related_glds]]
+PSI-99,PSI-98
+
+[[releaseDate]]
+18-Sep-2024
+
+[[removed.0.bucket]]
+
+
+[[removed.0.file_name]]
+SAFFIRE Obj, Dev, and Status.pdf
+
+[[removed.0.organization]]
+shared
+
+[[removed.0.psi_legacy_s3_path]]
+legacy/97835/257/SAFFIRE Obj, Dev, and Status.pdf
+
+[[removed.0.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/SAFFIRE Obj, Dev, and Status.pdf
+
+[[removed.0.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7652456/?inline=1&log=1
+
+[[removed.0.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.0.s3_path]]
+psi-data/PSI-100/Raw Data/SAFFIRE Obj, Dev, and Status.pdf
+
+[[removed.0.study_id.$oid]]
+6792d422b7b6ff8e650381db
+
+[[removed.0.subcategory]]
+Legacy/2016 - W Schoren, GA Ruff, DL Urban. &quot;The Spacecraft Fire Experiment (Saffire) - Objectives, Development and Status&quot;. 8th International Association for the Advancement of Space Safety Conference (IAASS), May 2016
+
+[[removed.1.bucket]]
+
+
+[[removed.1.file_name]]
+SAFFIRE Offgassing Testing Strategy.pdf
+
+[[removed.1.organization]]
+shared
+
+[[removed.1.psi_legacy_s3_path]]
+legacy/97836/284/SAFFIRE Offgassing Testing Strategy.pdf
+
+[[removed.1.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/SAFFIRE Offgassing Testing Strategy.pdf
+
+[[removed.1.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7652463/?inline=1&log=1
+
+[[removed.1.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.1.s3_path]]
+psi-data/PSI-100/Raw Data/SAFFIRE Offgassing Testing Strategy.pdf
+
+[[removed.1.study_id.$oid]]
+6792d422b7b6ff8e650381db
+
+[[removed.1.subcategory]]
+Legacy/2015 - Saffire Offgas Testing Strategy, International Offgas Round Robin Status &amp; Results
+
+[[removed.2.bucket]]
+
+
+[[removed.2.file_name]]
+SAFFIRE_45 I Con of Env Sys presentation.pdf
+
+[[removed.2.organization]]
+shared
+
+[[removed.2.psi_legacy_s3_path]]
+legacy/97837/284/SAFFIRE_45 I Con of Env Sys presentation.pdf
+
+[[removed.2.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/SAFFIRE_45 I Con of Env Sys presentation.pdf
+
+[[removed.2.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7652470/?inline=1&log=1
+
+[[removed.2.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.2.s3_path]]
+psi-data/PSI-100/Raw Data/SAFFIRE_45 I Con of Env Sys presentation.pdf
+
+[[removed.2.study_id.$oid]]
+6792d422b7b6ff8e650381db
+
+[[removed.2.subcategory]]
+Legacy/2015 - Buoyant Effects on the Flammability of Silicone Samples Planned for the Spacecraft Fire Experiment (Saffire)
+
+[[removed.3.bucket]]
+
+
+[[removed.3.file_name]]
+SAFFIRE_45 I Conv of Env Sys paper.pdf
+
+[[removed.3.organization]]
+shared
+
+[[removed.3.psi_legacy_s3_path]]
+legacy/97838/257/SAFFIRE_45 I Conv of Env Sys paper.pdf
+
+[[removed.3.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/SAFFIRE_45 I Conv of Env Sys paper.pdf
+
+[[removed.3.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7652478/?inline=1&log=1
+
+[[removed.3.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.3.s3_path]]
+psi-data/PSI-100/Raw Data/SAFFIRE_45 I Conv of Env Sys paper.pdf
+
+[[removed.3.study_id.$oid]]
+6792d422b7b6ff8e650381db
+
+[[removed.3.subcategory]]
+Legacy/2015 - JE Niehaus, PV Ferkul, SA Gokoglu, GA Ruff. &quot;Buoyant Effects on the Flammability of Silicone Samples Planned for the Spacecraft Fire Experiment (Saffire)&quot;. 45th International Conference on Environmental Systems, July 2015
+
+[[removed.4.bucket]]
+
+
+[[removed.4.file_name]]
+SAFFIRE_46th I Con of Env Sys paper.pdf
+
+[[removed.4.organization]]
+shared
+
+[[removed.4.psi_legacy_s3_path]]
+legacy/97839/257/SAFFIRE_46th I Con of Env Sys paper.pdf
+
+[[removed.4.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/SAFFIRE_46th I Con of Env Sys paper.pdf
+
+[[removed.4.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7652509/?inline=1&log=1
+
+[[removed.4.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.4.s3_path]]
+psi-data/PSI-100/Raw Data/SAFFIRE_46th I Con of Env Sys paper.pdf
+
+[[removed.4.study_id.$oid]]
+6792d422b7b6ff8e650381db
+
+[[removed.4.subcategory]]
+Legacy/2016 - GA Ruff, DL Urban. &quot;Operation and Development Status of the Spacecraft Fire Experiments (Saffire)&quot;. 46th International Conference on Environmental Systems (ICES), July 2016
+
+[[removed.5.bucket]]
+
+
+[[removed.5.file_name]]
+SAFFIRE_46th I Con of Env Sys presentation.pdf
+
+[[removed.5.organization]]
+shared
+
+[[removed.5.psi_legacy_s3_path]]
+legacy/97840/284/SAFFIRE_46th I Con of Env Sys presentation.pdf
+
+[[removed.5.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/SAFFIRE_46th I Con of Env Sys presentation.pdf
+
+[[removed.5.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7652515/?inline=1&log=1
+
+[[removed.5.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.5.s3_path]]
+psi-data/PSI-100/Raw Data/SAFFIRE_46th I Con of Env Sys presentation.pdf
+
+[[removed.5.study_id.$oid]]
+6792d422b7b6ff8e650381db
+
+[[removed.5.subcategory]]
+Legacy/2016 - Operation and Development Status of the Spacecraft Fire Experiment (Saffire)
+
+[[removed.6.bucket]]
+
+
+[[removed.6.file_name]]
+SAFFIRE_47th I Con of Env Sys presentation.pdf
+
+[[removed.6.organization]]
+shared
+
+[[removed.6.psi_legacy_s3_path]]
+legacy/97841/284/SAFFIRE_47th I Con of Env Sys presentation.pdf
+
+[[removed.6.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/SAFFIRE_47th I Con of Env Sys presentation.pdf
+
+[[removed.6.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7652521/?inline=1&log=1
+
+[[removed.6.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.6.s3_path]]
+psi-data/PSI-100/Raw Data/SAFFIRE_47th I Con of Env Sys presentation.pdf
+
+[[removed.6.study_id.$oid]]
+6792d422b7b6ff8e650381db
+
+[[removed.6.subcategory]]
+Legacy/2017 - Results of Large-Scale Spacecraft Flammability Tests
+
+[[removed.7.bucket]]
+
+
+[[removed.7.file_name]]
+SAFFIRE-III_F1C1_1200x920.zip
+
+[[removed.7.organization]]
+shared
+
+[[removed.7.psi_legacy_s3_path]]
+legacy/102362/11441/SAFFIRE-III_F1C1_1200x920.zip
+
+[[removed.7.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/SAFFIRE-III_F1C1_1200x920.zip
+
+[[removed.7.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7762573/?inline=1&log=1
+
+[[removed.7.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.7.s3_path]]
+psi-data/PSI-100/Raw Data/SAFFIRE-III_F1C1_1200x920.zip
+
+[[removed.7.study_id.$oid]]
+6792d422b7b6ff8e650381db
+
+[[removed.7.subcategory]]
+Legacy/SAFFIRE-III F1C1/SAFFIRE_III_F1C1_DistortionGrid_Package1200x920
+
+[[removed.8.bucket]]
+
+
+[[removed.8.file_name]]
+SAFFIRE-III_F1C1_1360x1024.zip
+
+[[removed.8.organization]]
+shared
+
+[[removed.8.psi_legacy_s3_path]]
+legacy/102363/11441/SAFFIRE-III_F1C1_1360x1024.zip
+
+[[removed.8.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/SAFFIRE-III_F1C1_1360x1024.zip
+
+[[removed.8.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7762576/?inline=1&log=1
+
+[[removed.8.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.8.s3_path]]
+psi-data/PSI-100/Raw Data/SAFFIRE-III_F1C1_1360x1024.zip
+
+[[removed.8.study_id.$oid]]
+6792d422b7b6ff8e650381db
+
+[[removed.8.subcategory]]
+Legacy/SAFFIRE-III F1C1/SAFFIRE_III_F1C1_DistortionGrid_Package1360x1024
+
+[[removed.9.bucket]]
+
+
+[[removed.9.file_name]]
+SAFFIRE-III_F1C1_BIT_jpeg.zip
+
+[[removed.9.organization]]
+shared
+
+[[removed.9.psi_legacy_s3_path]]
+legacy/102364/11441/SAFFIRE-III_F1C1_BIT_jpeg.zip
+
+[[removed.9.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/SAFFIRE-III_F1C1_BIT_jpeg.zip
+
+[[removed.9.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7762577/?inline=1&log=1
+
+[[removed.9.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.9.s3_path]]
+psi-data/PSI-100/Raw Data/SAFFIRE-III_F1C1_BIT_jpeg.zip
+
+[[removed.9.study_id.$oid]]
+6792d422b7b6ff8e650381db
+
+[[removed.9.subcategory]]
+Legacy/SAFFIRE-III F1C1/SAFFIRE_III_F1C1_BIT_jpeg
+
+[[removed.10.bucket]]
+
+
+[[removed.10.file_name]]
+SAFFIRE-III_F1C1_F1_jpeg.zip
+
+[[removed.10.organization]]
+shared
+
+[[removed.10.psi_legacy_s3_path]]
+legacy/102365/11441/SAFFIRE-III_F1C1_F1_jpeg.zip
+
+[[removed.10.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/SAFFIRE-III_F1C1_F1_jpeg.zip
+
+[[removed.10.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7763178/?inline=1&log=1
+
+[[removed.10.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.10.s3_path]]
+psi-data/PSI-100/Raw Data/SAFFIRE-III_F1C1_F1_jpeg.zip
+
+[[removed.10.study_id.$oid]]
+6792d422b7b6ff8e650381db
+
+[[removed.10.subcategory]]
+Legacy/SAFFIRE-III F1C1/SAFFIRE_III_F1C1_jpeg
+
+[[removed.11.bucket]]
+
+
+[[removed.11.file_name]]
+SAFFIRE-III_F1C1_RAW2TIFF.zip
+
+[[removed.11.organization]]
+shared
+
+[[removed.11.psi_legacy_s3_path]]
+legacy/102366/11441/SAFFIRE-III_F1C1_RAW2TIFF.zip
+
+[[removed.11.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/SAFFIRE-III_F1C1_RAW2TIFF.zip
+
+[[removed.11.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7764589/?inline=1&log=1
+
+[[removed.11.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.11.s3_path]]
+psi-data/PSI-100/Raw Data/SAFFIRE-III_F1C1_RAW2TIFF.zip
+
+[[removed.11.study_id.$oid]]
+6792d422b7b6ff8e650381db
+
+[[removed.11.subcategory]]
+Legacy/SAFFIRE-III F1C1/SAFFIRE_III_F1C1_RAW2TIFF
+
+[[removed.12.bucket]]
+
+
+[[removed.12.file_name]]
+SAFFIRE-III_F1C1_JPEG_Mapped.zip
+
+[[removed.12.organization]]
+shared
+
+[[removed.12.psi_legacy_s3_path]]
+legacy/102367/11441/SAFFIRE-III_F1C1_JPEG_Mapped.zip
+
+[[removed.12.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/SAFFIRE-III_F1C1_JPEG_Mapped.zip
+
+[[removed.12.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7764861/?inline=1&log=1
+
+[[removed.12.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.12.s3_path]]
+psi-data/PSI-100/Raw Data/SAFFIRE-III_F1C1_JPEG_Mapped.zip
+
+[[removed.12.study_id.$oid]]
+6792d422b7b6ff8e650381db
+
+[[removed.12.subcategory]]
+Legacy/SAFFIRE-III F1C1/SAFFIRE_III_F1C1_JPEG_Mapped
+
+[[removed.13.bucket]]
+
+
+[[removed.13.file_name]]
+SAFFIRE-III_F1C1_jpeg2png.zip
+
+[[removed.13.organization]]
+shared
+
+[[removed.13.psi_legacy_s3_path]]
+legacy/102368/11441/SAFFIRE-III_F1C1_jpeg2png.zip
+
+[[removed.13.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/SAFFIRE-III_F1C1_jpeg2png.zip
+
+[[removed.13.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7766498/?inline=1&log=1
+
+[[removed.13.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.13.s3_path]]
+psi-data/PSI-100/Raw Data/SAFFIRE-III_F1C1_jpeg2png.zip
+
+[[removed.13.study_id.$oid]]
+6792d422b7b6ff8e650381db
+
+[[removed.13.subcategory]]
+Legacy/SAFFIRE-III F1C1/SAFFIRE_III_F1C1_jpeg2png
+
+[[removed.14.bucket]]
+
+
+[[removed.14.file_name]]
+SAFFIRE-III_F1C1_RAW2TIFF_Mapped.zip
+
+[[removed.14.organization]]
+shared
+
+[[removed.14.psi_legacy_s3_path]]
+legacy/102369/11441/SAFFIRE-III_F1C1_RAW2TIFF_Mapped.zip
+
+[[removed.14.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/SAFFIRE-III_F1C1_RAW2TIFF_Mapped.zip
+
+[[removed.14.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7769330/?inline=1&log=1
+
+[[removed.14.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.14.s3_path]]
+psi-data/PSI-100/Raw Data/SAFFIRE-III_F1C1_RAW2TIFF_Mapped.zip
+
+[[removed.14.study_id.$oid]]
+6792d422b7b6ff8e650381db
+
+[[removed.14.subcategory]]
+Legacy/SAFFIRE-III F1C1/SAFFIRE_III_F1C1_RAW2TIFF_Mapped
+
+[[removed.15.bucket]]
+
+
+[[removed.15.file_name]]
+SAFFIRE-III_F1C2_1280x920.zip
+
+[[removed.15.organization]]
+shared
+
+[[removed.15.psi_legacy_s3_path]]
+legacy/102370/11441/SAFFIRE-III_F1C2_1280x920.zip
+
+[[removed.15.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/SAFFIRE-III_F1C2_1280x920.zip
+
+[[removed.15.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7770133/?inline=1&log=1
+
+[[removed.15.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.15.s3_path]]
+psi-data/PSI-100/Raw Data/SAFFIRE-III_F1C2_1280x920.zip
+
+[[removed.15.study_id.$oid]]
+6792d422b7b6ff8e650381db
+
+[[removed.15.subcategory]]
+Legacy/SAFFIRE-III F1C2/SAFFIRE_III_F1C2_DistortionGrid_Package1280x920
+
+[[removed.16.bucket]]
+
+
+[[removed.16.file_name]]
+SAFFIRE-III_F1C2_1360x1024.zip
+
+[[removed.16.organization]]
+shared
+
+[[removed.16.psi_legacy_s3_path]]
+legacy/102371/11441/SAFFIRE-III_F1C2_1360x1024.zip
+
+[[removed.16.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/SAFFIRE-III_F1C2_1360x1024.zip
+
+[[removed.16.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7770427/?inline=1&log=1
+
+[[removed.16.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.16.s3_path]]
+psi-data/PSI-100/Raw Data/SAFFIRE-III_F1C2_1360x1024.zip
+
+[[removed.16.study_id.$oid]]
+6792d422b7b6ff8e650381db
+
+[[removed.16.subcategory]]
+Legacy/SAFFIRE-III F1C2/SAFFIRE_III_F1C2_DistortionGrid_Package1360x1024
+
+[[removed.17.bucket]]
+
+
+[[removed.17.file_name]]
+SAFFIRE-III_F1C2_BIT_jpeg.zip
+
+[[removed.17.organization]]
+shared
+
+[[removed.17.psi_legacy_s3_path]]
+legacy/102372/11441/SAFFIRE-III_F1C2_BIT_jpeg.zip
+
+[[removed.17.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/SAFFIRE-III_F1C2_BIT_jpeg.zip
+
+[[removed.17.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7770428/?inline=1&log=1
+
+[[removed.17.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.17.s3_path]]
+psi-data/PSI-100/Raw Data/SAFFIRE-III_F1C2_BIT_jpeg.zip
+
+[[removed.17.study_id.$oid]]
+6792d422b7b6ff8e650381db
+
+[[removed.17.subcategory]]
+Legacy/SAFFIRE-III F1C2/SAFFIRE_III_F1C2_BIT_jpeg
+
+[[removed.18.bucket]]
+
+
+[[removed.18.file_name]]
+SAFFIRE-III_F1C2_F1_jpeg.zip
+
+[[removed.18.organization]]
+shared
+
+[[removed.18.psi_legacy_s3_path]]
+legacy/102373/11441/SAFFIRE-III_F1C2_F1_jpeg.zip
+
+[[removed.18.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/SAFFIRE-III_F1C2_F1_jpeg.zip
+
+[[removed.18.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7771451/?inline=1&log=1
+
+[[removed.18.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.18.s3_path]]
+psi-data/PSI-100/Raw Data/SAFFIRE-III_F1C2_F1_jpeg.zip
+
+[[removed.18.study_id.$oid]]
+6792d422b7b6ff8e650381db
+
+[[removed.18.subcategory]]
+Legacy/SAFFIRE-III F1C2/SAFFIRE_III_F1C2_jpeg
+
+[[removed.19.bucket]]
+
+
+[[removed.19.file_name]]
+SAFFIRE-III_F1C2_RAW2TIFF.zip
+
+[[removed.19.organization]]
+shared
+
+[[removed.19.psi_legacy_s3_path]]
+legacy/102374/11441/SAFFIRE-III_F1C2_RAW2TIFF.zip
+
+[[removed.19.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/SAFFIRE-III_F1C2_RAW2TIFF.zip
+
+[[removed.19.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7773509/?inline=1&log=1
+
+[[removed.19.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.19.s3_path]]
+psi-data/PSI-100/Raw Data/SAFFIRE-III_F1C2_RAW2TIFF.zip
+
+[[removed.19.study_id.$oid]]
+6792d422b7b6ff8e650381db
+
+[[removed.19.subcategory]]
+Legacy/SAFFIRE-III F1C2/SAFFIRE_III_F1C2_RAW2TIFF
+
+[[removed.20.bucket]]
+
+
+[[removed.20.file_name]]
+SAFFIRE-III_F1C2_JPEG_Mapped.zip
+
+[[removed.20.organization]]
+shared
+
+[[removed.20.psi_legacy_s3_path]]
+legacy/102375/11441/SAFFIRE-III_F1C2_JPEG_Mapped.zip
+
+[[removed.20.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/SAFFIRE-III_F1C2_JPEG_Mapped.zip
+
+[[removed.20.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7774591/?inline=1&log=1
+
+[[removed.20.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.20.s3_path]]
+psi-data/PSI-100/Raw Data/SAFFIRE-III_F1C2_JPEG_Mapped.zip
+
+[[removed.20.study_id.$oid]]
+6792d422b7b6ff8e650381db
+
+[[removed.20.subcategory]]
+Legacy/SAFFIRE-III F1C2/SAFFIRE_III_F1C2_JPEG_Mapped
+
+[[removed.21.bucket]]
+
+
+[[removed.21.file_name]]
+SAFFIRE-III_F1C2_Raw2TIFF_Mapped.zip
+
+[[removed.21.organization]]
+shared
+
+[[removed.21.psi_legacy_s3_path]]
+legacy/102376/11441/SAFFIRE-III_F1C2_Raw2TIFF_Mapped.zip
+
+[[removed.21.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/SAFFIRE-III_F1C2_Raw2TIFF_Mapped.zip
+
+[[removed.21.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7776228/?inline=1&log=1
+
+[[removed.21.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.21.s3_path]]
+psi-data/PSI-100/Raw Data/SAFFIRE-III_F1C2_Raw2TIFF_Mapped.zip
+
+[[removed.21.study_id.$oid]]
+6792d422b7b6ff8e650381db
+
+[[removed.21.subcategory]]
+Legacy/SAFFIRE-III F1C2/SAFFIRE_III_F1C2_Raw2TIFF_Mapped
+
+[[removed.22.bucket]]
+
+
+[[removed.22.file_name]]
+SAFFIRE-III_F1C2_jpeg2png.zip
+
+[[removed.22.organization]]
+shared
+
+[[removed.22.psi_legacy_s3_path]]
+legacy/102377/11441/SAFFIRE-III_F1C2_jpeg2png.zip
+
+[[removed.22.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/SAFFIRE-III_F1C2_jpeg2png.zip
+
+[[removed.22.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7776500/?inline=1&log=1
+
+[[removed.22.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.22.s3_path]]
+psi-data/PSI-100/Raw Data/SAFFIRE-III_F1C2_jpeg2png.zip
+
+[[removed.22.study_id.$oid]]
+6792d422b7b6ff8e650381db
+
+[[removed.22.subcategory]]
+Legacy/SAFFIRE-III F1C2/SAFFIRE_III_F1C2_jpeg2png
+
+[[removed.23.bucket]]
+
+
+[[removed.23.file_name]]
+SAFFIRE-III_F2C1_F2_Jpeg.zip
+
+[[removed.23.organization]]
+shared
+
+[[removed.23.psi_legacy_s3_path]]
+legacy/102378/11441/SAFFIRE-III_F2C1_F2_Jpeg.zip
+
+[[removed.23.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/SAFFIRE-III_F2C1_F2_Jpeg.zip
+
+[[removed.23.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7780717/?inline=1&log=1
+
+[[removed.23.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.23.s3_path]]
+psi-data/PSI-100/Raw Data/SAFFIRE-III_F2C1_F2_Jpeg.zip
+
+[[removed.23.study_id.$oid]]
+6792d422b7b6ff8e650381db
+
+[[removed.23.subcategory]]
+Legacy/SAFFIRE-III F2C1/SAFFIRE_III_F2C1_jpeg
+
+[[removed.24.bucket]]
+
+
+[[removed.24.file_name]]
+SAFFIRE-III_F2C1_RAW2TIFF.zip
+
+[[removed.24.organization]]
+shared
+
+[[removed.24.psi_legacy_s3_path]]
+legacy/102379/11441/SAFFIRE-III_F2C1_RAW2TIFF.zip
+
+[[removed.24.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/SAFFIRE-III_F2C1_RAW2TIFF.zip
+
+[[removed.24.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7781530/?inline=1&log=1
+
+[[removed.24.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.24.s3_path]]
+psi-data/PSI-100/Raw Data/SAFFIRE-III_F2C1_RAW2TIFF.zip
+
+[[removed.24.study_id.$oid]]
+6792d422b7b6ff8e650381db
+
+[[removed.24.subcategory]]
+Legacy/SAFFIRE-III F2C1/SAFFIRE_III_F2C1_RAW2TIFF
+
+[[removed.25.bucket]]
+
+
+[[removed.25.file_name]]
+SAFFIRE-III_F2C1_JPEG_Mapped.zip
+
+[[removed.25.organization]]
+shared
+
+[[removed.25.psi_legacy_s3_path]]
+legacy/102380/11441/SAFFIRE-III_F2C1_JPEG_Mapped.zip
+
+[[removed.25.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/SAFFIRE-III_F2C1_JPEG_Mapped.zip
+
+[[removed.25.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7781531/?inline=1&log=1
+
+[[removed.25.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.25.s3_path]]
+psi-data/PSI-100/Raw Data/SAFFIRE-III_F2C1_JPEG_Mapped.zip
+
+[[removed.25.study_id.$oid]]
+6792d422b7b6ff8e650381db
+
+[[removed.25.subcategory]]
+Legacy/SAFFIRE-III F2C1/SAFFIRE_III_F2C1_JPEG_Mapped
+
+[[removed.26.bucket]]
+
+
+[[removed.26.file_name]]
+SAFFIRE-III_F2C1_jpeg2png.zip
+
+[[removed.26.organization]]
+shared
+
+[[removed.26.psi_legacy_s3_path]]
+legacy/102381/11441/SAFFIRE-III_F2C1_jpeg2png.zip
+
+[[removed.26.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/SAFFIRE-III_F2C1_jpeg2png.zip
+
+[[removed.26.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7783063/?inline=1&log=1
+
+[[removed.26.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.26.s3_path]]
+psi-data/PSI-100/Raw Data/SAFFIRE-III_F2C1_jpeg2png.zip
+
+[[removed.26.study_id.$oid]]
+6792d422b7b6ff8e650381db
+
+[[removed.26.subcategory]]
+Legacy/SAFFIRE-III F2C1/SAFFIRE_III_F2C1_jpeg2png_icmad
+
+[[removed.27.bucket]]
+
+
+[[removed.27.file_name]]
+SAFFIRE-III_F2C1_Raw2TIFF_Mapped.zip
+
+[[removed.27.organization]]
+shared
+
+[[removed.27.psi_legacy_s3_path]]
+legacy/102382/11441/SAFFIRE-III_F2C1_Raw2TIFF_Mapped.zip
+
+[[removed.27.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/SAFFIRE-III_F2C1_Raw2TIFF_Mapped.zip
+
+[[removed.27.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7785298/?inline=1&log=1
+
+[[removed.27.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.27.s3_path]]
+psi-data/PSI-100/Raw Data/SAFFIRE-III_F2C1_Raw2TIFF_Mapped.zip
+
+[[removed.27.study_id.$oid]]
+6792d422b7b6ff8e650381db
+
+[[removed.27.subcategory]]
+Legacy/SAFFIRE-III F2C1/SAFFIRE_III_F2C1_Raw2TIFF_Mapped
+
+[[removed.28.bucket]]
+
+
+[[removed.28.file_name]]
+SAFFIRE-III_F2C2_F2_jpeg.zip
+
+[[removed.28.organization]]
+shared
+
+[[removed.28.psi_legacy_s3_path]]
+legacy/102383/11441/SAFFIRE-III_F2C2_F2_jpeg.zip
+
+[[removed.28.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/SAFFIRE-III_F2C2_F2_jpeg.zip
+
+[[removed.28.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7785299/?inline=1&log=1
+
+[[removed.28.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.28.s3_path]]
+psi-data/PSI-100/Raw Data/SAFFIRE-III_F2C2_F2_jpeg.zip
+
+[[removed.28.study_id.$oid]]
+6792d422b7b6ff8e650381db
+
+[[removed.28.subcategory]]
+Legacy/SAFFIRE-III F2C2/SAFFIRE_III_F2C2_jpeg
+
+[[removed.29.bucket]]
+
+
+[[removed.29.file_name]]
+SAFFIRE-III_F2C2_RAW2TIFF.zip
+
+[[removed.29.organization]]
+shared
+
+[[removed.29.psi_legacy_s3_path]]
+legacy/102384/11441/SAFFIRE-III_F2C2_RAW2TIFF.zip
+
+[[removed.29.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/SAFFIRE-III_F2C2_RAW2TIFF.zip
+
+[[removed.29.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7786651/?inline=1&log=1
+
+[[removed.29.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.29.s3_path]]
+psi-data/PSI-100/Raw Data/SAFFIRE-III_F2C2_RAW2TIFF.zip
+
+[[removed.29.study_id.$oid]]
+6792d422b7b6ff8e650381db
+
+[[removed.29.subcategory]]
+Legacy/SAFFIRE-III F2C2/SAFFIRE_III_F2C2_RAW2TIFF
+
+[[removed.30.bucket]]
+
+
+[[removed.30.file_name]]
+SAFFIRE-III_F2C2_JPEG_Mapped.zip
+
+[[removed.30.organization]]
+shared
+
+[[removed.30.psi_legacy_s3_path]]
+legacy/102385/11441/SAFFIRE-III_F2C2_JPEG_Mapped.zip
+
+[[removed.30.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/SAFFIRE-III_F2C2_JPEG_Mapped.zip
+
+[[removed.30.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7786652/?inline=1&log=1
+
+[[removed.30.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.30.s3_path]]
+psi-data/PSI-100/Raw Data/SAFFIRE-III_F2C2_JPEG_Mapped.zip
+
+[[removed.30.study_id.$oid]]
+6792d422b7b6ff8e650381db
+
+[[removed.30.subcategory]]
+Legacy/SAFFIRE-III F2C2/SAFFIRE_III_F2C2_JPEG_Mapped
+
+[[removed.31.bucket]]
+
+
+[[removed.31.file_name]]
+SAFFIRE-III_F2C2_jpeg2png.zip
+
+[[removed.31.organization]]
+shared
+
+[[removed.31.psi_legacy_s3_path]]
+legacy/102386/11441/SAFFIRE-III_F2C2_jpeg2png.zip
+
+[[removed.31.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/SAFFIRE-III_F2C2_jpeg2png.zip
+
+[[removed.31.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7788585/?inline=1&log=1
+
+[[removed.31.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.31.s3_path]]
+psi-data/PSI-100/Raw Data/SAFFIRE-III_F2C2_jpeg2png.zip
+
+[[removed.31.study_id.$oid]]
+6792d422b7b6ff8e650381db
+
+[[removed.31.subcategory]]
+Legacy/SAFFIRE-III F2C2/SAFFIRE_III_F2C2_jpeg2png_icmad
+
+[[removed.32.bucket]]
+
+
+[[removed.32.file_name]]
+SAFFIRE-III_F2C2_Raw2TIFF_Mapped.zip
+
+[[removed.32.organization]]
+shared
+
+[[removed.32.psi_legacy_s3_path]]
+legacy/102387/11441/SAFFIRE-III_F2C2_Raw2TIFF_Mapped.zip
+
+[[removed.32.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/SAFFIRE-III_F2C2_Raw2TIFF_Mapped.zip
+
+[[removed.32.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7791019/?inline=1&log=1
+
+[[removed.32.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.32.s3_path]]
+psi-data/PSI-100/Raw Data/SAFFIRE-III_F2C2_Raw2TIFF_Mapped.zip
+
+[[removed.32.study_id.$oid]]
+6792d422b7b6ff8e650381db
+
+[[removed.32.subcategory]]
+Legacy/SAFFIRE-III F2C2/SAFFIRE_III_F2C2_Raw2TIFF_Mapped
+
+[[removed.33.bucket]]
+
+
+[[removed.33.file_name]]
+SAFFIRE-III_S1C1_BIT_jpeg.zip
+
+[[removed.33.organization]]
+shared
+
+[[removed.33.psi_legacy_s3_path]]
+legacy/102388/11441/SAFFIRE-III_S1C1_BIT_jpeg.zip
+
+[[removed.33.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/SAFFIRE-III_S1C1_BIT_jpeg.zip
+
+[[removed.33.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7791020/?inline=1&log=1
+
+[[removed.33.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.33.s3_path]]
+psi-data/PSI-100/Raw Data/SAFFIRE-III_S1C1_BIT_jpeg.zip
+
+[[removed.33.study_id.$oid]]
+6792d422b7b6ff8e650381db
+
+[[removed.33.subcategory]]
+Legacy/SAFFIRE-III S1C1/SAFFIRE_III_S1C1_BIT_jpeg
+
+[[removed.34.bucket]]
+
+
+[[removed.34.file_name]]
+SAFFIRE-III_S1C1_RAW2TIFF.zip
+
+[[removed.34.organization]]
+shared
+
+[[removed.34.psi_legacy_s3_path]]
+legacy/102390/11441/SAFFIRE-III_S1C1_RAW2TIFF.zip
+
+[[removed.34.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/SAFFIRE-III_S1C1_RAW2TIFF.zip
+
+[[removed.34.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7791321/?inline=1&log=1
+
+[[removed.34.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.34.s3_path]]
+psi-data/PSI-100/Raw Data/SAFFIRE-III_S1C1_RAW2TIFF.zip
+
+[[removed.34.study_id.$oid]]
+6792d422b7b6ff8e650381db
+
+[[removed.34.subcategory]]
+Legacy/SAFFIRE-III S1C1/SAFFIRE_III_S1C1_RAW2TIFF
+
+[[removed.35.bucket]]
+
+
+[[removed.35.file_name]]
+SAFFIRE-III_S1C1_Raw2TIFF_Mapped.zip
+
+[[removed.35.organization]]
+shared
+
+[[removed.35.psi_legacy_s3_path]]
+legacy/102393/11441/SAFFIRE-III_S1C1_Raw2TIFF_Mapped.zip
+
+[[removed.35.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/SAFFIRE-III_S1C1_Raw2TIFF_Mapped.zip
+
+[[removed.35.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7792945/?inline=1&log=1
+
+[[removed.35.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.35.s3_path]]
+psi-data/PSI-100/Raw Data/SAFFIRE-III_S1C1_Raw2TIFF_Mapped.zip
+
+[[removed.35.study_id.$oid]]
+6792d422b7b6ff8e650381db
+
+[[removed.35.subcategory]]
+Legacy/SAFFIRE-III S1C1/SAFFIRE_III_S1C1_Raw2TIFF_Mapped
+
+[[removed.36.bucket]]
+
+
+[[removed.36.file_name]]
+SAFFIRE-III_S1C1_Raw2TIFF_Map_icmad.zip
+
+[[removed.36.organization]]
+shared
+
+[[removed.36.psi_legacy_s3_path]]
+legacy/102394/11441/SAFFIRE-III_S1C1_Raw2TIFF_Map_icmad.zip
+
+[[removed.36.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/SAFFIRE-III_S1C1_Raw2TIFF_Map_icmad.zip
+
+[[removed.36.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7794564/?inline=1&log=1
+
+[[removed.36.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.36.s3_path]]
+psi-data/PSI-100/Raw Data/SAFFIRE-III_S1C1_Raw2TIFF_Map_icmad.zip
+
+[[removed.36.study_id.$oid]]
+6792d422b7b6ff8e650381db
+
+[[removed.36.subcategory]]
+Legacy/SAFFIRE-III S1C1/SAFFIRE_III_S1C1_Raw2TIFF_Mapped_icmad
+
+[[removed.37.bucket]]
+
+
+[[removed.37.file_name]]
+SAFFIRE-III_S1C2_BIT_jpeg.zip
+
+[[removed.37.organization]]
+shared
+
+[[removed.37.psi_legacy_s3_path]]
+legacy/102395/11441/SAFFIRE-III_S1C2_BIT_jpeg.zip
+
+[[removed.37.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/SAFFIRE-III_S1C2_BIT_jpeg.zip
+
+[[removed.37.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7796183/?inline=1&log=1
+
+[[removed.37.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.37.s3_path]]
+psi-data/PSI-100/Raw Data/SAFFIRE-III_S1C2_BIT_jpeg.zip
+
+[[removed.37.study_id.$oid]]
+6792d422b7b6ff8e650381db
+
+[[removed.37.subcategory]]
+Legacy/SAFFIRE-III S1C2/SAFFIRE_III_S1C2_BIT_jpeg
+
+[[removed.38.bucket]]
+
+
+[[removed.38.file_name]]
+SAFFIRE-III_S1C2_RAW2TIFF.zip
+
+[[removed.38.organization]]
+shared
+
+[[removed.38.psi_legacy_s3_path]]
+legacy/102397/11441/SAFFIRE-III_S1C2_RAW2TIFF.zip
+
+[[removed.38.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/SAFFIRE-III_S1C2_RAW2TIFF.zip
+
+[[removed.38.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7796484/?inline=1&log=1
+
+[[removed.38.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.38.s3_path]]
+psi-data/PSI-100/Raw Data/SAFFIRE-III_S1C2_RAW2TIFF.zip
+
+[[removed.38.study_id.$oid]]
+6792d422b7b6ff8e650381db
+
+[[removed.38.subcategory]]
+Legacy/SAFFIRE-III S1C2/SAFFIRE_III_S1C2_RAW2TIFF
+
+[[removed.39.bucket]]
+
+
+[[removed.39.file_name]]
+SAFFIRE-III_S1C2_Raw2TIFF_mapped.zip
+
+[[removed.39.organization]]
+shared
+
+[[removed.39.psi_legacy_s3_path]]
+legacy/102400/11441/SAFFIRE-III_S1C2_Raw2TIFF_mapped.zip
+
+[[removed.39.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/SAFFIRE-III_S1C2_Raw2TIFF_mapped.zip
+
+[[removed.39.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7798251/?inline=1&log=1
+
+[[removed.39.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.39.s3_path]]
+psi-data/PSI-100/Raw Data/SAFFIRE-III_S1C2_Raw2TIFF_mapped.zip
+
+[[removed.39.study_id.$oid]]
+6792d422b7b6ff8e650381db
+
+[[removed.39.subcategory]]
+Legacy/SAFFIRE-III S1C2/SAFFIRE_III_S1C2_Raw2TIFF_mapped
+
+[[removed.40.bucket]]
+
+
+[[removed.40.file_name]]
+SAFFIRE-III_S1C2_Raw2TIFF_Map_icmad.zip
+
+[[removed.40.organization]]
+shared
+
+[[removed.40.psi_legacy_s3_path]]
+legacy/102401/11441/SAFFIRE-III_S1C2_Raw2TIFF_Map_icmad.zip
+
+[[removed.40.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/SAFFIRE-III_S1C2_Raw2TIFF_Map_icmad.zip
+
+[[removed.40.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7800018/?inline=1&log=1
+
+[[removed.40.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.40.s3_path]]
+psi-data/PSI-100/Raw Data/SAFFIRE-III_S1C2_Raw2TIFF_Map_icmad.zip
+
+[[removed.40.study_id.$oid]]
+6792d422b7b6ff8e650381db
+
+[[removed.40.subcategory]]
+Legacy/SAFFIRE-III S1C2/SAFFIRE_III_S1C2_Raw2TIFF_Mapped_icmad
+
+[[removed.41.bucket]]
+
+
+[[removed.41.file_name]]
+SAFFIRE-III_S2C2_RAW2TIFF.zip
+
+[[removed.41.organization]]
+shared
+
+[[removed.41.psi_legacy_s3_path]]
+legacy/102406/11441/SAFFIRE-III_S2C2_RAW2TIFF.zip
+
+[[removed.41.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/SAFFIRE-III_S2C2_RAW2TIFF.zip
+
+[[removed.41.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7801785/?inline=1&log=1
+
+[[removed.41.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.41.s3_path]]
+psi-data/PSI-100/Raw Data/SAFFIRE-III_S2C2_RAW2TIFF.zip
+
+[[removed.41.study_id.$oid]]
+6792d422b7b6ff8e650381db
+
+[[removed.41.subcategory]]
+Legacy/SAFFIRE-III S2C2/SAFFIRE_III_S2C2_RAW2TIFF
+
+[[removed.42.bucket]]
+
+
+[[removed.42.file_name]]
+SAFFIRE-III_S2C2_Raw2TIFF_Map_icmad.zip
+
+[[removed.42.organization]]
+shared
+
+[[removed.42.psi_legacy_s3_path]]
+legacy/102410/11441/SAFFIRE-III_S2C2_Raw2TIFF_Map_icmad.zip
+
+[[removed.42.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/SAFFIRE-III_S2C2_Raw2TIFF_Map_icmad.zip
+
+[[removed.42.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7802780/?inline=1&log=1
+
+[[removed.42.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.42.s3_path]]
+psi-data/PSI-100/Raw Data/SAFFIRE-III_S2C2_Raw2TIFF_Map_icmad.zip
+
+[[removed.42.study_id.$oid]]
+6792d422b7b6ff8e650381db
+
+[[removed.42.subcategory]]
+Legacy/SAFFIRE-III S2C2/SAFFIRE_III_S2C2_Raw2TIFF_Mapped_icmad
+
+[[removed.43.bucket]]
+
+
+[[removed.43.file_name]]
+Saffire_Data_Table2017.161.00.42.03-EU.csv
+
+[[removed.43.organization]]
+shared
+
+[[removed.43.psi_legacy_s3_path]]
+legacy/102413/226/Saffire_Data_Table2017.161.00.42.03-EU.csv
+
+[[removed.43.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/Saffire_Data_Table2017.161.00.42.03-EU.csv
+
+[[removed.43.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7810146/?inline=1&log=1
+
+[[removed.43.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.43.s3_path]]
+psi-data/PSI-100/Raw Data/Saffire_Data_Table2017.161.00.42.03-EU.csv
+
+[[removed.43.study_id.$oid]]
+6792d422b7b6ff8e650381db
+
+[[removed.43.subcategory]]
+Legacy/SAFFIRE_III_Data Package Sensor Telemetry
+
+[[removed.44.bucket]]
+
+
+[[removed.44.file_name]]
+Saffire-III Telemetry Data.xlsx
+
+[[removed.44.organization]]
+shared
+
+[[removed.44.psi_legacy_s3_path]]
+legacy/102413/226/Saffire-III Telemetry Data.xlsx
+
+[[removed.44.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/Saffire-III Telemetry Data.xlsx
+
+[[removed.44.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7810147/?inline=1&log=1
+
+[[removed.44.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.44.s3_path]]
+psi-data/PSI-100/Raw Data/Saffire-III Telemetry Data.xlsx
+
+[[removed.44.study_id.$oid]]
+6792d422b7b6ff8e650381db
+
+[[removed.44.subcategory]]
+Legacy/SAFFIRE_III_Data Package Sensor Telemetry
+
+[[removed.45.bucket]]
+
+
+[[removed.45.file_name]]
+Saffire-III 1 Hz Telemetry Data.xlsx
+
+[[removed.45.organization]]
+shared
+
+[[removed.45.psi_legacy_s3_path]]
+legacy/102413/226/Saffire-III 1 Hz Telemetry Data.xlsx
+
+[[removed.45.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/Saffire-III 1 Hz Telemetry Data.xlsx
+
+[[removed.45.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7810148/?inline=1&log=1
+
+[[removed.45.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.45.s3_path]]
+psi-data/PSI-100/Raw Data/Saffire-III 1 Hz Telemetry Data.xlsx
+
+[[removed.45.study_id.$oid]]
+6792d422b7b6ff8e650381db
+
+[[removed.45.subcategory]]
+Legacy/SAFFIRE_III_Data Package Sensor Telemetry
+
+[[removed.46.bucket]]
+
+
+[[removed.46.file_name]]
+Raw telemetry file.csv
+
+[[removed.46.organization]]
+shared
+
+[[removed.46.psi_legacy_s3_path]]
+legacy/102413/226/Raw telemetry file.csv
+
+[[removed.46.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/Raw telemetry file.csv
+
+[[removed.46.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7810366/?inline=1&log=1
+
+[[removed.46.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.46.s3_path]]
+psi-data/PSI-100/Raw Data/Raw telemetry file.csv
+
+[[removed.46.study_id.$oid]]
+6792d422b7b6ff8e650381db
+
+[[removed.46.subcategory]]
+Legacy/SAFFIRE_III_Data Package Sensor Telemetry
+
+[[removed.47.bucket]]
+
+
+[[removed.47.file_name]]
+Saffire_Data_Table2017.161.00.42.03-EU.csv
+
+[[removed.47.organization]]
+shared
+
+[[removed.47.psi_legacy_s3_path]]
+legacy/102413/226/Saffire_Data_Table2017.161.00.42.03-EU.csv
+
+[[removed.47.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/Saffire_Data_Table2017.161.00.42.03-EU.csv
+
+[[removed.47.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7810146/?inline=1&log=1
+
+[[removed.47.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.47.s3_path]]
+psi-data/PSI-100/Raw Data/Saffire_Data_Table2017.161.00.42.03-EU.csv
+
+[[removed.47.study_id.$oid]]
+6792d422b7b6ff8e650381db
+
+[[removed.47.subcategory]]
+Legacy/SAFFIRE_III_Data Package Sensor Telemetry
+
+[[removed.48.bucket]]
+
+
+[[removed.48.file_name]]
+Saffire-III Telemetry Data.xlsx
+
+[[removed.48.organization]]
+shared
+
+[[removed.48.psi_legacy_s3_path]]
+legacy/102413/226/Saffire-III Telemetry Data.xlsx
+
+[[removed.48.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/Saffire-III Telemetry Data.xlsx
+
+[[removed.48.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7810147/?inline=1&log=1
+
+[[removed.48.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.48.s3_path]]
+psi-data/PSI-100/Raw Data/Saffire-III Telemetry Data.xlsx
+
+[[removed.48.study_id.$oid]]
+6792d422b7b6ff8e650381db
+
+[[removed.48.subcategory]]
+Legacy/SAFFIRE_III_Data Package Sensor Telemetry
+
+[[removed.49.bucket]]
+
+
+[[removed.49.file_name]]
+Saffire-III 1 Hz Telemetry Data.xlsx
+
+[[removed.49.organization]]
+shared
+
+[[removed.49.psi_legacy_s3_path]]
+legacy/102413/226/Saffire-III 1 Hz Telemetry Data.xlsx
+
+[[removed.49.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/Saffire-III 1 Hz Telemetry Data.xlsx
+
+[[removed.49.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7810148/?inline=1&log=1
+
+[[removed.49.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.49.s3_path]]
+psi-data/PSI-100/Raw Data/Saffire-III 1 Hz Telemetry Data.xlsx
+
+[[removed.49.study_id.$oid]]
+6792d422b7b6ff8e650381db
+
+[[removed.49.subcategory]]
+Legacy/SAFFIRE_III_Data Package Sensor Telemetry
+
+[[removed.50.bucket]]
+
+
+[[removed.50.file_name]]
+Raw telemetry file.csv
+
+[[removed.50.organization]]
+shared
+
+[[removed.50.psi_legacy_s3_path]]
+legacy/102413/226/Raw telemetry file.csv
+
+[[removed.50.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/Raw telemetry file.csv
+
+[[removed.50.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7810366/?inline=1&log=1
+
+[[removed.50.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.50.s3_path]]
+psi-data/PSI-100/Raw Data/Raw telemetry file.csv
+
+[[removed.50.study_id.$oid]]
+6792d422b7b6ff8e650381db
+
+[[removed.50.subcategory]]
+Legacy/SAFFIRE_III_Data Package Sensor Telemetry
+
+[[removed.51.bucket]]
+
+
+[[removed.51.file_name]]
+Saffire-III Sample 1 Figure for TM.docx
+
+[[removed.51.organization]]
+shared
+
+[[removed.51.psi_legacy_s3_path]]
+legacy/102414/226/Saffire-III Sample 1 Figure for TM.docx
+
+[[removed.51.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/Saffire-III Sample 1 Figure for TM.docx
+
+[[removed.51.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7810696/?inline=1&log=1
+
+[[removed.51.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.51.s3_path]]
+psi-data/PSI-100/Raw Data/Saffire-III Sample 1 Figure for TM.docx
+
+[[removed.51.study_id.$oid]]
+6792d422b7b6ff8e650381db
+
+[[removed.51.subcategory]]
+Legacy/SAFFIRE_III_S1_Data Package Sensor Telemetry
+
+[[removed.52.bucket]]
+
+
+[[removed.52.file_name]]
+Saffire III Sample 1 Sensors.xlsx
+
+[[removed.52.organization]]
+shared
+
+[[removed.52.psi_legacy_s3_path]]
+legacy/102414/226/Saffire III Sample 1 Sensors.xlsx
+
+[[removed.52.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/Saffire III Sample 1 Sensors.xlsx
+
+[[removed.52.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7810697/?inline=1&log=1
+
+[[removed.52.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.52.s3_path]]
+psi-data/PSI-100/Raw Data/Saffire III Sample 1 Sensors.xlsx
+
+[[removed.52.study_id.$oid]]
+6792d422b7b6ff8e650381db
+
+[[removed.52.subcategory]]
+Legacy/SAFFIRE_III_S1_Data Package Sensor Telemetry
+
+[[removed.53.bucket]]
+
+
+[[removed.53.file_name]]
+Saffire_Data_Table2017.161.00.42.03-EU.csv
+
+[[removed.53.organization]]
+shared
+
+[[removed.53.psi_legacy_s3_path]]
+legacy/102413/226/Saffire_Data_Table2017.161.00.42.03-EU.csv
+
+[[removed.53.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/Saffire_Data_Table2017.161.00.42.03-EU.csv
+
+[[removed.53.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7810146/?inline=1&log=1
+
+[[removed.53.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.53.s3_path]]
+psi-data/PSI-100/Raw Data/Saffire_Data_Table2017.161.00.42.03-EU.csv
+
+[[removed.53.study_id.$oid]]
+6792d422b7b6ff8e650381db
+
+[[removed.53.subcategory]]
+Legacy/SAFFIRE_III_Data Package Sensor Telemetry
+
+[[removed.54.bucket]]
+
+
+[[removed.54.file_name]]
+Saffire-III Telemetry Data.xlsx
+
+[[removed.54.organization]]
+shared
+
+[[removed.54.psi_legacy_s3_path]]
+legacy/102413/226/Saffire-III Telemetry Data.xlsx
+
+[[removed.54.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/Saffire-III Telemetry Data.xlsx
+
+[[removed.54.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7810147/?inline=1&log=1
+
+[[removed.54.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.54.s3_path]]
+psi-data/PSI-100/Raw Data/Saffire-III Telemetry Data.xlsx
+
+[[removed.54.study_id.$oid]]
+6792d422b7b6ff8e650381db
+
+[[removed.54.subcategory]]
+Legacy/SAFFIRE_III_Data Package Sensor Telemetry
+
+[[removed.55.bucket]]
+
+
+[[removed.55.file_name]]
+Saffire-III 1 Hz Telemetry Data.xlsx
+
+[[removed.55.organization]]
+shared
+
+[[removed.55.psi_legacy_s3_path]]
+legacy/102413/226/Saffire-III 1 Hz Telemetry Data.xlsx
+
+[[removed.55.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/Saffire-III 1 Hz Telemetry Data.xlsx
+
+[[removed.55.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7810148/?inline=1&log=1
+
+[[removed.55.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.55.s3_path]]
+psi-data/PSI-100/Raw Data/Saffire-III 1 Hz Telemetry Data.xlsx
+
+[[removed.55.study_id.$oid]]
+6792d422b7b6ff8e650381db
+
+[[removed.55.subcategory]]
+Legacy/SAFFIRE_III_Data Package Sensor Telemetry
+
+[[removed.56.bucket]]
+
+
+[[removed.56.file_name]]
+Raw telemetry file.csv
+
+[[removed.56.organization]]
+shared
+
+[[removed.56.psi_legacy_s3_path]]
+legacy/102413/226/Raw telemetry file.csv
+
+[[removed.56.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/Raw telemetry file.csv
+
+[[removed.56.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7810366/?inline=1&log=1
+
+[[removed.56.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.56.s3_path]]
+psi-data/PSI-100/Raw Data/Raw telemetry file.csv
+
+[[removed.56.study_id.$oid]]
+6792d422b7b6ff8e650381db
+
+[[removed.56.subcategory]]
+Legacy/SAFFIRE_III_Data Package Sensor Telemetry
+
+[[removed.57.bucket]]
+
+
+[[removed.57.file_name]]
+Saffire-III Sample 2 Figure for TM.docx
+
+[[removed.57.organization]]
+shared
+
+[[removed.57.psi_legacy_s3_path]]
+legacy/102415/226/Saffire-III Sample 2 Figure for TM.docx
+
+[[removed.57.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/Saffire-III Sample 2 Figure for TM.docx
+
+[[removed.57.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7810704/?inline=1&log=1
+
+[[removed.57.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.57.s3_path]]
+psi-data/PSI-100/Raw Data/Saffire-III Sample 2 Figure for TM.docx
+
+[[removed.57.study_id.$oid]]
+6792d422b7b6ff8e650381db
+
+[[removed.57.subcategory]]
+Legacy/SAFFIRE_III_S2_Data Package Sensor Telemetry
+
+[[removed.58.bucket]]
+
+
+[[removed.58.file_name]]
+Saffire III Sample 2 Sensors.xlsx
+
+[[removed.58.organization]]
+shared
+
+[[removed.58.psi_legacy_s3_path]]
+legacy/102415/226/Saffire III Sample 2 Sensors.xlsx
+
+[[removed.58.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/Saffire III Sample 2 Sensors.xlsx
+
+[[removed.58.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7810705/?inline=1&log=1
+
+[[removed.58.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.58.s3_path]]
+psi-data/PSI-100/Raw Data/Saffire III Sample 2 Sensors.xlsx
+
+[[removed.58.study_id.$oid]]
+6792d422b7b6ff8e650381db
+
+[[removed.58.subcategory]]
+Legacy/SAFFIRE_III_S2_Data Package Sensor Telemetry
+
+[[removed.59.bucket]]
+
+
+[[removed.59.file_name]]
+SAFFIRE_III_S1C1_JPEG_Mapped_part3.zip
+
+[[removed.59.organization]]
+shared
+
+[[removed.59.psi_legacy_s3_path]]
+legacy/102426/11441/SAFFIRE_III_S1C1_JPEG_Mapped_part3.zip
+
+[[removed.59.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/SAFFIRE_III_S1C1_JPEG_Mapped_part3.zip
+
+[[removed.59.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7825083/?inline=1&log=1
+
+[[removed.59.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.59.s3_path]]
+psi-data/PSI-100/Raw Data/SAFFIRE_III_S1C1_JPEG_Mapped_part3.zip
+
+[[removed.59.study_id.$oid]]
+6792d422b7b6ff8e650381db
+
+[[removed.59.subcategory]]
+Legacy/SAFFIRE-III S1C1/SAFFIRE_III_S1C1_jpeg_Mapped
+
+[[removed.60.bucket]]
+
+
+[[removed.60.file_name]]
+SAFFIRE_III_S1C1_JPEG_Mapped_part4.zip
+
+[[removed.60.organization]]
+shared
+
+[[removed.60.psi_legacy_s3_path]]
+legacy/102426/11441/SAFFIRE_III_S1C1_JPEG_Mapped_part4.zip
+
+[[removed.60.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/SAFFIRE_III_S1C1_JPEG_Mapped_part4.zip
+
+[[removed.60.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7825084/?inline=1&log=1
+
+[[removed.60.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.60.s3_path]]
+psi-data/PSI-100/Raw Data/SAFFIRE_III_S1C1_JPEG_Mapped_part4.zip
+
+[[removed.60.study_id.$oid]]
+6792d422b7b6ff8e650381db
+
+[[removed.60.subcategory]]
+Legacy/SAFFIRE-III S1C1/SAFFIRE_III_S1C1_jpeg_Mapped
+
+[[removed.61.bucket]]
+
+
+[[removed.61.file_name]]
+SAFFIRE_III_S1C1_JPEG_Mapped_part1.zip
+
+[[removed.61.organization]]
+shared
+
+[[removed.61.psi_legacy_s3_path]]
+legacy/102426/11441/SAFFIRE_III_S1C1_JPEG_Mapped_part1.zip
+
+[[removed.61.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/SAFFIRE_III_S1C1_JPEG_Mapped_part1.zip
+
+[[removed.61.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7825085/?inline=1&log=1
+
+[[removed.61.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.61.s3_path]]
+psi-data/PSI-100/Raw Data/SAFFIRE_III_S1C1_JPEG_Mapped_part1.zip
+
+[[removed.61.study_id.$oid]]
+6792d422b7b6ff8e650381db
+
+[[removed.61.subcategory]]
+Legacy/SAFFIRE-III S1C1/SAFFIRE_III_S1C1_jpeg_Mapped
+
+[[removed.62.bucket]]
+
+
+[[removed.62.file_name]]
+SAFFIRE_III_S1C1_JPEG_Mapped_part2.zip
+
+[[removed.62.organization]]
+shared
+
+[[removed.62.psi_legacy_s3_path]]
+legacy/102426/11441/SAFFIRE_III_S1C1_JPEG_Mapped_part2.zip
+
+[[removed.62.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/SAFFIRE_III_S1C1_JPEG_Mapped_part2.zip
+
+[[removed.62.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7825086/?inline=1&log=1
+
+[[removed.62.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.62.s3_path]]
+psi-data/PSI-100/Raw Data/SAFFIRE_III_S1C1_JPEG_Mapped_part2.zip
+
+[[removed.62.study_id.$oid]]
+6792d422b7b6ff8e650381db
+
+[[removed.62.subcategory]]
+Legacy/SAFFIRE-III S1C1/SAFFIRE_III_S1C1_jpeg_Mapped
+
+[[removed.63.bucket]]
+
+
+[[removed.63.file_name]]
+SAFFIRE_III_S1C1_jpeg2png_part4.zip
+
+[[removed.63.organization]]
+shared
+
+[[removed.63.psi_legacy_s3_path]]
+legacy/102392/11441/SAFFIRE_III_S1C1_jpeg2png_part4.zip
+
+[[removed.63.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/SAFFIRE_III_S1C1_jpeg2png_part4.zip
+
+[[removed.63.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7825088/?inline=1&log=1
+
+[[removed.63.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.63.s3_path]]
+psi-data/PSI-100/Raw Data/SAFFIRE_III_S1C1_jpeg2png_part4.zip
+
+[[removed.63.study_id.$oid]]
+6792d422b7b6ff8e650381db
+
+[[removed.63.subcategory]]
+Legacy/SAFFIRE-III S1C1/SAFFIRE_III_S1C1_jpeg2png
+
+[[removed.64.bucket]]
+
+
+[[removed.64.file_name]]
+SAFFIRE_III_S1C1_jpeg2png_part1.zip
+
+[[removed.64.organization]]
+shared
+
+[[removed.64.psi_legacy_s3_path]]
+legacy/102392/11441/SAFFIRE_III_S1C1_jpeg2png_part1.zip
+
+[[removed.64.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/SAFFIRE_III_S1C1_jpeg2png_part1.zip
+
+[[removed.64.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7825089/?inline=1&log=1
+
+[[removed.64.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.64.s3_path]]
+psi-data/PSI-100/Raw Data/SAFFIRE_III_S1C1_jpeg2png_part1.zip
+
+[[removed.64.study_id.$oid]]
+6792d422b7b6ff8e650381db
+
+[[removed.64.subcategory]]
+Legacy/SAFFIRE-III S1C1/SAFFIRE_III_S1C1_jpeg2png
+
+[[removed.65.bucket]]
+
+
+[[removed.65.file_name]]
+SAFFIRE_III_S1C1_jpeg2png_part2.zip
+
+[[removed.65.organization]]
+shared
+
+[[removed.65.psi_legacy_s3_path]]
+legacy/102392/11441/SAFFIRE_III_S1C1_jpeg2png_part2.zip
+
+[[removed.65.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/SAFFIRE_III_S1C1_jpeg2png_part2.zip
+
+[[removed.65.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7825090/?inline=1&log=1
+
+[[removed.65.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.65.s3_path]]
+psi-data/PSI-100/Raw Data/SAFFIRE_III_S1C1_jpeg2png_part2.zip
+
+[[removed.65.study_id.$oid]]
+6792d422b7b6ff8e650381db
+
+[[removed.65.subcategory]]
+Legacy/SAFFIRE-III S1C1/SAFFIRE_III_S1C1_jpeg2png
+
+[[removed.66.bucket]]
+
+
+[[removed.66.file_name]]
+SAFFIRE_III_S1C1_jpeg2png_part3.zip
+
+[[removed.66.organization]]
+shared
+
+[[removed.66.psi_legacy_s3_path]]
+legacy/102392/11441/SAFFIRE_III_S1C1_jpeg2png_part3.zip
+
+[[removed.66.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/SAFFIRE_III_S1C1_jpeg2png_part3.zip
+
+[[removed.66.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7825091/?inline=1&log=1
+
+[[removed.66.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.66.s3_path]]
+psi-data/PSI-100/Raw Data/SAFFIRE_III_S1C1_jpeg2png_part3.zip
+
+[[removed.66.study_id.$oid]]
+6792d422b7b6ff8e650381db
+
+[[removed.66.subcategory]]
+Legacy/SAFFIRE-III S1C1/SAFFIRE_III_S1C1_jpeg2png
+
+[[removed.67.bucket]]
+
+
+[[removed.67.file_name]]
+SAFFIRE_III_S1C2_jpeg_part2.zip
+
+[[removed.67.organization]]
+shared
+
+[[removed.67.psi_legacy_s3_path]]
+legacy/102396/11441/SAFFIRE_III_S1C2_jpeg_part2.zip
+
+[[removed.67.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/SAFFIRE_III_S1C2_jpeg_part2.zip
+
+[[removed.67.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7825579/?inline=1&log=1
+
+[[removed.67.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.67.s3_path]]
+psi-data/PSI-100/Raw Data/SAFFIRE_III_S1C2_jpeg_part2.zip
+
+[[removed.67.study_id.$oid]]
+6792d422b7b6ff8e650381db
+
+[[removed.67.subcategory]]
+Legacy/SAFFIRE-III S1C2/SAFFIRE_III_S1C2_jpeg
+
+[[removed.68.bucket]]
+
+
+[[removed.68.file_name]]
+SAFFIRE_III_S1C2_jpeg_part1.zip
+
+[[removed.68.organization]]
+shared
+
+[[removed.68.psi_legacy_s3_path]]
+legacy/102396/11441/SAFFIRE_III_S1C2_jpeg_part1.zip
+
+[[removed.68.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/SAFFIRE_III_S1C2_jpeg_part1.zip
+
+[[removed.68.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7825593/?inline=1&log=1
+
+[[removed.68.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.68.s3_path]]
+psi-data/PSI-100/Raw Data/SAFFIRE_III_S1C2_jpeg_part1.zip
+
+[[removed.68.study_id.$oid]]
+6792d422b7b6ff8e650381db
+
+[[removed.68.subcategory]]
+Legacy/SAFFIRE-III S1C2/SAFFIRE_III_S1C2_jpeg
+
+[[removed.69.bucket]]
+
+
+[[removed.69.file_name]]
+SAFFIRE_III_S1C2_jpeg_part4.zip
+
+[[removed.69.organization]]
+shared
+
+[[removed.69.psi_legacy_s3_path]]
+legacy/102396/11441/SAFFIRE_III_S1C2_jpeg_part4.zip
+
+[[removed.69.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/SAFFIRE_III_S1C2_jpeg_part4.zip
+
+[[removed.69.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7825598/?inline=1&log=1
+
+[[removed.69.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.69.s3_path]]
+psi-data/PSI-100/Raw Data/SAFFIRE_III_S1C2_jpeg_part4.zip
+
+[[removed.69.study_id.$oid]]
+6792d422b7b6ff8e650381db
+
+[[removed.69.subcategory]]
+Legacy/SAFFIRE-III S1C2/SAFFIRE_III_S1C2_jpeg
+
+[[removed.70.bucket]]
+
+
+[[removed.70.file_name]]
+SAFFIRE_III_S1C2_jpeg_part3.zip
+
+[[removed.70.organization]]
+shared
+
+[[removed.70.psi_legacy_s3_path]]
+legacy/102396/11441/SAFFIRE_III_S1C2_jpeg_part3.zip
+
+[[removed.70.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/SAFFIRE_III_S1C2_jpeg_part3.zip
+
+[[removed.70.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7825604/?inline=1&log=1
+
+[[removed.70.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.70.s3_path]]
+psi-data/PSI-100/Raw Data/SAFFIRE_III_S1C2_jpeg_part3.zip
+
+[[removed.70.study_id.$oid]]
+6792d422b7b6ff8e650381db
+
+[[removed.70.subcategory]]
+Legacy/SAFFIRE-III S1C2/SAFFIRE_III_S1C2_jpeg
+
+[[removed.71.bucket]]
+
+
+[[removed.71.file_name]]
+SAFFIRE_III_S1C1_jpeg_part3.zip
+
+[[removed.71.organization]]
+shared
+
+[[removed.71.psi_legacy_s3_path]]
+legacy/102389/11441/SAFFIRE_III_S1C1_jpeg_part3.zip
+
+[[removed.71.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/SAFFIRE_III_S1C1_jpeg_part3.zip
+
+[[removed.71.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7828371/?inline=1&log=1
+
+[[removed.71.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.71.s3_path]]
+psi-data/PSI-100/Raw Data/SAFFIRE_III_S1C1_jpeg_part3.zip
+
+[[removed.71.study_id.$oid]]
+6792d422b7b6ff8e650381db
+
+[[removed.71.subcategory]]
+Legacy/SAFFIRE-III S1C1/SAFFIRE_III_S1C1_jpeg
+
+[[removed.72.bucket]]
+
+
+[[removed.72.file_name]]
+SAFFIRE_III_S1C1_jpeg_part2.zip
+
+[[removed.72.organization]]
+shared
+
+[[removed.72.psi_legacy_s3_path]]
+legacy/102389/11441/SAFFIRE_III_S1C1_jpeg_part2.zip
+
+[[removed.72.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/SAFFIRE_III_S1C1_jpeg_part2.zip
+
+[[removed.72.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7828372/?inline=1&log=1
+
+[[removed.72.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.72.s3_path]]
+psi-data/PSI-100/Raw Data/SAFFIRE_III_S1C1_jpeg_part2.zip
+
+[[removed.72.study_id.$oid]]
+6792d422b7b6ff8e650381db
+
+[[removed.72.subcategory]]
+Legacy/SAFFIRE-III S1C1/SAFFIRE_III_S1C1_jpeg
+
+[[removed.73.bucket]]
+
+
+[[removed.73.file_name]]
+SAFFIRE_III_S1C1_jpeg_part1.zip
+
+[[removed.73.organization]]
+shared
+
+[[removed.73.psi_legacy_s3_path]]
+legacy/102389/11441/SAFFIRE_III_S1C1_jpeg_part1.zip
+
+[[removed.73.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/SAFFIRE_III_S1C1_jpeg_part1.zip
+
+[[removed.73.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7828373/?inline=1&log=1
+
+[[removed.73.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.73.s3_path]]
+psi-data/PSI-100/Raw Data/SAFFIRE_III_S1C1_jpeg_part1.zip
+
+[[removed.73.study_id.$oid]]
+6792d422b7b6ff8e650381db
+
+[[removed.73.subcategory]]
+Legacy/SAFFIRE-III S1C1/SAFFIRE_III_S1C1_jpeg
+
+[[removed.74.bucket]]
+
+
+[[removed.74.file_name]]
+SAFFIRE_III_S1C1_jpeg_part4.zip
+
+[[removed.74.organization]]
+shared
+
+[[removed.74.psi_legacy_s3_path]]
+legacy/102389/11441/SAFFIRE_III_S1C1_jpeg_part4.zip
+
+[[removed.74.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/SAFFIRE_III_S1C1_jpeg_part4.zip
+
+[[removed.74.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7828374/?inline=1&log=1
+
+[[removed.74.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.74.s3_path]]
+psi-data/PSI-100/Raw Data/SAFFIRE_III_S1C1_jpeg_part4.zip
+
+[[removed.74.study_id.$oid]]
+6792d422b7b6ff8e650381db
+
+[[removed.74.subcategory]]
+Legacy/SAFFIRE-III S1C1/SAFFIRE_III_S1C1_jpeg
+
+[[removed.75.bucket]]
+
+
+[[removed.75.file_name]]
+SAFFIRE_III_S1C2_JPEG_Mapped_Part2.zip
+
+[[removed.75.organization]]
+shared
+
+[[removed.75.psi_legacy_s3_path]]
+legacy/102398/11441/SAFFIRE_III_S1C2_JPEG_Mapped_Part2.zip
+
+[[removed.75.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/SAFFIRE_III_S1C2_JPEG_Mapped_Part2.zip
+
+[[removed.75.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7828800/?inline=1&log=1
+
+[[removed.75.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.75.s3_path]]
+psi-data/PSI-100/Raw Data/SAFFIRE_III_S1C2_JPEG_Mapped_Part2.zip
+
+[[removed.75.study_id.$oid]]
+6792d422b7b6ff8e650381db
+
+[[removed.75.subcategory]]
+Legacy/SAFFIRE-III S1C2/SAFFIRE_III_S1C2_JPEG_Mapped
+
+[[removed.76.bucket]]
+
+
+[[removed.76.file_name]]
+SAFFIRE_III_S1C2_JPEG_Mapped_part1.zip
+
+[[removed.76.organization]]
+shared
+
+[[removed.76.psi_legacy_s3_path]]
+legacy/102398/11441/SAFFIRE_III_S1C2_JPEG_Mapped_part1.zip
+
+[[removed.76.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/SAFFIRE_III_S1C2_JPEG_Mapped_part1.zip
+
+[[removed.76.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7828801/?inline=1&log=1
+
+[[removed.76.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.76.s3_path]]
+psi-data/PSI-100/Raw Data/SAFFIRE_III_S1C2_JPEG_Mapped_part1.zip
+
+[[removed.76.study_id.$oid]]
+6792d422b7b6ff8e650381db
+
+[[removed.76.subcategory]]
+Legacy/SAFFIRE-III S1C2/SAFFIRE_III_S1C2_JPEG_Mapped
+
+[[removed.77.bucket]]
+
+
+[[removed.77.file_name]]
+SAFFIRE_III_S1C2_JPEG_Mapped_Part4.zip
+
+[[removed.77.organization]]
+shared
+
+[[removed.77.psi_legacy_s3_path]]
+legacy/102398/11441/SAFFIRE_III_S1C2_JPEG_Mapped_Part4.zip
+
+[[removed.77.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/SAFFIRE_III_S1C2_JPEG_Mapped_Part4.zip
+
+[[removed.77.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7828802/?inline=1&log=1
+
+[[removed.77.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.77.s3_path]]
+psi-data/PSI-100/Raw Data/SAFFIRE_III_S1C2_JPEG_Mapped_Part4.zip
+
+[[removed.77.study_id.$oid]]
+6792d422b7b6ff8e650381db
+
+[[removed.77.subcategory]]
+Legacy/SAFFIRE-III S1C2/SAFFIRE_III_S1C2_JPEG_Mapped
+
+[[removed.78.bucket]]
+
+
+[[removed.78.file_name]]
+SAFFIRE_III_S1C2_JPEG_Mapped_Part3.zip
+
+[[removed.78.organization]]
+shared
+
+[[removed.78.psi_legacy_s3_path]]
+legacy/102398/11441/SAFFIRE_III_S1C2_JPEG_Mapped_Part3.zip
+
+[[removed.78.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/SAFFIRE_III_S1C2_JPEG_Mapped_Part3.zip
+
+[[removed.78.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7828803/?inline=1&log=1
+
+[[removed.78.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.78.s3_path]]
+psi-data/PSI-100/Raw Data/SAFFIRE_III_S1C2_JPEG_Mapped_Part3.zip
+
+[[removed.78.study_id.$oid]]
+6792d422b7b6ff8e650381db
+
+[[removed.78.subcategory]]
+Legacy/SAFFIRE-III S1C2/SAFFIRE_III_S1C2_JPEG_Mapped
+
+[[removed.79.bucket]]
+
+
+[[removed.79.file_name]]
+SAFFIRE_III_S1C2_jpeg2png_part3.zip
+
+[[removed.79.organization]]
+shared
+
+[[removed.79.psi_legacy_s3_path]]
+legacy/102399/11441/SAFFIRE_III_S1C2_jpeg2png_part3.zip
+
+[[removed.79.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/SAFFIRE_III_S1C2_jpeg2png_part3.zip
+
+[[removed.79.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7831263/?inline=1&log=1
+
+[[removed.79.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.79.s3_path]]
+psi-data/PSI-100/Raw Data/SAFFIRE_III_S1C2_jpeg2png_part3.zip
+
+[[removed.79.study_id.$oid]]
+6792d422b7b6ff8e650381db
+
+[[removed.79.subcategory]]
+Legacy/SAFFIRE-III S1C2/SAFFIRE_III_S1C2_jpeg2png
+
+[[removed.80.bucket]]
+
+
+[[removed.80.file_name]]
+SAFFIRE_III_S1C2_jpeg2png_part1.zip
+
+[[removed.80.organization]]
+shared
+
+[[removed.80.psi_legacy_s3_path]]
+legacy/102399/11441/SAFFIRE_III_S1C2_jpeg2png_part1.zip
+
+[[removed.80.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/SAFFIRE_III_S1C2_jpeg2png_part1.zip
+
+[[removed.80.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7831264/?inline=1&log=1
+
+[[removed.80.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.80.s3_path]]
+psi-data/PSI-100/Raw Data/SAFFIRE_III_S1C2_jpeg2png_part1.zip
+
+[[removed.80.study_id.$oid]]
+6792d422b7b6ff8e650381db
+
+[[removed.80.subcategory]]
+Legacy/SAFFIRE-III S1C2/SAFFIRE_III_S1C2_jpeg2png
+
+[[removed.81.bucket]]
+
+
+[[removed.81.file_name]]
+SAFFIRE_III_S1C2_jpeg2png_part2.zip
+
+[[removed.81.organization]]
+shared
+
+[[removed.81.psi_legacy_s3_path]]
+legacy/102399/11441/SAFFIRE_III_S1C2_jpeg2png_part2.zip
+
+[[removed.81.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/SAFFIRE_III_S1C2_jpeg2png_part2.zip
+
+[[removed.81.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7831265/?inline=1&log=1
+
+[[removed.81.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.81.s3_path]]
+psi-data/PSI-100/Raw Data/SAFFIRE_III_S1C2_jpeg2png_part2.zip
+
+[[removed.81.study_id.$oid]]
+6792d422b7b6ff8e650381db
+
+[[removed.81.subcategory]]
+Legacy/SAFFIRE-III S1C2/SAFFIRE_III_S1C2_jpeg2png
+
+[[removed.82.bucket]]
+
+
+[[removed.82.file_name]]
+SAFFIRE_III_S1C2_jpeg2png_part4.zip
+
+[[removed.82.organization]]
+shared
+
+[[removed.82.psi_legacy_s3_path]]
+legacy/102399/11441/SAFFIRE_III_S1C2_jpeg2png_part4.zip
+
+[[removed.82.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/SAFFIRE_III_S1C2_jpeg2png_part4.zip
+
+[[removed.82.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7831266/?inline=1&log=1
+
+[[removed.82.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.82.s3_path]]
+psi-data/PSI-100/Raw Data/SAFFIRE_III_S1C2_jpeg2png_part4.zip
+
+[[removed.82.study_id.$oid]]
+6792d422b7b6ff8e650381db
+
+[[removed.82.subcategory]]
+Legacy/SAFFIRE-III S1C2/SAFFIRE_III_S1C2_jpeg2png
+
+[[removed.83.bucket]]
+
+
+[[removed.83.file_name]]
+SAFFIRE-III_S2C1_S2_jpeg.zip
+
+[[removed.83.organization]]
+shared
+
+[[removed.83.psi_legacy_s3_path]]
+legacy/102402/11441/SAFFIRE-III_S2C1_S2_jpeg.zip
+
+[[removed.83.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/SAFFIRE-III_S2C1_S2_jpeg.zip
+
+[[removed.83.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7831267/?inline=1&log=1
+
+[[removed.83.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.83.s3_path]]
+psi-data/PSI-100/Raw Data/SAFFIRE-III_S2C1_S2_jpeg.zip
+
+[[removed.83.study_id.$oid]]
+6792d422b7b6ff8e650381db
+
+[[removed.83.subcategory]]
+Legacy/SAFFIRE-III S2C1/SAFFIRE_III_S2C1_jpeg
+
+[[removed.84.bucket]]
+
+
+[[removed.84.file_name]]
+SAFFIRE-III_S2C1_JPEG_Mapped.zip
+
+[[removed.84.organization]]
+shared
+
+[[removed.84.psi_legacy_s3_path]]
+legacy/102403/11441/SAFFIRE-III_S2C1_JPEG_Mapped.zip
+
+[[removed.84.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/SAFFIRE-III_S2C1_JPEG_Mapped.zip
+
+[[removed.84.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7831269/?inline=1&log=1
+
+[[removed.84.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.84.s3_path]]
+psi-data/PSI-100/Raw Data/SAFFIRE-III_S2C1_JPEG_Mapped.zip
+
+[[removed.84.study_id.$oid]]
+6792d422b7b6ff8e650381db
+
+[[removed.84.subcategory]]
+Legacy/SAFFIRE-III S2C1/SAFFIRE_III_S2C1_JPEG_Mapped
+
+[[removed.85.bucket]]
+
+
+[[removed.85.file_name]]
+SAFFIRE-III_S2C1_jpeg2png.zip
+
+[[removed.85.organization]]
+shared
+
+[[removed.85.psi_legacy_s3_path]]
+legacy/102404/11441/SAFFIRE-III_S2C1_jpeg2png.zip
+
+[[removed.85.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/SAFFIRE-III_S2C1_jpeg2png.zip
+
+[[removed.85.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7831270/?inline=1&log=1
+
+[[removed.85.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.85.s3_path]]
+psi-data/PSI-100/Raw Data/SAFFIRE-III_S2C1_jpeg2png.zip
+
+[[removed.85.study_id.$oid]]
+6792d422b7b6ff8e650381db
+
+[[removed.85.subcategory]]
+Legacy/SAFFIRE-III S2C1/SAFFIRE_III_S2C1_jpeg2png
+
+[[removed.86.bucket]]
+
+
+[[removed.86.file_name]]
+SAFFIRE-III_S2C2_S2_jpeg.zip
+
+[[removed.86.organization]]
+shared
+
+[[removed.86.psi_legacy_s3_path]]
+legacy/102405/11441/SAFFIRE-III_S2C2_S2_jpeg.zip
+
+[[removed.86.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/SAFFIRE-III_S2C2_S2_jpeg.zip
+
+[[removed.86.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7831271/?inline=1&log=1
+
+[[removed.86.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.86.s3_path]]
+psi-data/PSI-100/Raw Data/SAFFIRE-III_S2C2_S2_jpeg.zip
+
+[[removed.86.study_id.$oid]]
+6792d422b7b6ff8e650381db
+
+[[removed.86.subcategory]]
+Legacy/SAFFIRE-III S2C2/SAFFIRE_III_S2C2_jpeg
+
+[[removed.87.bucket]]
+
+
+[[removed.87.file_name]]
+SAFFIRE-III_S2C2_JPEG_Mapped.zip
+
+[[removed.87.organization]]
+shared
+
+[[removed.87.psi_legacy_s3_path]]
+legacy/102407/11441/SAFFIRE-III_S2C2_JPEG_Mapped.zip
+
+[[removed.87.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/SAFFIRE-III_S2C2_JPEG_Mapped.zip
+
+[[removed.87.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7831273/?inline=1&log=1
+
+[[removed.87.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.87.s3_path]]
+psi-data/PSI-100/Raw Data/SAFFIRE-III_S2C2_JPEG_Mapped.zip
+
+[[removed.87.study_id.$oid]]
+6792d422b7b6ff8e650381db
+
+[[removed.87.subcategory]]
+Legacy/SAFFIRE-III S2C2/SAFFIRE_III_S2C2_JPEG_Mapped
+
+[[removed.88.bucket]]
+
+
+[[removed.88.file_name]]
+SAFFIRE-III_S2C2_jpeg2png.zip
+
+[[removed.88.organization]]
+shared
+
+[[removed.88.psi_legacy_s3_path]]
+legacy/102408/11441/SAFFIRE-III_S2C2_jpeg2png.zip
+
+[[removed.88.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/SAFFIRE-III_S2C2_jpeg2png.zip
+
+[[removed.88.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7831274/?inline=1&log=1
+
+[[removed.88.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.88.s3_path]]
+psi-data/PSI-100/Raw Data/SAFFIRE-III_S2C2_jpeg2png.zip
+
+[[removed.88.study_id.$oid]]
+6792d422b7b6ff8e650381db
+
+[[removed.88.subcategory]]
+Legacy/SAFFIRE-III S2C2/SAFFIRE_III_S2C2_jpeg2png
+
+[[removed.89.bucket]]
+
+
+[[removed.89.file_name]]
+SAFFIRE-III_S2C2_Raw2TIFF_Mapped.zip
+
+[[removed.89.organization]]
+shared
+
+[[removed.89.psi_legacy_s3_path]]
+legacy/102409/11441/SAFFIRE-III_S2C2_Raw2TIFF_Mapped.zip
+
+[[removed.89.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/SAFFIRE-III_S2C2_Raw2TIFF_Mapped.zip
+
+[[removed.89.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7832269/?inline=1&log=1
+
+[[removed.89.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.89.s3_path]]
+psi-data/PSI-100/Raw Data/SAFFIRE-III_S2C2_Raw2TIFF_Mapped.zip
+
+[[removed.89.study_id.$oid]]
+6792d422b7b6ff8e650381db
+
+[[removed.89.subcategory]]
+Legacy/SAFFIRE-III S2C2/SAFFIRE_III_S2C2_Raw2TIFF_Mapped
+
+[[removed.90.bucket]]
+
+
+[[removed.90.date_created]]
+
+
+[[removed.90.file_name]]
+SAFFIRE-III_Update_Log_Final.pdf
+
+[[removed.90.organization]]
+shared
+
+[[removed.90.psi_legacy_s3_path]]
+legacy/102178/10430/SAFFIRE-III_Update_Log_Final.pdf
+
+[[removed.90.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/SAFFIRE-III_Update_Log_Final.pdf
+
+[[removed.90.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7837566/?inline=1&log=1
+
+[[removed.90.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.90.s3_path]]
+psi-data/PSI-100/Raw Data/SAFFIRE-III_Update_Log_Final.pdf
+
+[[removed.90.study_id.$oid]]
+6792d422b7b6ff8e650381db
+
+[[removed.90.subcategory]]
+Legacy/
+
+[[removed.91.bucket]]
+
+
+[[removed.91.date_created]]
+
+
+[[removed.91.file_name]]
+SAFFIRE-III Image Directory Nomenclature_v3.0.pdf
+
+[[removed.91.organization]]
+shared
+
+[[removed.91.psi_legacy_s3_path]]
+legacy/102178/10430/SAFFIRE-III Image Directory Nomenclature_v3.0.pdf
+
+[[removed.91.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/SAFFIRE-III Image Directory Nomenclature_v3.0.pdf
+
+[[removed.91.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7837567/?inline=1&log=1
+
+[[removed.91.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.91.s3_path]]
+psi-data/PSI-100/Raw Data/SAFFIRE-III Image Directory Nomenclature_v3.0.pdf
+
+[[removed.91.study_id.$oid]]
+6792d422b7b6ff8e650381db
+
+[[removed.91.subcategory]]
+Legacy/
+
+[[removed.92.bucket]]
+
+
+[[removed.92.date_created]]
+
+
+[[removed.92.file_name]]
+SAFFIRE-III_MergeResult-raw_Final.xlsx
+
+[[removed.92.organization]]
+shared
+
+[[removed.92.psi_legacy_s3_path]]
+legacy/102178/10430/SAFFIRE-III_MergeResult-raw_Final.xlsx
+
+[[removed.92.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/SAFFIRE-III_MergeResult-raw_Final.xlsx
+
+[[removed.92.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7837568/?inline=1&log=1
+
+[[removed.92.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.92.s3_path]]
+psi-data/PSI-100/Raw Data/SAFFIRE-III_MergeResult-raw_Final.xlsx
+
+[[removed.92.study_id.$oid]]
+6792d422b7b6ff8e650381db
+
+[[removed.92.subcategory]]
+Legacy/
+
+[[removed.93.bucket]]
+
+
+[[removed.93.date_created]]
+
+
+[[removed.93.file_name]]
+SAFFIRE-III_MergeResult-jpeg_Final.xlsx
+
+[[removed.93.organization]]
+shared
+
+[[removed.93.psi_legacy_s3_path]]
+legacy/102178/10430/SAFFIRE-III_MergeResult-jpeg_Final.xlsx
+
+[[removed.93.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/SAFFIRE-III_MergeResult-jpeg_Final.xlsx
+
+[[removed.93.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7837569/?inline=1&log=1
+
+[[removed.93.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.93.s3_path]]
+psi-data/PSI-100/Raw Data/SAFFIRE-III_MergeResult-jpeg_Final.xlsx
+
+[[removed.93.study_id.$oid]]
+6792d422b7b6ff8e650381db
+
+[[removed.93.subcategory]]
+Legacy/
+
+[[removed.94.bucket]]
+
+
+[[removed.94.date_created]]
+
+
+[[removed.94.file_name]]
+SAFFIRE Objectives, Development and Status.pdf
+
+[[removed.94.organization]]
+shared
+
+[[removed.94.psi_legacy_s3_path]]
+legacy/102178/10430/SAFFIRE Objectives, Development and Status.pdf
+
+[[removed.94.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/SAFFIRE Objectives, Development and Status.pdf
+
+[[removed.94.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7882760/?inline=1&log=1
+
+[[removed.94.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.94.s3_path]]
+psi-data/PSI-100/Raw Data/SAFFIRE Objectives, Development and Status.pdf
+
+[[removed.94.study_id.$oid]]
+6792d422b7b6ff8e650381db
+
+[[removed.94.subcategory]]
+Legacy/
+
+[[removed.95.bucket]]
+
+
+[[removed.95.date_created]]
+
+
+[[removed.95.file_name]]
+SAFFIRE-I and SAFFIRE-III DoD.docx
+
+[[removed.95.organization]]
+shared
+
+[[removed.95.psi_legacy_s3_path]]
+legacy/102178/11572/SAFFIRE-I and SAFFIRE-III DoD.docx
+
+[[removed.95.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/SAFFIRE-I and SAFFIRE-III DoD.docx
+
+[[removed.95.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/10441959/?inline=1&log=1
+
+[[removed.95.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.95.s3_path]]
+psi-data/PSI-100/Raw Data/SAFFIRE-I and SAFFIRE-III DoD.docx
+
+[[removed.95.study_id.$oid]]
+6792d422b7b6ff8e650381db
+
+[[removed.95.subcategory]]
+Legacy/
+
+[[removed.96.bucket]]
+
+
+[[removed.96.date_created]]
+
+
+[[removed.96.file_name]]
+SAFFIRE-III Operations.pdf
+
+[[removed.96.organization]]
+shared
+
+[[removed.96.psi_legacy_s3_path]]
+legacy/102178/22141/SAFFIRE-III Operations.pdf
+
+[[removed.96.remote_path]]
+/Home/psi-data/PSI-100/Raw Data/SAFFIRE-III Operations.pdf
+
+[[removed.96.remote_url]]
+https://psi.ndc.nasa.gov/mpglobal/api/athena/file/10506314/?inline=1&log=1
+
+[[removed.96.resource_id.$oid]]
+65e739c18e263688e9f9200d
+
+[[removed.96.s3_path]]
+psi-data/PSI-100/Raw Data/SAFFIRE-III Operations.pdf
+
+[[removed.96.study_id.$oid]]
+6792d422b7b6ff8e650381db
+
+[[removed.96.subcategory]]
+Legacy/
+
+[[researchArea]]
+Combustion Science
+
+[[researchImpacts]]
+The Saffire-I experiment provides a new way to study a realistic fire on an exploration vehicle, which has not been possible in the past because the risks are too high. Instruments on an unmanned cargo vessel measure oxygen, carbon dioxide, heat, pressure and flame growth, and two video cameras provide views of the flame. Results determine microgravity flammability limits for several spacecraft materials, help to validate NASA’s material selection criteria, and how microgravity and limited oxygen affect flame size. The investigation is crucial for the safety of current and future space missions. Studying fire in small, sealed environments such as the Cygnus cargo supply vehicle benefits fire safety and prevention efforts on Earth, including inside mines, airplanes, or submarines.
+
+[[sourceAccession]]
+
+
+[[sourceLink]]
+
+
+[[spaceProgram]]
+National Aeronautics and Space Administration (NASA)
+
+[[subResearchArea]]
+Spacecraft Fire Safety
+
+[[submissionDate]]
+18-Sep-2024
+
+[[title]]
+Spacecraft Fire Experiment-III
+
+[[versionMessage]]
+
+
+[[versionMessageLevel]]
+
+
+[[versionReason]]
+Metadata update

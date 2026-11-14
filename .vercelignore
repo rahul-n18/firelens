@@ -1,0 +1,24 @@
+node_modules/
+
+# Local-only PDFs and their full-text extractions
+/corpus/raw/NIST-SAME.pdf
+/corpus/raw/SPICE-FSJ.pdf
+/corpus/raw/UMD-DOTSON.pdf
+/corpus/raw/UMD-DEBOLD.pdf
+/corpus/text/NIST-SAME.txt
+/corpus/text/SAE-2009-01-2468.txt
+/corpus/text/SPICE-FSJ.txt
+/corpus/text/UMD-DOTSON.txt
+/corpus/text/UMD-DEBOLD.txt
+
+/.next/
+/out/
+/.vercel/
+/next-env.d.ts
+*.tsbuildinfo
+.env*
+/playwright-report/
+/test-results/
+/.git/
+/artifacts/
+/e2e/

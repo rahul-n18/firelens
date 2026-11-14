@@ -1,0 +1,944 @@
+[[accession]]
+PSI-117
+
+[[acknowledgments]]
+
+
+[[added.0.bucket]]
+psi-repo-prod
+
+[[added.0.file_name]]
+PSI-117_Presentations_PSI_Users_Group_Cool_Flames_in_Space_03302026.pdf
+
+[[added.0.organization]]
+shared
+
+[[added.0.remote_path]]
+/Home/psi-data/PSI-117/Presentations/PSI-117_Presentations_PSI_Users_Group_Cool_Flames_in_Space_03302026.pdf
+
+[[added.0.remote_url]]
+/datamanager/file/Home/psi-data/PSI-117/Presentations/PSI-117_Presentations_PSI_Users_Group_Cool_Flames_in_Space_03302026.pdf
+
+[[added.0.resource_id.$oid]]
+65f8b34f2ec0b0961f8fa20b
+
+[[added.0.s3_path]]
+psi-data/PSI-117/Presentations/PSI-117_Presentations_PSI_Users_Group_Cool_Flames_in_Space_03302026.pdf
+
+[[added.0.s3_version_id]]
+fMCgkeONlgo4vN_90yP19WABjTHbC6Ih
+
+[[added.0.study_id.$oid]]
+6a28273bd9d7246402cb43ee
+
+[[added.0.subcategory]]
+
+
+[[added.1.bucket]]
+psi-repo-prod
+
+[[added.1.file_name]]
+PSI-117_Presentations_Extinction_Characteristics_TFarouk.pdf
+
+[[added.1.organization]]
+shared
+
+[[added.1.remote_path]]
+/Home/psi-data/PSI-117/Presentations/PSI-117_Presentations_Extinction_Characteristics_TFarouk.pdf
+
+[[added.1.remote_url]]
+/datamanager/file/Home/psi-data/PSI-117/Presentations/PSI-117_Presentations_Extinction_Characteristics_TFarouk.pdf
+
+[[added.1.resource_id.$oid]]
+65f8b34f2ec0b0961f8fa20b
+
+[[added.1.s3_path]]
+psi-data/PSI-117/Presentations/PSI-117_Presentations_Extinction_Characteristics_TFarouk.pdf
+
+[[added.1.s3_version_id]]
+IObWEjBsJcQ12yDntCby1RoTsd.7QYmG
+
+[[added.1.study_id.$oid]]
+6a28273bd9d7246402cb43ee
+
+[[added.1.subcategory]]
+
+
+[[added.2.bucket]]
+psi-repo-prod
+
+[[added.2.file_name]]
+PSI-117_Presentations_Oscillatory_Cool Flame_TFarouk.pdf
+
+[[added.2.organization]]
+shared
+
+[[added.2.remote_path]]
+/Home/psi-data/PSI-117/Presentations/PSI-117_Presentations_Oscillatory_Cool Flame_TFarouk.pdf
+
+[[added.2.remote_url]]
+/datamanager/file/Home/psi-data/PSI-117/Presentations/PSI-117_Presentations_Oscillatory_Cool Flame_TFarouk.pdf
+
+[[added.2.resource_id.$oid]]
+65f8b34f2ec0b0961f8fa20b
+
+[[added.2.s3_path]]
+psi-data/PSI-117/Presentations/PSI-117_Presentations_Oscillatory_Cool Flame_TFarouk.pdf
+
+[[added.2.s3_version_id]]
+EWF7PPAH12RD0FvgA8kgJpEBA1anTJAw
+
+[[added.2.study_id.$oid]]
+6a28273bd9d7246402cb43ee
+
+[[added.2.subcategory]]
+
+
+[[added.3.bucket]]
+psi-repo-prod
+
+[[added.3.file_name]]
+PSI-117_Presentations_Three_Stage_Cool_Flame_TFarouk.pdf
+
+[[added.3.organization]]
+shared
+
+[[added.3.remote_path]]
+/Home/psi-data/PSI-117/Presentations/PSI-117_Presentations_Three_Stage_Cool_Flame_TFarouk.pdf
+
+[[added.3.remote_url]]
+/datamanager/file/Home/psi-data/PSI-117/Presentations/PSI-117_Presentations_Three_Stage_Cool_Flame_TFarouk.pdf
+
+[[added.3.resource_id.$oid]]
+65f8b34f2ec0b0961f8fa20b
+
+[[added.3.s3_path]]
+psi-data/PSI-117/Presentations/PSI-117_Presentations_Three_Stage_Cool_Flame_TFarouk.pdf
+
+[[added.3.s3_version_id]]
+7DYZgSsh7PWkMsvxdlPqm255TtF.bZOI
+
+[[added.3.study_id.$oid]]
+6a28273bd9d7246402cb43ee
+
+[[added.3.subcategory]]
+
+
+[[added.4.bucket]]
+psi-repo-prod
+
+[[added.4.file_name]]
+PSI-117_Analyzed Data_ReadMe_List_of_Data.xlsx
+
+[[added.4.organization]]
+shared
+
+[[added.4.remote_path]]
+/Home/psi-data/PSI-117/Analyzed Data/PSI-117_Analyzed Data_ReadMe_List_of_Data.xlsx
+
+[[added.4.remote_url]]
+/datamanager/file/Home/psi-data/PSI-117/Analyzed Data/PSI-117_Analyzed Data_ReadMe_List_of_Data.xlsx
+
+[[added.4.resource_id.$oid]]
+65e737ee8e263688e9f9200c
+
+[[added.4.s3_path]]
+psi-data/PSI-117/Analyzed Data/PSI-117_Analyzed Data_ReadMe_List_of_Data.xlsx
+
+[[added.4.s3_version_id]]
+2zzv02EMYFpTEDaObBKbwI.qB.EAFIah
+
+[[added.4.study_id.$oid]]
+6a28273bd9d7246402cb43ee
+
+[[added.4.subcategory]]
+Reduced Gravity/Simulation
+
+[[added.5.bucket]]
+psi-repo-prod
+
+[[added.5.file_name]]
+PSI-117_Analyzed Data_PROCI_2023_Alkane_Extinction_Diameter_1atm.csv
+
+[[added.5.organization]]
+shared
+
+[[added.5.remote_path]]
+/Home/psi-data/PSI-117/Analyzed Data/PSI-117_Analyzed Data_PROCI_2023_Alkane_Extinction_Diameter_1atm.csv
+
+[[added.5.remote_url]]
+/datamanager/file/Home/psi-data/PSI-117/Analyzed Data/PSI-117_Analyzed Data_PROCI_2023_Alkane_Extinction_Diameter_1atm.csv
+
+[[added.5.resource_id.$oid]]
+65e737ee8e263688e9f9200c
+
+[[added.5.s3_path]]
+psi-data/PSI-117/Analyzed Data/PSI-117_Analyzed Data_PROCI_2023_Alkane_Extinction_Diameter_1atm.csv
+
+[[added.5.s3_version_id]]
+Yq.x.FoE43qxm9QxhG22boz_PWMZZoFc
+
+[[added.5.study_id.$oid]]
+6a28273bd9d7246402cb43ee
+
+[[added.5.subcategory]]
+Reduced Gravity/Simulation/PROC1
+
+[[added.6.bucket]]
+psi-repo-prod
+
+[[added.6.file_name]]
+PSI-117_Analyzed Data_PROCI_2019_Oscillatory_Cool_Flame.csv
+
+[[added.6.organization]]
+shared
+
+[[added.6.remote_path]]
+/Home/psi-data/PSI-117/Analyzed Data/PSI-117_Analyzed Data_PROCI_2019_Oscillatory_Cool_Flame.csv
+
+[[added.6.remote_url]]
+/datamanager/file/Home/psi-data/PSI-117/Analyzed Data/PSI-117_Analyzed Data_PROCI_2019_Oscillatory_Cool_Flame.csv
+
+[[added.6.resource_id.$oid]]
+65e737ee8e263688e9f9200c
+
+[[added.6.s3_path]]
+psi-data/PSI-117/Analyzed Data/PSI-117_Analyzed Data_PROCI_2019_Oscillatory_Cool_Flame.csv
+
+[[added.6.s3_version_id]]
+qJGeI74TYHxDUWgTX_DCJ8tIes_2uTJW
+
+[[added.6.study_id.$oid]]
+6a28273bd9d7246402cb43ee
+
+[[added.6.subcategory]]
+Reduced Gravity/Simulation/PROC1
+
+[[added.7.bucket]]
+psi-repo-prod
+
+[[added.7.file_name]]
+PSI-117_Analyzed Data_PROCI_2023_C12_Extinction_Diameter_vs_pressure.csv
+
+[[added.7.organization]]
+shared
+
+[[added.7.remote_path]]
+/Home/psi-data/PSI-117/Analyzed Data/PSI-117_Analyzed Data_PROCI_2023_C12_Extinction_Diameter_vs_pressure.csv
+
+[[added.7.remote_url]]
+/datamanager/file/Home/psi-data/PSI-117/Analyzed Data/PSI-117_Analyzed Data_PROCI_2023_C12_Extinction_Diameter_vs_pressure.csv
+
+[[added.7.resource_id.$oid]]
+65e737ee8e263688e9f9200c
+
+[[added.7.s3_path]]
+psi-data/PSI-117/Analyzed Data/PSI-117_Analyzed Data_PROCI_2023_C12_Extinction_Diameter_vs_pressure.csv
+
+[[added.7.s3_version_id]]
+lYFTUWmEO3nWDSNNJs0GO5qfsri9tn7k
+
+[[added.7.study_id.$oid]]
+6a28273bd9d7246402cb43ee
+
+[[added.7.subcategory]]
+Reduced Gravity/Simulation/PROC1
+
+[[added.8.bucket]]
+psi-repo-prod
+
+[[added.8.file_name]]
+PSI-117_Analyzed Data_PROCI_2019_Stable_Cool.csv
+
+[[added.8.organization]]
+shared
+
+[[added.8.remote_path]]
+/Home/psi-data/PSI-117/Analyzed Data/PSI-117_Analyzed Data_PROCI_2019_Stable_Cool.csv
+
+[[added.8.remote_url]]
+/datamanager/file/Home/psi-data/PSI-117/Analyzed Data/PSI-117_Analyzed Data_PROCI_2019_Stable_Cool.csv
+
+[[added.8.resource_id.$oid]]
+65e737ee8e263688e9f9200c
+
+[[added.8.s3_path]]
+psi-data/PSI-117/Analyzed Data/PSI-117_Analyzed Data_PROCI_2019_Stable_Cool.csv
+
+[[added.8.s3_version_id]]
+8KmCGlIfi3IcdL3X1rg0y3ReUiXD2xpz
+
+[[added.8.study_id.$oid]]
+6a28273bd9d7246402cb43ee
+
+[[added.8.subcategory]]
+Reduced Gravity/Simulation/PROC1
+
+[[added.9.bucket]]
+psi-repo-prod
+
+[[added.9.file_name]]
+PSI-117_Analyzed Data_PROCI_C12_2019_Three_Stage.csv
+
+[[added.9.organization]]
+shared
+
+[[added.9.remote_path]]
+/Home/psi-data/PSI-117/Analyzed Data/PSI-117_Analyzed Data_PROCI_C12_2019_Three_Stage.csv
+
+[[added.9.remote_url]]
+/datamanager/file/Home/psi-data/PSI-117/Analyzed Data/PSI-117_Analyzed Data_PROCI_C12_2019_Three_Stage.csv
+
+[[added.9.resource_id.$oid]]
+65e737ee8e263688e9f9200c
+
+[[added.9.s3_path]]
+psi-data/PSI-117/Analyzed Data/PSI-117_Analyzed Data_PROCI_C12_2019_Three_Stage.csv
+
+[[added.9.s3_version_id]]
+nJOFnvJhhrL8cQxEwvoY1A98s9POr1jJ
+
+[[added.9.study_id.$oid]]
+6a28273bd9d7246402cb43ee
+
+[[added.9.subcategory]]
+Reduced Gravity/Simulation/PROC1
+
+[[added.10.bucket]]
+psi-repo-prod
+
+[[added.10.file_name]]
+PSI-117_Analyzed Data_MST_2024_Burning_history_Flame_diameter.csv
+
+[[added.10.organization]]
+shared
+
+[[added.10.remote_path]]
+/Home/psi-data/PSI-117/Analyzed Data/PSI-117_Analyzed Data_MST_2024_Burning_history_Flame_diameter.csv
+
+[[added.10.remote_url]]
+/datamanager/file/Home/psi-data/PSI-117/Analyzed Data/PSI-117_Analyzed Data_MST_2024_Burning_history_Flame_diameter.csv
+
+[[added.10.resource_id.$oid]]
+65e737ee8e263688e9f9200c
+
+[[added.10.s3_path]]
+psi-data/PSI-117/Analyzed Data/PSI-117_Analyzed Data_MST_2024_Burning_history_Flame_diameter.csv
+
+[[added.10.s3_version_id]]
+ZmIJAobgY.BogYEjlz23uLSgeEi_Dr1y
+
+[[added.10.study_id.$oid]]
+6a28273bd9d7246402cb43ee
+
+[[added.10.subcategory]]
+Reduced Gravity/Simulation/MST
+
+[[added.11.bucket]]
+psi-repo-prod
+
+[[added.11.file_name]]
+PSI-117_Analyzed Data_MST_2024_Kavg.csv
+
+[[added.11.organization]]
+shared
+
+[[added.11.remote_path]]
+/Home/psi-data/PSI-117/Analyzed Data/PSI-117_Analyzed Data_MST_2024_Kavg.csv
+
+[[added.11.remote_url]]
+/datamanager/file/Home/psi-data/PSI-117/Analyzed Data/PSI-117_Analyzed Data_MST_2024_Kavg.csv
+
+[[added.11.resource_id.$oid]]
+65e737ee8e263688e9f9200c
+
+[[added.11.s3_path]]
+psi-data/PSI-117/Analyzed Data/PSI-117_Analyzed Data_MST_2024_Kavg.csv
+
+[[added.11.s3_version_id]]
+fLTzYsn99XYVye0G.VIKKo.Qi2iwHgpk
+
+[[added.11.study_id.$oid]]
+6a28273bd9d7246402cb43ee
+
+[[added.11.subcategory]]
+Reduced Gravity/Simulation/MST
+
+[[added.12.bucket]]
+psi-repo-prod
+
+[[added.12.file_name]]
+PSI-117_Analyzed Data_MST_2024_Dext.csv
+
+[[added.12.organization]]
+shared
+
+[[added.12.remote_path]]
+/Home/psi-data/PSI-117/Analyzed Data/PSI-117_Analyzed Data_MST_2024_Dext.csv
+
+[[added.12.remote_url]]
+/datamanager/file/Home/psi-data/PSI-117/Analyzed Data/PSI-117_Analyzed Data_MST_2024_Dext.csv
+
+[[added.12.resource_id.$oid]]
+65e737ee8e263688e9f9200c
+
+[[added.12.s3_path]]
+psi-data/PSI-117/Analyzed Data/PSI-117_Analyzed Data_MST_2024_Dext.csv
+
+[[added.12.s3_version_id]]
+LwVeUeTRHEFaEViLBETbRoU7KJWxVk_z
+
+[[added.12.study_id.$oid]]
+6a28273bd9d7246402cb43ee
+
+[[added.12.subcategory]]
+Reduced Gravity/Simulation/MST
+
+[[added.13.bucket]]
+psi-repo-prod
+
+[[added.13.file_name]]
+PSI-117_Analyzed Data_MST_2024_Radiance_Flame_Diameter.csv
+
+[[added.13.organization]]
+shared
+
+[[added.13.remote_path]]
+/Home/psi-data/PSI-117/Analyzed Data/PSI-117_Analyzed Data_MST_2024_Radiance_Flame_Diameter.csv
+
+[[added.13.remote_url]]
+/datamanager/file/Home/psi-data/PSI-117/Analyzed Data/PSI-117_Analyzed Data_MST_2024_Radiance_Flame_Diameter.csv
+
+[[added.13.resource_id.$oid]]
+65e737ee8e263688e9f9200c
+
+[[added.13.s3_path]]
+psi-data/PSI-117/Analyzed Data/PSI-117_Analyzed Data_MST_2024_Radiance_Flame_Diameter.csv
+
+[[added.13.s3_version_id]]
+p3YJWdHV.6RVuTPgr6P4F2XyRsSeiRKo
+
+[[added.13.study_id.$oid]]
+6a28273bd9d7246402cb43ee
+
+[[added.13.subcategory]]
+Reduced Gravity/Simulation/MST
+
+[[added.14.bucket]]
+psi-repo-prod
+
+[[added.14.file_name]]
+PSI-117_Reports_Dissertation_Combustion Behavior Of Sub-Millimeter Sized Oxygenated And N-Alka.pdf
+
+[[added.14.organization]]
+shared
+
+[[added.14.remote_path]]
+/Home/psi-data/PSI-117/Reports/PSI-117_Reports_Dissertation_Combustion Behavior Of Sub-Millimeter Sized Oxygenated And N-Alka.pdf
+
+[[added.14.remote_url]]
+/datamanager/file/Home/psi-data/PSI-117/Reports/PSI-117_Reports_Dissertation_Combustion Behavior Of Sub-Millimeter Sized Oxygenated And N-Alka.pdf
+
+[[added.14.resource_id.$oid]]
+65f8b3442ec0b0961f8fa20a
+
+[[added.14.s3_path]]
+psi-data/PSI-117/Reports/PSI-117_Reports_Dissertation_Combustion Behavior Of Sub-Millimeter Sized Oxygenated And N-Alka.pdf
+
+[[added.14.s3_version_id]]
+Ypoh_zgqt2U5Zx.4dV1xfeAaYGQzc1CO
+
+[[added.14.study_id.$oid]]
+6a28273bd9d7246402cb43ee
+
+[[added.14.subcategory]]
+
+
+[[approach]]
+OpenFOAM was used to develop a 3-D CFD model of n-alkane droplet cool flames in microgravity, coupling variable-density Navier–Stokes flow with low-temperature combustion chemistry, coupled heat and mass transfer, and radiation. Model fidelity was established against ISS FLEX measurements, after which controlled simulations examined three forcing modes (i) convection alone to mimic droplet drift, (ii) imposed heat flux, and (iii) combined convection plus heating applied to both large (1–4 mm) and sub-millimeter (~0.5 mm) droplets.
+
+To accelerate progress, the study began with simplified chemistry and transitioned to reduced mechanisms for parameter sweeps over forcing amplitude and frequency, ambient composition (including ozone-assisted cases), and pressure. From each case, predictive observables were extracted (ignition delay, oscillation frequency and amplitude, stand-off and extinction diameters), and were used to construct stability maps that delineated conditions for cool-flame onset, persistence, and quenching. These maps were reconciled with FLEX observations and were used to guide next-generation test matrices for both large- and small-droplet experiments.
+
+[[contacts.0.@id]]
+
+
+[[contacts.0.address]]
+
+
+[[contacts.0.affiliation]]
+University of South Carolina
+
+[[contacts.0.comments.0.name]]
+Study Person REF
+
+[[contacts.0.comments.0.value]]
+
+
+[[contacts.0.comments.1.name]]
+orcidIdentifier
+
+[[contacts.0.comments.1.value]]
+
+
+[[contacts.0.email]]
+farouk@cec.sc.edu
+
+[[contacts.0.fax]]
+
+
+[[contacts.0.firstName]]
+Tanvir
+
+[[contacts.0.lastName]]
+Farouk
+
+[[contacts.0.midInitials]]
+
+
+[[contacts.0.phone]]
+
+
+[[contacts.0.roles.0.@id]]
+dEBvA2jSs25xM9IfCv5ploF8MUDFt0ACKekf97KJ
+
+[[contacts.0.roles.0.annotationValue]]
+Principal Investigator (PI)
+
+[[contacts.0.roles.0.termAccession]]
+Principal Investigator (PI)
+
+[[contacts.0.roles.0.termSource]]
+
+
+[[contacts.1.@id]]
+
+
+[[contacts.1.address]]
+
+
+[[contacts.1.affiliation]]
+NASA GRC
+
+[[contacts.1.comments.0.name]]
+Study Person REF
+
+[[contacts.1.comments.0.value]]
+
+
+[[contacts.1.comments.1.name]]
+orcidIdentifier
+
+[[contacts.1.comments.1.value]]
+0000-0002-5579-0949
+
+[[contacts.1.email]]
+michael.hicks@nasa.gov
+
+[[contacts.1.fax]]
+
+
+[[contacts.1.firstName]]
+Mike
+
+[[contacts.1.lastName]]
+Hicks
+
+[[contacts.1.midInitials]]
+
+
+[[contacts.1.phone]]
+
+
+[[contacts.1.roles.0.@id]]
+UPDBsFjwjds0hw6t0IuVN6evepdczdMm2HLYqwom
+
+[[contacts.1.roles.0.annotationValue]]
+Project Scientist
+
+[[contacts.1.roles.0.termAccession]]
+Project Scientist
+
+[[contacts.1.roles.0.termSource]]
+
+
+[[description]]
+
+
+[[doi]]
+10.60555/gz0q-b577
+
+[[experimentHardware]]
+
+
+[[experimentHardwareLink]]
+
+
+[[flightProgram]]
+
+
+[[funding]]
+NNX17AF97A
+
+[[hypothesis]]
+External thermo-convective perturbations (imposed temperature gradients, non-uniform heating, oscillatory/shear inflow) were expected to govern cool-flame ignition, oscillation, transition to hot ignition, and extinction by shifting residence time and scalar dissipation. In microgravity, where buoyancy was suppressed, this forcing was anticipated to dominate transport. A multidimensional, multi-physics CFD model was used to map perturbation-dependent stability boundaries and predict observables for comparison with FLEX data.
+
+[[investigationAcronym]]
+
+
+[[investigationEndDate]]
+02-14-2022
+
+[[investigationStartDate]]
+02-15-2017
+
+[[licenseIdentifier]]
+CC0-1.0
+
+[[licenseLink]]
+https://spdx.org/licenses/CC0-1.0.html
+
+[[licenseName]]
+Creative Commons Zero v1.0 Universal
+
+[[managingNasaCenter]]
+Glenn Research Center (GRC)
+
+[[missionEnd]]
+
+
+[[missionLink]]
+
+
+[[missionName]]
+
+
+[[missionStart]]
+
+
+[[modified.0.bucket]]
+psi-repo-prod
+
+[[modified.0.file_name]]
+PSI-117_metadata_NEWID-13_Effect of External T.zip
+
+[[modified.0.organization]]
+OSD
+
+[[modified.0.remote_path]]
+/Home/psi-data/PSI-117/metadata/PSI-117_metadata_NEWID-13_Effect of External T.zip
+
+[[modified.0.remote_url]]
+/datamanager/file/Home/psi-data/PSI-117/metadata/PSI-117_metadata_NEWID-13_Effect of External T.zip
+
+[[modified.0.resource_id.$oid]]
+65e0a4d4931988043eebcd6e
+
+[[modified.0.s3_path]]
+psi-data/PSI-117/metadata/PSI-117_metadata_NEWID-13_Effect of External T.zip
+
+[[modified.0.s3_version_id]]
+zqTMjYNazrNrgZKwBCbM6FSw9WpVijNP
+
+[[modified.0.study_id.$oid]]
+68dc0297c89a0bb254a2c883
+
+[[modifiedDate]]
+09-Jun-2026
+
+[[objective]]
+The objective of this ground investigation was to use flight data obtained from PSI through NASA’s Flame Extinguishment Experiment (FLEX) to quantify how externally imposed thermal and convective perturbations regulated the dynamics and ultimate fate of already established droplet cool flames, and to explain run-to-run variability by isolating the roles of deliberate heating and unintentional drift-induced convection. Focusing on both small and large droplets, the work mapped stability windows for ignition, sustained oscillation, transitions to hot ignition and warm-flame behavior, and extinction under microgravity. By leveraging and extending the FLEX data in the PSI, this study produced reusable models and sensitivity analyses that coupled low-temperature chemistry with transport and radiative effects.
+
+[[projectIdentifier]]
+
+
+[[projectLink]]
+
+
+[[projectTitle]]
+
+
+[[projectType]]
+Ground Investigation
+
+[[proposalTitle]]
+Effect of External Thermo-Convective Perturbation on Cool Flame Dynamics: A Multidimensional Multi-Physics CFD Analysis
+
+[[publications.0.authorList]]
+Farouk Tanvir I., Dryer Frederick L.
+
+[[publications.0.doi]]
+10.1016/j.proci.2022.07.094
+
+[[publications.0.pubMedID]]
+
+
+[[publications.0.status.@id]]
+Rd2oZxVKYUnMCRj3tbHg0eGQhfrFmtiEFnMOyDHF
+
+[[publications.0.status.annotationValue]]
+published
+
+[[publications.0.status.termAccession]]
+http://www.ebi.ac.uk/efo/EFO_0001796
+
+[[publications.0.status.termSource]]
+EFO
+
+[[publications.0.title]]
+Extinction characteristics of isolated n-alkane fuel droplets during low temperature cool flame burning in air (2023)
+
+[[publications.1.authorList]]
+Farouk Tanvir I., Won Sang Hee, Dryer Frederick L.
+
+[[publications.1.doi]]
+10.1016/j.proci.2020.06.200
+
+[[publications.1.pubMedID]]
+
+
+[[publications.1.status.@id]]
+Rd2oZxVKYUnMCRj3tbHg0eGQhfrFmtiEFnMOyDHF
+
+[[publications.1.status.annotationValue]]
+published
+
+[[publications.1.status.termAccession]]
+http://www.ebi.ac.uk/efo/EFO_0001796
+
+[[publications.1.status.termSource]]
+EFO
+
+[[publications.1.title]]
+Sub-millimeter sized multi-component jet fuel surrogate droplet combustion: Physicochemical preferential vaporization effects (2021)
+
+[[publications.2.authorList]]
+Xu Yuhao, Farouk Tanvir I., Hicks Michael C., Avedisian C. Thomas
+
+[[publications.2.doi]]
+10.1016/j.combustflame.2020.06.012
+
+[[publications.2.pubMedID]]
+
+
+[[publications.2.status.@id]]
+Rd2oZxVKYUnMCRj3tbHg0eGQhfrFmtiEFnMOyDHF
+
+[[publications.2.status.annotationValue]]
+published
+
+[[publications.2.status.termAccession]]
+http://www.ebi.ac.uk/efo/EFO_0001796
+
+[[publications.2.status.termSource]]
+EFO
+
+[[publications.2.title]]
+Initial diameter effects on combustion of unsupported equi-volume n-heptane/iso-octane mixture droplets and the transition to cool flame behavior: Experimental observations and detailed numerical modeling (2020)
+
+[[publications.3.authorList]]
+Alam Fahd E., Aghdam Ali Charchi, Dryer Frederick L., Farouk Tanvir I.
+
+[[publications.3.doi]]
+10.1016/j.proci.2018.05.151
+
+[[publications.3.pubMedID]]
+
+
+[[publications.3.status.@id]]
+Rd2oZxVKYUnMCRj3tbHg0eGQhfrFmtiEFnMOyDHF
+
+[[publications.3.status.annotationValue]]
+published
+
+[[publications.3.status.termAccession]]
+http://www.ebi.ac.uk/efo/EFO_0001796
+
+[[publications.3.status.termSource]]
+EFO
+
+[[publications.3.title]]
+Oscillatory cool flame combustion behavior of submillimeter sized n-alkane droplet under near limit conditions (2019)
+
+[[publications.4.authorList]]
+Farouk T, Won S, Dryer F.
+
+[[publications.4.doi]]
+
+
+[[publications.4.pubMedID]]
+
+
+[[publications.4.status.@id]]
+Rd2oZxVKYUnMCRj3tbHg0eGQhfrFmtiEFnMOyDHF
+
+[[publications.4.status.annotationValue]]
+published
+
+[[publications.4.status.termAccession]]
+http://www.ebi.ac.uk/efo/EFO_0001796
+
+[[publications.4.status.termSource]]
+EFO
+
+[[publications.4.title]]
+Investigating the role of preferential vaporization during submillimeter sized multicomponent jet fuel surrogate droplet combustion (2019)
+
+[[publications.5.authorList]]
+Farouk T, Won S, Dryer F.
+
+[[publications.5.doi]]
+
+
+[[publications.5.pubMedID]]
+
+
+[[publications.5.status.@id]]
+Rd2oZxVKYUnMCRj3tbHg0eGQhfrFmtiEFnMOyDHF
+
+[[publications.5.status.annotationValue]]
+published
+
+[[publications.5.status.termAccession]]
+http://www.ebi.ac.uk/efo/EFO_0001796
+
+[[publications.5.status.termSource]]
+EFO
+
+[[publications.5.title]]
+Multi-component jet fuel surrogate droplet combustion: Preferential vaporization behaviors under spray relevant conditions and effects on combustion behaviors (2019)
+
+[[publications.6.authorList]]
+Alam F, Dryer F, Farouk T.
+
+[[publications.6.doi]]
+
+
+[[publications.6.pubMedID]]
+
+
+[[publications.6.status.@id]]
+Rd2oZxVKYUnMCRj3tbHg0eGQhfrFmtiEFnMOyDHF
+
+[[publications.6.status.annotationValue]]
+published
+
+[[publications.6.status.termAccession]]
+http://www.ebi.ac.uk/efo/EFO_0001796
+
+[[publications.6.status.termSource]]
+EFO
+
+[[publications.6.title]]
+Cool Flame Combustion of Sub-Millimeter Sized Higher n-Alkane Droplets at Atmospheric Condition (2017)
+
+[[publications.7.authorList]]
+Alam F, Dryer F, Farouk T.
+
+[[publications.7.doi]]
+
+
+[[publications.7.pubMedID]]
+
+
+[[publications.7.status.@id]]
+Rd2oZxVKYUnMCRj3tbHg0eGQhfrFmtiEFnMOyDHF
+
+[[publications.7.status.annotationValue]]
+published
+
+[[publications.7.status.termAccession]]
+http://www.ebi.ac.uk/efo/EFO_0001796
+
+[[publications.7.status.termSource]]
+EFO
+
+[[publications.7.title]]
+Non-Premixed - Partially Premixed to Diffusive Burning: Initial Transient of Direct Cool Flame Burn (2017)
+
+[[publications.8.authorList]]
+Alam F, Charchi A, Dryer F, Farouk T.
+
+[[publications.8.doi]]
+
+
+[[publications.8.pubMedID]]
+
+
+[[publications.8.status.@id]]
+Rd2oZxVKYUnMCRj3tbHg0eGQhfrFmtiEFnMOyDHF
+
+[[publications.8.status.annotationValue]]
+published
+
+[[publications.8.status.termAccession]]
+http://www.ebi.ac.uk/efo/EFO_0001796
+
+[[publications.8.status.termSource]]
+EFO
+
+[[publications.8.title]]
+Oscillatory Cool Flame Combustion Behavior of Submillimeter Sized n-Alkane Droplet under Near Limit Conditions (2018)
+
+[[publications.9.authorList]]
+Ju Yiguang, Reuter Christopher B., Yehia Omar R., Farouk Tanvir I., Won Sang Hee
+
+[[publications.9.doi]]
+10.1016/j.pecs.2019.100787
+
+[[publications.9.pubMedID]]
+
+
+[[publications.9.status.@id]]
+Rd2oZxVKYUnMCRj3tbHg0eGQhfrFmtiEFnMOyDHF
+
+[[publications.9.status.annotationValue]]
+published
+
+[[publications.9.status.termAccession]]
+http://www.ebi.ac.uk/efo/EFO_0001796
+
+[[publications.9.status.termSource]]
+EFO
+
+[[publications.9.title]]
+Dynamics of cool flames (2019)
+
+[[related_glds]]
+PSI-69,PSI-142
+
+[[releaseDate]]
+10-Jun-2026
+
+[[researchArea]]
+Combustion Science
+
+[[researchImpacts]]
+Space Benefits: Potential to improve spacecraft fire-safety modeling by resolving cool-flame/extinction behavior in microgravity; leverages FLEX to define safer operating envelopes/materials.
+Earth Benefits: Advances low-temperature combustion understanding relevant to engine knock, efficiency, and emissions; delivers validated CFD tools transferrable to practical combustors.
+
+[[sourceAccession]]
+
+
+[[sourceLink]]
+
+
+[[spaceProgram]]
+National Aeronautics and Space Administration (NASA), PSI grant
+
+[[subResearchArea]]
+Droplet
+
+[[submissionDate]]
+18-Sep-2024
+
+[[title]]
+Effect of External Thermo-Convective Perturbation on Cool Flame Dynamics: A Multidimensional Multi-Physics CFD Analysis
+
+[[versionMessage]]
+
+
+[[versionMessageLevel]]
+
+
+[[versionReason]]
+Analyzed data release
