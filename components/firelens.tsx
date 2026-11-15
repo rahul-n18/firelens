@@ -8,7 +8,7 @@ import {
 import { citation, downloadEvidence, evidenceBrief, evidenceCsv, evidenceJson } from "../lib/export";
 import { Input, Sheet, Toggle } from "./ui";
 
-import { ClaimLine, DraftLabel, Mark, type OpenClaim } from "./evidence-ui";
+import { ClaimLine, Mark, type OpenClaim } from "./evidence-ui";
 import { claimKind } from "../lib/claim-kind";
 import { interpret } from "../lib/interpret";
 import { Detectors, Measurements } from "./measurements";
@@ -39,11 +39,10 @@ function CoverageMap({ gravity, permitted, open }: {
     }
     return <>
       <ul className="coverage-marks">{[...groups].map(([status, evidence]) => {
-        const reviewed = evidence.filter(item => item.review.status === "HUMAN_REVIEWED").length;
         return <li key={status}><button type="button" className="coverage-button" onClick={() => open(evidence)}>
           <span className="evidence-label">
             <span aria-hidden="true" className={`mark ${status.toLowerCase()}`} />
-            {statusLabels[status]} · {evidence.length} ({reviewed} reviewed)
+            {statusLabels[status]} · {evidence.length}
           </span>
         </button></li>;
       })}</ul>
@@ -148,7 +147,6 @@ export function FireLens({ available }: { available: string[] }) {
     coverageAt.moon === "Simulated only" ? "what has only been simulated for smoke on the Moon" : coverageAt.moon === "Measured" ? "smoke measurements for the Moon" : "gaps in our smoke evidence for the Moon",
     coverageAt.mars === "Nothing measured" ? "what’s missing for Mars" : coverageAt.mars === "Measured" ? "measurements for Mars" : "simulations for Mars",
   ];
-  const reviewedCount = evidence.filter(claim => claim.review.status === "HUMAN_REVIEWED").length;
   const investigation = investigations.find(study => study.investigation_id === investigationId);
   const searchText = query.trim() || investigation?.title || "";
   const result = useMemo(() => search(searchText, permitted, investigationId), [permitted, searchText, investigationId]);
@@ -312,7 +310,7 @@ export function FireLens({ available }: { available: string[] }) {
         <details className="evidence-details">
           <summary>Show all evidence by topic</summary>
           <CoverageMap gravity={result.query.gravity} permitted={permitted} open={group => {
-            open(group.find(claim => claim.review.status === "HUMAN_REVIEWED") ?? group[0], group);
+            open(group[0], group);
           }} />
           {result.followup && <Comparison open={open} permitted={permitted} />}
         </details>
@@ -328,13 +326,11 @@ export function FireLens({ available }: { available: string[] }) {
         </section>}
       </section>
       <section className="trust" aria-label="How the evidence is checked">
-        <p><strong>AI drafts</strong> claims from the source documents.</p>
-        <p><strong>Software verifies</strong> every quote against the stored source.</p>
-        <p><strong>People review</strong> {reviewedCount} of {evidence.length} claims.</p>
+        <p><strong>Software verifies</strong> each displayed quote against its stored source snapshot.</p>
         <p><strong>Interpretation</strong> is assembled from those claims with fixed templates. The running app does not call an AI model.</p>
       </section>
       <footer className="read-note">
-        <p>Click any claim code to see its exact quote, review status and source.</p>
+        <p>Click any claim code to see its exact quote and original source.</p>
         <p>Team Anantyam, NASA Space Apps Challenge.</p>
       </footer>
     </main>
@@ -344,12 +340,11 @@ export function FireLens({ available }: { available: string[] }) {
           {coverageGroup.map(claim => <span className="coverage-claim-option" key={claim.claim_id}>
             <button className="claim-chip" data-claim-id={claim.claim_id} type="button" aria-pressed={selected.claim_id === claim.claim_id}
               onClick={() => { setCitationNotice(""); setSelected(claim); }}>{claim.claim_id}</button>
-            <DraftLabel claim={claim} />
           </span>)}
         </div>}
         <p className="eyebrow">{selected.claim_id}, {selectedSource.publisher}</p>
         <h3 className="source-title">{selectedSource.title}</h3>
-        <div className="claim-meta"><Mark claim={selected} /><span className="review-label">{selected.review.status === "DRAFT" ? "Not yet reviewed" : `Reviewed by ${selected.review.reviewer}`}</span></div>
+        <div className="claim-meta"><Mark claim={selected} /></div>
         {claimKind(selected).notice && <p className="kind-notice">{claimKind(selected).notice}</p>}
         <blockquote data-claim-excerpt={selected.claim_id}>{selected.source_excerpt}</blockquote>
         <p data-claim-text={selected.claim_id}>{selected.claim_text}</p>

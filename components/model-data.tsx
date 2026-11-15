@@ -5,7 +5,7 @@ import { formatClaimValue } from "../lib/claim-values";
 import { gravityLabels, type Claim } from "../lib/evidence";
 import { downloadEvidence, evidenceCsv, modelDataJson } from "../lib/export";
 import { airflowLabel, materialsLabel, modelerRows } from "../lib/insights";
-import { Chip, DraftLabel, Mark, type OpenClaim } from "./evidence-ui";
+import { Chip, Mark, type OpenClaim } from "./evidence-ui";
 
 export function ModelData({ evidence, open }: { evidence: Claim[]; open: OpenClaim }) {
   const [notice, setNotice] = useState("");
@@ -34,7 +34,7 @@ export function ModelData({ evidence, open }: { evidence: Claim[]; open: OpenCla
             <td>{materialsLabel(claim)}</td>
             <td>{gravityLabels[claim.gravity_level]}</td>
             <td>{airflowLabel(claim)}</td>
-            <td><Mark claim={claim} /><DraftLabel claim={claim} /></td>
+            <td><Mark claim={claim} /></td>
             <td><Chip claim={claim} open={open} /></td>
           </tr>)}</tbody>
         </table>

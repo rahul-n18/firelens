@@ -181,11 +181,6 @@ export function checkClaims(
     } else if (Object.hasOwn(claim, "derived_from")) {
       fail("derived_from is only allowed for TEAM_INFERENCE");
     }
-    if (claim.review?.status === "HUMAN_REVIEWED") {
-      if (!claim.review.reviewer?.trim()) fail("HUMAN_REVIEWED requires a reviewer name");
-    } else if (claim.review?.status !== "DRAFT") {
-      fail("invalid review status");
-    }
   }
   return problems;
 }
@@ -300,7 +295,7 @@ export async function verifyCorpus(directory: string, publicDirectory = join(dir
       const source = byId.get(row.source_id);
       const bytes = source && raw.get(source.raw_file);
       const record = bytes && JSON.parse(bytes.toString());
-      const coverage = claims.some(claim => claim.investigation_id === row.investigation_id) ? "DRAFT_CLAIMS" : "METADATA_ONLY";
+      const coverage = claims.some(claim => claim.investigation_id === row.investigation_id) ? "SOURCE_CLAIMS" : "METADATA_ONLY";
       if (!record || record.accession !== row.investigation_id || record.title !== row.title ||
           (record.investigationAcronym?.trim() || undefined) !== row.acronym ||
           (record.doi || null) !== row.doi || (record.objective ?? "") !== row.objective || row.coverage !== coverage) {

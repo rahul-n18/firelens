@@ -70,7 +70,6 @@ p { max-width: 72ch; }
 .evidence-label:has(.model_result) { color: var(--model); }
 .mark.not_established { border-color: var(--gap); }
 .evidence-label:has(.not_established), .gap-text { color: var(--gap); }
-.review-label { border-left: 1px solid var(--rule); padding-left: 8px; }
 .claim-chip { display: inline-flex; align-items: center; min-height: 26px; border: 1px solid var(--rule); border-radius: 4px; padding: 2px 9px; color: var(--primary); background: var(--surface); font-size: 13px; font-weight: 600; white-space: nowrap; }
 .related, .answer-sources, .result-group { margin-top: 20px; }
 .related h3, .answer-sources h3, .result-group h3 { margin-bottom: 8px; }
@@ -196,11 +195,9 @@ p { max-width: 72ch; }
   .gravity-tab { padding: 8px 10px; }
 }
 
-.review-label { display: inline-block; white-space: nowrap; }
 .measurement-highlights { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); border-block: 1px solid var(--rule); margin-top: 24px; }
 .measurement-highlight { padding: 24px 22px 24px 0; }
 .measurement-highlight + .measurement-highlight { border-left: 1px solid var(--rule); padding-left: 22px; }
-.measurement-highlight .review-label, .source-figure .review-label, .detector-suggestion .review-label { color: var(--muted); font-size: 13px; }
 .measurement-value { font-size: clamp(31px, 4vw, 52px); line-height: 1; font-weight: 800; margin-bottom: 12px; letter-spacing: -.035em; }
 .measured-figure { margin-top: 38px; }
 .chart-reading { font-weight: 700; margin: 0 0 8px; }
@@ -255,11 +252,9 @@ p { max-width: 72ch; }
 .model-data thead { background: var(--band); color: var(--muted); }
 .model-data :is(th, td) { border-bottom: 1px solid var(--rule); text-align: left; padding: 10px 12px; vertical-align: top; }
 .model-data tbody tr:last-child :is(th, td) { border-bottom: 0; }
-.model-data .review-label { display: block; color: var(--muted); font-size: 12px; border-left: 0; padding-left: 0; }
 .model-value { font-weight: 700; white-space: nowrap; }
 .ask-filter, .coverage-claim-option { display: flex; flex-wrap: wrap; align-items: center; gap: 6px 10px; }
 .ask-filter { margin-bottom: 12px; }
-.coverage-claim-option .review-label { color: var(--muted); font-size: 12px; }
 @media (max-width: 900px) {
   .mission-columns { grid-template-columns: repeat(2, minmax(0, 1fr)); }
   .mission-column:nth-child(3) { padding-left: 0; border-left: 0; }

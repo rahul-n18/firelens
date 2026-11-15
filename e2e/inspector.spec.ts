@@ -10,7 +10,6 @@ test("ranks SAME-R and opens a claim with the stored source URL", async ({ page 
   await trigger.click();
   const dialog = page.getByRole("dialog");
   await expect(dialog.getByText("Excerpt verified")).toBeVisible();
-  await expect(dialog.getByText("Not yet reviewed")).toBeVisible();
   await expect(dialog.getByRole("link", { name: "Open source" })).toHaveAttribute("href", "https://psi.nasa.gov/physci/repo/data/investigations/PSI-101");
   await page.keyboard.press("Escape");
   await expect(dialog).toBeHidden();
@@ -44,7 +43,7 @@ test("labels lunar models and planned work as context for the gap", async ({ pag
   await expect(transport).toHaveClass(/condition-active/);
   await expect(transport).not.toHaveClass(/hatched/);
   await expect(transport.getByText("No measurement in corpus")).toBeVisible();
-  const models = transport.getByRole("button", { name: "Computer model · 3 (3 reviewed)" });
+  const models = transport.getByRole("button", { name: "Computer model · 3" });
   await expect(models.locator(".model_result")).toHaveCSS("border-top-style", "dashed");
   await models.click();
   const dialog = page.getByRole("dialog");
@@ -52,13 +51,13 @@ test("labels lunar models and planned work as context for the gap", async ({ pag
   await expect(group.getByRole("button", { name: "LUNAR-001" })).toHaveAttribute("aria-pressed", "true");
   await group.getByRole("button", { name: "LUNAR-002" }).click();
   await expect(group.getByRole("button", { name: "LUNAR-002" })).toHaveAttribute("aria-pressed", "true");
+  await expect(dialog.getByRole("link", { name: "Open source" })).toBeVisible();
   await group.getByRole("button", { name: "LUNAR-003" }).click();
-  await expect(dialog.locator(".claim-meta").getByText("Reviewed by R. Naveen")).toBeVisible();
   await page.keyboard.press("Escape");
   await expect(models).toBeFocused();
 });
 
-test("hatches only cells without claims and displays corpus totals", async ({ page }) => {
+test("hatches only cells without claims and displays evidence counts", async ({ page }) => {
   await page.goto("/");
   await page.getByText("Show all evidence by topic", { exact: true }).click();
   const cells = page.locator("[data-topic][data-gravity]:visible");
@@ -74,12 +73,10 @@ test("hatches only cells without claims and displays corpus totals", async ({ pa
         : claim.gravity_level === gravity));
     expect(matching, `${topic} at ${gravity} has claims and must not be hatched`).toHaveLength(0);
   }
-  const reviewed = claims.filter(claim => claim.review.status === "HUMAN_REVIEWED").length;
   await expect(page.getByRole("region", { name: "How the evidence is checked" }))
-    .toContainText(`People review ${reviewed} of ${claims.length} claims.`);
+    .toContainText("each displayed quote against its stored source snapshot");
   const particle = page.locator('[data-topic="smoke_particle_size"][data-gravity="microgravity"]:visible');
-  await expect(particle.getByRole("button", { name: /^Measured/ })).toHaveText("Measured · 5 (4 reviewed)");
-  await expect(particle.getByText("Not yet reviewed")).toHaveCount(0);
+  await expect(particle.getByRole("button", { name: /^Measured/ })).toHaveText("Measured · 5");
 });
 
 test("introduces the evidence and lets keyboard users reach Ask and the source inspector", async ({ page }) => {

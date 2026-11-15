@@ -15,12 +15,7 @@
     ],
     "materials": [],
     "doi": "10.60555/2np7-jv14",
-    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-101",
-    "review": {
-      "status": "DRAFT",
-      "reviewer": null,
-      "date": null
-    }
+    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-101"
   },
   {
     "claim_id": "SAMER-002",
@@ -39,12 +34,7 @@
     "quantity": "completed flight test points",
     "value": 66,
     "doi": "10.60555/2np7-jv14",
-    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-101",
-    "review": {
-      "status": "HUMAN_REVIEWED",
-      "reviewer": "R. Naveen",
-      "date": "2026-11-15"
-    }
+    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-101"
   },
   {
     "claim_id": "SAMER-003",
@@ -62,12 +52,7 @@
     ],
     "materials": [],
     "doi": "10.60555/2np7-jv14",
-    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-101",
-    "review": {
-      "status": "DRAFT",
-      "reviewer": null,
-      "date": null
-    }
+    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-101"
   },
   {
     "claim_id": "SAMER-010",
@@ -84,12 +69,7 @@
     ],
     "materials": [],
     "doi": "10.60555/2np7-jv14",
-    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-101",
-    "review": {
-      "status": "DRAFT",
-      "reviewer": null,
-      "date": null
-    }
+    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-101"
   },
   {
     "claim_id": "SAMER-011",
@@ -106,12 +86,7 @@
     ],
     "materials": [],
     "doi": "10.60555/2np7-jv14",
-    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-101",
-    "review": {
-      "status": "DRAFT",
-      "reviewer": null,
-      "date": null
-    }
+    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-101"
   },
   {
     "claim_id": "SAME-001",
@@ -129,12 +104,7 @@
     ],
     "materials": [],
     "doi": "10.60555/gd4k-8h62",
-    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-102",
-    "review": {
-      "status": "DRAFT",
-      "reviewer": null,
-      "date": null
-    }
+    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-102"
   },
   {
     "claim_id": "SAME-002",
@@ -151,12 +121,7 @@
     ],
     "materials": [],
     "doi": "10.60555/gd4k-8h62",
-    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-102",
-    "review": {
-      "status": "DRAFT",
-      "reviewer": null,
-      "date": null
-    }
+    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-102"
   },
   {
     "claim_id": "SPICE-001",
@@ -173,12 +138,7 @@
     ],
     "materials": [],
     "doi": "10.60555/9kbh-e962",
-    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-107",
-    "review": {
-      "status": "DRAFT",
-      "reviewer": null,
-      "date": null
-    }
+    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-107"
   },
   {
     "claim_id": "SPICE-002",
@@ -195,12 +155,7 @@
     ],
     "materials": [],
     "doi": "10.60555/9kbh-e962",
-    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-107",
-    "review": {
-      "status": "DRAFT",
-      "reviewer": null,
-      "date": null
-    }
+    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-107"
   },
   {
     "claim_id": "NTRS13-001",
@@ -221,11 +176,6 @@
     "unit": "nm",
     "doi": null,
     "source_url": "https://ntrs.nasa.gov/citations/20140006585",
-    "review": {
-      "status": "DRAFT",
-      "reviewer": null,
-      "date": null
-    },
     "attribution_note": "The slides include SAME-R material, but the conclusion slide does not identify the flight investigation for this result.",
     "value_qualifier": "range"
   },
@@ -246,11 +196,6 @@
     "conditions": "Ground-test airflow of 8 cm/s",
     "doi": null,
     "source_url": "https://ntrs.nasa.gov/citations/20140006585",
-    "review": {
-      "status": "DRAFT",
-      "reviewer": null,
-      "date": null
-    },
     "attribution_note": "The slides include SAME-R material, but the conclusion slide does not identify the flight investigation for this result.",
     "quantity": "ground-test airflow",
     "value": 8,
@@ -277,11 +222,6 @@
     "materials": [],
     "doi": null,
     "source_url": "https://ntrs.nasa.gov/citations/20140006585",
-    "review": {
-      "status": "DRAFT",
-      "reviewer": null,
-      "date": null
-    },
     "attribution_note": "The slides include SAME-R material, but the conclusion slide does not identify the flight investigation for this result."
   },
   {
@@ -300,11 +240,6 @@
     "materials": [],
     "doi": null,
     "source_url": "https://ntrs.nasa.gov/citations/20170007283",
-    "review": {
-      "status": "HUMAN_REVIEWED",
-      "reviewer": "R. Naveen",
-      "date": "2026-11-15"
-    },
     "attribution_note": "The overview uses SAME for both ISS flight years. The smoke-in-drums slides describe hardware and instruments from SAME without specifying which flight they came from."
   },
   {
@@ -323,11 +258,6 @@
     "materials": [],
     "doi": null,
     "source_url": "https://ntrs.nasa.gov/citations/20170007283",
-    "review": {
-      "status": "HUMAN_REVIEWED",
-      "reviewer": "R. Naveen",
-      "date": "2026-11-15"
-    },
     "attribution_note": "The overview uses SAME for both ISS flight years. The smoke-in-drums slides describe hardware and instruments from SAME without specifying which flight they came from."
   },
   {
@@ -345,12 +275,7 @@
     ],
     "materials": [],
     "doi": null,
-    "source_url": "https://ntrs.nasa.gov/citations/20230013826",
-    "review": {
-      "status": "HUMAN_REVIEWED",
-      "reviewer": "R. Naveen",
-      "date": "2026-11-15"
-    }
+    "source_url": "https://ntrs.nasa.gov/citations/20230013826"
   },
   {
     "claim_id": "LUNAR-002",
@@ -372,11 +297,6 @@
     "conditions": "Simulated lunar gravity and a forced-air speed of 5 cm/s",
     "doi": null,
     "source_url": "https://ntrs.nasa.gov/citations/20230013826",
-    "review": {
-      "status": "HUMAN_REVIEWED",
-      "reviewer": "R. Naveen",
-      "date": "2026-11-15"
-    },
     "airflow": {
       "value": 5,
       "unit": "cm/s",
@@ -398,12 +318,7 @@
     ],
     "materials": [],
     "doi": null,
-    "source_url": "https://ntrs.nasa.gov/citations/20120017940",
-    "review": {
-      "status": "HUMAN_REVIEWED",
-      "reviewer": "R. Naveen",
-      "date": "2026-11-15"
-    }
+    "source_url": "https://ntrs.nasa.gov/citations/20120017940"
   },
   {
     "claim_id": "SAME-003",
@@ -425,11 +340,6 @@
     "conditions": "Materials tested in SAME",
     "doi": null,
     "source_url": "https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=904707",
-    "review": {
-      "status": "HUMAN_REVIEWED",
-      "reviewer": "R. Naveen",
-      "date": "2026-11-15"
-    },
     "value_qualifier": "less_than"
   },
   {
@@ -449,12 +359,7 @@
       "silicone rubber"
     ],
     "doi": null,
-    "source_url": "https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=904707",
-    "review": {
-      "status": "HUMAN_REVIEWED",
-      "reviewer": "R. Naveen",
-      "date": "2026-11-15"
-    }
+    "source_url": "https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=904707"
   },
   {
     "claim_id": "SAME-004",
@@ -478,11 +383,6 @@
     "conditions": "Aged smoke.",
     "doi": "10.4271/2009-01-2468",
     "source_url": "https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=904707",
-    "review": {
-      "status": "HUMAN_REVIEWED",
-      "reviewer": "R. Naveen",
-      "date": "2026-11-15"
-    },
     "value_qualifier": "greater_than"
   },
   {
@@ -500,12 +400,7 @@
     ],
     "materials": [],
     "doi": null,
-    "source_url": "https://drum.lib.umd.edu/items/e1cf9d1d-2c54-475a-a201-a57d3874011b",
-    "review": {
-      "status": "HUMAN_REVIEWED",
-      "reviewer": "R. Naveen",
-      "date": "2026-11-15"
-    }
+    "source_url": "https://drum.lib.umd.edu/items/e1cf9d1d-2c54-475a-a201-a57d3874011b"
   },
   {
     "claim_id": "SPICE-005",
@@ -524,12 +419,7 @@
       "methane"
     ],
     "doi": null,
-    "source_url": "https://drum.lib.umd.edu/items/8f83b34a-3a69-45d6-9aef-26aa04bcef43",
-    "review": {
-      "status": "HUMAN_REVIEWED",
-      "reviewer": "R. Naveen",
-      "date": "2026-11-15"
-    }
+    "source_url": "https://drum.lib.umd.edu/items/8f83b34a-3a69-45d6-9aef-26aa04bcef43"
   },
   {
     "claim_id": "SPICE-006",
@@ -553,12 +443,7 @@
     "quantity": "reported smoke points",
     "value": 55,
     "doi": "10.1016/j.firesaf.2011.08.002",
-    "source_url": "https://terpconnect.umd.edu/~pbs/2011%20Dotson%20et%20al.%20FSJ.pdf",
-    "review": {
-      "status": "DRAFT",
-      "reviewer": null,
-      "date": null
-    }
+    "source_url": "https://terpconnect.umd.edu/~pbs/2011%20Dotson%20et%20al.%20FSJ.pdf"
   },
   {
     "claim_id": "ESA-001",
@@ -576,11 +461,6 @@
     "materials": [],
     "doi": null,
     "source_url": "https://www.esa.int/articles/no-fire-in-the-sky-preventing-an-astronaut-s-worst-nightmare",
-    "review": {
-      "status": "HUMAN_REVIEWED",
-      "reviewer": "R. Naveen",
-      "date": "2026-11-15"
-    },
     "attribution_note": "Described as future work in a 2021 article.",
     "evidence_label": "Planned (as of 2021)"
   },
@@ -600,12 +480,7 @@
     ],
     "materials": [],
     "doi": "10.1080/02786826.2015.1025124",
-    "source_url": "https://www.nist.gov/publications/smoke-characterization-and-feasibility-moment-method-spacecraft-fire-detection",
-    "review": {
-      "status": "HUMAN_REVIEWED",
-      "reviewer": "R. Naveen",
-      "date": "2026-11-15"
-    }
+    "source_url": "https://www.nist.gov/publications/smoke-characterization-and-feasibility-moment-method-spacecraft-fire-detection"
   },
   {
     "claim_id": "SAME-005",
@@ -623,12 +498,7 @@
     ],
     "materials": [],
     "doi": "10.1080/02786826.2015.1025125",
-    "source_url": "https://www.nist.gov/publications/pyrolysis-smoke-generated-under-low-gravity-conditions",
-    "review": {
-      "status": "DRAFT",
-      "reviewer": null,
-      "date": null
-    }
+    "source_url": "https://www.nist.gov/publications/pyrolysis-smoke-generated-under-low-gravity-conditions"
   },
   {
     "claim_id": "SPICE-007",
@@ -645,12 +515,7 @@
     ],
     "materials": [],
     "doi": "10.3850/978-981-08-7724-8_12-04",
-    "source_url": "https://rpsonline.com.sg/proceedings/9789810877248/html/978-981-08-7724-8_12-04.php",
-    "review": {
-      "status": "HUMAN_REVIEWED",
-      "reviewer": "R. Naveen",
-      "date": "2026-11-15"
-    }
+    "source_url": "https://rpsonline.com.sg/proceedings/9789810877248/html/978-981-08-7724-8_12-04.php"
   },
   {
     "claim_id": "NTRS13-004",
@@ -668,11 +533,6 @@
     "materials": [],
     "doi": null,
     "source_url": "https://ntrs.nasa.gov/citations/20140006585",
-    "review": {
-      "status": "HUMAN_REVIEWED",
-      "reviewer": "R. Naveen",
-      "date": "2026-11-15"
-    },
     "quantity": "particle size relative to normal gravity",
     "value": "twice",
     "value_qualifier": "typically"
@@ -694,11 +554,6 @@
     "materials": [],
     "doi": null,
     "source_url": "https://ntrs.nasa.gov/citations/20140006585",
-    "review": {
-      "status": "HUMAN_REVIEWED",
-      "reviewer": "R. Naveen",
-      "date": "2026-11-15"
-    },
     "attribution_note": "The slides include SAME-R material, but the conclusion slide does not identify the flight investigation for this result."
   },
   {
@@ -717,11 +572,6 @@
     "materials": [],
     "doi": null,
     "source_url": "https://ntrs.nasa.gov/citations/20140006585",
-    "review": {
-      "status": "HUMAN_REVIEWED",
-      "reviewer": "R. Naveen",
-      "date": "2026-11-15"
-    },
     "evidence_label": "Authors' suggestion"
   },
   {
@@ -740,12 +590,7 @@
     ],
     "materials": [],
     "doi": "10.60555/q0v5-1v28",
-    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-115",
-    "review": {
-      "status": "DRAFT",
-      "reviewer": null,
-      "date": null
-    }
+    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-115"
   },
   {
     "claim_id": "PSI-47-001",
@@ -762,12 +607,7 @@
     ],
     "materials": [],
     "doi": "10.60555/ztgj-d202",
-    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-47",
-    "review": {
-      "status": "DRAFT",
-      "reviewer": null,
-      "date": null
-    }
+    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-47"
   },
   {
     "claim_id": "NTRS13-007",
@@ -793,13 +633,7 @@
     "conditions": "aerodynamic diameter > 1 μm; lampwick and silicone",
     "attribution_note": "The slides label the hardware SAME; the conclusion slide does not identify the flight investigation for this result.",
     "doi": null,
-    "source_url": "https://ntrs.nasa.gov/citations/20140006585",
-    "review": {
-      "status": "HUMAN_REVIEWED",
-      "reviewer": "R. Naveen",
-      "date": "2026-11-15",
-      "batch": "A"
-    }
+    "source_url": "https://ntrs.nasa.gov/citations/20140006585"
   },
   {
     "claim_id": "NTRS13-008",
@@ -821,13 +655,7 @@
     "unit": "µm",
     "value_qualifier": "greater_than",
     "doi": null,
-    "source_url": "https://ntrs.nasa.gov/citations/20140006585",
-    "review": {
-      "status": "HUMAN_REVIEWED",
-      "reviewer": "R. Naveen",
-      "date": "2026-11-15",
-      "batch": "A"
-    }
+    "source_url": "https://ntrs.nasa.gov/citations/20140006585"
   },
   {
     "claim_id": "NTRS13-008b",
@@ -848,13 +676,7 @@
     "value": 0.3,
     "unit": "µm",
     "doi": null,
-    "source_url": "https://ntrs.nasa.gov/citations/20140006585",
-    "review": {
-      "status": "HUMAN_REVIEWED",
-      "reviewer": "R. Naveen",
-      "date": "2026-11-15",
-      "batch": "A"
-    }
+    "source_url": "https://ntrs.nasa.gov/citations/20140006585"
   },
   {
     "claim_id": "NTRS13-009",
@@ -876,13 +698,7 @@
     "unit": "µm",
     "value_qualifier": "less_than",
     "doi": null,
-    "source_url": "https://ntrs.nasa.gov/citations/20140006585",
-    "review": {
-      "status": "HUMAN_REVIEWED",
-      "reviewer": "R. Naveen",
-      "date": "2026-11-15",
-      "batch": "A"
-    }
+    "source_url": "https://ntrs.nasa.gov/citations/20140006585"
   },
   {
     "claim_id": "NTRS13-009b",
@@ -904,13 +720,7 @@
     "unit": "µm",
     "value_qualifier": "range",
     "doi": null,
-    "source_url": "https://ntrs.nasa.gov/citations/20140006585",
-    "review": {
-      "status": "HUMAN_REVIEWED",
-      "reviewer": "R. Naveen",
-      "date": "2026-11-15",
-      "batch": "A"
-    }
+    "source_url": "https://ntrs.nasa.gov/citations/20140006585"
   },
   {
     "claim_id": "NTRS13-010",
@@ -927,13 +737,7 @@
     ],
     "materials": [],
     "doi": null,
-    "source_url": "https://ntrs.nasa.gov/citations/20140006585",
-    "review": {
-      "status": "HUMAN_REVIEWED",
-      "reviewer": "R. Naveen",
-      "date": "2026-11-15",
-      "batch": "A"
-    }
+    "source_url": "https://ntrs.nasa.gov/citations/20140006585"
   },
   {
     "claim_id": "NTRS13-011",
@@ -951,13 +755,7 @@
     ],
     "materials": [],
     "doi": null,
-    "source_url": "https://ntrs.nasa.gov/citations/20140006585",
-    "review": {
-      "status": "HUMAN_REVIEWED",
-      "reviewer": "R. Naveen",
-      "date": "2026-11-15",
-      "batch": "A"
-    }
+    "source_url": "https://ntrs.nasa.gov/citations/20140006585"
   },
   {
     "claim_id": "NTRS13-012",
@@ -982,13 +780,7 @@
     ],
     "conditions": "Silicone, Teflon, Kapton, LampWick, Pyrell, DBP",
     "doi": null,
-    "source_url": "https://ntrs.nasa.gov/citations/20140006585",
-    "review": {
-      "status": "HUMAN_REVIEWED",
-      "reviewer": "R. Naveen",
-      "date": "2026-11-15",
-      "batch": "A"
-    }
+    "source_url": "https://ntrs.nasa.gov/citations/20140006585"
   },
   {
     "claim_id": "NTRS13-013",
@@ -1006,13 +798,7 @@
     "materials": [],
     "evidence_label": "Authors' statement",
     "doi": null,
-    "source_url": "https://ntrs.nasa.gov/citations/20140006585",
-    "review": {
-      "status": "HUMAN_REVIEWED",
-      "reviewer": "R. Naveen",
-      "date": "2026-11-15",
-      "batch": "A"
-    }
+    "source_url": "https://ntrs.nasa.gov/citations/20140006585"
   },
   {
     "claim_id": "LUNAR-003",
@@ -1037,13 +823,7 @@
       "gravity_level": "lunar_0.16g"
     },
     "doi": null,
-    "source_url": "https://ntrs.nasa.gov/citations/20230013826",
-    "review": {
-      "status": "HUMAN_REVIEWED",
-      "reviewer": "R. Naveen",
-      "date": "2026-11-15",
-      "batch": "A"
-    }
+    "source_url": "https://ntrs.nasa.gov/citations/20230013826"
   },
   {
     "claim_id": "LUNAR-004",
@@ -1061,13 +841,7 @@
     "materials": [],
     "evidence_label": "Authors' suggestion",
     "doi": null,
-    "source_url": "https://ntrs.nasa.gov/citations/20230013826",
-    "review": {
-      "status": "HUMAN_REVIEWED",
-      "reviewer": "R. Naveen",
-      "date": "2026-11-15",
-      "batch": "A"
-    }
+    "source_url": "https://ntrs.nasa.gov/citations/20230013826"
   },
   {
     "claim_id": "EARTH-001",
@@ -1085,13 +859,7 @@
     "materials": [],
     "evidence_label": "Earth application",
     "doi": "10.60555/4qc4-de67",
-    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
-    "review": {
-      "status": "HUMAN_REVIEWED",
-      "reviewer": "R. Naveen",
-      "date": "2026-11-15",
-      "batch": "A"
-    }
+    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25"
   },
   {
     "claim_id": "EARTH-002",
@@ -1109,13 +877,7 @@
     "materials": [],
     "evidence_label": "Earth application",
     "doi": "10.60555/e9xp-ex83",
-    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-62",
-    "review": {
-      "status": "HUMAN_REVIEWED",
-      "reviewer": "R. Naveen",
-      "date": "2026-11-15",
-      "batch": "A"
-    }
+    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-62"
   },
   {
     "claim_id": "PLANNED-002",
@@ -1134,13 +896,7 @@
     "evidence_label": "Planned (as of Dec 2025)",
     "attribution_note": "The date refers to the December 2025 meeting. The abstract describes the launch schedule as it stood then.",
     "doi": null,
-    "source_url": "https://ntrs.nasa.gov/citations/20250010653",
-    "review": {
-      "status": "HUMAN_REVIEWED",
-      "reviewer": "R. Naveen",
-      "date": "2026-11-15",
-      "batch": "A"
-    }
+    "source_url": "https://ntrs.nasa.gov/citations/20250010653"
   },
   {
     "claim_id": "LUCI-001",
@@ -1157,13 +913,7 @@
     ],
     "materials": [],
     "doi": null,
-    "source_url": "https://ntrs.nasa.gov/citations/20250010653",
-    "review": {
-      "status": "HUMAN_REVIEWED",
-      "reviewer": "R. Naveen",
-      "date": "2026-11-15",
-      "batch": "LUCI"
-    }
+    "source_url": "https://ntrs.nasa.gov/citations/20250010653"
   },
   {
     "claim_id": "LUCI-002",
@@ -1180,13 +930,7 @@
     ],
     "materials": [],
     "doi": null,
-    "source_url": "https://ntrs.nasa.gov/citations/20250010653",
-    "review": {
-      "status": "HUMAN_REVIEWED",
-      "reviewer": "R. Naveen",
-      "date": "2026-11-15",
-      "batch": "LUCI"
-    }
+    "source_url": "https://ntrs.nasa.gov/citations/20250010653"
   },
   {
     "claim_id": "LUCI-003",
@@ -1203,13 +947,7 @@
     ],
     "materials": [],
     "doi": null,
-    "source_url": "https://ntrs.nasa.gov/citations/20250010653",
-    "review": {
-      "status": "HUMAN_REVIEWED",
-      "reviewer": "R. Naveen",
-      "date": "2026-11-15",
-      "batch": "LUCI"
-    }
+    "source_url": "https://ntrs.nasa.gov/citations/20250010653"
   },
   {
     "claim_id": "LUCI-004",
@@ -1227,13 +965,7 @@
     "materials": [],
     "evidence_label": "Authors' statement",
     "doi": null,
-    "source_url": "https://ntrs.nasa.gov/citations/20250010653",
-    "review": {
-      "status": "HUMAN_REVIEWED",
-      "reviewer": "R. Naveen",
-      "date": "2026-11-15",
-      "batch": "LUCI"
-    }
+    "source_url": "https://ntrs.nasa.gov/citations/20250010653"
   },
   {
     "claim_id": "BASS-001",
@@ -1250,12 +982,7 @@
     ],
     "doi": "10.60555/58h4-dy80",
     "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-26",
-    "materials": [],
-    "review": {
-      "status": "DRAFT",
-      "reviewer": null,
-      "date": null
-    }
+    "materials": []
   },
   {
     "claim_id": "BASS-002",
@@ -1272,12 +999,7 @@
     ],
     "doi": "10.60555/58h4-dy80",
     "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-26",
-    "materials": [],
-    "review": {
-      "status": "DRAFT",
-      "reviewer": null,
-      "date": null
-    }
+    "materials": []
   },
   {
     "claim_id": "BASS-003",
@@ -1295,12 +1017,7 @@
     ],
     "doi": "10.60555/58h4-dy80",
     "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-26",
-    "materials": [],
-    "review": {
-      "status": "DRAFT",
-      "reviewer": null,
-      "date": null
-    }
+    "materials": []
   },
   {
     "claim_id": "BASS-004",
@@ -1322,12 +1039,7 @@
     ],
     "conditions": "75% cotton and 25% fiberglass (by mass)",
     "doi": "10.60555/58h4-dy80",
-    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-26",
-    "review": {
-      "status": "DRAFT",
-      "reviewer": null,
-      "date": null
-    }
+    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-26"
   },
   {
     "claim_id": "BASS-005",
@@ -1350,12 +1062,7 @@
     "conditions": "opposed or concurrent airflow, speeds reaching as high as 40 cm/s",
     "doi": "10.60555/58h4-dy80",
     "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-26",
-    "materials": [],
-    "review": {
-      "status": "DRAFT",
-      "reviewer": null,
-      "date": null
-    }
+    "materials": []
   },
   {
     "claim_id": "BASS-006",
@@ -1373,12 +1080,7 @@
     "conditions": "flow duct 76 mm x 76 mm cross section",
     "doi": "10.60555/58h4-dy80",
     "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-26",
-    "materials": [],
-    "review": {
-      "status": "DRAFT",
-      "reviewer": null,
-      "date": null
-    }
+    "materials": []
   },
   {
     "claim_id": "BASS-007",
@@ -1396,12 +1098,7 @@
     ],
     "doi": "10.60555/58h4-dy80",
     "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-26",
-    "materials": [],
-    "review": {
-      "status": "DRAFT",
-      "reviewer": null,
-      "date": null
-    }
+    "materials": []
   },
   {
     "claim_id": "BASSII-001",
@@ -1419,12 +1116,7 @@
     ],
     "doi": "10.60555/4qc4-de67",
     "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
-    "materials": [],
-    "review": {
-      "status": "DRAFT",
-      "reviewer": null,
-      "date": null
-    }
+    "materials": []
   },
   {
     "claim_id": "BASSII-002",
@@ -1441,12 +1133,7 @@
     ],
     "doi": "10.60555/4qc4-de67",
     "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
-    "materials": [],
-    "review": {
-      "status": "DRAFT",
-      "reviewer": null,
-      "date": null
-    }
+    "materials": []
   },
   {
     "claim_id": "BASSII-003",
@@ -1464,12 +1151,7 @@
     ],
     "doi": "10.60555/4qc4-de67",
     "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
-    "materials": [],
-    "review": {
-      "status": "DRAFT",
-      "reviewer": null,
-      "date": null
-    }
+    "materials": []
   },
   {
     "claim_id": "BASSII-004",
@@ -1487,12 +1169,7 @@
     ],
     "doi": "10.60555/4qc4-de67",
     "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
-    "materials": [],
-    "review": {
-      "status": "DRAFT",
-      "reviewer": null,
-      "date": null
-    }
+    "materials": []
   },
   {
     "claim_id": "BASSII-005",
@@ -1515,12 +1192,7 @@
     "conditions": "airflow speeds up to 40 cm/s",
     "doi": "10.60555/4qc4-de67",
     "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
-    "materials": [],
-    "review": {
-      "status": "DRAFT",
-      "reviewer": null,
-      "date": null
-    }
+    "materials": []
   },
   {
     "claim_id": "BASSII-006",
@@ -1539,12 +1211,7 @@
     "conditions": "oxygen varied below 21% by adding nitrogen",
     "doi": "10.60555/4qc4-de67",
     "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
-    "materials": [],
-    "review": {
-      "status": "DRAFT",
-      "reviewer": null,
-      "date": null
-    }
+    "materials": []
   },
   {
     "claim_id": "EARTH-003",
@@ -1562,12 +1229,7 @@
     ],
     "doi": "10.60555/4qc4-de67",
     "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
-    "materials": [],
-    "review": {
-      "status": "DRAFT",
-      "reviewer": null,
-      "date": null
-    }
+    "materials": []
   },
   {
     "claim_id": "SAFFIRE-I-001",
@@ -1585,12 +1247,7 @@
     ],
     "doi": "10.60555/0t15-1z43",
     "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-98",
-    "materials": [],
-    "review": {
-      "status": "DRAFT",
-      "reviewer": null,
-      "date": null
-    }
+    "materials": []
   },
   {
     "claim_id": "SAFFIRE-I-002",
@@ -1610,12 +1267,7 @@
     ],
     "conditions": "75% cotton, 25% fiberglass by weight",
     "doi": "10.60555/0t15-1z43",
-    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-98",
-    "review": {
-      "status": "DRAFT",
-      "reviewer": null,
-      "date": null
-    }
+    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-98"
   },
   {
     "claim_id": "SAFFIRE-I-003",
@@ -1633,12 +1285,7 @@
     "conditions": "sample approximately 0.94 meters long and 0.4 meters wide",
     "doi": "10.60555/0t15-1z43",
     "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-98",
-    "materials": [],
-    "review": {
-      "status": "DRAFT",
-      "reviewer": null,
-      "date": null
-    }
+    "materials": []
   },
   {
     "claim_id": "SAFFIRE-I-004",
@@ -1661,12 +1308,7 @@
     "conditions": "air flow velocity of 20 cm/s",
     "doi": "10.60555/0t15-1z43",
     "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-98",
-    "materials": [],
-    "review": {
-      "status": "DRAFT",
-      "reviewer": null,
-      "date": null
-    }
+    "materials": []
   },
   {
     "claim_id": "SAFFIRE-I-005",
@@ -1684,12 +1326,7 @@
     ],
     "doi": "10.60555/0t15-1z43",
     "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-98",
-    "materials": [],
-    "review": {
-      "status": "DRAFT",
-      "reviewer": null,
-      "date": null
-    }
+    "materials": []
   },
   {
     "claim_id": "SAFFIRE-I-006",
@@ -1706,12 +1343,7 @@
     ],
     "doi": "10.60555/0t15-1z43",
     "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-98",
-    "materials": [],
-    "review": {
-      "status": "DRAFT",
-      "reviewer": null,
-      "date": null
-    }
+    "materials": []
   },
   {
     "claim_id": "EARTH-004",
@@ -1729,12 +1361,7 @@
     ],
     "doi": "10.60555/0t15-1z43",
     "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-98",
-    "materials": [],
-    "review": {
-      "status": "DRAFT",
-      "reviewer": null,
-      "date": null
-    }
+    "materials": []
   },
   {
     "claim_id": "SAFFIRE-II-001",
@@ -1752,12 +1379,7 @@
     ],
     "doi": "10.60555/2chp-m469",
     "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-99",
-    "materials": [],
-    "review": {
-      "status": "DRAFT",
-      "reviewer": null,
-      "date": null
-    }
+    "materials": []
   },
   {
     "claim_id": "SAFFIRE-II-002",
@@ -1779,12 +1401,7 @@
       "Nomex"
     ],
     "doi": "10.60555/2chp-m469",
-    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-99",
-    "review": {
-      "status": "DRAFT",
-      "reviewer": null,
-      "date": null
-    }
+    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-99"
   },
   {
     "claim_id": "SAFFIRE-II-003",
@@ -1802,12 +1419,7 @@
     "conditions": "9 samples, each 5 cm x 29 cm",
     "doi": "10.60555/2chp-m469",
     "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-99",
-    "materials": [],
-    "review": {
-      "status": "DRAFT",
-      "reviewer": null,
-      "date": null
-    }
+    "materials": []
   },
   {
     "claim_id": "SAFFIRE-II-004",
@@ -1825,12 +1437,7 @@
     "conditions": "air flow velocity of either 20 or 30 cm/s, concurrent or opposed",
     "doi": "10.60555/2chp-m469",
     "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-99",
-    "materials": [],
-    "review": {
-      "status": "DRAFT",
-      "reviewer": null,
-      "date": null
-    }
+    "materials": []
   },
   {
     "claim_id": "SAFFIRE-II-005",
@@ -1848,12 +1455,7 @@
     ],
     "doi": "10.60555/2chp-m469",
     "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-99",
-    "materials": [],
-    "review": {
-      "status": "DRAFT",
-      "reviewer": null,
-      "date": null
-    }
+    "materials": []
   },
   {
     "claim_id": "EARTH-005",
@@ -1871,12 +1473,7 @@
     ],
     "doi": "10.60555/2chp-m469",
     "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-99",
-    "materials": [],
-    "review": {
-      "status": "DRAFT",
-      "reviewer": null,
-      "date": null
-    }
+    "materials": []
   },
   {
     "claim_id": "SAFFIRE-III-001",
@@ -1894,12 +1491,7 @@
     ],
     "doi": "10.60555/040q-4h36",
     "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-100",
-    "materials": [],
-    "review": {
-      "status": "DRAFT",
-      "reviewer": null,
-      "date": null
-    }
+    "materials": []
   },
   {
     "claim_id": "SAFFIRE-III-002",
@@ -1922,12 +1514,7 @@
     },
     "doi": "10.60555/040q-4h36",
     "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-100",
-    "materials": [],
-    "review": {
-      "status": "DRAFT",
-      "reviewer": null,
-      "date": null
-    }
+    "materials": []
   },
   {
     "claim_id": "SAFFIRE-III-003",
@@ -1945,12 +1532,7 @@
     ],
     "doi": "10.60555/040q-4h36",
     "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-100",
-    "materials": [],
-    "review": {
-      "status": "DRAFT",
-      "reviewer": null,
-      "date": null
-    }
+    "materials": []
   },
   {
     "claim_id": "SAFFIRE-III-004",
@@ -1969,12 +1551,7 @@
       "SIBAL"
     ],
     "doi": "10.60555/040q-4h36",
-    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-100",
-    "review": {
-      "status": "DRAFT",
-      "reviewer": null,
-      "date": null
-    }
+    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-100"
   },
   {
     "claim_id": "EARTH-006",
@@ -1992,12 +1569,7 @@
     ],
     "doi": "10.60555/040q-4h36",
     "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-100",
-    "materials": [],
-    "review": {
-      "status": "DRAFT",
-      "reviewer": null,
-      "date": null
-    }
+    "materials": []
   },
   {
     "claim_id": "FLEX-001",
@@ -2014,12 +1586,7 @@
     ],
     "doi": "10.60555/mbq8-0451",
     "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-69",
-    "materials": [],
-    "review": {
-      "status": "DRAFT",
-      "reviewer": null,
-      "date": null
-    }
+    "materials": []
   },
   {
     "claim_id": "FLEX-002",
@@ -2037,12 +1604,7 @@
     ],
     "doi": "10.60555/mbq8-0451",
     "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-69",
-    "materials": [],
-    "review": {
-      "status": "DRAFT",
-      "reviewer": null,
-      "date": null
-    }
+    "materials": []
   },
   {
     "claim_id": "FLEX-003",
@@ -2059,12 +1621,7 @@
     ],
     "doi": "10.60555/mbq8-0451",
     "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-69",
-    "materials": [],
-    "review": {
-      "status": "DRAFT",
-      "reviewer": null,
-      "date": null
-    }
+    "materials": []
   },
   {
     "claim_id": "FLEX-004",
@@ -2082,12 +1639,7 @@
     "conditions": "test pressure 0.5 − 1.5 atm; smaller droplet size ≈ 3 mm",
     "doi": "10.60555/mbq8-0451",
     "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-69",
-    "materials": [],
-    "review": {
-      "status": "DRAFT",
-      "reviewer": null,
-      "date": null
-    }
+    "materials": []
   },
   {
     "claim_id": "EARTH-007",
@@ -2105,12 +1657,7 @@
     ],
     "doi": "10.60555/mbq8-0451",
     "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-69",
-    "materials": [],
-    "review": {
-      "status": "DRAFT",
-      "reviewer": null,
-      "date": null
-    }
+    "materials": []
   },
   {
     "claim_id": "FLEX2-001",
@@ -2127,12 +1674,7 @@
     ],
     "doi": "10.60555/byp8-h018",
     "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-68",
-    "materials": [],
-    "review": {
-      "status": "DRAFT",
-      "reviewer": null,
-      "date": null
-    }
+    "materials": []
   },
   {
     "claim_id": "FLEX2-002",
@@ -2150,12 +1692,7 @@
     ],
     "doi": "10.60555/byp8-h018",
     "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-68",
-    "materials": [],
-    "review": {
-      "status": "DRAFT",
-      "reviewer": null,
-      "date": null
-    }
+    "materials": []
   },
   {
     "claim_id": "FLEX2-003",
@@ -2173,12 +1710,7 @@
     "conditions": "pressure between 0.5 atm to 3.0 atm; O2 concentration between 0.1 to 0.4 mole fraction",
     "doi": "10.60555/byp8-h018",
     "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-68",
-    "materials": [],
-    "review": {
-      "status": "DRAFT",
-      "reviewer": null,
-      "date": null
-    }
+    "materials": []
   },
   {
     "claim_id": "FLEX2-004",
@@ -2195,12 +1727,7 @@
     ],
     "doi": "10.60555/byp8-h018",
     "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-68",
-    "materials": [],
-    "review": {
-      "status": "DRAFT",
-      "reviewer": null,
-      "date": null
-    }
+    "materials": []
   },
   {
     "claim_id": "CFI-001",
@@ -2221,12 +1748,7 @@
     ],
     "conditions": "pressures ranging from 0.25 atm to 5 atm",
     "doi": "10.60555/m6pj-a914",
-    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-39",
-    "review": {
-      "status": "DRAFT",
-      "reviewer": null,
-      "date": null
-    }
+    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-39"
   },
   {
     "claim_id": "CFI-002",
@@ -2244,12 +1766,7 @@
     ],
     "doi": "10.60555/m6pj-a914",
     "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-39",
-    "materials": [],
-    "review": {
-      "status": "DRAFT",
-      "reviewer": null,
-      "date": null
-    }
+    "materials": []
   },
   {
     "claim_id": "CFI-003",
@@ -2267,12 +1784,7 @@
     "conditions": "gas mixture to the combustion chamber ranging from 0.25 to 0.5 atm",
     "doi": "10.60555/m6pj-a914",
     "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-39",
-    "materials": [],
-    "review": {
-      "status": "DRAFT",
-      "reviewer": null,
-      "date": null
-    }
+    "materials": []
   },
   {
     "claim_id": "CFI-004",
@@ -2293,12 +1805,7 @@
       "iso-dodecane"
     ],
     "doi": "10.60555/m6pj-a914",
-    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-39",
-    "review": {
-      "status": "DRAFT",
-      "reviewer": null,
-      "date": null
-    }
+    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-39"
   },
   {
     "claim_id": "CFI-005",
@@ -2315,12 +1822,7 @@
     ],
     "doi": "10.60555/m6pj-a914",
     "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-39",
-    "materials": [],
-    "review": {
-      "status": "DRAFT",
-      "reviewer": null,
-      "date": null
-    }
+    "materials": []
   },
   {
     "claim_id": "CFI-006",
@@ -2338,12 +1840,7 @@
     ],
     "doi": "10.60555/m6pj-a914",
     "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-39",
-    "materials": [],
-    "review": {
-      "status": "DRAFT",
-      "reviewer": null,
-      "date": null
-    }
+    "materials": []
   },
   {
     "claim_id": "BRE-001",
@@ -2363,11 +1860,6 @@
     "doi": "10.60555/vb93-3y72",
     "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-20",
     "materials": [],
-    "review": {
-      "status": "DRAFT",
-      "reviewer": null,
-      "date": null
-    },
     "evidence_label": "Planned test condition"
   },
   {
@@ -2389,12 +1881,7 @@
     ],
     "conditions": "porous circular burners of 25  and 50 mm diameter",
     "doi": "10.60555/vb93-3y72",
-    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-20",
-    "review": {
-      "status": "DRAFT",
-      "reviewer": null,
-      "date": null
-    }
+    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-20"
   },
   {
     "claim_id": "BRE-003",
@@ -2412,12 +1899,7 @@
     ],
     "doi": "10.60555/vb93-3y72",
     "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-20",
-    "materials": [],
-    "review": {
-      "status": "DRAFT",
-      "reviewer": null,
-      "date": null
-    }
+    "materials": []
   },
   {
     "claim_id": "BRE-004",
@@ -2437,12 +1919,7 @@
       "Nylon"
     ],
     "doi": "10.60555/vb93-3y72",
-    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-20",
-    "review": {
-      "status": "DRAFT",
-      "reviewer": null,
-      "date": null
-    }
+    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-20"
   },
   {
     "claim_id": "BRE-005",
@@ -2460,12 +1937,7 @@
     "conditions": "normal atmosphere of 21% oxygen",
     "doi": "10.60555/vb93-3y72",
     "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-20",
-    "materials": [],
-    "review": {
-      "status": "DRAFT",
-      "reviewer": null,
-      "date": null
-    }
+    "materials": []
   },
   {
     "claim_id": "BRE-006",
@@ -2483,12 +1955,7 @@
     ],
     "doi": "10.60555/vb93-3y72",
     "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-20",
-    "materials": [],
-    "review": {
-      "status": "DRAFT",
-      "reviewer": null,
-      "date": null
-    }
+    "materials": []
   },
   {
     "claim_id": "BRE-007",
@@ -2505,12 +1972,7 @@
     ],
     "doi": "10.60555/vb93-3y72",
     "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-20",
-    "materials": [],
-    "review": {
-      "status": "DRAFT",
-      "reviewer": null,
-      "date": null
-    }
+    "materials": []
   },
   {
     "claim_id": "CFIG-001",
@@ -2531,12 +1993,7 @@
       "n-pentane"
     ],
     "doi": "10.60555/cyt1-kh64",
-    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-159",
-    "review": {
-      "status": "DRAFT",
-      "reviewer": null,
-      "date": null
-    }
+    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-159"
   },
   {
     "claim_id": "CFIG-002",
@@ -2554,12 +2011,7 @@
     ],
     "doi": "10.60555/cyt1-kh64",
     "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-159",
-    "materials": [],
-    "review": {
-      "status": "DRAFT",
-      "reviewer": null,
-      "date": null
-    }
+    "materials": []
   },
   {
     "claim_id": "CFIG-003",
@@ -2576,12 +2028,7 @@
     ],
     "doi": "10.60555/cyt1-kh64",
     "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-159",
-    "materials": [],
-    "review": {
-      "status": "DRAFT",
-      "reviewer": null,
-      "date": null
-    }
+    "materials": []
   },
   {
     "claim_id": "CFIG-004",
@@ -2598,12 +2045,7 @@
     ],
     "doi": "10.60555/cyt1-kh64",
     "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-159",
-    "materials": [],
-    "review": {
-      "status": "DRAFT",
-      "reviewer": null,
-      "date": null
-    }
+    "materials": []
   },
   {
     "claim_id": "CFIG-005",
@@ -2622,12 +2064,7 @@
     "conditions": "peak temperatures are 500 – 1000 K",
     "doi": "10.60555/cyt1-kh64",
     "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-159",
-    "materials": [],
-    "review": {
-      "status": "DRAFT",
-      "reviewer": null,
-      "date": null
-    }
+    "materials": []
   },
   {
     "claim_id": "EFIELD-001",
@@ -2644,12 +2081,7 @@
     ],
     "doi": "10.60555/se5a-8c73",
     "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-22",
-    "materials": [],
-    "review": {
-      "status": "DRAFT",
-      "reviewer": null,
-      "date": null
-    }
+    "materials": []
   },
   {
     "claim_id": "EFIELD-002",
@@ -2667,12 +2099,7 @@
     ],
     "doi": "10.60555/se5a-8c73",
     "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-22",
-    "materials": [],
-    "review": {
-      "status": "DRAFT",
-      "reviewer": null,
-      "date": null
-    }
+    "materials": []
   },
   {
     "claim_id": "EFIELD-003",
@@ -2690,12 +2117,7 @@
     "conditions": "high voltage (up to 10 kV)",
     "doi": "10.60555/se5a-8c73",
     "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-22",
-    "materials": [],
-    "review": {
-      "status": "DRAFT",
-      "reviewer": null,
-      "date": null
-    }
+    "materials": []
   },
   {
     "claim_id": "EFIELD-004",
@@ -2715,12 +2137,7 @@
       "ethylene"
     ],
     "doi": "10.60555/se5a-8c73",
-    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-22",
-    "review": {
-      "status": "DRAFT",
-      "reviewer": null,
-      "date": null
-    }
+    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-22"
   },
   {
     "claim_id": "EFIELD-005",
@@ -2738,12 +2155,7 @@
     ],
     "doi": "10.60555/se5a-8c73",
     "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-22",
-    "materials": [],
-    "review": {
-      "status": "DRAFT",
-      "reviewer": null,
-      "date": null
-    }
+    "materials": []
   },
   {
     "claim_id": "EARTH-008",
@@ -2761,12 +2173,7 @@
     ],
     "doi": "10.60555/se5a-8c73",
     "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-22",
-    "materials": [],
-    "review": {
-      "status": "DRAFT",
-      "reviewer": null,
-      "date": null
-    }
+    "materials": []
   },
   {
     "claim_id": "SLICE-001",
@@ -2783,12 +2190,7 @@
     ],
     "doi": "10.60555/pm12-rg61",
     "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-106",
-    "materials": [],
-    "review": {
-      "status": "DRAFT",
-      "reviewer": null,
-      "date": null
-    }
+    "materials": []
   },
   {
     "claim_id": "SLICE-002",
@@ -2805,12 +2207,7 @@
     ],
     "doi": "10.60555/pm12-rg61",
     "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-106",
-    "materials": [],
-    "review": {
-      "status": "DRAFT",
-      "reviewer": null,
-      "date": null
-    }
+    "materials": []
   },
   {
     "claim_id": "SLICE-003",
@@ -2828,12 +2225,7 @@
     ],
     "doi": "10.60555/pm12-rg61",
     "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-106",
-    "materials": [],
-    "review": {
-      "status": "DRAFT",
-      "reviewer": null,
-      "date": null
-    }
+    "materials": []
   },
   {
     "claim_id": "SLICE-004",
@@ -2853,12 +2245,7 @@
       "ethylene"
     ],
     "doi": "10.60555/pm12-rg61",
-    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-106",
-    "review": {
-      "status": "DRAFT",
-      "reviewer": null,
-      "date": null
-    }
+    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-106"
   },
   {
     "claim_id": "SLICE-005",
@@ -2877,12 +2264,7 @@
     "conditions": "across 13 testing experiments",
     "doi": "10.60555/pm12-rg61",
     "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-106",
-    "materials": [],
-    "review": {
-      "status": "DRAFT",
-      "reviewer": null,
-      "date": null
-    }
+    "materials": []
   },
   {
     "claim_id": "SLICE-006",
@@ -2900,12 +2282,7 @@
     ],
     "doi": "10.60555/pm12-rg61",
     "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-106",
-    "materials": [],
-    "review": {
-      "status": "DRAFT",
-      "reviewer": null,
-      "date": null
-    }
+    "materials": []
   },
   {
     "claim_id": "CHALLENGE-001",
@@ -2925,12 +2302,7 @@
     "attribution_note": "Cited as a hashed 2026 NASA Space Apps challenge-statement snapshot, not as a measured PSI result.",
     "doi": null,
     "source_url": "https://www.spaceappschallenge.org/2026/challenges/flame-in-freefall/",
-    "materials": [],
-    "review": {
-      "status": "DRAFT",
-      "reviewer": null,
-      "date": null
-    }
+    "materials": []
   },
   {
     "claim_id": "CHALLENGE-002",
@@ -2949,12 +2321,7 @@
     "attribution_note": "Cited as a hashed 2026 NASA Space Apps challenge-statement snapshot, not as a measured PSI result.",
     "doi": null,
     "source_url": "https://www.spaceappschallenge.org/2026/challenges/flame-in-freefall/",
-    "materials": [],
-    "review": {
-      "status": "DRAFT",
-      "reviewer": null,
-      "date": null
-    }
+    "materials": []
   },
   {
     "claim_id": "CHALLENGE-003",
@@ -2974,12 +2341,7 @@
     "attribution_note": "Cited as a hashed 2026 NASA Space Apps challenge-statement snapshot, not as a measured PSI result.",
     "doi": null,
     "source_url": "https://www.spaceappschallenge.org/2026/challenges/flame-in-freefall/",
-    "materials": [],
-    "review": {
-      "status": "DRAFT",
-      "reviewer": null,
-      "date": null
-    }
+    "materials": []
   },
   {
     "claim_id": "CHALLENGE-004",
@@ -2999,12 +2361,7 @@
     "attribution_note": "Cited as a hashed 2026 NASA Space Apps challenge-statement snapshot, not as a measured PSI result.",
     "doi": null,
     "source_url": "https://www.spaceappschallenge.org/2026/challenges/flame-in-freefall/",
-    "materials": [],
-    "review": {
-      "status": "DRAFT",
-      "reviewer": null,
-      "date": null
-    }
+    "materials": []
   },
   {
     "claim_id": "CHALLENGE-005",
@@ -3024,12 +2381,7 @@
     "attribution_note": "Cited as a hashed 2026 NASA Space Apps challenge-statement snapshot, not as a measured PSI result.",
     "doi": null,
     "source_url": "https://www.spaceappschallenge.org/2026/challenges/flame-in-freefall/",
-    "materials": [],
-    "review": {
-      "status": "DRAFT",
-      "reviewer": null,
-      "date": null
-    }
+    "materials": []
   },
   {
     "claim_id": "CHALLENGE-006",
@@ -3048,12 +2400,7 @@
     "attribution_note": "Cited as a hashed 2026 NASA Space Apps challenge-statement snapshot, not as a measured PSI result.",
     "doi": null,
     "source_url": "https://www.spaceappschallenge.org/2026/challenges/flame-in-freefall/",
-    "materials": [],
-    "review": {
-      "status": "DRAFT",
-      "reviewer": null,
-      "date": null
-    }
+    "materials": []
   },
   {
     "claim_id": "CHALLENGE-007",
@@ -3072,12 +2419,7 @@
     "attribution_note": "Challenge-statement context. The PSI-22 E-FIELD record does not itself describe the experiment as a partial-gravity proxy.",
     "doi": null,
     "source_url": "https://www.spaceappschallenge.org/2026/challenges/flame-in-freefall/",
-    "materials": [],
-    "review": {
-      "status": "DRAFT",
-      "reviewer": null,
-      "date": null
-    }
+    "materials": []
   },
   {
     "claim_id": "CHALLENGE-008",
@@ -3096,12 +2438,7 @@
     "attribution_note": "Cited as a hashed 2026 NASA Space Apps challenge-statement snapshot, not as a measured PSI result.",
     "doi": null,
     "source_url": "https://www.spaceappschallenge.org/2026/challenges/flame-in-freefall/",
-    "materials": [],
-    "review": {
-      "status": "DRAFT",
-      "reviewer": null,
-      "date": null
-    }
+    "materials": []
   },
   {
     "claim_id": "CHALLENGE-009",
@@ -3120,12 +2457,7 @@
     "attribution_note": "Cited as a hashed 2026 NASA Space Apps challenge-statement snapshot, not as a measured PSI result.",
     "doi": null,
     "source_url": "https://www.spaceappschallenge.org/2026/challenges/flame-in-freefall/",
-    "materials": [],
-    "review": {
-      "status": "DRAFT",
-      "reviewer": null,
-      "date": null
-    }
+    "materials": []
   },
   {
     "claim_id": "CHALLENGE-010",
@@ -3144,12 +2476,7 @@
     "attribution_note": "Cited as a hashed 2026 NASA Space Apps challenge-statement snapshot, not as a measured PSI result.",
     "doi": null,
     "source_url": "https://www.spaceappschallenge.org/2026/challenges/flame-in-freefall/",
-    "materials": [],
-    "review": {
-      "status": "DRAFT",
-      "reviewer": null,
-      "date": null
-    }
+    "materials": []
   },
   {
     "claim_id": "CHALLENGE-011",
@@ -3171,12 +2498,7 @@
     "conditions": "oxygen-nitrogen mixture of up to 85% oxygen",
     "attribution_note": "Challenge-statement context describing CFI-G. This 85% oxygen figure is not present in the stored PSI-159 record text.",
     "doi": null,
-    "source_url": "https://www.spaceappschallenge.org/2026/challenges/flame-in-freefall/",
-    "review": {
-      "status": "DRAFT",
-      "reviewer": null,
-      "date": null
-    }
+    "source_url": "https://www.spaceappschallenge.org/2026/challenges/flame-in-freefall/"
   },
   {
     "claim_id": "CHALLENGE-012",
@@ -3195,12 +2517,7 @@
     "attribution_note": "Cited as a hashed 2026 NASA Space Apps challenge-statement snapshot, not as a measured PSI result.",
     "doi": null,
     "source_url": "https://www.spaceappschallenge.org/2026/challenges/flame-in-freefall/",
-    "materials": [],
-    "review": {
-      "status": "DRAFT",
-      "reviewer": null,
-      "date": null
-    }
+    "materials": []
   },
   {
     "claim_id": "CHALLENGE-013",
@@ -3219,12 +2536,7 @@
     "attribution_note": "Cited as a hashed 2026 NASA Space Apps challenge-statement snapshot, not as a measured PSI result.",
     "doi": null,
     "source_url": "https://www.spaceappschallenge.org/2026/challenges/flame-in-freefall/",
-    "materials": [],
-    "review": {
-      "status": "DRAFT",
-      "reviewer": null,
-      "date": null
-    }
+    "materials": []
   },
   {
     "claim_id": "CHALLENGE-014",
@@ -3243,12 +2555,7 @@
     "attribution_note": "Cited as a hashed 2026 NASA Space Apps challenge-statement snapshot, not as a measured PSI result.",
     "doi": null,
     "source_url": "https://www.spaceappschallenge.org/2026/challenges/flame-in-freefall/",
-    "materials": [],
-    "review": {
-      "status": "DRAFT",
-      "reviewer": null,
-      "date": null
-    }
+    "materials": []
   },
   {
     "claim_id": "NTRS12-FLEX-001",
@@ -3266,12 +2573,7 @@
     "attribution_note": "2012 NASA Glenn ISS combustion overview (IAC-12.A2.7.4). Quoted as a contemporary reported result or method, not a later flight-data paper.",
     "doi": null,
     "source_url": "https://ntrs.nasa.gov/citations/20120017940",
-    "materials": [],
-    "review": {
-      "status": "DRAFT",
-      "reviewer": null,
-      "date": null
-    }
+    "materials": []
   },
   {
     "claim_id": "NTRS12-FLEX-002",
@@ -3289,12 +2591,7 @@
     "attribution_note": "2012 NASA Glenn ISS combustion overview (IAC-12.A2.7.4). Quoted as a contemporary reported result or method, not a later flight-data paper.",
     "doi": null,
     "source_url": "https://ntrs.nasa.gov/citations/20120017940",
-    "materials": [],
-    "review": {
-      "status": "DRAFT",
-      "reviewer": null,
-      "date": null
-    }
+    "materials": []
   },
   {
     "claim_id": "NTRS12-FLEX-003",
@@ -3312,12 +2609,7 @@
     "attribution_note": "2012 NASA Glenn ISS combustion overview (IAC-12.A2.7.4). Quoted as a contemporary reported result or method, not a later flight-data paper.",
     "doi": null,
     "source_url": "https://ntrs.nasa.gov/citations/20120017940",
-    "materials": [],
-    "review": {
-      "status": "DRAFT",
-      "reviewer": null,
-      "date": null
-    }
+    "materials": []
   },
   {
     "claim_id": "NTRS12-FLEX-004",
@@ -3335,12 +2627,7 @@
     "attribution_note": "2012 NASA Glenn ISS combustion overview (IAC-12.A2.7.4). Quoted as a contemporary reported result or method, not a later flight-data paper.",
     "doi": null,
     "source_url": "https://ntrs.nasa.gov/citations/20120017940",
-    "materials": [],
-    "review": {
-      "status": "DRAFT",
-      "reviewer": null,
-      "date": null
-    }
+    "materials": []
   },
   {
     "claim_id": "NTRS12-FLEX-005",
@@ -3362,12 +2649,7 @@
     "conditions": "oxygen and nitrogen diluted with nitrogen, carbon dioxide, helium and xenon",
     "attribution_note": "2012 NASA Glenn ISS combustion overview (IAC-12.A2.7.4). Quoted as a contemporary reported result or method, not a later flight-data paper.",
     "doi": null,
-    "source_url": "https://ntrs.nasa.gov/citations/20120017940",
-    "review": {
-      "status": "DRAFT",
-      "reviewer": null,
-      "date": null
-    }
+    "source_url": "https://ntrs.nasa.gov/citations/20120017940"
   },
   {
     "claim_id": "NTRS12-FLEX-006",
@@ -3387,12 +2669,7 @@
     "attribution_note": "The extracted snapshot writes the pressure range as '0 3 atm' (a missing hyphen is likely). The numbers are quoted as they appear.",
     "doi": null,
     "source_url": "https://ntrs.nasa.gov/citations/20120017940",
-    "materials": [],
-    "review": {
-      "status": "DRAFT",
-      "reviewer": null,
-      "date": null
-    }
+    "materials": []
   },
   {
     "claim_id": "NTRS12-FLEX2-001",
@@ -3411,12 +2688,7 @@
     "attribution_note": "2012 NASA Glenn ISS combustion overview (IAC-12.A2.7.4). Quoted as a contemporary reported result or method, not a later flight-data paper.",
     "doi": null,
     "source_url": "https://ntrs.nasa.gov/citations/20120017940",
-    "materials": [],
-    "review": {
-      "status": "DRAFT",
-      "reviewer": null,
-      "date": null
-    }
+    "materials": []
   },
   {
     "claim_id": "NTRS12-BASS-001",
@@ -3436,12 +2708,7 @@
     "attribution_note": "2012 NASA Glenn ISS combustion overview (IAC-12.A2.7.4). Quoted as a contemporary reported result or method, not a later flight-data paper.",
     "doi": null,
     "source_url": "https://ntrs.nasa.gov/citations/20120017940",
-    "materials": [],
-    "review": {
-      "status": "DRAFT",
-      "reviewer": null,
-      "date": null
-    }
+    "materials": []
   },
   {
     "claim_id": "NTRS12-BASS-002",
@@ -3459,12 +2726,7 @@
     "attribution_note": "2012 NASA Glenn ISS combustion overview (IAC-12.A2.7.4). Quoted as a contemporary reported result or method, not a later flight-data paper.",
     "doi": null,
     "source_url": "https://ntrs.nasa.gov/citations/20120017940",
-    "materials": [],
-    "review": {
-      "status": "DRAFT",
-      "reviewer": null,
-      "date": null
-    }
+    "materials": []
   },
   {
     "claim_id": "NTRS12-SOLID-001",
@@ -3482,12 +2744,7 @@
     "attribution_note": "The paper states this as a finding from microgravity experiments in general, not as a named investigation result.",
     "doi": null,
     "source_url": "https://ntrs.nasa.gov/citations/20120017940",
-    "materials": [],
-    "review": {
-      "status": "DRAFT",
-      "reviewer": null,
-      "date": null
-    }
+    "materials": []
   },
   {
     "claim_id": "NTRS12-SOLID-002",
@@ -3505,12 +2762,7 @@
     "attribution_note": "The paper does not name the specific investigations that support this statement.",
     "doi": null,
     "source_url": "https://ntrs.nasa.gov/citations/20120017940",
-    "materials": [],
-    "review": {
-      "status": "DRAFT",
-      "reviewer": null,
-      "date": null
-    }
+    "materials": []
   },
   {
     "claim_id": "NTRS12-SOLID-003",
@@ -3528,12 +2780,7 @@
     "attribution_note": "The paper does not name the specific investigations that support this statement.",
     "doi": null,
     "source_url": "https://ntrs.nasa.gov/citations/20120017940",
-    "materials": [],
-    "review": {
-      "status": "DRAFT",
-      "reviewer": null,
-      "date": null
-    }
+    "materials": []
   },
   {
     "claim_id": "NTRS12-SLICE-001",
@@ -3552,12 +2799,7 @@
     "attribution_note": "Stated in 2012 as a planned arrangement of SLICE hardware, not as a later measured result.",
     "doi": null,
     "source_url": "https://ntrs.nasa.gov/citations/20120017940",
-    "materials": [],
-    "review": {
-      "status": "DRAFT",
-      "reviewer": null,
-      "date": null
-    }
+    "materials": []
   },
   {
     "claim_id": "NTRS16-FLEX-001",
@@ -3575,12 +2817,7 @@
     "attribution_note": "2016 NASA Glenn spacecraft fire safety briefing. Quoted from the FLEX results slide, not from a PSI record.",
     "doi": null,
     "source_url": "https://ntrs.nasa.gov/citations/20170007283",
-    "materials": [],
-    "review": {
-      "status": "DRAFT",
-      "reviewer": null,
-      "date": null
-    }
+    "materials": []
   },
   {
     "claim_id": "NTRS16-FLEX-002",
@@ -3598,12 +2835,7 @@
     "attribution_note": "2016 NASA Glenn spacecraft fire safety briefing. Quoted from the FLEX results slide, not from a PSI record.",
     "doi": null,
     "source_url": "https://ntrs.nasa.gov/citations/20170007283",
-    "materials": [],
-    "review": {
-      "status": "DRAFT",
-      "reviewer": null,
-      "date": null
-    }
+    "materials": []
   },
   {
     "claim_id": "NTRS16-FLEX-003",
@@ -3622,12 +2854,7 @@
     "attribution_note": "2016 NASA Glenn spacecraft fire safety briefing. Quoted from the FLEX results slide, not from a PSI record.",
     "doi": null,
     "source_url": "https://ntrs.nasa.gov/citations/20170007283",
-    "materials": [],
-    "review": {
-      "status": "DRAFT",
-      "reviewer": null,
-      "date": null
-    }
+    "materials": []
   },
   {
     "claim_id": "CHALLENGE-015",
@@ -3646,11 +2873,6 @@
     "attribution_note": "Cited as a hashed 2026 NASA Space Apps challenge-statement snapshot, not as a measured PSI result.",
     "doi": null,
     "source_url": "https://www.spaceappschallenge.org/2026/challenges/flame-in-freefall/",
-    "materials": [],
-    "review": {
-      "status": "DRAFT",
-      "reviewer": null,
-      "date": null
-    }
+    "materials": []
   }
 ]

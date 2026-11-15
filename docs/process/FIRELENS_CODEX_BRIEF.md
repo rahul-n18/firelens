@@ -32,7 +32,7 @@ How the page answers NASA's challenge brief:
 | Data for predictive modelling | Data for fire modelers table + CSV/JSON export |
 | Next-generation safety equipment | Detector chart + authors' suggestion + "Test next" column |
 | Earth fire safety (optional) | Earth tabs, from verified claims only |
-| AI-powered | Trust strip: AI drafts, software verifies, people review |
+| AI-powered | Trust strip shows quote verification and how interpretations are assembled |
 
 ---
 
@@ -45,7 +45,7 @@ How the page answers NASA's challenge brief:
 
 ## 3. Corpus additions (Phase A — do first)
 
-Add these claims from sources already stored. Each excerpt must be verbatim from the stored file; if the verifier cannot match an excerpt, skip that claim and report it. Status DRAFT; regenerate `docs/claims-review.md` listing only new claims for human review. Proposed `claim_text` values are given; keep them unless they say more than the excerpt.
+Add these claims from sources already stored. Each excerpt must be verbatim from the stored file; if the verifier cannot match an excerpt, skip that claim and report it. Proposed `claim_text` values are given; keep them unless they say more than the excerpt.
 
 From `corpus/raw/NTRS-20140006585.pdf` (NASA Glenn presentation; investigation_id null):
 
@@ -98,12 +98,12 @@ Run `npm test`, commit "Phase A".
 | "Nobody has measured" | Computed: topics with no REPORTED_RESULT at that gravity, plus OBJECTIVE_OR_HYPOTHESIS claims labelled "Authors' statement" | template "No measurements of {topic label} at {gravity} in our sources." + statement claims |
 | "Test next" | Claims labelled authors' suggestion or planned at that gravity (NTRS13-006, ESA-001, LUNAR-004, PLANNED-001/002, EARTH-00x); NASA planned work listed first | claim_text + chip; empty template "No planned work at this gravity in our sources." |
 | Most relevant studies | Investigations ranked by count of claims at that gravity | "{acronym}: {n} measured results, {m} simulations at {gravity}" linking to Ask filtered by investigation |
-| Data table | All claims with structured values | quantity, value + unit, conditions, evidence label, chip; CSV/JSON export adds source URL, location, verbatim excerpt, review status |
+| Data table | All claims with structured values | quantity, value + unit, conditions, evidence label, chip; CSV/JSON export adds source URL, location, verbatim excerpt |
 | Ask section | Existing search, answer, gap card, comparison, ranked investigations | unchanged behaviour, restyled |
-| Trust strip | UI copy + computed counts | "AI drafts claims from NASA documents." "Software verifies every quote word for word." "People review {n} of {m} claims." |
-| Source Inspector | Claim + manifest | existing fields; "Not yet reviewed" for DRAFT |
+| Trust strip | UI copy + computed counts | Software checks each displayed quote against its stored source snapshot. |
+| Source Inspector | Claim + manifest | verbatim excerpt, source location, and original source link |
 
-Every chip opens the existing Source Inspector. DRAFT claims show a small "Not yet reviewed" label wherever they appear.
+Every chip opens the existing Source Inspector.
 
 ---
 
@@ -165,4 +165,4 @@ Cut order if short on time: E's "Most relevant studies" → D's detector chart �
 3. Measured: "Twice" + NASA chart.
 4. Detectors chart + authors' suggestion.
 5. Missions → Moon base: "Simulated only. Nobody has measured it. Test next."
-6. Click any chip: the verbatim NASA quote and "Not yet reviewed" or reviewer.
+6. Click any chip: the verbatim excerpt and original source link.

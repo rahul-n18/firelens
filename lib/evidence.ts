@@ -16,7 +16,7 @@ export const demoQueries = [
 ];
 export const relatedHeading = "Related results, investigation not identified by the source";
 export const spiceHeading = "Different meaning: flame smoke point (soot emission)";
-export const metadataHeading = "Indexed, not yet reviewed";
+export const metadataHeading = "Indexed, metadata only";
 
 export const gravityLabels: Record<Claim["gravity_level"], string> = {
   "1g": "1g ground", microgravity: "Microgravity", "lunar_0.16g": "Lunar gravity",

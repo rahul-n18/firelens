@@ -35,7 +35,7 @@ test("ranks investigations for a pressurized rover with a FireLens score and vis
   await expect(detail.getByText(/different cited values/)).toBeVisible();
   await expect(detail.getByText(/planned test condition/i).first()).toBeVisible();
   await expect(detail.getByRole("button", { name: "Inspect BRE-001" }).first()).toBeVisible();
-  await expect(habitats.getByRole("heading", { name: "Indexed, not yet reviewed" })).toBeVisible();
+  await expect(habitats.getByRole("heading", { name: "Indexed, metadata only" })).toBeVisible();
 
   if (info.project.name === "desktop") {
     await reviewShot(page, "habitats-desktop", { width: 1440, height: 900 });

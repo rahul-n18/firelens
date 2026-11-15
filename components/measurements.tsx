@@ -1,7 +1,7 @@
 import Image from "next/image";
 import { formatClaimValue, particleSizeBounds } from "../lib/claim-values";
 import { sources, type Claim } from "../lib/evidence";
-import { Chip, DraftLabel, Mark, type OpenClaim } from "./evidence-ui";
+import { Chip, Mark, type OpenClaim } from "./evidence-ui";
 
 const headlineIds = ["NTRS13-004", "NTRS13-001", "SAMER-002"];
 const diameterIds = ["NTRS13-001", "SAME-004", "NTRS13-008", "NTRS13-008b", "NTRS13-009", "NTRS13-009b"];
@@ -23,14 +23,13 @@ export function Measurements({ byId, open }: Props) {
       {highlights.map(claim => <div className="measurement-highlight" key={claim.claim_id}>
         <p className="measurement-value" data-big-value={claim.claim_id}>{formatClaimValue(claim, { headline: true })}</p>
         <p><span data-claim-text={claim.claim_id}>{claim.claim_text}</span> <Chip claim={claim} open={open} /></p>
-        <DraftLabel claim={claim} />
       </div>)}
     </div> : <p className="muted">No verified measurements for this section in our sources.</p>}
     {chart && chartSource && chartClaim && <figure className="source-figure measured-figure">
       <p className="chart-reading">Dots above the line mean bigger particles in low gravity.</p>
       <Image unoptimized src={`/${chart.file}`} width={1040} height={649} alt="Original chart comparing low- and normal-gravity particle sizes" />
       <figcaption>
-        <span data-claim-text={chartClaim.claim_id}>{chartClaim.claim_text}</span> <Chip claim={chartClaim} open={open} /> <DraftLabel claim={chartClaim} />
+        <span data-claim-text={chartClaim.claim_id}>{chartClaim.claim_text}</span> <Chip claim={chartClaim} open={open} />
         <br /><a href={chartSource.url}>{chartSource.publisher}, slide {chart.slide}</a>
       </figcaption>
     </figure>}
@@ -69,7 +68,7 @@ export function Detectors({ byId, open }: Props) {
               <div>
                 <h4>{claim.quantity} <strong className="detector-value">{formatClaimValue(claim)}</strong></h4>
                 <p className="muted"><span data-claim-text={claim.claim_id}>{claim.claim_text}</span> <Chip claim={claim} open={open} /></p>
-                <div className="claim-meta"><Mark claim={claim} /> <DraftLabel claim={claim} /></div>
+                <div className="claim-meta"><Mark claim={claim} /></div>
               </div>
               <div className="detector-track" aria-hidden="true">
                 <span className={`detector-range ${isUpperLimit ? "before-bound" : isLowerLimit ? "after-bound" : ""}`}
@@ -84,7 +83,7 @@ export function Detectors({ byId, open }: Props) {
           <h4>{fraction.quantity} <strong className="detector-value">{formatClaimValue(fraction)}</strong></h4>
           <p className="muted"><span data-claim-text={fraction.claim_id}>{fraction.claim_text}</span> <Chip claim={fraction} open={open} /></p>
           {fraction.conditions && <p className="muted">{fraction.conditions}</p>}
-          <div className="claim-meta"><Mark claim={fraction} /> <DraftLabel claim={fraction} /></div>
+          <div className="claim-meta"><Mark claim={fraction} /></div>
         </div>
         <div className="fraction-track" aria-hidden="true"><span style={{ width: `${fraction.value}%` }} /></div>
       </div>}
@@ -93,7 +92,7 @@ export function Detectors({ byId, open }: Props) {
     {suggestion && <aside className="detector-suggestion" aria-labelledby="detector-suggestion-heading">
       <h3 id="detector-suggestion-heading">{suggestion.evidence_label}</h3>
       <blockquote data-claim-excerpt={suggestion.claim_id}>{suggestion.source_excerpt}</blockquote>
-      <Chip claim={suggestion} open={open} /> <DraftLabel claim={suggestion} />
+      <Chip claim={suggestion} open={open} />
     </aside>}
   </section>;
 }

@@ -87,7 +87,7 @@ export function Habitats({ evidence, open }: { evidence: Claim[]; open: OpenClai
           </ol>
           {indexed.length > 0 && (
             <div className="habitat-indexed">
-              <h3 className="small muted">Indexed, not yet reviewed</h3>
+              <h3 className="small muted">Indexed, metadata only</h3>
               <ol>
                 {indexed.map(rank => (
                   <li key={rank.investigation.investigation_id}>

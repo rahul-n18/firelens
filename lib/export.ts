@@ -12,7 +12,6 @@ export function evidenceBrief(query: string, claims: Claim[], gap?: string) {
     "FireLens evidence brief", query, gap,
     ...claims.map(claim => [
       `[${claim.claim_id}] ${kindLabel(claim)} · ${platformLabels[claim.platform]} · ${gravityLabels[claim.gravity_level]}`,
-      claim.review.status === "DRAFT" && "Not yet reviewed",
       claim.investigation_id === null && "Investigation not identified by source",
       claim.claim_text, claim.conditions, claim.attribution_note, citation(claim),
     ].filter(Boolean).join("\n")),
@@ -42,7 +41,7 @@ export function evidenceCsv(query: string | null, claims: Claim[], gap?: string)
   const claimFields = ["claim_id", "investigation_id", "claim_status", "evidence_label", "platform", "gravity_level", "claim_text",
     "source_excerpt", "source_location", "source_url", "doi", "quantity", "value", "unit", "value_qualifier",
     "conditions", "materials", "topics", "airflow_value", "airflow_unit", "airflow_gravity_level",
-    "attribution_note", "review_status", "reviewer", "review_date"] as const;
+    "attribution_note"] as const;
   const fields = query === null ? claimFields : [...claimFields, "query", "gap"] as const;
   const cell = (value: unknown) => {
     let text = String(value ?? "");
@@ -53,9 +52,6 @@ export function evidenceCsv(query: string | null, claims: Claim[], gap?: string)
     if (field === "query") return query;
     if (field === "gap") return gap;
     if (field === "evidence_label") return kindLabel(claim);
-    if (field === "review_status") return claim.review.status;
-    if (field === "reviewer") return claim.review.reviewer;
-    if (field === "review_date") return claim.review.date;
     if (field === "materials") return claim.materials.join("; ");
     if (field === "topics") return claim.topics.join("; ");
     if (field === "airflow_value") return claim.airflow?.value;

@@ -62,7 +62,6 @@ test("runs the public demo from the hero through the Moon briefing and source in
   await plans.getByRole("button", { name: "Inspect LUNAR-004" }).click();
   const inspector = page.getByRole("dialog");
   await expect(inspector.locator("blockquote")).toHaveText(byClaim.get("LUNAR-004")!.source_excerpt);
-  await expect(inspector.getByText("Reviewed by R. Naveen", { exact: true })).toBeVisible();
   await expect(inspector.getByText("Excerpt verified", { exact: true })).toBeVisible();
   await assertBindings(page);
   expect(Date.now() - start).toBeLessThan(30_000);
@@ -165,7 +164,7 @@ test("exports exactly the same structured claims as the model data table", async
       airflow_unit: claim.airflow?.unit ?? "",
       airflow_gravity_level: claim.airflow?.gravity_level ?? "",
       evidence_label: kindLabel(claim), value_qualifier: claim.value_qualifier ?? "", source_url: claim.source_url,
-      source_location: claim.source_location, source_excerpt: claim.source_excerpt, review_status: claim.review.status,
+      source_location: claim.source_location, source_excerpt: claim.source_excerpt,
     });
   }
 });

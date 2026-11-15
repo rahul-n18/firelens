@@ -25,7 +25,6 @@ test("illustrates smoke reaching the Earth detector but not the station detector
   await see.getByRole("button", { name: "Inspect NTRS13-010" }).click();
   const inspector = page.getByRole("dialog");
   await expect(inspector.getByText("Excerpt verified", { exact: true })).toBeVisible();
-  await expect(inspector.getByText("Reviewed by R. Naveen", { exact: true })).toBeVisible();
 });
 
 test("navigates the gravity tabs by keyboard and renders a reduced-motion frame", async ({ page }) => {
@@ -90,5 +89,4 @@ test("links lunar smoke simulations to the Moon briefing’s measured flame resu
   const inspector = page.getByRole("dialog");
   await expect(inspector.getByText("Spinning sounding rocket, Lunar gravity")).toBeVisible();
   await expect(inspector.getByText("Excerpt verified")).toBeVisible();
-  await expect(inspector.getByText("Reviewed by R. Naveen")).toBeVisible();
 });

@@ -10,16 +10,15 @@ const directory = join(root, "docs");
 await mkdir(directory, { recursive: true });
 const cell = (value: string) => value.replace(/\|/g, "\\|").replace(/\s+/g, " ").trim();
 const sources = new Map(manifest.map(source => [source.source_id, source]));
-const pending = claims.filter(claim => claim.review.status === "DRAFT" && claim.review.batch);
 const qualifiers = { greater_than: "> ", less_than: "< ", approximately: "≈ ", typically: "typically ", range: "" };
 const review = [
-  "# FireLens draft claims",
+  "# FireLens source excerpts",
   "",
-  "Confirm each paraphrase, source location, evidence classification, platform, and gravity level against the snapshot. For claims you approve, record your name and review date in `corpus/claims.json` and set the review status to `HUMAN_REVIEWED`.",
+  "Compare each claim with its excerpt and source location.",
   "",
-  "| ID | Draft claim | Verbatim excerpt | Location | Evidence | Value | Attribution note |",
+  "| ID | Claim | Verbatim excerpt | Location | Evidence | Value | Attribution note |",
   "| --- | --- | --- | --- | --- | --- | --- |",
-  ...pending.map(claim => {
+  ...claims.map(claim => {
     const source = sources.get(claim.source_id);
     if (!source) throw new Error(`${claim.claim_id}: missing source`);
     const link = source.local_only ? source.url : `../corpus/${source.raw_file}`;

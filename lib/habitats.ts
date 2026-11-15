@@ -440,17 +440,16 @@ function evidenceFactor(claims: Claim[]): RankFactor {
   const planned = claims.filter(claim =>
     claimKind(claim).id === "planned_test_condition" || claimKind(claim).id === "planned",
   );
-  const reviewed = claims.filter(claim => claim.review.status === "HUMAN_REVIEWED");
   let points = 0;
   let text: string;
   if (measured.length) {
-    points = 10;
+    points = 15;
     text = `${measured.length} measured ${measured.length === 1 ? "result is" : "results are"} cited.`;
   } else if (planned.length) {
-    points = 6;
+    points = 9;
     text = "The strongest cited items are planned test conditions or planned work, not measured results.";
   } else if (claims.length) {
-    points = 3;
+    points = 5;
     text = "Cited items are objectives, methods, or remarks, not measured results.";
   } else {
     return factor({
@@ -462,12 +461,6 @@ function evidenceFactor(claims: Claim[]): RankFactor {
       text: "No extracted claims are available to score evidence strength.",
       claimIds: [],
     });
-  }
-  if (reviewed.length) {
-    points += 5;
-    text += ` ${reviewed.length} ${reviewed.length === 1 ? "claim is" : "claims are"} human-reviewed.`;
-  } else {
-    text += " All cited claims for this investigation are still drafts.";
   }
   return factor({
     id: "evidence",

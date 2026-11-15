@@ -20,7 +20,7 @@ Structured values from the corpus, shown next to the original NASA chart. Each f
 
 ![Source Inspector open on a LUCI claim](docs/images/inspector.png)
 
-The Source Inspector shows the stored excerpt, review status, and a link back to the source.
+The Source Inspector shows the stored excerpt, source location, and a link back to the source.
 
 ![FireLens on a narrow screen](docs/images/mobile.png)
 
@@ -34,17 +34,17 @@ The Source Inspector shows the stored excerpt, review status, and a link back to
 - **Moon and rover bounds.** A bounds panel separates challenge-statement figures from planned test conditions, and bounds what the corpus can support at partial gravity. E-FIELD is not treated as a measured habitat result. No measured Moon or rover cabin atmosphere is in this corpus.
 - **Insights.** Briefings on prevention, detection, suppression, and Earth applications, composed only from verified claims. Challenge-statement items such as water-mist extinguishers and firefighter gear are labeled as context, not as NASA measurements.
 - **Data.** A table of extracted values, conditions, materials, gravity, airflow, and sources, including flammability claims even when no numeric value has been extracted, with CSV and JSON export.
-- **Ask.** Search the corpus, read an evidence answer, and open a deterministic interpretation assembled from cited claims with fixed templates. The running app does not call an AI model. Queries can be shared with `?q=` links. Draft claims are labeled "Not yet reviewed."
+- **Ask.** Search the corpus, read an evidence answer, and open a deterministic interpretation assembled from cited claims with fixed templates. The running app does not call an AI model. Queries can be shared with `?q=` links.
 
 ## How evidence is verified
 
-Claims live in [`corpus/claims.json`](corpus/claims.json). Each claim stores a verbatim excerpt, a source location, a classification (measured result, method, computer model, or objective), and a review status. In the current corpus, 35 of 152 claims have been human-reviewed. The rest remain drafts and are labeled as such wherever they appear.
+Claims live in [`corpus/claims.json`](corpus/claims.json). Each claim stores a verbatim excerpt, a source location, and a classification (measured result, method, computer model, or objective).
 
 [`corpus/manifest.json`](corpus/manifest.json) records the source URL, retrieval date, and SHA-256 hash of every snapshot. `npm test` runs the corpus verifier before the unit tests. The verifier checks snapshot hashes, reproduces the stored text from those snapshots, matches excerpts and numeric tokens, and validates claim references and classifications. It runs offline.
 
-Clicking a claim code opens the Source Inspector, which shows the stored quote, review status, and a link to the original source.
+Clicking a claim code opens the Source Inspector, which shows the stored quote, source location, and a link to the original source.
 
-Claims may be drafted with AI assistance. The verifier then checks each excerpt against the stored source, and a person reviews a subset. Once the app is running, answers and interpretations are assembled only from those checked claims, using deterministic ranking and fixed templates rather than a live model. Challenge context and planned test conditions are labeled so they are not presented as NASA measurements.
+Claims may be drafted with AI assistance. The verifier checks each displayed excerpt against its stored source snapshot. Once the app is running, answers and interpretations are assembled only from those checked claims, using deterministic ranking and fixed templates rather than a live model. Challenge context and planned test conditions are labeled so they are not presented as NASA measurements.
 
 Some snapshots are designated local-only and are not in the public repository, including third-party copyrighted texts. The verifier reports missing local-only files as skipped, and the app omits claims whose snapshots are unavailable. To reproduce the full evidence shown in production, restore those files at the `raw_file` paths listed in the manifest, then run `npm run extract-text` and `npm test`.
 
@@ -84,7 +84,7 @@ Useful corpus commands:
 - `npm run fetch-sources` verifies local raw files and tries to restore missing bytes from their manifest URLs. If an upstream file has changed, the command reports the mismatch and keeps the recorded version.
 - `npm run extract-text` regenerates extracted text, including one-based PDF page markers.
 - `npm run docs:sources` regenerates `docs/sources.md`.
-- `npm run docs:claims` regenerates a local draft claim review in `docs/claims-review.md`. That file is gitignored.
+- `npm run docs:claims` regenerates a local table of claims and source excerpts in `docs/claims-review.md`. That file is gitignored.
 
 ## Testing
 

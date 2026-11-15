@@ -49,7 +49,7 @@ Most entries in this challenge are dark "mission-control" dashboards with flame 
 
 ### Focus
 
-One vertical done properly: **smoke and fire detection**, built on SAME and SAME-R, with SPICE as the related flame-soot investigation. Every other PSI combustion investigation appears in the index as "Indexed, not yet reviewed" (metadata only), so ranking covers the whole field without pretending all of it was read.
+One vertical done properly: **smoke and fire detection**, built on SAME and SAME-R, with SPICE as the related flame-soot investigation. Every other PSI combustion investigation appears in the index as "Indexed, metadata only" (metadata only), so ranking covers the whole field without pretending all of it was read.
 
 ---
 
@@ -81,7 +81,7 @@ Build in this order. Each phase must leave the app working. If time runs short, 
 - PSI-101, SAME-R (Smoke Aerosol Measurement Experiment – Reflight). DOI 10.60555/2np7-jv14. https://psi.nasa.gov/physci/repo/data/investigations/PSI-101
 - PSI-102, SAME. A third-party listing reports DOI 10.60555/gd4k-8h62; verify on PSI before using it. https://psi.nasa.gov/physci/repo/data/investigations/PSI-102
 - PSI-107, SPICE (Smoke Point In Co-flow Experiment). DOI 10.60555/9kbh-e962. https://psi.nasa.gov/physci/repo/data/investigations/PSI-107
-- The full list of PSI Combustion Science investigations (ID, title, DOI, objective) for the "Indexed, not yet reviewed" layer.
+- The full list of PSI Combustion Science investigations (ID, title, DOI, objective) for the "Indexed, metadata only" layer.
 
 Access note: PSI investigation pages are rendered by JavaScript, so a plain HTTP fetch returns an empty page shell. Get the structured metadata by inspecting the JSON requests the PSI web app makes and saving those responses, or via the search endpoint `https://psi.nasa.gov/physci/repo/search?q=&data_source=psi&data_type=investigation`, or by manual download. Record which method was used for each source. Check and record the license stated on PSI for public files.
 
@@ -106,8 +106,8 @@ corpus/
   raw/<source_id>.(json|pdf|html)   original bytes as retrieved
   text/<source_id>.txt              extracted plain text with page markers: [[page 4]]
   manifest.json                     one entry per source
-  investigations.json               PSI index (reviewed + metadata-only)
-  claims.json                       reviewed evidence claims
+  investigations.json               PSI index (source claims + metadata-only)
+  claims.json                       source-backed evidence claims
   vocabulary.json                   synonyms, condition terms, disambiguation rules
   unavailable.json                  attempted sources that could not be retrieved, with reason
 scripts/
@@ -136,7 +136,6 @@ Manifest fields: `source_id`, `title`, `authors`, `year`, `publisher`, `tier`, `
 | `quantity`, `value`, `unit`, `conditions` | Only when the excerpt itself contains the number |
 | `derived_from` | Required (non-empty) for `TEAM_INFERENCE`; forbidden otherwise |
 | `doi`, `source_url` | Copied from the manifest |
-| `review` | `{status: DRAFT or HUMAN_REVIEWED, reviewer, date}`. The agent may only create `DRAFT`. |
 
 Why these changes from v1: "SOURCE_REPORTED" was ambiguous because papers also report their own hypotheses, so results and objectives are now separate statuses. "FLIGHT/GROUND" could not represent modeling work, which is exactly what exists for lunar gravity. Classification is per claim, because one flight investigation can have ground follow-up tests.
 
@@ -156,8 +155,7 @@ Semantic rules:
 - Each `source_id` exists in the manifest, and each raw file's SHA-256 matches the manifest.
 - Each `TEAM_INFERENCE` has `derived_from` entries that exist; no other status has `derived_from`.
 - DOIs are well formed; URLs use https.
-- No claim is `HUMAN_REVIEWED` without a reviewer name.
-- Print a summary: claims by status, by platform, by review state.
+- Print a summary: claims by status and platform.
 
 ---
 
@@ -170,7 +168,7 @@ Semantic rules:
 - Disambiguation: when a query matches both smoke aerosol and flame smoke point, group results under "Smoke aerosol and detection" and "Different meaning: flame smoke point (soot emission)", with a one-line explanation.
 - Every result shows why it matched: the matched terms and fields, detected conditions, and counts of supporting claims by status. No opaque percentage scores.
 - Habitat relevance tags (spacecraft cabin, surface habitat, pressurized rover) only where a source supports them; otherwise "Not assessed".
-- Metadata-only investigations rank below reviewed ones, under a divider labeled "Indexed, not yet reviewed".
+- Metadata-only investigations rank below investigations with extracted claims, under a divider labeled "Indexed, metadata only".
 
 ### Evidence Answer (deterministic by default)
 
@@ -201,7 +199,7 @@ The v1 brief (shadcn dashboard block, dark navy, amber accents, Geist) is the de
 
 ### Layout
 
-- **Top bar (48px):** "FireLens" as a text wordmark; "Built on NASA PSI open data"; corpus status computed from the data, e.g. "Corpus v1 · 3 reviewed · 24 indexed · retrieved 14 Nov 2026". Never hard-code counts.
+- **Top bar (48px):** "FireLens" as a text wordmark; "Built on NASA PSI open data"; corpus status computed from the data, e.g. "Corpus v1 · 3 with source claims · 24 indexed · retrieved 14 Nov 2026". Never hard-code counts.
 - **Query:** one wide input. Below it, "Try:" followed by the three demo questions as plain text links.
 - **Main column, in order:** Evidence Answer, Coverage Map, Flight vs Ground comparison, ranked investigations.
 - **Source Inspector:** right-side sheet about 480px wide on desktop; full-screen sheet on mobile.
@@ -270,7 +268,7 @@ Search is instant, so no spinner for it. Skeleton only for optional LLM synthesi
 SAME-R ranks first. The answer separates `ISS_FLIGHT` claims (what was measured in orbit, as the sources state) from `GROUND_LAB` follow-up claims (ground tests as the sources describe them). Both columns of the comparison table are populated; missing equivalents say "Not reported in corpus".
 
 **Q2: "Which investigations study smoke behavior in microgravity?"**
-SAME-R and SAME rank above SPICE. SPICE appears in its own group labeled "Different meaning: flame smoke point (soot emission)". Match explanations are visible. Any matching metadata-only investigations appear below the "Indexed, not yet reviewed" divider.
+SAME-R and SAME rank above SPICE. SPICE appears in its own group labeled "Different meaning: flame smoke point (soot emission)". Match explanations are visible. Any matching metadata-only investigations appear below the "Indexed, metadata only" divider.
 
 **Q3: "What smoke-particle diameter was measured at lunar gravity?"**
 The evidence-gap card appears: no measured smoke-particle diameter at lunar gravity in corpus v1. Nearest evidence lists microgravity flight and 1g ground results, each labeled with its real condition; lunar smoke transport modeling is labeled "Model", not measurement; any source stating such measurements are needed or planned is cited. No diameter appears as the answer. The lunar column of the Coverage Map is highlighted with its hatched cells.
@@ -320,5 +318,4 @@ Only if a stored source reports that comparison verbatim.
 
 - `README.md`: what FireLens is, how to run it, how verification works, limitations.
 - `docs/sources.md`, generated from the manifest and `unavailable.json`: URL, DOI, retrieval date, SHA-256, supported claim IDs, and what could not be accessed and why.
-- `docs/claims-review.md`: a table of all `DRAFT` claims (ID, text, excerpt, location) for the team to review and sign off before the demo.
-- Final report, containing only what was verified: implemented features; each test command with pass/fail counts; claims by status and review state; unresolved limitations; deployment URL and status.
+- Final report, containing only what was verified: implemented features; each test command with pass/fail counts; claims by status and platform; unresolved limitations; deployment URL and status.

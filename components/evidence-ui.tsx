@@ -15,13 +15,11 @@ export function Chip({ claim, open }: { claim: Claim; open: OpenClaim }) {
 
 export function ClaimLine({ claim, open, details }: { claim: Claim; open: OpenClaim; details?: boolean }) {
   return <li className="claim-line">
-    <div className="claim-meta"><Mark claim={claim} />{details && <span>{platformLabels[claim.platform]}, {gravityLabels[claim.gravity_level]}</span>}
-      <DraftLabel claim={claim} /></div>
+    <div className="claim-meta">
+      <Mark claim={claim} />
+      {details && <span>{platformLabels[claim.platform]}, {gravityLabels[claim.gravity_level]}</span>}
+    </div>
     <p><span data-claim-text={claim.claim_id}>{claim.claim_text}</span> <Chip claim={claim} open={open} /></p>
     {details && claim.conditions && <p className="small muted">{claim.conditions}</p>}
   </li>;
-}
-
-export function DraftLabel({ claim }: { claim: Claim }) {
-  return claim.review.status === "DRAFT" ? <span className="review-label">Not yet reviewed</span> : null;
 }

@@ -5,7 +5,7 @@ import { Tabs } from "radix-ui";
 import { useEffect, useRef, useState } from "react";
 import { illustrateCabin } from "../lib/cabin-illustration";
 import { gravityEvidence, gravityStatus, hasFlameMeasurements, isMeasurement, smokeEvidence, sources, type Claim, type GravityStop } from "../lib/evidence";
-import { Chip, ClaimLine, DraftLabel, type OpenClaim } from "./evidence-ui";
+import { Chip, ClaimLine, type OpenClaim } from "./evidence-ui";
 
 const gravityOptions = [
   { id: "1g", label: "Earth", coefficient: 1 },
@@ -78,7 +78,7 @@ export function SeeIt({ evidence, byId, open, dark, onMoonBriefing }: {
           <Tabs.Content value={gravity} key={gravity} className="cabin-content">
             <canvas ref={canvas} width={880} height={380} role="img" aria-label="Illustration of smoke in a cabin" />
             {particleSize && <p className="cabin-note">
-              Particles drawn larger here, based on <Chip claim={particleSize} open={open} /> <DraftLabel claim={particleSize} />
+              Particles drawn larger here, based on <Chip claim={particleSize} open={open} />
             </p>}
             <p className="detector-state" aria-live="polite">
               <span className="detector-dot" data-reached={reached} aria-hidden="true" />
@@ -98,7 +98,7 @@ export function SeeIt({ evidence, byId, open, dark, onMoonBriefing }: {
                 {markers.map(claim => <li key={claim.claim_id}>
                   <span className={claim.claim_status === "MODEL_RESULT" ? "model-text" : undefined}>
                     ▲ {claim.airflow!.value} {claim.airflow!.unit} {claim.claim_status === "MODEL_RESULT" ? "NASA model" : "NASA test"}
-                  </span>{" "}<Chip claim={claim} open={open} /> <DraftLabel claim={claim} />
+                  </span>{" "}<Chip claim={claim} open={open} />
                 </li>)}
               </ul>}
             </div>
@@ -130,7 +130,7 @@ export function SeeIt({ evidence, byId, open, dark, onMoonBriefing }: {
 
     {canShowFigure && <figure className="source-figure" id="destiny-simulation" hidden={!showFigure}>
       <Image src={`/${figure.file}`} width={956} height={606} unoptimized alt="NASA cabin comparison at low and normal gravity" />
-      <figcaption><span data-claim-text={simulation.claim_id}>{simulation.claim_text}</span> <Chip claim={simulation} open={open} /> <DraftLabel claim={simulation} />
+      <figcaption><span data-claim-text={simulation.claim_id}>{simulation.claim_text}</span> <Chip claim={simulation} open={open} />
         <br /><a href={simulationSource.url}>{simulationSource.publisher}, slide {figure.slide}</a></figcaption>
     </figure>}
   </section>;

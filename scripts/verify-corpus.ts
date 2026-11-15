@@ -14,6 +14,4 @@ if (errors.length) {
     [status, claims.filter(claim => claim.claim_status === status).length])));
   console.log("By platform", Object.fromEntries(platforms.map(platform =>
     [platform, claims.filter(claim => claim.platform === platform).length])));
-  console.log("By review state", Object.fromEntries(["DRAFT", "HUMAN_REVIEWED"].map(state =>
-    [state, claims.filter(claim => claim.review.status === state).length])));
 }

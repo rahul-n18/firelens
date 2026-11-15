@@ -66,7 +66,6 @@ export interface Claim {
   derived_from?: string[];
   doi: string | null;
   source_url: string;
-  review: { status: "DRAFT" | "HUMAN_REVIEWED"; reviewer: string | null; date: string | null; batch?: "A" | "LUCI" };
 }
 
 export interface Investigation {
@@ -76,7 +75,7 @@ export interface Investigation {
   doi: string | null;
   objective: string;
   source_id: string;
-  coverage: "DRAFT_CLAIMS" | "METADATA_ONLY";
+  coverage: "SOURCE_CLAIMS" | "METADATA_ONLY";
 }
 
 export interface Unavailable {
