@@ -9,6 +9,7 @@ import { citation, evidenceBrief, evidenceCsv, evidenceJson } from "../lib/expor
 import { Input, Sheet, Toggle } from "./ui";
 
 import { ClaimLine, Mark, type OpenClaim } from "./evidence-ui";
+import { Detectors, Measurements } from "./measurements";
 import { SeeIt } from "./see-it";
 const dateFormatter = new Intl.DateTimeFormat("en-GB", { day: "numeric", month: "short", year: "numeric", timeZone: "UTC" });
 
@@ -210,7 +211,7 @@ export function FireLens({ available }: { available: string[] }) {
     <a className="skip-link" href="#main-content">Skip to content</a>
     <header className="topbar"><div className="top-inner">
       <a className="wordmark" href="#main-content">FireLens</a>
-      <nav className="page-nav" aria-label="Sections"><a href="#see">See it</a><a href="#ask">Ask</a></nav>
+      <nav className="page-nav" aria-label="Sections"><a href="#see">See it</a><a href="#measured">Measured</a><a href="#ask">Ask</a></nav>
       <div className="top-actions"><span>Built on NASA PSI open data</span>
         <Toggle pressed={dark} onPressedChange={setDark} aria-label="Dark theme">{dark ? "Light" : "Dark"}</Toggle></div>
     </div></header>
@@ -221,6 +222,8 @@ export function FireLens({ available }: { available: string[] }) {
         <div className="hero-actions"><a className="primary-button" href="#see">See the difference</a></div>
       </section>
       <SeeIt evidence={evidence} byId={byId} open={open} dark={dark} />
+      <Measurements byId={byId} open={open} />
+      <Detectors byId={byId} open={open} />
       <section className="block" id="ask" aria-labelledby="query-heading">
         <h2 className="block-title" id="query-heading">Ask your own question</h2>
         <p className="section-intro">Explore the verified evidence and see where our sources have gaps.</p>

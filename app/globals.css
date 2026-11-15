@@ -195,3 +195,38 @@ p { max-width: 72ch; }
   .gravity-tabs { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); }
   .gravity-tab { padding: 8px 10px; }
 }
+
+.review-label { display: inline-block; white-space: nowrap; }
+.measurement-highlights { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); border-block: 1px solid var(--rule); margin-top: 24px; }
+.measurement-highlight { padding: 24px 22px 24px 0; }
+.measurement-highlight + .measurement-highlight { border-left: 1px solid var(--rule); padding-left: 22px; }
+.measurement-highlight .review-label, .source-figure .review-label, .detector-suggestion .review-label { color: var(--muted); font-size: 13px; }
+.measurement-value { font-size: clamp(31px, 4vw, 52px); line-height: 1; font-weight: 800; margin-bottom: 12px; letter-spacing: -.035em; }
+.measured-figure { margin-top: 38px; }
+.chart-reading { font-weight: 700; margin: 0 0 8px; }
+.detector-chart { padding: 24px; border: 1px solid var(--rule); border-radius: 8px; background: var(--surface); }
+.detector-axis, .detector-row { display: grid; grid-template-columns: minmax(0, 1fr) minmax(170px, .8fr); gap: 20px; align-items: center; }
+.detector-ticks { display: flex; justify-content: space-between; font-size: 13px; color: var(--muted); }
+.detector-row { border-top: 1px solid var(--rule); padding: 12px 0; font-size: 14px; }
+.detector-row h4 { font-size: 15px; }
+.detector-row p { margin: 4px 0; }
+.detector-value { display: inline-block; white-space: nowrap; color: var(--primary); }
+.detector-track, .fraction-track { position: relative; height: 14px; margin: 0 6px; background: var(--band); border: 1px solid var(--rule); border-radius: 2px; }
+.detector-range { position: absolute; inset-block: 4px; min-width: 3px; background: var(--primary); }
+.detector-range.before-bound, .detector-range.after-bound { background: none; border-top: 2px dashed var(--primary); }
+.detector-range::after, .detector-range::before { position: absolute; content: ""; width: 2px; height: 8px; top: -3px; background: var(--primary); }
+.detector-range::before { left: 0; }
+.detector-range::after { right: 0; }
+.detector-range.before-bound::before, .detector-range.after-bound::after { display: none; }
+.detector-row.mass-fraction { display: block; }
+.mass-fraction .fraction-track { max-width: 240px; margin: 10px 0 0; }
+.fraction-track span { display: block; height: 100%; background: var(--primary); opacity: .8; }
+.detector-suggestion { margin-top: 26px; }
+.detector-suggestion h3 { font-size: 18px; }
+.detector-suggestion blockquote { max-width: 66ch; font: 20px/1.5 "Source Serif 4", serif; margin: 8px 0; }
+@media (max-width: 650px) {
+  .measurement-highlights { grid-template-columns: 1fr; }
+  .measurement-highlight + .measurement-highlight { border-left: 0; border-top: 1px solid var(--rule); padding-left: 0; }
+  .detector-chart { padding: 14px; }
+  .detector-axis, .detector-row { grid-template-columns: minmax(0, 1fr); gap: 8px; }
+}
