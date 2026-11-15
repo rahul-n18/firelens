@@ -28,9 +28,13 @@ The Source Inspector shows the stored excerpt, review status, and a link back to
 
 - **See it.** Choose a gravity level, adjust airflow, and watch a simplified cabin illustration. Status labels (Measured, Simulated only, Nothing measured) are computed from claims. The illustration is for intuition only. It is not a NASA simulation or a prediction. Airflow markers come from published values in the corpus.
 - **Measured and Detectors.** Headline values and detector specifications taken from structured claim fields, plus two figures cropped from a NASA presentation in the corpus.
+- **Explore.** Group investigations by hardware family, read attribute cards built only from verified claims, and compare two or three studies side by side. Similarities and differences come from those structured fields, not from free-form interpretation.
 - **Mission briefings.** Separate views for the Space Station, a Moon base, a Mars base, and Earth, with columns for what the sources report, what they only simulate, what they do not measure, and what they suggest testing next.
-- **Data.** A table of extracted values, conditions, and sources, with CSV and JSON export.
-- **Ask.** Search the corpus, read an evidence answer, compare flight and ground results, and open ranked investigations. Queries can be shared with `?q=` links. Draft claims are labeled "Not yet reviewed."
+- **Habitat relevance.** Rank investigations for a spacecraft cabin, a surface habitat, or a pressurized rover from visible, cited factors. A habitat tag appears only when a source names that habitat; otherwise the study is labeled Not assessed. Challenge-stated and planned atmospheres are kept distinct from measurements.
+- **Moon and rover bounds.** A bounds panel separates challenge-statement figures from planned test conditions, and bounds what the corpus can support at partial gravity. E-FIELD is not treated as a measured habitat result. No measured Moon or rover cabin atmosphere is in this corpus.
+- **Insights.** Briefings on prevention, detection, suppression, and Earth applications, composed only from verified claims. Challenge-statement items such as water-mist extinguishers and firefighter gear are labeled as context, not as NASA measurements.
+- **Data.** A table of extracted values, conditions, materials, gravity, airflow, and sources, including flammability claims even when no numeric value has been extracted, with CSV and JSON export.
+- **Ask.** Search the corpus, read an evidence answer, and open a deterministic interpretation assembled from cited claims with fixed templates. The running app does not call an AI model. Queries can be shared with `?q=` links. Draft claims are labeled "Not yet reviewed."
 
 ## How evidence is verified
 
@@ -40,13 +44,13 @@ Claims live in [`corpus/claims.json`](corpus/claims.json). Each claim stores a v
 
 Clicking a claim code opens the Source Inspector, which shows the stored quote, review status, and a link to the original source.
 
-Claims may be drafted with AI assistance. The verifier then checks each excerpt against the stored source, and a person reviews a subset. Once the app is running, answers are assembled only from those checked claims, using deterministic ranking rather than a live model.
+Claims may be drafted with AI assistance. The verifier then checks each excerpt against the stored source, and a person reviews a subset. Once the app is running, answers and interpretations are assembled only from those checked claims, using deterministic ranking and fixed templates rather than a live model. Challenge context and planned test conditions are labeled so they are not presented as NASA measurements.
 
 Some snapshots are designated local-only and are not in the public repository, including third-party copyrighted texts. The verifier reports missing local-only files as skipped, and the app omits claims whose snapshots are unavailable. To reproduce the full evidence shown in production, restore those files at the `raw_file` paths listed in the manifest, then run `npm run extract-text` and `npm test`.
 
 ## Sources
 
-The [source register](docs/sources.md) is generated from the manifest. The corpus is built primarily from NASA [Physical Sciences Informatics (PSI)](https://psi.nasa.gov/physci/repo/search?q=combustion) investigation records and documents from the [NASA Technical Reports Server](https://ntrs.nasa.gov/), with additional public or locally held literature where a claim required it. The current manifest lists 42 source snapshots. The PSI combustion search used for the investigation index returned 24 investigations. Seven of those currently have extracted claims. The others are indexed as metadata only.
+The [source register](docs/sources.md) is generated from the manifest. The corpus is built primarily from NASA [Physical Sciences Informatics (PSI)](https://psi.nasa.gov/physci/repo/search?q=combustion) investigation records and documents from the [NASA Technical Reports Server](https://ntrs.nasa.gov/), with additional public or locally held literature where a claim required it. The current manifest lists 43 source snapshots. The PSI combustion search used for the investigation index returned 24 investigations. Eighteen of those currently have extracted claims. The others are indexed as metadata only.
 
 Three papers could not be retrieved in full and are represented by abstracts. The attempts are recorded in [`corpus/unavailable.json`](corpus/unavailable.json).
 

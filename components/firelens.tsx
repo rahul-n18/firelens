@@ -10,12 +10,14 @@ import { Input, Sheet, Toggle } from "./ui";
 
 import { ClaimLine, DraftLabel, Mark, type OpenClaim } from "./evidence-ui";
 import { claimKind } from "../lib/claim-kind";
+import { interpret } from "../lib/interpret";
 import { Detectors, Measurements } from "./measurements";
 import { SeeIt } from "./see-it";
 import { Missions } from "./missions";
 import { Habitats } from "./habitats";
 import { Bounds } from "./bounds";
 import { Insights } from "./insights";
+import { Interpret } from "./interpret";
 import { ModelData } from "./model-data";
 import { Explorer } from "./explorer";
 const dateFormatter = new Intl.DateTimeFormat("en-GB", { day: "numeric", month: "short", year: "numeric", timeZone: "UTC" });
@@ -203,6 +205,7 @@ export function FireLens({ available }: { available: string[] }) {
   ].map(claim => [claim.claim_id, claim])).values()];
   const answerSources = [...new Map(exportClaims.map(claim => [claim.source_id, claim])).values()];
   const gapSummary = gap ? `${gap.text} ${gap.scope}.` : undefined;
+  const interpretation = interpret(result, gap);
   async function copy(text: string, label: string, feedback: (message: string) => void) {
     try {
       await navigator.clipboard.writeText(text);
@@ -245,7 +248,7 @@ export function FireLens({ available }: { available: string[] }) {
       <ModelData evidence={evidence} open={open} />
       <section className="block" id="ask" aria-labelledby="query-heading">
         <h2 className="block-title" id="query-heading">Ask your own question</h2>
-        <p className="section-intro">Explore the verified evidence and see where our sources have gaps.</p>
+        <p className="section-intro">Explore the verified evidence and see where our sources have gaps. A deterministic interpretation, assembled from cited claims with fixed templates, appears with the evidence answer. The running app does not call an AI model.</p>
         <div className="query-section">
           {investigation && <div className="ask-filter">
             <p>Investigation: <strong>{investigation.acronym || investigation.title}</strong></p>
@@ -283,6 +286,7 @@ export function FireLens({ available }: { available: string[] }) {
         </div>
         {hasQuery && <section className="section" aria-labelledby="answer-heading">
           <div className="section-title"><h2 id="answer-heading">Evidence answer</h2>{conditions.length > 0 && <span className="small muted">Conditions: {conditions.join(", ")}</span>}</div>
+          {(interpretation.sentences.length > 0 || interpretation.notes.length > 0) && <Interpret view={interpretation} open={open} />}
           {gap && <div className="gap-card" aria-labelledby="gap-heading">
             <h3 id="gap-heading">Evidence gap</h3>
             <p className="gap-text"><strong>{gap.text}</strong></p><p className="small muted">{gap.scope}</p>
@@ -327,6 +331,7 @@ export function FireLens({ available }: { available: string[] }) {
         <p><strong>AI drafts</strong> claims from the source documents.</p>
         <p><strong>Software verifies</strong> every quote against the stored source.</p>
         <p><strong>People review</strong> {reviewedCount} of {evidence.length} claims.</p>
+        <p><strong>Interpretation</strong> is assembled from those claims with fixed templates. The running app does not call an AI model.</p>
       </section>
       <footer className="read-note">
         <p>Click any claim code to see its exact quote, review status and source.</p>
