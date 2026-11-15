@@ -88,7 +88,7 @@ Generated from the corpus manifest, claims, and unavailable-source log.
 - Retrieved · 2026-11-14T19:40:32Z
 - SHA-256 · `ab2501bbe6200dabd012e7bf199e79426f8d19eb484c2af421183bb61b558d35`
 - DOI · [10.60555/m6pj-a914](https://doi.org/10.60555/m6pj-a914)
-- Supported claims · `EARTH-004`
+- Supported claims · Metadata only
 - Access · Structured investigation JSON from the PSI web app API. PSI lists Creative Commons Zero v1.0 Universal (CC0-1.0) for this record: https://spdx.org/licenses/CC0-1.0.html.
 - [Source](https://psi.nasa.gov/physci/repo/data/investigations/PSI-39) · [Snapshot retrieval URL](https://psi.nasa.gov/geode-py/ws/repo/investigations/PSI-39)
 
@@ -198,7 +198,7 @@ Generated from the corpus manifest, claims, and unavailable-source log.
 - Retrieved · 2026-11-14T19:40:37Z
 - SHA-256 · `f705b2e04bd00d05f3c74ae55391c340b5a08d60efa8193e66b7c4e2518d9d5d`
 - DOI · [10.60555/pm12-rg61](https://doi.org/10.60555/pm12-rg61)
-- Supported claims · `EARTH-003`
+- Supported claims · Metadata only
 - Access · Structured investigation JSON from the PSI web app API. PSI lists Creative Commons Zero v1.0 Universal (CC0-1.0) for this record: https://spdx.org/licenses/CC0-1.0.html.
 - [Source](https://psi.nasa.gov/physci/repo/data/investigations/PSI-106) · [Snapshot retrieval URL](https://psi.nasa.gov/geode-py/ws/repo/investigations/PSI-106)
 

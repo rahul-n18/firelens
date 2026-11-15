@@ -37,7 +37,7 @@ describe("claim verifier", () => {
     expect(cited).toHaveLength(5);
     for (const claim of cited) {
       expect(claim.source_id).toBe(sourceId);
-      expect(claim.review.status).toBe("DRAFT");
+      expect(claim.review).toMatchObject({ status: "HUMAN_REVIEWED", reviewer: "R. Naveen", date: "2026-11-15" });
       expect(text).toContain(claim.source_excerpt);
     }
     expect(cited.find(claim => claim.claim_id === "LUCI-004")!.source_excerpt).toContain("NASA’s");

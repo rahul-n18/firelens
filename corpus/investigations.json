@@ -68,7 +68,7 @@
     "doi": "10.60555/m6pj-a914",
     "objective": "The objectives of this investigation are to:\n    1) Examine the combustion behavior of n-dodecane and mixtures of n-dodecane/iso-dodecane at pressures ranging from 0.25 atm to 5 atm.\n    2) Analyze the effects of helium dilution on cool flame behavior.\n    3) Examine the behavior of combustion characteristics.\n    4) Investigate the relationship between droplet size, pressure, and flame extinction, and (5) understand the consequence of soot formation during cool flame combustion.",
     "source_id": "PSI-39",
-    "coverage": "DRAFT_CLAIMS",
+    "coverage": "METADATA_ONLY",
     "acronym": "CFI"
   },
   {
@@ -165,7 +165,7 @@
     "doi": "10.60555/pm12-rg61",
     "objective": "Objective: The objective of this investigation is to better understand the structure and stability of laminar diffusion flames in microgravity.\n\nSpecific objectives of this investigation were:\n1. To investigate the structure of laminar diffusion flames in microgravity to understand the stabilizing mechanisms at the flames base.\n2. Determine the liftoff velocity limits for different fuels and burner diameters.\n3. Evaluate the impact of fuel dilution with nitrogen on soot formation and flame stability.\n4. Quantify the effects of microgravity on flame length and radiative heat loss compared to normal gravity conditions.\n5. Validate numerical models for flame dynamics, soot production, and thermal radiation in non-premixed flames.",
     "source_id": "PSI-106",
-    "coverage": "DRAFT_CLAIMS",
+    "coverage": "METADATA_ONLY",
     "acronym": "SLICE"
   },
   {

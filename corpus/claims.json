@@ -773,7 +773,7 @@
     "claim_id": "NTRS13-007",
     "investigation_id": null,
     "source_id": "NTRS-20140006585",
-    "claim_text": "For lampwick and silicone, about 40% of smoke mass was in particles larger than 1 µm.",
+    "claim_text": "For lampwick and silicone, about 40% of aerosol mass was in particles with aerodynamic diameters larger than 1 µm.",
     "source_excerpt": "For lampwick and silicone approximately 40% of the aerosol mass had aerodynamic diameters greater than 1 μ m",
     "source_location": "PDF page 19, Conclusions",
     "claim_status": "REPORTED_RESULT",
@@ -791,13 +791,13 @@
     "unit": "%",
     "value_qualifier": "approximately",
     "conditions": "aerodynamic diameter > 1 μm; lampwick and silicone",
-    "attribution_note": "The slides include SAME-R material, but the conclusion slide does not identify the flight investigation for this result.",
+    "attribution_note": "The slides label the hardware SAME; the conclusion slide does not identify the flight investigation for this result.",
     "doi": null,
     "source_url": "https://ntrs.nasa.gov/citations/20140006585",
     "review": {
-      "status": "DRAFT",
-      "reviewer": null,
-      "date": null,
+      "status": "HUMAN_REVIEWED",
+      "reviewer": "R. Naveen",
+      "date": "2026-11-15",
       "batch": "A"
     }
   },
@@ -823,9 +823,9 @@
     "doi": null,
     "source_url": "https://ntrs.nasa.gov/citations/20140006585",
     "review": {
-      "status": "DRAFT",
-      "reviewer": null,
-      "date": null,
+      "status": "HUMAN_REVIEWED",
+      "reviewer": "R. Naveen",
+      "date": "2026-11-15",
       "batch": "A"
     }
   },
@@ -850,9 +850,9 @@
     "doi": null,
     "source_url": "https://ntrs.nasa.gov/citations/20140006585",
     "review": {
-      "status": "DRAFT",
-      "reviewer": null,
-      "date": null,
+      "status": "HUMAN_REVIEWED",
+      "reviewer": "R. Naveen",
+      "date": "2026-11-15",
       "batch": "A"
     }
   },
@@ -878,9 +878,9 @@
     "doi": null,
     "source_url": "https://ntrs.nasa.gov/citations/20140006585",
     "review": {
-      "status": "DRAFT",
-      "reviewer": null,
-      "date": null,
+      "status": "HUMAN_REVIEWED",
+      "reviewer": "R. Naveen",
+      "date": "2026-11-15",
       "batch": "A"
     }
   },
@@ -906,9 +906,9 @@
     "doi": null,
     "source_url": "https://ntrs.nasa.gov/citations/20140006585",
     "review": {
-      "status": "DRAFT",
-      "reviewer": null,
-      "date": null,
+      "status": "HUMAN_REVIEWED",
+      "reviewer": "R. Naveen",
+      "date": "2026-11-15",
       "batch": "A"
     }
   },
@@ -929,9 +929,9 @@
     "doi": null,
     "source_url": "https://ntrs.nasa.gov/citations/20140006585",
     "review": {
-      "status": "DRAFT",
-      "reviewer": null,
-      "date": null,
+      "status": "HUMAN_REVIEWED",
+      "reviewer": "R. Naveen",
+      "date": "2026-11-15",
       "batch": "A"
     }
   },
@@ -953,9 +953,9 @@
     "doi": null,
     "source_url": "https://ntrs.nasa.gov/citations/20140006585",
     "review": {
-      "status": "DRAFT",
-      "reviewer": null,
-      "date": null,
+      "status": "HUMAN_REVIEWED",
+      "reviewer": "R. Naveen",
+      "date": "2026-11-15",
       "batch": "A"
     }
   },
@@ -984,9 +984,9 @@
     "doi": null,
     "source_url": "https://ntrs.nasa.gov/citations/20140006585",
     "review": {
-      "status": "DRAFT",
-      "reviewer": null,
-      "date": null,
+      "status": "HUMAN_REVIEWED",
+      "reviewer": "R. Naveen",
+      "date": "2026-11-15",
       "batch": "A"
     }
   },
@@ -1008,9 +1008,9 @@
     "doi": null,
     "source_url": "https://ntrs.nasa.gov/citations/20140006585",
     "review": {
-      "status": "DRAFT",
-      "reviewer": null,
-      "date": null,
+      "status": "HUMAN_REVIEWED",
+      "reviewer": "R. Naveen",
+      "date": "2026-11-15",
       "batch": "A"
     }
   },
@@ -1039,9 +1039,9 @@
     "doi": null,
     "source_url": "https://ntrs.nasa.gov/citations/20230013826",
     "review": {
-      "status": "DRAFT",
-      "reviewer": null,
-      "date": null,
+      "status": "HUMAN_REVIEWED",
+      "reviewer": "R. Naveen",
+      "date": "2026-11-15",
       "batch": "A"
     }
   },
@@ -1063,9 +1063,9 @@
     "doi": null,
     "source_url": "https://ntrs.nasa.gov/citations/20230013826",
     "review": {
-      "status": "DRAFT",
-      "reviewer": null,
-      "date": null,
+      "status": "HUMAN_REVIEWED",
+      "reviewer": "R. Naveen",
+      "date": "2026-11-15",
       "batch": "A"
     }
   },
@@ -1087,9 +1087,9 @@
     "doi": "10.60555/4qc4-de67",
     "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
     "review": {
-      "status": "DRAFT",
-      "reviewer": null,
-      "date": null,
+      "status": "HUMAN_REVIEWED",
+      "reviewer": "R. Naveen",
+      "date": "2026-11-15",
       "batch": "A"
     }
   },
@@ -1111,57 +1111,9 @@
     "doi": "10.60555/e9xp-ex83",
     "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-62",
     "review": {
-      "status": "DRAFT",
-      "reviewer": null,
-      "date": null,
-      "batch": "A"
-    }
-  },
-  {
-    "claim_id": "EARTH-003",
-    "investigation_id": "PSI-106",
-    "source_id": "PSI-106",
-    "claim_text": "The record identifies more efficient combustion technologies on Earth as a potential application of improved flame models.",
-    "source_excerpt": "Improved numerical models for flame behavior lead to more efficient combustion technologies on Earth.",
-    "source_location": "Research impacts",
-    "claim_status": "OBJECTIVE_OR_HYPOTHESIS",
-    "platform": "UNSPECIFIED",
-    "gravity_level": "1g",
-    "topics": [
-      "earth_application"
-    ],
-    "materials": [],
-    "evidence_label": "Earth application",
-    "doi": "10.60555/pm12-rg61",
-    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-106",
-    "review": {
-      "status": "DRAFT",
-      "reviewer": null,
-      "date": null,
-      "batch": "A"
-    }
-  },
-  {
-    "claim_id": "EARTH-004",
-    "investigation_id": "PSI-39",
-    "source_id": "PSI-39",
-    "claim_text": "The Cool Flames Investigation record identifies combustion models for fuels in spark-ignition and diesel engines as an Earth application.",
-    "source_excerpt": "The research will also help combustion chemists to develop new computational models to compute combustion performance in for many practical applications on earth, including an understanding of how cool flame reactivity determines octane and cetane number for fuels in spark ignition and diesel engines.",
-    "source_location": "Research impacts",
-    "claim_status": "OBJECTIVE_OR_HYPOTHESIS",
-    "platform": "UNSPECIFIED",
-    "gravity_level": "1g",
-    "topics": [
-      "earth_application"
-    ],
-    "materials": [],
-    "evidence_label": "Earth application",
-    "doi": "10.60555/m6pj-a914",
-    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-39",
-    "review": {
-      "status": "DRAFT",
-      "reviewer": null,
-      "date": null,
+      "status": "HUMAN_REVIEWED",
+      "reviewer": "R. Naveen",
+      "date": "2026-11-15",
       "batch": "A"
     }
   },
@@ -1184,9 +1136,9 @@
     "doi": null,
     "source_url": "https://ntrs.nasa.gov/citations/20250010653",
     "review": {
-      "status": "DRAFT",
-      "reviewer": null,
-      "date": null,
+      "status": "HUMAN_REVIEWED",
+      "reviewer": "R. Naveen",
+      "date": "2026-11-15",
       "batch": "A"
     }
   },
@@ -1207,9 +1159,9 @@
     "doi": null,
     "source_url": "https://ntrs.nasa.gov/citations/20250010653",
     "review": {
-      "status": "DRAFT",
-      "reviewer": null,
-      "date": null,
+      "status": "HUMAN_REVIEWED",
+      "reviewer": "R. Naveen",
+      "date": "2026-11-15",
       "batch": "LUCI"
     }
   },
@@ -1230,9 +1182,9 @@
     "doi": null,
     "source_url": "https://ntrs.nasa.gov/citations/20250010653",
     "review": {
-      "status": "DRAFT",
-      "reviewer": null,
-      "date": null,
+      "status": "HUMAN_REVIEWED",
+      "reviewer": "R. Naveen",
+      "date": "2026-11-15",
       "batch": "LUCI"
     }
   },
@@ -1253,9 +1205,9 @@
     "doi": null,
     "source_url": "https://ntrs.nasa.gov/citations/20250010653",
     "review": {
-      "status": "DRAFT",
-      "reviewer": null,
-      "date": null,
+      "status": "HUMAN_REVIEWED",
+      "reviewer": "R. Naveen",
+      "date": "2026-11-15",
       "batch": "LUCI"
     }
   },
@@ -1277,9 +1229,9 @@
     "doi": null,
     "source_url": "https://ntrs.nasa.gov/citations/20250010653",
     "review": {
-      "status": "DRAFT",
-      "reviewer": null,
-      "date": null,
+      "status": "HUMAN_REVIEWED",
+      "reviewer": "R. Naveen",
+      "date": "2026-11-15",
       "batch": "LUCI"
     }
   }

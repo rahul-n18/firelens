@@ -25,7 +25,7 @@ test("preserves detector thresholds and quotes the authors verbatim", async ({ p
   await chart.getByRole("button", { name: "Inspect NTRS13-008b" }).click();
   const inspector = page.getByRole("dialog");
   await expect(inspector.getByText("Equipment specification", { exact: true })).toBeVisible();
-  await expect(inspector.getByText("Not yet reviewed", { exact: true })).toBeVisible();
+  await expect(inspector.getByText("Reviewed by R. Naveen", { exact: true })).toBeVisible();
   await page.keyboard.press("Escape");
   const suggestion = page.getByRole("complementary", { name: "Authors' suggestion" });
   await expect(suggestion.locator("blockquote")).toHaveText(byClaim.get("NTRS13-006")!.source_excerpt);
