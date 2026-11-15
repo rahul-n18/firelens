@@ -35,9 +35,10 @@ test("groups investigations by hardware family and compares cited attributes", a
 
 test("planned test conditions and challenge context are labeled in the inspector", async ({ page }) => {
   await page.goto("/#explore");
-  await page.getByRole("tab", { name: /CIR \/ ACME/ }).click();
-  await page.getByRole("navigation", { name: "Investigations" }).getByRole("button", { name: /ACME BRE/ }).click();
-  const detail = page.getByRole("article");
+  const explore = page.getByRole("region", { name: "Investigation explorer" });
+  await explore.getByRole("tab", { name: /CIR \/ ACME/ }).click();
+  await explore.getByRole("navigation", { name: "Investigations", exact: true }).getByRole("button", { name: /ACME BRE/ }).click();
+  const detail = explore.getByRole("article");
   await expect(detail.getByText("Planned test condition").first()).toBeVisible();
   await detail.getByRole("heading", { name: "O2, pressure, and airflow" }).locator("xpath=ancestor::section[1]").getByRole("button", { name: "Inspect BRE-001" }).click();
   const dialog = page.getByRole("dialog");

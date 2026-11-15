@@ -31,8 +31,9 @@ for (const [index, query] of demoQueries.entries()) {
       : answer.getByRole("button", { name: `Inspect ${representative[index]}`, exact: true });
     await expect(trigger).toBeVisible();
     if (index === 1) {
-      await expect(page.getByRole("heading", { name: spiceHeading })).toBeVisible();
-      await expect(page.getByRole("heading", { name: metadataHeading })).toBeVisible();
+      const ask = page.getByRole("region", { name: "Ask your own question" });
+      await expect(ask.getByRole("heading", { name: spiceHeading })).toBeVisible();
+      await expect(ask.getByRole("heading", { name: metadataHeading })).toBeVisible();
       await expect(page.getByText("Matched", { exact: true }).first()).toBeVisible();
     }
     await noOverflow(page);
