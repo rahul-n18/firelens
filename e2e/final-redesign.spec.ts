@@ -48,12 +48,13 @@ test("runs the public demo from the hero through the Moon briefing and source in
 
   await nav.getByRole("link", { name: "Missions" }).click();
   const missions = page.getByRole("region", { name: "Mission briefings" });
-  const moon = missions.getByRole("tab", { name: /Moon base.*Simulated only/ });
+  const moon = missions.getByRole("tab", { name: /Moon base.*Flames measured, smoke only simulated/ });
   await moon.click();
   await expect(moon).toHaveAttribute("aria-selected", "true");
   await expect(missions.getByRole("region", { name: "Nobody has measured" }).getByText(/No measurements of smoke transport/)).toBeVisible();
   const plans = missions.getByRole("region", { name: "Test next" });
   await expect(plans.getByRole("button").first()).toHaveText("PLANNED-002");
+  await expect(plans.getByText("Planned (as of Dec 2025)")).toBeVisible();
   await expect(plans.getByRole("button", { name: "Inspect LUNAR-004" })).toBeVisible();
   await assertBindings(page);
   await plans.getByRole("button", { name: "Inspect LUNAR-004" }).click();
@@ -93,7 +94,7 @@ test("keeps the mission and data views accessible in both themes", async ({ page
     expect(results.violations.filter(violation => ["serious", "critical"].includes(violation.impact ?? ""))).toEqual([]);
     expect(await page.evaluate(() => document.documentElement.scrollWidth <= window.innerWidth)).toBe(true);
     for (const text of await page.locator(".gap-text:visible").allTextContents()) {
-      expect(text.trim()).toMatch(/^(Nothing measured|No (measurements|reported measurement|smoke or fire measurements))/u);
+      expect(text.trim()).toMatch(/^(Nothing measured|No (measurements|reported measurement|smoke measurements))/u);
     }
     const buttons = await page.locator(".claim-chip:visible").evaluateAll(nodes => nodes.map(node => ({
       height: node.getBoundingClientRect().height, wraps: getComputedStyle(node).whiteSpace !== "nowrap",

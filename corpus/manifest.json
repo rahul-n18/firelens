@@ -757,6 +757,52 @@
     "retrieved_at": "2026-11-15T09:57:51.945Z",
     "sha256": "b1f51283d3458b71d622980932aed2d9ae7138d46872d224c9e0425279334c12",
     "extraction_method": "html",
-    "access_note": "Public NASA Science explainer describing the planned lunar surface experiment."
+    "access_note": "Public NASA Science explainer describing the planned lunar surface experiment.",
+    "context_for": "NTRS-20250010653-ABSTRACT"
+  },
+  {
+    "source_id": "NTRS-20250010653-ABSTRACT",
+    "title": "Lunar Combustion Investigation: Flammability Results from a Rotating Sounding Rocket",
+    "authors": [
+      "Paul V. Ferkul",
+      "Michael C. Johnston",
+      "Nathan Kralik",
+      "Ya-Ting Liao"
+    ],
+    "year": 2025,
+    "publisher": "NASA Technical Reports Server",
+    "tier": "B",
+    "url": "https://ntrs.nasa.gov/citations/20250010653",
+    "doi": null,
+    "retrieved_at": "2026-11-15T10:37:43.553Z",
+    "retrieval_url": "https://ntrs.nasa.gov/citations/20250010653",
+    "raw_file": "raw/NTRS-20250010653-ABSTRACT.html",
+    "sha256": "cd068737d61a6c014d64ff90f7e513c07a2deb28582e86c702bad68bbefb6d66",
+    "extraction_method": "html",
+    "html_selector": "mat-card-subtitle",
+    "access_note": "Public December 2025 NTRS citation-page snapshot and abstract. The presentation PDF is registered separately."
+  },
+  {
+    "source_id": "NTRS-20250010653",
+    "title": "Lunar Combustion Investigation: Flammability Results from a Rotating Sounding Rocket",
+    "authors": [
+      "Paul V. Ferkul",
+      "Michael C. Johnston",
+      "Nathan Kralik",
+      "Ya-Ting Liao"
+    ],
+    "year": 2025,
+    "publisher": "NASA Technical Reports Server",
+    "tier": "B",
+    "url": "https://ntrs.nasa.gov/citations/20250010653",
+    "doi": null,
+    "retrieved_at": "2026-11-15T10:37:43.553Z",
+    "retrieval_url": "https://ntrs.nasa.gov/api/citations/20250010653/downloads/ASGSR%202025-LUCI-Ferkul-Presentation-v2-20250010653.pdf",
+    "raw_file": "raw/NTRS-20250010653.pdf",
+    "sha256": "bb0aadd2f9543483467b86796e6aa19f4e13c3f8169eec96134015f95ed61d79",
+    "extraction_method": "pdfjs",
+    "local_only": true,
+    "context_for": "NTRS-20250010653-ABSTRACT",
+    "access_note": "Public NTRS download. NTRS lists use by or on behalf of the U.S. Government as permitted. The full PDF and its extraction are stored locally."
   }
 ]

@@ -7,10 +7,10 @@ export const root = fileURLToPath(new URL("../", import.meta.url));
 export const corpus = join(root, "corpus");
 export const focus = ["PSI-47", "PSI-101", "PSI-102", "PSI-107", "PSI-115"];
 export const statuses = ["REPORTED_RESULT", "REPORTED_METHOD", "MODEL_RESULT", "OBJECTIVE_OR_HYPOTHESIS", "TEAM_INFERENCE", "NOT_ESTABLISHED"] as const;
-export const platforms = ["ISS_FLIGHT", "GROUND_LAB", "REDUCED_GRAVITY_AIRCRAFT", "DROP_TOWER", "NUMERICAL_MODEL", "MIXED", "UNSPECIFIED"] as const;
+export const platforms = ["ISS_FLIGHT", "GROUND_LAB", "REDUCED_GRAVITY_AIRCRAFT", "DROP_TOWER", "SOUNDING_ROCKET", "NUMERICAL_MODEL", "MIXED", "UNSPECIFIED"] as const;
 export const gravities = ["1g", "microgravity", "lunar_0.16g", "mars_0.38g", "multiple", "unspecified"] as const;
 export const methods = ["pdfjs", "html", "json"] as const;
-export const evidenceLabels = ["Equipment specification", "Authors' statement", "Authors' suggestion", "Planned (NASA)", "Planned (as of 2021)", "Earth application"] as const;
+export const evidenceLabels = ["Equipment specification", "Authors' statement", "Authors' suggestion", "Planned (as of Dec 2025)", "Planned (as of 2021)", "Earth application"] as const;
 
 export interface DerivedFigure {
   file: string;
@@ -39,6 +39,7 @@ export interface Source {
   access_level?: "ABSTRACT_ONLY";
   pages?: [number, number];
   html_selector?: string;
+  context_for?: string;
   derived_assets?: DerivedFigure[];
 }
 
@@ -65,7 +66,7 @@ export interface Claim {
   derived_from?: string[];
   doi: string | null;
   source_url: string;
-  review: { status: "DRAFT" | "HUMAN_REVIEWED"; reviewer: string | null; date: string | null; batch?: "A" };
+  review: { status: "DRAFT" | "HUMAN_REVIEWED"; reviewer: string | null; date: string | null; batch?: "A" | "LUCI" };
 }
 
 export interface Investigation {

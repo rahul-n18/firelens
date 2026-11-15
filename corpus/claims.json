@@ -1168,10 +1168,10 @@
   {
     "claim_id": "PLANNED-002",
     "investigation_id": null,
-    "source_id": "NASA-FM2",
-    "claim_text": "NASA plans to study flame size, strength, intensity and spread on the Moon relative to Earth gravity.",
-    "source_excerpt": "The experiment will be conducted on the lunar surface to evaluate flame size, strength, intensity and spread compared to Earth gravity.",
-    "source_location": "The Flammability of Materials on the Moon study",
+    "source_id": "NTRS-20250010653-ABSTRACT",
+    "claim_text": "The authors describe FM2 burn tests on the lunar surface as planned.",
+    "source_excerpt": "Finally, the experiment is a steppingstone to the ultimate goal of performing burn tests on the Lunar surface in the Flammability of Materials on the Moon (FM2) experiment which is planned to launch in late 2026.",
+    "source_location": "NTRS citation abstract",
     "claim_status": "OBJECTIVE_OR_HYPOTHESIS",
     "platform": "UNSPECIFIED",
     "gravity_level": "lunar_0.16g",
@@ -1179,15 +1179,108 @@
       "material_flammability"
     ],
     "materials": [],
-    "evidence_label": "Planned (NASA)",
-    "attribution_note": "The NASA Science page describes the Flammability of Materials on the Moon experiment as future work.",
+    "evidence_label": "Planned (as of Dec 2025)",
+    "attribution_note": "The date refers to the December 2025 meeting. The abstract describes the launch schedule as it stood then.",
     "doi": null,
-    "source_url": "https://science.nasa.gov/biological-physical/resources/explainers-infographics/why-nasa-is-studying-flames-in-space/",
+    "source_url": "https://ntrs.nasa.gov/citations/20250010653",
     "review": {
       "status": "DRAFT",
       "reviewer": null,
       "date": null,
       "batch": "A"
+    }
+  },
+  {
+    "claim_id": "LUCI-001",
+    "investigation_id": null,
+    "source_id": "NTRS-20250010653-ABSTRACT",
+    "claim_text": "These are the first-ever, extended-duration (greater than 25 seconds) combustion tests performed in simulated Lunar gravity.",
+    "source_excerpt": "These are the first-ever, extended-duration (greater than 25 seconds) combustion tests performed in simulated Lunar gravity.",
+    "source_location": "NTRS citation abstract",
+    "claim_status": "REPORTED_RESULT",
+    "platform": "SOUNDING_ROCKET",
+    "gravity_level": "lunar_0.16g",
+    "topics": [
+      "flame_spread"
+    ],
+    "materials": [],
+    "doi": null,
+    "source_url": "https://ntrs.nasa.gov/citations/20250010653",
+    "review": {
+      "status": "DRAFT",
+      "reviewer": null,
+      "date": null,
+      "batch": "LUCI"
+    }
+  },
+  {
+    "claim_id": "LUCI-002",
+    "investigation_id": null,
+    "source_id": "NTRS-20250010653-ABSTRACT",
+    "claim_text": "Flame images from two orthogonal cameras are used to determine flame spread and growth rates, and the burn lasts for over two and a half minutes.",
+    "source_excerpt": "Flame images from two orthogonal cameras are used to determine flame spread and growth rates, and the burn lasts for over two and a half minutes.",
+    "source_location": "NTRS citation abstract",
+    "claim_status": "REPORTED_METHOD",
+    "platform": "SOUNDING_ROCKET",
+    "gravity_level": "lunar_0.16g",
+    "topics": [
+      "flame_spread"
+    ],
+    "materials": [],
+    "doi": null,
+    "source_url": "https://ntrs.nasa.gov/citations/20250010653",
+    "review": {
+      "status": "DRAFT",
+      "reviewer": null,
+      "date": null,
+      "batch": "LUCI"
+    }
+  },
+  {
+    "claim_id": "LUCI-003",
+    "investigation_id": null,
+    "source_id": "NTRS-20250010653-ABSTRACT",
+    "claim_text": "As the burns progress, the oxygen concentration drops, enabling a limiting value for extinction to be defined.",
+    "source_excerpt": "As the burns progress, the oxygen concentration drops, enabling a limiting value for extinction to be defined.",
+    "source_location": "NTRS citation abstract",
+    "claim_status": "REPORTED_RESULT",
+    "platform": "SOUNDING_ROCKET",
+    "gravity_level": "lunar_0.16g",
+    "topics": [
+      "material_flammability"
+    ],
+    "materials": [],
+    "doi": null,
+    "source_url": "https://ntrs.nasa.gov/citations/20250010653",
+    "review": {
+      "status": "DRAFT",
+      "reviewer": null,
+      "date": null,
+      "batch": "LUCI"
+    }
+  },
+  {
+    "claim_id": "LUCI-004",
+    "investigation_id": null,
+    "source_id": "NTRS-20250010653-ABSTRACT",
+    "claim_text": "The results are applicable to NASA’s exploration efforts in that they guide the selection of fire-safe materials and environments and ensure safety of future spacecraft and Lunar habitats.",
+    "source_excerpt": "The results are applicable to NASA’s exploration efforts in that they guide the selection of fire-safe materials and environments and ensure safety of future spacecraft and Lunar habitats.",
+    "source_location": "NTRS citation abstract",
+    "claim_status": "OBJECTIVE_OR_HYPOTHESIS",
+    "platform": "SOUNDING_ROCKET",
+    "gravity_level": "lunar_0.16g",
+    "topics": [
+      "material_flammability"
+    ],
+    "materials": [],
+    "evidence_label": "Authors' statement",
+    "doi": null,
+    "source_url": "https://ntrs.nasa.gov/citations/20250010653",
+    "review": {
+      "status": "DRAFT",
+      "reviewer": null,
+      "date": null,
+      "batch": "LUCI"
     }
   }
 ]

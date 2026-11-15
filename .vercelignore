@@ -10,6 +10,8 @@ node_modules/
 /corpus/text/SPICE-FSJ.txt
 /corpus/text/UMD-DOTSON.txt
 /corpus/text/UMD-DEBOLD.txt
+/corpus/raw/NTRS-20250010653.pdf
+/corpus/text/NTRS-20250010653.txt
 
 /.next/
 /out/

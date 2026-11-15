@@ -1,5 +1,5 @@
 import { describe, expect, it } from "vitest";
-import { claims, comparisonRows, coverage, crossGravity, demoQueries, evidenceGap, heroCoverage, search, spiceHeading, statusLabel } from "./evidence";
+import { claims, comparisonRows, coverage, crossGravity, demoQueries, evidenceGap, gravityEvidence, heroCoverage, missionGravityStatus, search, smokeEvidence, spiceHeading, statusLabel } from "./evidence";
 
 describe("FireLens search", () => {
   it("ranks SAME-R first for the flight and ground follow-up question", () => {
@@ -28,6 +28,13 @@ describe("condition-specific evidence", () => {
       moon: "Simulated only",
       mars: "Nothing measured",
     });
+  });
+
+  it("keeps LUCI flame results separate from lunar smoke coverage", () => {
+    const moon = gravityEvidence("lunar_0.16g", claims);
+    expect(missionGravityStatus(moon)).toBe("Flames measured, smoke only simulated");
+    expect(smokeEvidence(moon).map(claim => claim.claim_id)).toEqual(["LUNAR-001", "LUNAR-002", "LUNAR-003", "LUNAR-004"]);
+    expect(missionGravityStatus(moon.filter(claim => claim.claim_status !== "MODEL_RESULT"))).toBe("Measured");
   });
 
   it("does not offer evidence whose source is unverified", () => {

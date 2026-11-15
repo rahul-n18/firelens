@@ -4,7 +4,7 @@ import Image from "next/image";
 import { Tabs } from "radix-ui";
 import { useEffect, useRef, useState } from "react";
 import { illustrateCabin } from "../lib/cabin-illustration";
-import { gravityEvidence, gravityStatus, isMeasurement, sources, type Claim, type GravityStop } from "../lib/evidence";
+import { gravityEvidence, gravityStatus, hasFlameMeasurements, isMeasurement, smokeEvidence, sources, type Claim, type GravityStop } from "../lib/evidence";
 import { Chip, ClaimLine, DraftLabel, type OpenClaim } from "./evidence-ui";
 
 const gravityOptions = [
@@ -20,11 +20,12 @@ function evidenceOrder(claim: Claim) {
   return 2;
 }
 
-export function SeeIt({ evidence, byId, open, dark }: {
+export function SeeIt({ evidence, byId, open, dark, onMoonBriefing }: {
   evidence: Claim[];
   byId: ReadonlyMap<string, Claim>;
   open: OpenClaim;
   dark: boolean;
+  onMoonBriefing: () => void;
 }) {
   const [gravity, setGravity] = useState<GravityStop>("1g");
   const [airflow, setAirflow] = useState(0);
@@ -32,14 +33,16 @@ export function SeeIt({ evidence, byId, open, dark }: {
   const [showFigure, setShowFigure] = useState(false);
   const canvas = useRef<HTMLCanvasElement>(null);
   const active = gravityOptions.find(option => option.id === gravity)!;
-  const local = gravityEvidence(gravity, evidence);
+  const smoke = smokeEvidence(evidence);
+  const local = gravityEvidence(gravity, smoke);
+  const showMoonBriefing = gravity === "lunar_0.16g" && hasFlameMeasurements(gravityEvidence(gravity, evidence));
   const status = gravityStatus(local);
   const rows = local.sort((a, b) => evidenceOrder(a) - evidenceOrder(b)).slice(0, 3);
   const nearby = gravityOptions
-    .filter(option => option.id !== gravity && gravityStatus(gravityEvidence(option.id, evidence)) !== "Nothing measured")
+    .filter(option => option.id !== gravity && gravityStatus(gravityEvidence(option.id, smoke)) !== "Nothing measured")
     .sort((a, b) => Math.abs(a.coefficient - active.coefficient) - Math.abs(b.coefficient - active.coefficient))
     .slice(0, 2).map(option => option.label);
-  const markers = evidence
+  const markers = smoke
     .filter(claim => claim.airflow?.gravity_level === gravity && (isMeasurement(claim) || claim.claim_status === "MODEL_RESULT"))
     .sort((a, b) => a.airflow!.value - b.airflow!.value);
   const maxAirflow = Math.max(10, ...markers.map(claim => claim.airflow!.value));
@@ -66,7 +69,7 @@ export function SeeIt({ evidence, byId, open, dark }: {
         <div className="cabin-stage">
           <Tabs.List aria-label="Gravity level" className="gravity-tabs">
             {gravityOptions.map(option => {
-              const coverage = gravityStatus(gravityEvidence(option.id, evidence));
+              const coverage = gravityStatus(gravityEvidence(option.id, smoke));
               return <Tabs.Trigger value={option.id} className="gravity-tab" key={option.id}>
                 {option.label}<small>{coverage}</small>
               </Tabs.Trigger>;
@@ -112,8 +115,11 @@ export function SeeIt({ evidence, byId, open, dark }: {
           </p>
           {rows.length > 0 ? <ul className="cabin-claims">{rows.map(claim =>
             <ClaimLine key={claim.claim_id} claim={claim} open={open} />,
-          )}</ul> : <p className="gap-text">No smoke or fire measurements at this gravity in our sources.
+          )}</ul> : <p className="gap-text">No smoke measurements at this gravity in our sources.
             {nearby.length > 0 && <> <span className="muted">Nearest evidence: {nearby.join(" and ")}.</span></>}</p>}
+          {showMoonBriefing && <p className="cabin-note">
+            Flame tests at lunar gravity: <a href="#missions" onClick={onMoonBriefing}>see the Moon briefing</a>
+          </p>}
           {canShowFigure && <button className="figure-toggle" type="button" aria-expanded={showFigure}
             aria-controls="destiny-simulation" onClick={() => setShowFigure(value => !value)}>
             {showFigure ? "Hide NASA’s cabin simulation" : "Show NASA’s own cabin simulation"}

@@ -3,6 +3,7 @@ import { tmpdir } from "node:os";
 import { join } from "node:path";
 import { beforeAll, describe, expect, test } from "vitest";
 import { corpus, readJson, root, type Claim, type Source } from "./corpus.js";
+import { extractText } from "./extraction.js";
 import { checkClaims, normalize, verifyCorpus } from "./verification.js";
 
 let fixtureClaim: Claim;
@@ -26,6 +27,22 @@ function verifyClaim(patch: Partial<Claim> = {}, sources = [fixtureSource]): str
 }
 
 describe("claim verifier", () => {
+  test("matches all LUCI and FM2 excerpts to the citation page without punctuation normalization", async () => {
+    const sourceId = "NTRS-20250010653-ABSTRACT";
+    const sources = await readJson<Source[]>(join(corpus, "manifest.json"));
+    const source = sources.find(item => item.source_id === sourceId)!;
+    const text = await extractText(await readFile(join(corpus, source.raw_file)), source);
+    const claims = await readJson<Claim[]>(join(corpus, "claims.json"));
+    const cited = claims.filter(claim => claim.claim_id.startsWith("LUCI-") || claim.claim_id === "PLANNED-002");
+    expect(cited).toHaveLength(5);
+    for (const claim of cited) {
+      expect(claim.source_id).toBe(sourceId);
+      expect(claim.review.status).toBe("DRAFT");
+      expect(text).toContain(claim.source_excerpt);
+    }
+    expect(cited.find(claim => claim.claim_id === "LUCI-004")!.source_excerpt).toContain("NASA’s");
+  });
+
   test("keeps hardcoded measurements out of rendered component code", async () => {
     const componentFiles = (await Promise.all(["app", "components"].map(async directory =>
       (await readdir(join(root, directory), { recursive: true }))

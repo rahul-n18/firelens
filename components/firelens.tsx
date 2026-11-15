@@ -3,7 +3,7 @@
 import { useEffect, useMemo, useRef, useState, type ReactNode } from "react";
 import {
   claims, comparisonRows, coverage, coverageColumns, crossGravity, demoQueries, evidenceGap, gravityLabels, heroCoverage, investigationName, investigations, isMeasurement, metadataHeading,
-  platformLabels, relatedHeading, search, sources, spiceHeading, statusLabels, type Claim, type ClaimFilter,
+  platformLabels, relatedHeading, search, sources, spiceHeading, statusLabels, type Claim, type ClaimFilter, type GravityStop,
 } from "../lib/evidence";
 import { citation, downloadEvidence, evidenceBrief, evidenceCsv, evidenceJson } from "../lib/export";
 import { Input, Sheet, Toggle } from "./ui";
@@ -119,6 +119,7 @@ function Results({ title, results, active, open, track, children }: {
 export function FireLens({ available }: { available: string[] }) {
   const [query, setQuery] = useState("");
   const [investigationId, setInvestigationId] = useState<string>();
+  const [missionGravity, setMissionGravity] = useState<GravityStop>("microgravity");
   const [showMetadata, setShowMetadata] = useState(false);
   const [selected, setSelected] = useState<Claim | null>(null);
   const [coverageGroup, setCoverageGroup] = useState<Claim[]>([]);
@@ -137,7 +138,7 @@ export function FireLens({ available }: { available: string[] }) {
   const coverageAt = heroCoverage(evidence);
   const coverageCopy = [
     coverageAt.orbit === "Measured" ? "measurements in orbit" : "gaps in orbit",
-    coverageAt.moon === "Simulated only" ? "simulations for the Moon" : coverageAt.moon === "Measured" ? "measurements for the Moon" : "gaps for the Moon",
+    coverageAt.moon === "Simulated only" ? "what has only been simulated for smoke on the Moon" : coverageAt.moon === "Measured" ? "smoke measurements for the Moon" : "gaps in our smoke evidence for the Moon",
     coverageAt.mars === "Nothing measured" ? "what’s missing for Mars" : coverageAt.mars === "Measured" ? "measurements for Mars" : "simulations for Mars",
   ];
   const reviewedCount = evidence.filter(claim => claim.review.status === "HUMAN_REVIEWED").length;
@@ -228,10 +229,10 @@ export function FireLens({ available }: { available: string[] }) {
           <a className="secondary-button" href="#missions">Open a mission briefing</a>
         </div>
       </section>
-      <SeeIt evidence={evidence} byId={byId} open={open} dark={dark} />
+      <SeeIt evidence={evidence} byId={byId} open={open} dark={dark} onMoonBriefing={() => setMissionGravity("lunar_0.16g")} />
       <Measurements byId={byId} open={open} />
       <Detectors byId={byId} open={open} />
-      <Missions evidence={evidence} open={open} />
+      <Missions evidence={evidence} open={open} gravity={missionGravity} onGravityChange={setMissionGravity} />
       <ModelData evidence={evidence} open={open} />
       <section className="block" id="ask" aria-labelledby="query-heading">
         <h2 className="block-title" id="query-heading">Ask your own question</h2>

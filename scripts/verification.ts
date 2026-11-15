@@ -269,7 +269,13 @@ export async function verifyCorpus(directory: string, publicDirectory = join(dir
   }
 
   errors.push(...checkClaims(claims, sources, texts, new Set(Object.keys(vocabulary.topics)), skippedSources));
-  for (const id of [...focus, ...sources.filter(source => source.tier === "B").map(source => source.source_id)]) {
+  for (const source of sources.filter(source => source.context_for !== undefined)) {
+    if (source.context_for === source.source_id || !byId.has(source.context_for!) ||
+        !claims.some(claim => claim.source_id === source.context_for)) {
+      errors.push(`${source.source_id}: context must reference a source with claims`);
+    }
+  }
+  for (const id of [...focus, ...sources.filter(source => source.tier === "B" && !source.context_for).map(source => source.source_id)]) {
     if (!claims.some(claim => claim.source_id === id)) errors.push(`${id}: source has no claims`);
   }
   for (const claim of claims) {

@@ -87,7 +87,7 @@ test("introduces the evidence and lets keyboard users reach Ask and the source i
   const main = page.getByRole("main");
   await expect(main.getByRole("heading", { level: 1 })).toHaveText("Does smoke behave the same away from Earth?");
   await expect(main.locator(".lede")).toContainText("measurements in orbit");
-  await expect(main.locator(".lede")).toContainText("simulations for the Moon");
+  await expect(main.locator(".lede")).toContainText("what has only been simulated for smoke on the Moon");
   await expect(main.locator(".lede")).toContainText("what’s missing for Mars");
 
   await page.keyboard.press("Tab");

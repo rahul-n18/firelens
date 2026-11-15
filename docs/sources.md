@@ -398,9 +398,29 @@ Generated from the corpus manifest, claims, and unavailable-source log.
 - Retrieved · 2026-11-15T09:57:51.945Z
 - SHA-256 · `b1f51283d3458b71d622980932aed2d9ae7138d46872d224c9e0425279334c12`
 - DOI · Unlisted
-- Supported claims · `PLANNED-002`
+- Supported claims · Metadata only
 - Access · Public NASA Science explainer describing the planned lunar surface experiment.
 - [Source](https://science.nasa.gov/biological-physical/resources/explainers-infographics/why-nasa-is-studying-flames-in-space/) · [Snapshot retrieval URL](https://science.nasa.gov/biological-physical/resources/explainers-infographics/why-nasa-is-studying-flames-in-space/)
+
+## NTRS-20250010653-ABSTRACT · Lunar Combustion Investigation: Flammability Results from a Rotating Sounding Rocket
+
+- Publisher and tier · NASA Technical Reports Server · B
+- Retrieved · 2026-11-15T10:37:43.553Z
+- SHA-256 · `cd068737d61a6c014d64ff90f7e513c07a2deb28582e86c702bad68bbefb6d66`
+- DOI · Unlisted
+- Supported claims · `PLANNED-002`, `LUCI-001`, `LUCI-002`, `LUCI-003`, `LUCI-004`
+- Access · Public December 2025 NTRS citation-page snapshot and abstract. The presentation PDF is registered separately.
+- [Source](https://ntrs.nasa.gov/citations/20250010653) · [Snapshot retrieval URL](https://ntrs.nasa.gov/citations/20250010653)
+
+## NTRS-20250010653 · Lunar Combustion Investigation: Flammability Results from a Rotating Sounding Rocket
+
+- Publisher and tier · NASA Technical Reports Server · B
+- Retrieved · 2026-11-15T10:37:43.553Z
+- SHA-256 · `bb0aadd2f9543483467b86796e6aa19f4e13c3f8169eec96134015f95ed61d79`
+- DOI · Unlisted
+- Supported claims · Metadata only
+- Access · Local-only snapshot. Public NTRS download. NTRS lists use by or on behalf of the U.S. Government as permitted. The full PDF and its extraction are stored locally.
+- [Source](https://ntrs.nasa.gov/citations/20250010653) · [Snapshot retrieval URL](https://ntrs.nasa.gov/api/citations/20250010653/downloads/ASGSR%202025-LUCI-Ferkul-Presentation-v2-20250010653.pdf)
 
 ## Unavailable full texts
 

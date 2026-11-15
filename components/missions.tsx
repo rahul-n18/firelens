@@ -1,8 +1,7 @@
 "use client";
 
 import { Tabs } from "radix-ui";
-import { useState } from "react";
-import { coverageTopics, gravityEvidence, gravityLabels, gravityStatus, investigations, isMeasurement, type Claim, type GravityStop } from "../lib/evidence";
+import { coverageTopics, gravityEvidence, gravityLabels, investigations, isMeasurement, missionGravityStatus, type Claim, type GravityStop } from "../lib/evidence";
 import { ClaimLine, type OpenClaim } from "./evidence-ui";
 
 const missions = [
@@ -11,8 +10,8 @@ const missions = [
   { gravity: "mars_0.38g", name: "Mars base" },
   { gravity: "1g", name: "Earth" },
 ] as const;
-const missionTopics = [...coverageTopics, ["pyrolysis", "Pyrolysis"], ["material_flammability", "Material flammability"]] as const;
-const nextLabels = ["Planned (NASA)", "Planned (as of 2021)", "Authors' suggestion", "Earth application"];
+const missionTopics = [...coverageTopics, ["pyrolysis", "Pyrolysis"], ["flame_spread", "Flame spread"], ["material_flammability", "Material flammability"]] as const;
+const nextLabels = ["Planned (as of Dec 2025)", "Planned (as of 2021)", "Authors' suggestion", "Earth application"];
 
 function testPriority(claim: Claim) {
   return nextLabels.indexOf(claim.evidence_label ?? "");
@@ -83,8 +82,12 @@ function MissionBrief({ gravity, evidence, open }: { gravity: GravityStop; evide
   </>;
 }
 
-export function Missions({ evidence, open }: { evidence: Claim[]; open: OpenClaim }) {
-  const [gravity, setGravity] = useState<GravityStop>("microgravity");
+export function Missions({ evidence, open, gravity, onGravityChange }: {
+  evidence: Claim[];
+  open: OpenClaim;
+  gravity: GravityStop;
+  onGravityChange: (gravity: GravityStop) => void;
+}) {
   const unscoped = evidence.filter(claim =>
     (claim.gravity_level === "multiple" || claim.gravity_level === "unspecified") &&
     (testPriority(claim) >= 0 || claim.evidence_label === "Authors' statement"),
@@ -93,10 +96,10 @@ export function Missions({ evidence, open }: { evidence: Claim[]; open: OpenClai
   return <section className="block" id="missions" aria-labelledby="missions-heading">
     <h2 className="block-title" id="missions-heading">Mission briefings</h2>
     <p className="section-intro">See what our sources show at each gravity and what the authors suggest testing next.</p>
-    <Tabs.Root value={gravity} orientation="horizontal" onValueChange={value => setGravity(value as GravityStop)}>
+    <Tabs.Root value={gravity} orientation="horizontal" onValueChange={value => onGravityChange(value as GravityStop)}>
       <Tabs.List aria-label="Mission" className="mission-tabs">
         {missions.map(mission => {
-          const status = gravityStatus(gravityEvidence(mission.gravity, evidence));
+          const status = missionGravityStatus(gravityEvidence(mission.gravity, evidence));
           return <Tabs.Trigger className="gravity-tab" key={mission.gravity} value={mission.gravity}>
             {mission.name}<small className={status === "Nothing measured" ? "gap-text" : status === "Simulated only" ? "model-text" : undefined}>{status}</small>
           </Tabs.Trigger>;

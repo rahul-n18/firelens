@@ -24,7 +24,8 @@ export const gravityLabels: Record<Claim["gravity_level"], string> = {
 };
 export const platformLabels: Record<Claim["platform"], string> = {
   ISS_FLIGHT: "ISS flight", GROUND_LAB: "Ground lab", REDUCED_GRAVITY_AIRCRAFT: "Reduced-gravity aircraft",
-  DROP_TOWER: "Drop tower", NUMERICAL_MODEL: "Computer model", MIXED: "Mixed platforms", UNSPECIFIED: "Platform unspecified",
+  DROP_TOWER: "Drop tower", SOUNDING_ROCKET: "Spinning sounding rocket", NUMERICAL_MODEL: "Computer model",
+  MIXED: "Mixed platforms", UNSPECIFIED: "Platform unspecified",
 };
 export const statusLabels: Record<Claim["claim_status"], string> = {
   REPORTED_RESULT: "Measured", REPORTED_METHOD: "How it was measured", MODEL_RESULT: "Computer model",
@@ -196,11 +197,28 @@ export function isMeasurement(claim: Claim) {
   return claim.claim_status === "REPORTED_RESULT" && claim.evidence_label !== "Equipment specification";
 }
 
+const smokeTopics = new Set(["smoke_particle_size", "smoke_morphology", "smoke_transport", "detector_response"]);
+
+export function smokeEvidence(evidence: Claim[]) {
+  return evidence.filter(claim => claim.topics.some(topic => smokeTopics.has(topic)));
+}
+
+export function hasFlameMeasurements(evidence: Claim[]) {
+  return evidence.some(claim => isMeasurement(claim) &&
+    claim.topics.some(topic => topic === "flame_spread" || topic === "material_flammability"));
+}
+
+export function missionGravityStatus(evidence: Claim[]) {
+  return hasFlameMeasurements(evidence) && gravityStatus(smokeEvidence(evidence)) === "Simulated only"
+    ? "Flames measured, smoke only simulated" : gravityStatus(evidence);
+}
+
 export function heroCoverage(evidence: Claim[]) {
+  const smoke = smokeEvidence(evidence);
   return {
-    orbit: gravityStatus(gravityEvidence("microgravity", evidence)),
-    moon: gravityStatus(gravityEvidence("lunar_0.16g", evidence)),
-    mars: gravityStatus(gravityEvidence("mars_0.38g", evidence)),
+    orbit: gravityStatus(gravityEvidence("microgravity", smoke)),
+    moon: gravityStatus(gravityEvidence("lunar_0.16g", smoke)),
+    mars: gravityStatus(gravityEvidence("mars_0.38g", smoke)),
   };
 }
 

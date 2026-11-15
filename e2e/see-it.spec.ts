@@ -42,7 +42,7 @@ test("navigates the gravity tabs by keyboard and renders a reduced-motion frame"
   await page.keyboard.press("ArrowRight");
   await expect(mars).toBeFocused();
   await expect(mars).toHaveAttribute("aria-selected", "true");
-  await expect(see.getByText(/No smoke or fire measurements at this gravity/)).toBeVisible();
+  await expect(see.getByText(/No smoke measurements at this gravity/)).toBeVisible();
   await page.keyboard.press("ArrowRight");
   await expect(moon).toHaveAttribute("aria-selected", "true");
   await expect(see.getByRole("list", { name: "Airflow values in our sources" }).getByRole("listitem")).toHaveCount(2);
@@ -69,4 +69,26 @@ test("keeps the Earth detector timing when the browser renders five frames per s
   await see.locator("canvas").scrollIntoViewIfNeeded();
   await page.clock.runFor(9_500);
   await expect(see.locator(".detector-state")).toHaveText("Ceiling detector: smoke reached it", { timeout: 500 });
+});
+
+test("links lunar smoke simulations to the Moon briefing’s measured flame results", async ({ page }) => {
+  await page.emulateMedia({ reducedMotion: "reduce" });
+  await page.goto("/#see");
+  const see = page.getByRole("region", { name: "See what gravity does to smoke" });
+  await see.getByRole("tab", { name: "Moon Simulated only" }).click();
+  const panel = see.getByRole("complementary", { name: "What NASA has" });
+  await expect(panel.getByRole("button", { name: /Inspect LUCI/ })).toHaveCount(0);
+  await expect(panel.getByText("Flame tests at lunar gravity: see the Moon briefing")).toBeVisible();
+  await panel.getByRole("link", { name: "see the Moon briefing" }).click();
+  await expect(page).toHaveURL(/#missions$/u);
+  const mission = page.getByRole("region", { name: "Mission briefings" });
+  await expect(mission.getByRole("tab", { name: /Moon base.*Flames measured, smoke only simulated/ }))
+    .toHaveAttribute("aria-selected", "true");
+  const measured = mission.getByRole("region", { name: "What we know" });
+  await expect(measured.getByRole("button", { name: "Inspect LUCI-003" })).toBeVisible();
+  await measured.getByRole("button", { name: "Inspect LUCI-001" }).click();
+  const inspector = page.getByRole("dialog");
+  await expect(inspector.getByText("Spinning sounding rocket, Lunar gravity")).toBeVisible();
+  await expect(inspector.getByText("Excerpt verified")).toBeVisible();
+  await expect(inspector.getByText("Not yet reviewed")).toBeVisible();
 });

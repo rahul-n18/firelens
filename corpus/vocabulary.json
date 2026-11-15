@@ -8,7 +8,8 @@
     "soot_onset": ["smoke point", "soot emission", "coflow flame"],
     "measurement_method": ["moment method", "aerosol diagnostics", "instrument comparison"],
     "earth_application": ["terrestrial application", "fire safety on Earth"],
-    "material_flammability": ["flame growth", "material burning", "flame spread"]
+    "material_flammability": ["material burning", "extinction limits"],
+    "flame_spread": ["flame spread", "flame growth"]
   },
   "gravity": {
     "1g": ["1 g", "normal gravity", "Earth gravity"],
@@ -21,6 +22,7 @@
     "GROUND_LAB": ["ground", "laboratory", "lab"],
     "REDUCED_GRAVITY_AIRCRAFT": ["parabolic flight", "partial gravity flight"],
     "DROP_TOWER": ["drop tower"],
+    "SOUNDING_ROCKET": ["sounding rocket", "spinning sounding rocket", "rotating sounding rocket"],
     "NUMERICAL_MODEL": ["model", "simulation", "CFD"]
   },
   "disambiguation": [
