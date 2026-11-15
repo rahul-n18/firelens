@@ -71,6 +71,7 @@ export interface Claim {
 export interface Investigation {
   investigation_id: string;
   title: string;
+  acronym?: string;
   doi: string | null;
   objective: string;
   source_id: string;

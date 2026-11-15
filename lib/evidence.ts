@@ -121,12 +121,13 @@ const investigationIndex = index(investigations, row => ({
   Objective: { text: row.objective, boost: 1.4 },
 }));
 
-export function search(input: string, permitted: ClaimFilter = anyClaim) {
+export function search(input: string, permitted: ClaimFilter = anyClaim, investigationId?: string) {
   const query = parseQuery(input);
   const soot = vocabulary.disambiguation[0];
   const smokeIntent = query.terms.some(term => ["smoke", "particle", "aerosol", "samer", "same"].includes(term));
   const explicitSoot = /\b(?:smoke[- ]point|soot|spice|coflow)\b/iu.test(input);
-  const claimHits = claimIndex(query.terms).filter(hit => hit.score > 0 && permitted(hit.item)).map(hit => ({
+  const claimHits = claimIndex(query.terms).filter(hit => hit.score > 0 && permitted(hit.item) &&
+    (!investigationId || hit.item.investigation_id === investigationId)).map(hit => ({
     ...hit,
     score: hit.score + (query.gravity.includes(hit.item.gravity_level) ? 2 : 0)
       + (query.platform.includes(hit.item.platform) ? 1 : 0),
@@ -145,17 +146,17 @@ export function search(input: string, permitted: ClaimFilter = anyClaim) {
       matches: [...hit.matches, ...(support[0]?.matches ?? []), ...(impliedSoot && !support.length
         ? [{ field: "Topic disambiguation", terms: ["smoke point", "microgravity"] }] : [])],
     };
-  }).filter(hit => hit.score > 0).sort((a, b) => {
+  }).filter(hit => investigationId ? hit.item.investigation_id === investigationId : hit.score > 0).sort((a, b) => {
     const layer = (hit: typeof a) => !hit.allClaims.length ? 2 : hit.isSoot && smokeIntent && !explicitSoot ? 1 : 0;
     return layer(a) - layer(b) || b.score - a.score || a.item.investigation_id.localeCompare(b.item.investigation_id);
   });
   const main = rankings.filter(hit => hit.allClaims.length > 0 && !hit.isSoot);
   const spice = rankings.filter(hit => hit.isSoot && hit.allClaims.length > 0);
   const metadata = rankings.filter(hit => hit.allClaims.length === 0);
-  const named = query.terms.includes("samer") ? "PSI-101" : query.terms.includes("same") ? "PSI-102" : null;
-  const followup = named === "PSI-101" && query.platform.includes("GROUND_LAB") && query.platform.includes("ISS_FLIGHT");
+  const named = investigationId ?? (query.terms.includes("samer") ? "PSI-101" : query.terms.includes("same") ? "PSI-102" : null);
+  const followup = !investigationId && named === "PSI-101" && query.platform.includes("GROUND_LAB") && query.platform.includes("ISS_FLIGHT");
   const eligible = (claim: Claim) => (!named || claim.investigation_id === named)
-    && (explicitSoot || !smokeIntent || claim.investigation_id !== "PSI-107")
+    && (investigationId || explicitSoot || !smokeIntent || claim.investigation_id !== "PSI-107")
     && (!query.quantity || claim.topics.includes("smoke_particle_size"))
     && (!query.gravity.length || query.gravity.includes(claim.gravity_level)
       || (followup && claim.platform === "GROUND_LAB"))
@@ -179,13 +180,7 @@ export const coverageTopics = [
   ["soot_onset", "Flame soot onset"],
 ] as const;
 
-export const gravityStops = [
-  { id: "microgravity", name: "ISS microgravity", value: "≈0g", position: 0 },
-  { id: "lunar_0.16g", name: "Moon", value: "0.16g", position: 16 },
-  { id: "mars_0.38g", name: "Mars", value: "0.38g", position: 38 },
-  { id: "1g", name: "Earth", value: "1g", position: 100 },
-] as const;
-export type GravityStop = typeof gravityStops[number]["id"];
+export type GravityStop = Exclude<Claim["gravity_level"], "multiple" | "unspecified">;
 
 export function gravityEvidence(gravity: GravityStop, evidence = claims) {
   return evidence.filter(claim => claim.gravity_level === gravity && claim.claim_status !== "NOT_ESTABLISHED");
@@ -210,10 +205,10 @@ export function heroCoverage(evidence: Claim[]) {
 }
 
 const gravityColumns = [
-  { id: "1g", label: "Ground · 1g" },
-  { id: "microgravity", label: "Microgravity" },
-  { id: "lunar_0.16g", label: "Lunar · 0.16g" },
-  { id: "mars_0.38g", label: "Mars · 0.38g" },
+  { id: "1g", label: gravityLabels["1g"] },
+  { id: "microgravity", label: gravityLabels.microgravity },
+  { id: "lunar_0.16g", label: gravityLabels["lunar_0.16g"] },
+  { id: "mars_0.38g", label: gravityLabels["mars_0.38g"] },
 ] as const;
 
 const isMultiGravityModel = (claim: Claim) =>

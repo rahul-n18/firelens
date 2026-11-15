@@ -124,7 +124,7 @@ export function SeeIt({ evidence, byId, open, dark }: {
 
     {canShowFigure && <figure className="source-figure" id="destiny-simulation" hidden={!showFigure}>
       <Image src={`/${figure.file}`} width={956} height={606} unoptimized alt="NASA cabin comparison at low and normal gravity" />
-      <figcaption><span>{simulation.claim_text}</span> <Chip claim={simulation} open={open} /> <DraftLabel claim={simulation} />
+      <figcaption><span data-claim-text={simulation.claim_id}>{simulation.claim_text}</span> <Chip claim={simulation} open={open} /> <DraftLabel claim={simulation} />
         <br /><a href={simulationSource.url}>{simulationSource.publisher}, slide {figure.slide}</a></figcaption>
     </figure>}
   </section>;

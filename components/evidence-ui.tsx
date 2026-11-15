@@ -7,14 +7,15 @@ export function Mark({ claim }: { claim: Claim }) {
 }
 
 export function Chip({ claim, open }: { claim: Claim; open: OpenClaim }) {
-  return <button type="button" className="claim-chip" onClick={() => open(claim)} aria-label={`Inspect ${claim.claim_id}`}>{claim.claim_id}</button>;
+  return <button type="button" className="claim-chip" data-claim-id={claim.claim_id}
+    onClick={() => open(claim)} aria-label={`Inspect ${claim.claim_id}`}>{claim.claim_id}</button>;
 }
 
 export function ClaimLine({ claim, open, details }: { claim: Claim; open: OpenClaim; details?: boolean }) {
   return <li className="claim-line">
     <div className="claim-meta"><Mark claim={claim} />{details && <span>{platformLabels[claim.platform]}, {gravityLabels[claim.gravity_level]}</span>}
       <DraftLabel claim={claim} /></div>
-    <p>{claim.claim_text} <Chip claim={claim} open={open} /></p>
+    <p><span data-claim-text={claim.claim_id}>{claim.claim_text}</span> <Chip claim={claim} open={open} /></p>
     {details && claim.conditions && <p className="small muted">{claim.conditions}</p>}
   </li>;
 }

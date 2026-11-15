@@ -5,7 +5,8 @@
     "doi": "10.60555/w4zy-bt45",
     "objective": "The primary objectives of this flight experiment are:\nA. Obtain soot-inception limits of quasi-steady normal and inverse spherical diffusion flames as functions of flow rate, Zst, amount of inert (N2 or CO2), and pressure for C2H4 and CH4 flames. Identify the corresponding temperatures in hot regions. Obtain similar limits and temperatures for inverse and normal coflow flames.\nB. Obtain detailed measurements in quasi-steady normal and inverse spherical diffusion flames for C2H4 and CH4. Determine the effects of flow rate, Zst, amount of N2, and pressure on flame temperature, size, color, and soot volume fraction. Evaluate the possible existence of steady flames.\nC. Obtain extinction limits as functions of Zst, amount of N2, and pressure for normal and inverse spherical C2H4 and CH4 flames. Identify the corresponding temperatures in hot regions. Identify the presence of radiative or kinetic extinction. Evaluate whether pseudo-flammability limits can be obtained for these flames.",
     "source_id": "PSI-10",
-    "coverage": "METADATA_ONLY"
+    "coverage": "METADATA_ONLY",
+    "acronym": "ACME/Flame Design"
   },
   {
     "investigation_id": "PSI-20",
@@ -13,7 +14,8 @@
     "doi": "10.60555/vb93-3y72",
     "objective": "The BRE flight program seeks to establish the burning conditions in a quiescent microgravity ambient in terms of material properties.\nThe specific flight objectives are as follows.\n  1. Observe burning behavior in long-duration microgravity for CH4/N2 and C2H4/N2mixtures on porous circular burners of 25  and 50 mm diameter. Consider O2/N2 ambients with various pressures and ambient O2 concentrations and pressures. NASA - considered atmosphere for human space missions will be examined: 14.7 psia, 21 % oxygen: 10.2 psia, 26.5 %; and 8.2 psia, 34 % oxygen. Emphasize fuel conditions that can be related to a diverse range of condensed fuels.\n  2. Consider the conditions of Objective 1 for ambients of O2/CO2 (desired).\n  3. Consider the conditions of Objectives 1 – 2 for extinction limits.",
     "source_id": "PSI-20",
-    "coverage": "METADATA_ONLY"
+    "coverage": "METADATA_ONLY",
+    "acronym": "ACME BRE"
   },
   {
     "investigation_id": "PSI-21",
@@ -21,7 +23,8 @@
     "doi": "10.60555/23e1-9950",
     "objective": "In order to provide the experimental data needed to allow rigorous testing of computational models at the extremes of the fuel dilution spectrum, we have the following objectives:\nA) Characterize the behavior of weak coflow diffusion flames of methane and ethylene, as a function of velocity and fuel dilution, through measurement of flame shape, lift-off heights, temperatures and extinction limits.\nB) Characterize the sooting tendencies of diffusion flames with long residence times, as a function of velocity and fuel dilution, through measurement of flame shape, gas temperatures in the soot-free portion of the flame, soot luminosity, soot temperatures, and soot volume fractions.",
     "source_id": "PSI-21",
-    "coverage": "METADATA_ONLY"
+    "coverage": "METADATA_ONLY",
+    "acronym": "ACME CLD Flame"
   },
   {
     "investigation_id": "PSI-22",
@@ -29,7 +32,8 @@
     "doi": "10.60555/se5a-8c73",
     "objective": "The objective of this investigation is to better understand the relationship between electric field voltage and chemi-ion current, analyze the dynamic response of flames to electric field changes, evaluate soot formation, and characterize stabilized near-limit lifted flames.",
     "source_id": "PSI-22",
-    "coverage": "METADATA_ONLY"
+    "coverage": "METADATA_ONLY",
+    "acronym": "ACME E-FIELD Flames"
   },
   {
     "investigation_id": "PSI-23",
@@ -37,7 +41,8 @@
     "doi": "10.60555/k57n-p030",
     "objective": "A series of experiments is proposed with the following specific objectives, in both soot-free and sooty flames, to compare with detailed computational simulation to assess transport properties and detailed chemical kinetics (including chemiluminescence):\n    Objective A. Measure and characterize the transient structure (such as temperature and species distribution) of diffusion flames established at initially non-steady, spherical flame structures for mixtures of different H2/CH4/diluent ratios   (soot-free) and different C2H4/diluent ratios (sooty), for different flow rates.\n    Objective B. Determine the quasi-steady convective/chemical-kinetic extinction limits (low system Damköhler numbers) and radiative/chemical-kinetic extinction limits (high system Damköhler numbers) for mixtures of different H2/CH4/diluent ratios (soot-free) and different C2H4/diluent ratios (sooty).\n    Objective C. Determine the existence (for different Zeldovich number, Ze), onset (as a function Da), and nature (i.e. mode, frequency, amplitude) of pulsating instabilities theoretically predicted to occur in transient spherical diffusion flames using fuel/diluent mixtures that are above a critical Lewis number.",
     "source_id": "PSI-23",
-    "coverage": "METADATA_ONLY"
+    "coverage": "METADATA_ONLY",
+    "acronym": "ACME s-Flame"
   },
   {
     "investigation_id": "PSI-25",
@@ -45,7 +50,8 @@
     "doi": "10.60555/4qc4-de67",
     "objective": "BASS-II results contribute to the combustion computational models used in the design of fire detection and suppression systems in microgravity and on Earth.\nObjectives Include:\n  1) Study the ignition, flame growth, flame spread, and extinction limits for solid fuels burning in low-velocity forced flows in microgravity.\n  2) Begin to bridge the gap between the normal gravity NASA-STD-6001 Test #1 method, ground-based microgravity tests, and actual material flammability in microgravity.\n  3) Provide SoFIE PIs with preliminary data to refine Science Requirements.\n  4)  Practical, realistic (thicker) fuels in typical geometries will be examined, including slabs, cylinders, and spherical sections.\n\nThe primary variables include:\n     • Forced flow velocity (speed and direction)\n     • Ambient oxygen concentration (via working volume nitrogen vitiation)\n     • Sample geometry (rods, spherical section, slabs, films, and fabric sheets",
     "source_id": "PSI-25",
-    "coverage": "DRAFT_CLAIMS"
+    "coverage": "DRAFT_CLAIMS",
+    "acronym": "BASS-II"
   },
   {
     "investigation_id": "PSI-26",
@@ -53,7 +59,8 @@
     "doi": "10.60555/58h4-dy80",
     "objective": "The two main objectives for BASS are to:\n    1.) Begin to bridge the gap between the normal gravity NASA-STD-6001 Test#1 method, ground-based microgravity tests, and actual material flammability in microgravity. The relation between these can be investigated by observing flames burning for the longer times available in flight. Practical, realistic (thicker) fuels in typical geometries will be examined, including wake flames which have characteristics of a fire burning behind another object (for example, a fire burning in tight area which may not be easily accessible).\n    2.) Assess the effectiveness of an inert, gaseous extinguishing agent (similar to that used on ISS) in putting out flames over different materials, geometries, preheating, and flow.",
     "source_id": "PSI-26",
-    "coverage": "METADATA_ONLY"
+    "coverage": "METADATA_ONLY",
+    "acronym": "BASS"
   },
   {
     "investigation_id": "PSI-39",
@@ -61,7 +68,8 @@
     "doi": "10.60555/m6pj-a914",
     "objective": "The objectives of this investigation are to:\n    1) Examine the combustion behavior of n-dodecane and mixtures of n-dodecane/iso-dodecane at pressures ranging from 0.25 atm to 5 atm.\n    2) Analyze the effects of helium dilution on cool flame behavior.\n    3) Examine the behavior of combustion characteristics.\n    4) Investigate the relationship between droplet size, pressure, and flame extinction, and (5) understand the consequence of soot formation during cool flame combustion.",
     "source_id": "PSI-39",
-    "coverage": "DRAFT_CLAIMS"
+    "coverage": "DRAFT_CLAIMS",
+    "acronym": "CFI"
   },
   {
     "investigation_id": "PSI-47",
@@ -69,7 +77,8 @@
     "doi": "10.60555/ztgj-d202",
     "objective": "The focus of DAFT / DAFT-2 was to mitigate the risk for the Smoke Aerosol Measurement Experiment (SAME). SAME relied on a commercially available condensate nuclei counter, the TSI P-Trak,  to quantify smoke aerosols in a microgravity environment, however there were concerns that th P-Trak would not be reliable in microgravity as it relies on gravity to recycle isopropyl alcohol used in the measurement process.\nDAFT / DAFT-2 tests that a modified P-Trak particulate counter would be accurate in microgravity.\n\nSummarized objectives include:\n    1) Demonstrate the Functionality of the Modified TSI P-Trak in Microgravity\n    2) Compare the TSI P-Trak Performance against the DustTrak control\n    3) Create and Analyze Aerosol Standards in Microgravity\n    4) Ensure the reliability of future aerosol experiments",
     "source_id": "PSI-47",
-    "coverage": "DRAFT_CLAIMS"
+    "coverage": "DRAFT_CLAIMS",
+    "acronym": "DAFT / DAFT-2"
   },
   {
     "investigation_id": "PSI-60",
@@ -93,7 +102,8 @@
     "doi": "10.60555/byp8-h018",
     "objective": "The primary goal of the FLEX-2 flight experiments is to extend the results of FLEX-1 to fuels and environmental conditions that mimic real combustor conditions, as well as, provide benchmark experimental data on bi-component droplet combustion over a wide range of initial conditions in order to validate numerical simulations and to develop new theoretical models.\n\nDetailed experimental objectives can be further itemized as:\n  1. Investigate the role of liquid-phase mixing on the burning characteristics of bi-component fuel droplets.\n  2. Examine the steady and unsteady liquid and gas-phase phenomena in pure fuel combustion.\n  3. Study flame extinction mechanisms and their boundaries.\n  4. Analyze the soot formation process, including soot volume fraction soot-shell dynamics.\n  5. Determine the influence of droplet interactions on the flammability limits and extinction behavior of droplet arrays.\n  6. Validate theoretical models of droplet combustion through comprehensive experimental data collection in microgravity environments.",
     "source_id": "PSI-68",
-    "coverage": "METADATA_ONLY"
+    "coverage": "METADATA_ONLY",
+    "acronym": "FLEX-2"
   },
   {
     "investigation_id": "PSI-69",
@@ -101,7 +111,8 @@
     "doi": "10.60555/mbq8-0451",
     "objective": "The FLEX (Flame Extinguishment Experiment) investigation aims to map the flammability limits of liquid fuels in microgravity environments, measure the effectiveness of various gaseous fire suppressants such as CO2, He, and SF6, and develop reliable predictive models for combustion limits under reduced gravity conditions. The mission seeks to validate and improve simplified models by incorporating detailed chemical reactions, heat transfer, and material movement, using both space-based data and extensive ground-based tests. Key flight experiment goals include obtaining high-resolution measurements of droplet burning rates, flame extinction behavior, heat radiation, soot levels, and temperature profiles, while systematically analyzing the effects of different ambient conditions and suppressant concentrations. These investigations are essential for advancing the fundamental understanding of combustion processes in microgravity and enhancing fire safety protocols for future space missions.",
     "source_id": "PSI-69",
-    "coverage": "METADATA_ONLY"
+    "coverage": "METADATA_ONLY",
+    "acronym": "FLEX"
   },
   {
     "investigation_id": "PSI-98",
@@ -109,7 +120,8 @@
     "doi": "10.60555/0t15-1z43",
     "objective": "The objectives of this investigation were to:\n(1) determine how rapidly a large scale fire grows in low-gravity and (2) investigate the low-g flammability limits compared to those obtained in NASA’s normal\ngravity material flammability screening test.",
     "source_id": "PSI-98",
-    "coverage": "METADATA_ONLY"
+    "coverage": "METADATA_ONLY",
+    "acronym": "SAFFIRE-I"
   },
   {
     "investigation_id": "PSI-99",
@@ -117,7 +129,8 @@
     "doi": "10.60555/2chp-m469",
     "objective": "The objectives of SAFFIRE-II are to determine how rapidly a large scale fire grows in low-gravity and to investigate the low-g flammability limits compared to those obtained in NASA’s normal gravity material flammability screening test.",
     "source_id": "PSI-99",
-    "coverage": "METADATA_ONLY"
+    "coverage": "METADATA_ONLY",
+    "acronym": "SAFFIRE-II"
   },
   {
     "investigation_id": "PSI-100",
@@ -125,7 +138,8 @@
     "doi": "10.60555/040q-4h36",
     "objective": "The objectives of this investigation were to:\n(1) determine how rapidly a large scale fire grows in low-gravity and (2) investigate the low-g flammability limits compared to those obtained in NASA’s normal gravity material flammability screening test.",
     "source_id": "PSI-100",
-    "coverage": "METADATA_ONLY"
+    "coverage": "METADATA_ONLY",
+    "acronym": "SAFFIRE-III"
   },
   {
     "investigation_id": "PSI-101",
@@ -133,7 +147,8 @@
     "doi": "10.60555/2np7-jv14",
     "objective": "Similar to the original SAME investigation, the primary objective of the SAME-R investigation was to quantify the sizes that the liquid smoke particulate achieves in low gravity and to relate the droplet size distribution to the smoke generation and smoke transport conditions in the experiment. One of the problems encountered during the SAME investigation was that after the thermal precipitators were returned to the ground, it was found that all the TEM grids were severely contaminated with some unidentified foreign particles, making these grids unusable although some of them showed shapes of certain types of smoke particles. Based on that experience the SAME-R investigation employed several modification covering new materials, extended operating conditions, and diagnostic equipments.",
     "source_id": "PSI-101",
-    "coverage": "DRAFT_CLAIMS"
+    "coverage": "DRAFT_CLAIMS",
+    "acronym": "SAME-R"
   },
   {
     "investigation_id": "PSI-102",
@@ -141,7 +156,8 @@
     "doi": "10.60555/gd4k-8h62",
     "objective": "One of the major goals of this investigation was to quantify the sizes that the liquid smoke particulate achieves in low gravity and to relate the droplet size distribution to the smoke generation and smoke transport conditions in the experiment. A numerical code was to be developed to predict the smoke droplet growth as a function of the fuel pyrolysis rate, the thermodynamic properties of the pyrolysis vapor, and the flow environment.",
     "source_id": "PSI-102",
-    "coverage": "DRAFT_CLAIMS"
+    "coverage": "DRAFT_CLAIMS",
+    "acronym": "SAME"
   },
   {
     "investigation_id": "PSI-106",
@@ -149,7 +165,8 @@
     "doi": "10.60555/pm12-rg61",
     "objective": "Objective: The objective of this investigation is to better understand the structure and stability of laminar diffusion flames in microgravity.\n\nSpecific objectives of this investigation were:\n1. To investigate the structure of laminar diffusion flames in microgravity to understand the stabilizing mechanisms at the flames base.\n2. Determine the liftoff velocity limits for different fuels and burner diameters.\n3. Evaluate the impact of fuel dilution with nitrogen on soot formation and flame stability.\n4. Quantify the effects of microgravity on flame length and radiative heat loss compared to normal gravity conditions.\n5. Validate numerical models for flame dynamics, soot production, and thermal radiation in non-premixed flames.",
     "source_id": "PSI-106",
-    "coverage": "DRAFT_CLAIMS"
+    "coverage": "DRAFT_CLAIMS",
+    "acronym": "SLICE"
   },
   {
     "investigation_id": "PSI-107",
@@ -157,7 +174,8 @@
     "doi": "10.60555/9kbh-e962",
     "objective": "The objective of SPICE is to better understand the complex process of combustion by observing flames in a microgravity environment aboard the International Space Station (ISS) and analogous ground experiments.\n\nSpecific objectives were:\n(1) Identify the laminar smoke-point properties of non-buoyant jet diffusion flames under various co-flow conditions in microgravity.\n(2) Determine the effects of burner diameter and co-flow velocity on the luminous flame lengths and smoke points.\n(3) Quantify the sooting propensity of different fuels, such as ethylene, propane, and propylene mixtures.\n(4) Validate the correlation between luminous flame shape and residence time under microgravity conditions.\n(5) Investigate the impact of air and fuel flow rate variations on smoke point phenomena in space.",
     "source_id": "PSI-107",
-    "coverage": "DRAFT_CLAIMS"
+    "coverage": "DRAFT_CLAIMS",
+    "acronym": "SPICE"
   },
   {
     "investigation_id": "PSI-115",
@@ -189,6 +207,7 @@
     "doi": "10.60555/cyt1-kh64",
     "objective": "1. Plan and support flight testing on the International Space Station (ISS).\n2. Determine the conditions for which cool diffusion flames occur for propane, n-butane, and n-pentane; normal and inverse flames; and a broad range of Zst, Tad, and fluent flow rate.\n3. Support the flight tests with advanced CFD simulations.\n4. Identify or develop a chemical kinetics mechanism that yields good agreement between the CFD predictions and the ISS measurements.\n5. Disseminate the results as widely as possible.",
     "source_id": "PSI-159",
-    "coverage": "METADATA_ONLY"
+    "coverage": "METADATA_ONLY",
+    "acronym": "ACME CFI-G"
   }
 ]

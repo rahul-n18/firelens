@@ -1,4 +1,4 @@
-import { cp, mkdtemp, readFile, rm, writeFile } from "node:fs/promises";
+import { cp, mkdtemp, readdir, readFile, rm, writeFile } from "node:fs/promises";
 import { tmpdir } from "node:os";
 import { join } from "node:path";
 import { beforeAll, describe, expect, test } from "vitest";
@@ -26,6 +26,17 @@ function verifyClaim(patch: Partial<Claim> = {}, sources = [fixtureSource]): str
 }
 
 describe("claim verifier", () => {
+  test("keeps hardcoded measurements out of rendered component code", async () => {
+    const componentFiles = (await Promise.all(["app", "components"].map(async directory =>
+      (await readdir(join(root, directory), { recursive: true }))
+        .filter(file => /\.tsx?$/u.test(file)).map(file => join(directory, file)),
+    ))).flat();
+    for (const file of componentFiles) {
+      const text = await readFile(join(root, file), "utf8");
+      expect(text.match(/\d+\s?(?:nm\b|[µμ]m\b|cm\/s\b|%)/gu) ?? [], file).toEqual([]);
+    }
+  });
+
   test("matches normalized text but preserves numeric token boundaries", () => {
     expect(normalize(" A curly ‘quote’ and ﬂight de- \r\n tectors ")).toBe("A curly 'quote' and flight detectors");
     expect(verifyClaim()).toEqual([]);

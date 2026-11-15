@@ -53,7 +53,7 @@ test("labels lunar models and planned work as context for the gap", async ({ pag
   await group.getByRole("button", { name: "LUNAR-002" }).click();
   await expect(group.getByRole("button", { name: "LUNAR-002" })).toHaveAttribute("aria-pressed", "true");
   await group.getByRole("button", { name: "LUNAR-003" }).click();
-  await expect(dialog.getByText("Not yet reviewed")).toBeVisible();
+  await expect(dialog.locator(".claim-meta").getByText("Not yet reviewed")).toBeVisible();
   await page.keyboard.press("Escape");
   await expect(models).toBeFocused();
 });

@@ -296,6 +296,7 @@ export async function verifyCorpus(directory: string, publicDirectory = join(dir
       const record = bytes && JSON.parse(bytes.toString());
       const coverage = claims.some(claim => claim.investigation_id === row.investigation_id) ? "DRAFT_CLAIMS" : "METADATA_ONLY";
       if (!record || record.accession !== row.investigation_id || record.title !== row.title ||
+          (record.investigationAcronym?.trim() || undefined) !== row.acronym ||
           (record.doi || null) !== row.doi || (record.objective ?? "") !== row.objective || row.coverage !== coverage) {
         errors.push(`${row.investigation_id}: index row differs from the individual PSI record or expected coverage`);
       }

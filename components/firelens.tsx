@@ -2,15 +2,17 @@
 
 import { useEffect, useMemo, useRef, useState, type ReactNode } from "react";
 import {
-  claims, comparisonRows, coverage, coverageColumns, crossGravity, demoQueries, evidenceGap, gravityLabels, heroCoverage, investigationName, isMeasurement, metadataHeading,
+  claims, comparisonRows, coverage, coverageColumns, crossGravity, demoQueries, evidenceGap, gravityLabels, heroCoverage, investigationName, investigations, isMeasurement, metadataHeading,
   platformLabels, relatedHeading, search, sources, spiceHeading, statusLabels, type Claim, type ClaimFilter,
 } from "../lib/evidence";
-import { citation, evidenceBrief, evidenceCsv, evidenceJson } from "../lib/export";
+import { citation, downloadEvidence, evidenceBrief, evidenceCsv, evidenceJson } from "../lib/export";
 import { Input, Sheet, Toggle } from "./ui";
 
-import { ClaimLine, Mark, type OpenClaim } from "./evidence-ui";
+import { ClaimLine, DraftLabel, Mark, type OpenClaim } from "./evidence-ui";
 import { Detectors, Measurements } from "./measurements";
 import { SeeIt } from "./see-it";
+import { Missions } from "./missions";
+import { ModelData } from "./model-data";
 const dateFormatter = new Intl.DateTimeFormat("en-GB", { day: "numeric", month: "short", year: "numeric", timeZone: "UTC" });
 
 type Result = ReturnType<typeof search>["rankings"][number];
@@ -116,6 +118,7 @@ function Results({ title, results, active, open, track, children }: {
 
 export function FireLens({ available }: { available: string[] }) {
   const [query, setQuery] = useState("");
+  const [investigationId, setInvestigationId] = useState<string>();
   const [showMetadata, setShowMetadata] = useState(false);
   const [selected, setSelected] = useState<Claim | null>(null);
   const [coverageGroup, setCoverageGroup] = useState<Claim[]>([]);
@@ -138,8 +141,10 @@ export function FireLens({ available }: { available: string[] }) {
     coverageAt.mars === "Nothing measured" ? "what’s missing for Mars" : coverageAt.mars === "Measured" ? "measurements for Mars" : "simulations for Mars",
   ];
   const reviewedCount = evidence.filter(claim => claim.review.status === "HUMAN_REVIEWED").length;
-  const result = useMemo(() => search(query, permitted), [permitted, query]);
-  const hasQuery = Boolean(query.trim());
+  const investigation = investigations.find(study => study.investigation_id === investigationId);
+  const searchText = query.trim() || investigation?.title || "";
+  const result = useMemo(() => search(searchText, permitted, investigationId), [permitted, searchText, investigationId]);
+  const hasQuery = Boolean(searchText);
   const metadata = showMetadata ? result.metadata : result.metadata.slice(0, 5);
   const hiddenMetadata = result.metadata.length - metadata.length;
   const ordered = [...result.main, ...result.spice, ...metadata];
@@ -154,12 +159,16 @@ export function FireLens({ available }: { available: string[] }) {
   const changeQuery = (value: string) => { setQuery(value); setShowMetadata(false); setActive(-1); setNotice(""); };
 
   useEffect(() => {
-    const initial = new URLSearchParams(window.location.search).get("q");
-    if (initial) {
-      // Set after hydration so a static export can still accept shared query URLs.
-      const timer = window.setTimeout(() => setQuery(initial), 0);
-      return () => window.clearTimeout(timer);
-    }
+    const params = new URLSearchParams(window.location.search);
+    const initial = params.get("q");
+    const scope = investigations.find(study => study.investigation_id === params.get("investigation"));
+    if (!initial && !scope) return;
+    // Set after hydration so the static export accepts shareable links.
+    const timer = window.setTimeout(() => {
+      if (initial) setQuery(initial);
+      if (scope) setInvestigationId(scope.investigation_id);
+    }, 0);
+    return () => window.clearTimeout(timer);
   }, []);
 
   useEffect(() => {
@@ -179,7 +188,7 @@ export function FireLens({ available }: { available: string[] }) {
 
   const conditions = [...result.query.gravity.map(value => gravityLabels[value]), ...result.query.platform.map(value => platformLabels[value]),
     result.query.quantity, result.query.atmosphere ? "Oxygen or pressure" : null].filter(Boolean);
-  const gap = evidenceGap(result, permitted, available.length);
+  const gap = evidenceGap(result, claim => permitted(claim) && (!investigationId || claim.investigation_id === investigationId), available.length);
   const answer = gap ? [] : result.direct.filter(claim => claim.investigation_id !== null);
   const related = gap ? [] : [...result.direct.filter(claim => claim.investigation_id === null), ...result.related];
   const shown = [...answer, ...related, ...(gap ? [...gap.context, ...gap.related] : [])];
@@ -197,13 +206,8 @@ export function FireLens({ available }: { available: string[] }) {
     }
   }
   function download(format: "csv" | "json") {
-    const data = (format === "csv" ? evidenceCsv : evidenceJson)(query, exportClaims, gapSummary);
-    const url = URL.createObjectURL(new Blob([data], { type: format === "csv" ? "text/csv;charset=utf-8" : "application/json" }));
-    const link = document.createElement("a");
-    link.href = url;
-    link.download = `firelens-evidence.${format}`;
-    link.click();
-    window.setTimeout(() => URL.revokeObjectURL(url), 1000);
+    const data = format === "csv" ? evidenceCsv(searchText, exportClaims, gapSummary) : evidenceJson(searchText, exportClaims, gapSummary);
+    downloadEvidence(data, format, "firelens-evidence");
     setNotice(`Evidence exported as ${format.toUpperCase()}.`);
   }
 
@@ -211,7 +215,7 @@ export function FireLens({ available }: { available: string[] }) {
     <a className="skip-link" href="#main-content">Skip to content</a>
     <header className="topbar"><div className="top-inner">
       <a className="wordmark" href="#main-content">FireLens</a>
-      <nav className="page-nav" aria-label="Sections"><a href="#see">See it</a><a href="#measured">Measured</a><a href="#ask">Ask</a></nav>
+      <nav className="page-nav" aria-label="Sections"><a href="#see">See it</a><a href="#measured">Measured</a><a href="#missions">Missions</a><a href="#data">Data</a><a href="#ask">Ask</a></nav>
       <div className="top-actions"><span>Built on NASA PSI open data</span>
         <Toggle pressed={dark} onPressedChange={setDark} aria-label="Dark theme">{dark ? "Light" : "Dark"}</Toggle></div>
     </div></header>
@@ -219,15 +223,31 @@ export function FireLens({ available }: { available: string[] }) {
       <section className="hero" aria-labelledby="hero-heading">
         <h1 id="hero-heading">Does smoke behave the same away from Earth?</h1>
         <p className="lede">Explore the evidence in our sources, from {coverageCopy[0]} to {coverageCopy[1]} and {coverageCopy[2]}.</p>
-        <div className="hero-actions"><a className="primary-button" href="#see">See the difference</a></div>
+        <div className="hero-actions">
+          <a className="primary-button" href="#see">See the difference</a>
+          <a className="secondary-button" href="#missions">Open a mission briefing</a>
+        </div>
       </section>
       <SeeIt evidence={evidence} byId={byId} open={open} dark={dark} />
       <Measurements byId={byId} open={open} />
       <Detectors byId={byId} open={open} />
+      <Missions evidence={evidence} open={open} />
+      <ModelData evidence={evidence} open={open} />
       <section className="block" id="ask" aria-labelledby="query-heading">
         <h2 className="block-title" id="query-heading">Ask your own question</h2>
         <p className="section-intro">Explore the verified evidence and see where our sources have gaps.</p>
         <div className="query-section">
+          {investigation && <div className="ask-filter">
+            <p>Investigation: <strong>{investigation.acronym || investigation.title}</strong></p>
+            <button className="text-button" type="button" onClick={() => {
+              const location = new URL(window.location.href);
+              location.searchParams.delete("investigation");
+              window.history.replaceState(null, "", location);
+              setInvestigationId(undefined);
+              setActive(-1);
+              input.current?.focus();
+            }}>Clear investigation filter</button>
+          </div>}
           <label className="field-label" htmlFor="evidence-query">Search the corpus</label>
           <div className="query-wrap"><Input id="evidence-query" ref={input} type="search" value={query}
             placeholder="Search experiments, measurements, or conditions" onChange={event => changeQuery(event.target.value)}
@@ -267,7 +287,7 @@ export function FireLens({ available }: { available: string[] }) {
             <ul className="claim-list">{related.map(claim => <ClaimLine claim={claim} open={open} details key={claim.claim_id} />)}</ul></div>}
           {!shown.length && <p className="empty">No match in corpus. Try smoke particle size, detector response, or soot emission.</p>}
           {exportClaims.length > 0 && <div className="evidence-actions" role="group" aria-label="Share evidence">
-            <button type="button" className="text-button" onClick={() => copy(evidenceBrief(query, exportClaims, gapSummary), "Evidence brief", setNotice)}>Copy evidence brief</button>
+            <button type="button" className="text-button" onClick={() => copy(evidenceBrief(searchText, exportClaims, gapSummary), "Evidence brief", setNotice)}>Copy evidence brief</button>
             <button type="button" className="text-button" onClick={() => download("csv")}>Export evidence (CSV)</button>
             <button type="button" className="text-button" onClick={() => download("json")}>Export evidence (JSON)</button>
             <span className="small muted" role="status">{notice}</span>
@@ -306,15 +326,17 @@ export function FireLens({ available }: { available: string[] }) {
     <Sheet open={selected !== null} onClose={() => setSelected(null)} onRestore={() => origin.current?.focus()}>
       {selected && selectedSource && <>
         {coverageGroup.length > 1 && <div className="evidence-actions" role="group" aria-label="Claims in this coverage cell">
-          {coverageGroup.map(claim => <button key={claim.claim_id} className="claim-chip" type="button"
-            aria-pressed={selected.claim_id === claim.claim_id}
-            onClick={() => { setCitationNotice(""); setSelected(claim); }}>{claim.claim_id}</button>)}
+          {coverageGroup.map(claim => <span className="coverage-claim-option" key={claim.claim_id}>
+            <button className="claim-chip" data-claim-id={claim.claim_id} type="button" aria-pressed={selected.claim_id === claim.claim_id}
+              onClick={() => { setCitationNotice(""); setSelected(claim); }}>{claim.claim_id}</button>
+            <DraftLabel claim={claim} />
+          </span>)}
         </div>}
         <p className="eyebrow">{selected.claim_id}, {selectedSource.publisher}</p>
         <h3 className="source-title">{selectedSource.title}</h3>
         <div className="claim-meta"><Mark claim={selected} /><span className="review-label">{selected.review.status === "DRAFT" ? "Not yet reviewed" : `Reviewed by ${selected.review.reviewer}`}</span></div>
-        <blockquote>{selected.source_excerpt}</blockquote>
-        <p>{selected.claim_text}</p>
+        <blockquote data-claim-excerpt={selected.claim_id}>{selected.source_excerpt}</blockquote>
+        <p data-claim-text={selected.claim_id}>{selected.claim_text}</p>
         {selected.attribution_note && <p className="small muted">{selected.attribution_note}</p>}
         <dl className="source-details">
           <dt>Location</dt><dd>{selected.source_location}</dd>
