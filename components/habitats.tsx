@@ -1,19 +1,31 @@
 "use client";
 
 import { useMemo, useState } from "react";
-import type { Claim } from "../lib/evidence";
+import { byClaim, type Claim } from "../lib/evidence";
 import {
-  contextClaims, habitatFor, habitats, rankForHabitat, relatedHabitatClaims, type HabitatId, type HabitatRank,
+  contextClaims, habitatFor, habitats, rankForHabitat, relatedHabitatClaims, scoreLabel, scoringNote, SCORE_MAX,
+  type HabitatId, type HabitatRank,
 } from "../lib/habitats";
-import { ClaimLine, type OpenClaim } from "./evidence-ui";
+import { Chip, ClaimLine, type OpenClaim } from "./evidence-ui";
 
-function FactorList({ rank }: { rank: HabitatRank }) {
+function FactorList({ rank, open }: { rank: HabitatRank; open: OpenClaim }) {
   return (
     <ul className="factor-list">
       {rank.factors.map(factor => (
         <li key={factor.id} className={`factor factor-${factor.kind}`}>
-          {factor.text}
-          {factor.claimIds.length > 0 && <span className="small muted"> {factor.claimIds.join(", ")}</span>}
+          <div className="factor-head">
+            <strong>{factor.label}</strong>
+            <span className="factor-points">{factor.points}/{factor.maxPoints}</span>
+          </div>
+          <p>{factor.text}</p>
+          {factor.claimIds.length > 0 && (
+            <div className="factor-chips">
+              {factor.claimIds.map(id => {
+                const claim = byClaim.get(id);
+                return claim ? <Chip key={id} claim={claim} open={open} /> : <span className="small muted" key={id}>{id}</span>;
+              })}
+            </div>
+          )}
         </li>
       ))}
     </ul>
@@ -35,33 +47,26 @@ export function Habitats({ evidence, open }: { evidence: Claim[]; open: OpenClai
     <section className="block" id="habitats" aria-labelledby="habitats-heading">
       <h2 className="block-title" id="habitats-heading">Habitat relevance</h2>
       <p className="section-intro">
-        Investigations are ranked for a spacecraft cabin, a surface habitat, or a pressurized rover from visible, cited factors — gravity class, atmosphere overlap, measured flammability results, and whether a source actually names that habitat.
-        A relevance tag appears only when a source supports it. Everything else is labeled Not assessed. There is no hidden score. A <a href="#bounds">Moon and rover bounds</a> panel then separates challenge-stated atmospheres and partial-gravity evidence from measurements.
+        Investigations are ranked for a spacecraft cabin, a Moon surface base, a Mars surface base, or a pressurized rover with a transparent FireLens score.
+        The score uses cited factors: gravity match or bound, oxygen and pressure overlap, cabin-material relevance, fire-safety pillar, and evidence strength.
+        A <a href="#bounds">Moon and rover bounds</a> panel then separates challenge-stated atmospheres and partial-gravity evidence from measurements.
       </p>
+      <p className="small muted">{scoringNote}</p>
 
       <div className="habitat-tabs" role="tablist" aria-label="Habitat">
-        {habitats.map(item => (
-          <button type="button" role="tab" className="gravity-tab" key={item.id}
-            aria-selected={habitatId === item.id}
-            onClick={() => { setHabitatId(item.id); setSelectedId(undefined); }}>
-            {item.label}
-            <small>{rankForHabitat(item.id, evidence).filter(rank => rank.tag === "supported").length} tagged</small>
-          </button>
-        ))}
+        {habitats.map(item => {
+          const top = rankForHabitat(item.id, evidence).find(rank => !rank.metadataOnly);
+          return (
+            <button type="button" role="tab" className="gravity-tab" key={item.id}
+              aria-selected={habitatId === item.id}
+              onClick={() => { setHabitatId(item.id); setSelectedId(undefined); }}>
+              {item.label}
+              <small>{top ? `Top ${scoreLabel(top)}` : "No scored studies"}</small>
+            </button>
+          );
+        })}
       </div>
       <p className="muted">{habitat.blurb}</p>
-
-      {context.length > 0 && (
-        <section className="section habitat-context" aria-labelledby="habitat-context-heading">
-          <h3 id="habitat-context-heading">Cited habitat conditions</h3>
-          <p className="small muted">
-            Challenge-statement figures and planned test conditions are listed separately and are not treated as NASA measurements.
-          </p>
-          <ul className="claim-list compact-claims">
-            {context.map(claim => <ClaimLine key={claim.claim_id} claim={claim} open={open} details />)}
-          </ul>
-        </section>
-      )}
 
       <div className="habitat-layout">
         <nav className="habitat-list" aria-label="Ranked investigations">
@@ -73,8 +78,8 @@ export function Habitats({ evidence, open }: { evidence: Claim[]; open: OpenClai
                 <li key={id}>
                   <button type="button" className={`explorer-item ${current ? "is-selected" : ""}`} onClick={() => setSelectedId(id)} aria-current={current ? "true" : undefined}>
                     <span className="explorer-item-title"><span className="rank-index">{index + 1}</span> {rank.name}</span>
-                    <span className={`habitat-tag ${rank.tag === "supported" ? "is-supported" : "is-gap"}`}>{rank.tagLabel}</span>
-                    <span className="small muted">{id} · {rank.factors.filter(factor => factor.kind === "support" || factor.kind === "context").length} visible factors</span>
+                    <span className={`habitat-score is-${rank.level.toLowerCase()}`}>{scoreLabel(rank)}</span>
+                    <span className="small muted">{id}</span>
                   </button>
                 </li>
               );
@@ -88,7 +93,7 @@ export function Habitats({ evidence, open }: { evidence: Claim[]; open: OpenClai
                   <li key={rank.investigation.investigation_id}>
                     <button type="button" className={`explorer-item ${rank.investigation.investigation_id === selected?.investigation.investigation_id ? "is-selected" : ""}`} onClick={() => setSelectedId(rank.investigation.investigation_id)}>
                       <span className="explorer-item-title">{rank.name}</span>
-                      <span className="habitat-tag is-gap">Not assessed</span>
+                      <span className="habitat-score is-low">{scoreLabel(rank)}</span>
                     </button>
                   </li>
                 ))}
@@ -98,14 +103,28 @@ export function Habitats({ evidence, open }: { evidence: Claim[]; open: OpenClai
         </nav>
         {selected && (
           <article className="habitat-detail" aria-labelledby="habitat-detail-heading">
-            <p className="eyebrow">{selected.investigation.investigation_id} · <span className={`habitat-tag ${selected.tag === "supported" ? "is-supported" : "is-gap"}`}>{selected.tagLabel}</span></p>
+            <p className="eyebrow">{selected.investigation.investigation_id} · <span className={`habitat-score is-${selected.level.toLowerCase()}`}>{scoreLabel(selected)}</span></p>
             <h3 id="habitat-detail-heading">{selected.name}</h3>
             <p className="muted">{selected.investigation.title}</p>
-            <h4>Visible factors</h4>
-            <FactorList rank={selected} />
+            {selected.caveat && <p className="small muted habitat-caveat">{selected.caveat}</p>}
+            <h4>Score breakdown</h4>
+            <p className="small muted">{selected.score} of {SCORE_MAX}. {scoringNote}</p>
+            <FactorList rank={selected} open={open} />
           </article>
         )}
       </div>
+
+      {context.length > 0 && (
+        <section className="section habitat-context" aria-labelledby="habitat-context-heading">
+          <h3 id="habitat-context-heading">Cited habitat conditions</h3>
+          <p className="small muted">
+            Challenge-statement figures and planned test conditions are listed separately and are not treated as NASA measurements.
+          </p>
+          <ul className="claim-list compact-claims">
+            {context.map(claim => <ClaimLine key={claim.claim_id} claim={claim} open={open} details />)}
+          </ul>
+        </section>
+      )}
 
       {related.length > 0 && (
         <section className="section" aria-labelledby="habitat-related-heading">

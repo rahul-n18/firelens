@@ -95,7 +95,7 @@ export function Missions({ evidence, open, gravity, onGravityChange }: {
 
   return <section className="block" id="missions" aria-labelledby="missions-heading">
     <h2 className="block-title" id="missions-heading">Mission briefings</h2>
-    <p className="section-intro">See what our sources show at each gravity and what the authors suggest testing next. A <a href="#habitats">habitat ranking</a> below lists studies for a spacecraft cabin, a surface habitat, or a pressurized rover, with the cited factors shown.</p>
+    <p className="section-intro">See what our sources show at each gravity and what the authors suggest testing next. A <a href="#habitats">habitat ranking</a> below lists studies for a spacecraft cabin, a Moon surface base, a Mars surface base, or a pressurized rover, with the cited factors shown.</p>
     <Tabs.Root value={gravity} orientation="horizontal" onValueChange={value => onGravityChange(value as GravityStop)}>
       <Tabs.List aria-label="Mission" className="mission-tabs">
         {missions.map(mission => {

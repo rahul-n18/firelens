@@ -310,7 +310,7 @@ p { max-width: 72ch; }
   .attribute-grid { grid-template-columns: 1fr; }
 }
 
-.habitat-tabs { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 8px; margin-bottom: 16px; }
+.habitat-tabs { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 8px; margin-bottom: 16px; }
 .habitat-tabs .gravity-tab { padding: 12px 14px; text-align: left; border: 1px solid var(--rule); background: var(--surface); color: var(--ink); border-radius: 4px; }
 .habitat-tabs .gravity-tab small { display: block; font-size: 12px; font-weight: 500; color: var(--muted); }
 .habitat-tabs .gravity-tab[aria-selected=true] { border-color: var(--primary); background: var(--band); }
@@ -319,9 +319,17 @@ p { max-width: 72ch; }
 .habitat-indexed { margin-top: 22px; }
 .habitat-indexed > h3 { margin-bottom: 8px; }
 .rank-index { display: inline-block; min-width: 1.5ch; color: var(--muted); }
+.habitat-score { display: inline-block; font-size: 12px; font-weight: 700; letter-spacing: 0.01em; padding: 2px 8px; border: 1px solid var(--rule); border-radius: 999px; width: fit-content; }
+.habitat-score.is-high { border-color: var(--primary); background: var(--band); }
+.habitat-score.is-medium { border-color: var(--rule); background: var(--surface); }
+.habitat-score.is-low { color: var(--muted); }
 .habitat-tag { display: inline-block; font-size: 12px; font-weight: 600; letter-spacing: 0.01em; padding: 2px 8px; border: 1px solid var(--rule); border-radius: 999px; width: fit-content; }
 .habitat-tag.is-supported { border-color: var(--primary); background: var(--band); }
 .habitat-tag.is-gap { color: var(--muted); }
+.factor-head { display: flex; justify-content: space-between; gap: 12px; align-items: baseline; }
+.factor-points { font-weight: 700; font-variant-numeric: tabular-nums; color: var(--muted); }
+.factor-chips { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 8px; }
+.habitat-caveat { margin: 8px 0 0; }
 .habitat-detail h4 { margin: 16px 0 8px; }
 .factor-list { list-style: none; margin: 0; padding: 0; }
 .factor { padding: 10px 0 10px 12px; border-top: 1px solid var(--rule); border-left: 3px solid var(--rule); }
@@ -332,7 +340,7 @@ p { max-width: 72ch; }
 .habitat-context { margin-top: 20px; }
 @media (max-width: 800px) {
   .habitat-layout { grid-template-columns: 1fr; }
-  .habitat-tabs { grid-template-columns: 1fr; }
+  .habitat-tabs { grid-template-columns: repeat(2, minmax(0, 1fr)); }
 }
 
 .bounds-grid { display: grid; grid-template-columns: minmax(0, 1.1fr) minmax(0, .9fr); gap: 28px; align-items: start; }
