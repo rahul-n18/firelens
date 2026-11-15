@@ -3,7 +3,8 @@ import AxeBuilder from "@axe-core/playwright";
 import { expect, test, type Page } from "@playwright/test";
 import { formatClaimValue } from "../lib/claim-values";
 import { kindLabel } from "../lib/claim-kind";
-import { byClaim, type Claim } from "../lib/evidence";
+import { byClaim, gravityLabels, type Claim } from "../lib/evidence";
+import { airflowLabel, materialsLabel } from "../lib/insights";
 
 async function assertBindings(page: Page) {
   await expect(page.locator(".claim-chip:visible:not([data-claim-id])")).toHaveCount(0);
@@ -148,14 +149,21 @@ test("exports exactly the same structured claims as the model data table", async
   expect(csv.map(row => row.claim_id)).toEqual(displayed.map(row => row.id));
   for (const [i, { id, cells }] of displayed.entries()) {
     const claim = byClaim.get(id)!;
-    expect(cells[0]).toBe(claim.quantity);
-    expect(cells[1]).toBe(formatClaimValue(claim));
+    expect(cells[0]).toBe(claim.quantity ?? "Not specified");
+    expect(cells[1]).toBe(formatClaimValue(claim) || "Not specified");
     expect(cells[2]).toBe(claim.conditions ?? "Not specified");
-    expect(cells[3]).toContain(kindLabel(claim));
-    expect(cells[4]).toBe(id);
+    expect(cells[3]).toBe(materialsLabel(claim));
+    expect(cells[4]).toBe(gravityLabels[claim.gravity_level]);
+    expect(cells[5]).toBe(airflowLabel(claim));
+    expect(cells[6]).toContain(kindLabel(claim));
+    expect(cells[7]).toBe(id);
     expect(json[i]).toEqual({ ...claim, evidence_label: kindLabel(claim) });
     expect(csv[i]).toMatchObject({
-      quantity: claim.quantity, value: String(claim.value), unit: claim.unit ?? "", conditions: claim.conditions ?? "",
+      quantity: claim.quantity ?? "", value: String(claim.value ?? ""), unit: claim.unit ?? "", conditions: claim.conditions ?? "",
+      materials: claim.materials.join("; "), topics: claim.topics.join("; "),
+      airflow_value: claim.airflow ? String(claim.airflow.value) : "",
+      airflow_unit: claim.airflow?.unit ?? "",
+      airflow_gravity_level: claim.airflow?.gravity_level ?? "",
       evidence_label: kindLabel(claim), value_qualifier: claim.value_qualifier ?? "", source_url: claim.source_url,
       source_location: claim.source_location, source_excerpt: claim.source_excerpt, review_status: claim.review.status,
     });

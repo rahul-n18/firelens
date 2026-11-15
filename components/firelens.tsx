@@ -15,6 +15,7 @@ import { SeeIt } from "./see-it";
 import { Missions } from "./missions";
 import { Habitats } from "./habitats";
 import { Bounds } from "./bounds";
+import { Insights } from "./insights";
 import { ModelData } from "./model-data";
 import { Explorer } from "./explorer";
 const dateFormatter = new Intl.DateTimeFormat("en-GB", { day: "numeric", month: "short", year: "numeric", timeZone: "UTC" });
@@ -220,7 +221,7 @@ export function FireLens({ available }: { available: string[] }) {
     <a className="skip-link" href="#main-content">Skip to content</a>
     <header className="topbar"><div className="top-inner">
       <a className="wordmark" href="#main-content">FireLens</a>
-      <nav className="page-nav" aria-label="Sections"><a href="#see">See it</a><a href="#measured">Measured</a><a href="#explore">Explore</a><a href="#missions">Missions</a><a href="#data">Data</a><a href="#ask">Ask</a></nav>
+      <nav className="page-nav" aria-label="Sections"><a href="#see">See it</a><a href="#measured">Measured</a><a href="#explore">Explore</a><a href="#missions">Missions</a><a href="#insights">Insights</a><a href="#data">Data</a><a href="#ask">Ask</a></nav>
       <div className="top-actions"><span>Built on NASA PSI open data</span>
         <Toggle pressed={dark} onPressedChange={setDark} aria-label="Dark theme">{dark ? "Light" : "Dark"}</Toggle></div>
     </div></header>
@@ -240,6 +241,7 @@ export function FireLens({ available }: { available: string[] }) {
       <Missions evidence={evidence} open={open} gravity={missionGravity} onGravityChange={setMissionGravity} />
       <Habitats evidence={evidence} open={open} />
       <Bounds open={open} />
+      <Insights evidence={evidence} open={open} />
       <ModelData evidence={evidence} open={open} />
       <section className="block" id="ask" aria-labelledby="query-heading">
         <h2 className="block-title" id="query-heading">Ask your own question</h2>

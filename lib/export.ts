@@ -41,7 +41,8 @@ export function downloadEvidence(data: string, format: "csv" | "json", filename:
 export function evidenceCsv(query: string | null, claims: Claim[], gap?: string) {
   const claimFields = ["claim_id", "investigation_id", "claim_status", "evidence_label", "platform", "gravity_level", "claim_text",
     "source_excerpt", "source_location", "source_url", "doi", "quantity", "value", "unit", "value_qualifier",
-    "conditions", "attribution_note", "review_status", "reviewer", "review_date"] as const;
+    "conditions", "materials", "topics", "airflow_value", "airflow_unit", "airflow_gravity_level",
+    "attribution_note", "review_status", "reviewer", "review_date"] as const;
   const fields = query === null ? claimFields : [...claimFields, "query", "gap"] as const;
   const cell = (value: unknown) => {
     let text = String(value ?? "");
@@ -55,6 +56,11 @@ export function evidenceCsv(query: string | null, claims: Claim[], gap?: string)
     if (field === "review_status") return claim.review.status;
     if (field === "reviewer") return claim.review.reviewer;
     if (field === "review_date") return claim.review.date;
+    if (field === "materials") return claim.materials.join("; ");
+    if (field === "topics") return claim.topics.join("; ");
+    if (field === "airflow_value") return claim.airflow?.value;
+    if (field === "airflow_unit") return claim.airflow?.unit;
+    if (field === "airflow_gravity_level") return claim.airflow?.gravity_level;
     return claim[field];
   }).map(cell).join(","));
   return [fields.join(","), ...rows].join("\r\n") + "\r\n";
