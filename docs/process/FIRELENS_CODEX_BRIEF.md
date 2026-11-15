@@ -1,6 +1,6 @@
 # FireLens — Final Build Brief for Codex
 
-This brief replaces the landing experience of the current app. Read it completely before changing code. It supersedes FIRELENS_SPEC_v3.md. FIRELENS_SPEC.md Section 0 (scientific honesty) still applies in full.
+This brief replaces the landing experience of the current app. Read it completely before changing code. It supersedes FIRELENS_SPEC_v3.md. docs/process/FIRELENS_SPEC.md Section 0 (scientific honesty) still applies in full.
 
 ---
 

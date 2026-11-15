@@ -22,7 +22,7 @@ Run `npx playwright install chromium` once, then run `npm run e2e` against a fre
 - `npm run fetch-sources` verifies the local raw files and attempts to restore missing bytes from their manifest URLs. If an upstream file has changed, the command reports the mismatch and preserves the recorded version.
 - `npm run extract-text` regenerates the extracted text, including one-based PDF page markers. The SAE paper shares the original NIST-hosted PDF and uses the page range for Appendix B.
 - `npm run docs:sources` regenerates the [source register](docs/sources.md).
-- `npm run docs:claims` regenerates the [draft claim review](docs/claims-review.md). The [manifest](corpus/manifest.json) records source URLs, retrieval dates, and hashes.
+- `npm run docs:claims` regenerates a local draft claim review in `docs/claims-review.md`. The [manifest](corpus/manifest.json) records source URLs, retrieval dates, and hashes.
 
 Claim review is a human step. Check the source location and evidence classification with the paraphrase. The [access log](corpus/unavailable.json) identifies the three papers represented by abstracts. The [investigation index](corpus/investigations.json) records which PSI investigations have draft claims and which are indexed as metadata only.
 
