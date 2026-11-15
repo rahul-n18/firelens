@@ -34,6 +34,15 @@ export function statusLabel(claim: Claim) {
   return claim.evidence_label ?? statusLabels[claim.claim_status];
 }
 export const byClaim = new Map(claims.map(claim => [claim.claim_id, claim]));
+export type ClaimFilter = (claim: Claim) => boolean;
+const anyClaim: ClaimFilter = () => true;
+
+function claimsById(ids: string[], permitted: ClaimFilter) {
+  return ids.flatMap(id => {
+    const claim = byClaim.get(id);
+    return claim && permitted(claim) ? [claim] : [];
+  });
+}
 const linkedClaims = new Map(investigations.map(row => [
   row.investigation_id, claims.filter(claim => claim.investigation_id === row.investigation_id),
 ]));
@@ -112,12 +121,12 @@ const investigationIndex = index(investigations, row => ({
   Objective: { text: row.objective, boost: 1.4 },
 }));
 
-export function search(input: string) {
+export function search(input: string, permitted: ClaimFilter = anyClaim) {
   const query = parseQuery(input);
   const soot = vocabulary.disambiguation[0];
   const smokeIntent = query.terms.some(term => ["smoke", "particle", "aerosol", "samer", "same"].includes(term));
   const explicitSoot = /\b(?:smoke[- ]point|soot|spice|coflow)\b/iu.test(input);
-  const claimHits = claimIndex(query.terms).filter(hit => hit.score > 0).map(hit => ({
+  const claimHits = claimIndex(query.terms).filter(hit => hit.score > 0 && permitted(hit.item)).map(hit => ({
     ...hit,
     score: hit.score + (query.gravity.includes(hit.item.gravity_level) ? 2 : 0)
       + (query.platform.includes(hit.item.platform) ? 1 : 0),
@@ -131,18 +140,18 @@ export function search(input: string) {
     const boost = (smokeIntent && family ? 8 : 0)
       + (smokeIntent && id === "PSI-101" && query.gravity.includes("microgravity") ? 4 : 0);
     return {
-      ...hit, isSoot, support, allClaims: linkedClaims.get(id) ?? [],
+      ...hit, isSoot, support, allClaims: linkedClaims.get(id)?.filter(permitted) ?? [],
       score: hit.score + (support[0]?.score ?? 0) + boost + (impliedSoot ? 1 : 0),
       matches: [...hit.matches, ...(support[0]?.matches ?? []), ...(impliedSoot && !support.length
         ? [{ field: "Topic disambiguation", terms: ["smoke point", "microgravity"] }] : [])],
     };
   }).filter(hit => hit.score > 0).sort((a, b) => {
-    const layer = (hit: typeof a) => hit.item.coverage === "METADATA_ONLY" ? 2 : hit.isSoot && smokeIntent && !explicitSoot ? 1 : 0;
+    const layer = (hit: typeof a) => !hit.allClaims.length ? 2 : hit.isSoot && smokeIntent && !explicitSoot ? 1 : 0;
     return layer(a) - layer(b) || b.score - a.score || a.item.investigation_id.localeCompare(b.item.investigation_id);
   });
-  const main = rankings.filter(hit => hit.item.coverage !== "METADATA_ONLY" && !hit.isSoot);
-  const spice = rankings.filter(hit => hit.isSoot);
-  const metadata = rankings.filter(hit => hit.item.coverage === "METADATA_ONLY");
+  const main = rankings.filter(hit => hit.allClaims.length > 0 && !hit.isSoot);
+  const spice = rankings.filter(hit => hit.isSoot && hit.allClaims.length > 0);
+  const metadata = rankings.filter(hit => hit.allClaims.length === 0);
   const named = query.terms.includes("samer") ? "PSI-101" : query.terms.includes("same") ? "PSI-102" : null;
   const followup = named === "PSI-101" && query.platform.includes("GROUND_LAB") && query.platform.includes("ISS_FLIGHT");
   const eligible = (claim: Claim) => (!named || claim.investigation_id === named)
@@ -153,10 +162,10 @@ export function search(input: string) {
     && !query.atmosphere;
   const directRanked = claimHits.map(hit => hit.item).filter(eligible);
   const direct = followup
-    ? ["SAMER-010", "SAMER-001", "SAMER-009"].map(id => byClaim.get(id)!)
+    ? claimsById(["SAMER-010", "SAMER-001", "SAMER-009"], permitted)
     : directRanked.slice(0, 3);
   const related = followup
-    ? ["NTRS13-001", "NTRS13-002", "NTRS13-003", "NTRS13-004", "SAMER-007", "SAMER-008"].map(id => byClaim.get(id)!)
+    ? claimsById(["NTRS13-001", "NTRS13-002", "NTRS13-003", "NTRS13-004", "SAMER-007", "SAMER-008"], permitted)
     : claimHits.map(hit => hit.item).filter(claim =>
       claim.investigation_id === null && eligible(claim) && !direct.includes(claim)).slice(0, 5);
   return { query, claimHits, rankings, main, spice, metadata, direct, related, followup, smokeIntent, explicitSoot };
@@ -178,16 +187,26 @@ export const gravityStops = [
 ] as const;
 export type GravityStop = typeof gravityStops[number]["id"];
 
-export function gravityEvidence(gravity: GravityStop) {
-  return claims.filter(claim => claim.gravity_level === gravity && claim.claim_status !== "NOT_ESTABLISHED");
+export function gravityEvidence(gravity: GravityStop, evidence = claims) {
+  return evidence.filter(claim => claim.gravity_level === gravity && claim.claim_status !== "NOT_ESTABLISHED");
 }
 
 export function gravityStatus(evidence: Claim[]) {
-  if (evidence.some(claim => claim.claim_status === "REPORTED_RESULT")) return "Measured";
-  if (evidence.some(claim => claim.claim_status === "MODEL_RESULT")) return "Modeled only";
-  const planned = evidence.find(claim => claim.claim_id === "ESA-001");
-  if (planned) return statusLabel(planned);
-  return evidence.length ? "Goals or methods only" : "Nothing in our sources";
+  if (evidence.some(isMeasurement)) return "Measured";
+  if (evidence.some(claim => claim.claim_status === "MODEL_RESULT")) return "Simulated only";
+  return "Nothing measured";
+}
+
+export function isMeasurement(claim: Claim) {
+  return claim.claim_status === "REPORTED_RESULT" && claim.evidence_label !== "Equipment specification";
+}
+
+export function heroCoverage(evidence: Claim[]) {
+  return {
+    orbit: gravityStatus(gravityEvidence("microgravity", evidence)),
+    moon: gravityStatus(gravityEvidence("lunar_0.16g", evidence)),
+    mars: gravityStatus(gravityEvidence("mars_0.38g", evidence)),
+  };
 }
 
 const gravityColumns = [
@@ -229,11 +248,11 @@ export const comparisonRows = [
 }));
 export const crossGravity = ["NTRS13-002", "NTRS13-004"].map(id => byClaim.get(id)!);
 
-export function evidenceGap(result: ReturnType<typeof search>) {
+export function evidenceGap(result: ReturnType<typeof search>, permitted: ClaimFilter = anyClaim, sourceCount = sources.size) {
   const { query, claimHits } = result;
   if ((!query.quantity && !query.atmosphere) || (!query.gravity.length && !query.platform.length && !query.atmosphere)) return null;
   const requested = query.quantity === "diameter" ? "smoke-particle diameter" : query.quantity === "particle size" ? "smoke particle size" : "a smoke measurement";
-  const measured = (claim: Claim) => claim.claim_status === "REPORTED_RESULT" &&
+  const measured = (claim: Claim) => isMeasurement(claim) &&
     (!query.quantity || claim.topics.includes("smoke_particle_size")) &&
     (query.quantity !== "diameter" || /\bdiameter\b/iu.test(claim.quantity ?? claim.claim_text)) &&
     (!query.gravity.length || query.gravity.includes(claim.gravity_level)) &&
@@ -242,14 +261,14 @@ export function evidenceGap(result: ReturnType<typeof search>) {
   const lunar = query.gravity.includes("lunar_0.16g");
   const condition = query.atmosphere ? "elevated oxygen at reduced pressure"
     : [...query.gravity.map(value => gravityLabels[value].toLowerCase()), ...query.platform.map(value => platformLabels[value].toLowerCase())].join(" and ");
-  const context = ["SAME-003", "SAME-004", "SAMER-009"].map(id => byClaim.get(id)!);
-  const related = [
+  const context = claimsById(["SAME-003", "SAME-004", "SAMER-009"], permitted);
+  const related = claimsById([
     ...(lunar ? ["LUNAR-001", "LUNAR-002"] : []),
     ...(!query.atmosphere ? ["ESA-001"] : []),
-  ].map(id => byClaim.get(id)!);
+  ], permitted);
   return {
     text: `No reported measurement establishes ${requested} under ${condition} in this corpus.`,
-    scope: `Not established in FireLens corpus v1 (${sources.size} sources)`,
+    scope: `Not established in FireLens corpus v1 (${sourceCount} sources)`,
     context, related,
   };
 }

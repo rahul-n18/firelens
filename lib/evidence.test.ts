@@ -1,5 +1,5 @@
 import { describe, expect, it } from "vitest";
-import { comparisonRows, coverage, crossGravity, demoQueries, evidenceGap, search, spiceHeading, statusLabel } from "./evidence";
+import { claims, comparisonRows, coverage, crossGravity, demoQueries, evidenceGap, heroCoverage, search, spiceHeading, statusLabel } from "./evidence";
 
 describe("FireLens search", () => {
   it("ranks SAME-R first for the flight and ground follow-up question", () => {
@@ -22,6 +22,21 @@ describe("FireLens search", () => {
 });
 
 describe("condition-specific evidence", () => {
+  it("supports the hero’s coverage summary with reported measurements and models", () => {
+    expect(heroCoverage(claims)).toEqual({
+      orbit: "Measured",
+      moon: "Simulated only",
+      mars: "Nothing measured",
+    });
+  });
+
+  it("does not offer evidence whose source is unverified", () => {
+    const permitted = (claim: typeof claims[number]) => claim.source_id !== "NTRS-20230013826";
+    const result = search(demoQueries[2], permitted);
+    expect(result.claimHits.every(hit => permitted(hit.item))).toBe(true);
+    expect(evidenceGap(result, permitted)?.related.map(claim => claim.claim_id)).toEqual(["ESA-001"]);
+  });
+
   it.each([
     [demoQueries[2], "lunar gravity"],
     ["What smoke-particle diameter was measured at Mars gravity?", "mars gravity"],

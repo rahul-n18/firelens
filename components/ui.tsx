@@ -1,6 +1,6 @@
 "use client";
 
-import { Dialog, Toggle as RadixToggle, Tooltip } from "radix-ui";
+import { Dialog, Toggle as RadixToggle } from "radix-ui";
 import type { ComponentProps, ReactNode } from "react";
 
 export function Input(props: ComponentProps<"input">) {
@@ -29,24 +29,4 @@ export function Sheet({ open, onClose, children, onRestore }: {
       </Dialog.Portal>
     </Dialog.Root>
   );
-}
-
-const glossary = {
-  SAME: "Smoke and Aerosol Measurement Experiment.",
-  "SAME-R": "The reflight of the smoke aerosol experiment.",
-  SPICE: "Smoke Point In Co-flow Experiment, a study of when flames start emitting soot.",
-  ISS: "International Space Station.",
-  Microgravity: "Very low apparent gravity, as experienced in orbit.",
-};
-
-export function Glossary() {
-  return <Tooltip.Provider delayDuration={180}>
-    <div className="glossary" aria-label="Glossary">
-      <strong>Terms</strong>
-      {Object.entries(glossary).map(([term, meaning]) => <Tooltip.Root key={term}>
-        <Tooltip.Trigger asChild><button type="button" className="glossary-term">{term}</button></Tooltip.Trigger>
-        <Tooltip.Content className="term-tooltip" aria-label={meaning} sideOffset={6}>{meaning}</Tooltip.Content>
-      </Tooltip.Root>)}
-    </div>
-  </Tooltip.Provider>;
 }
