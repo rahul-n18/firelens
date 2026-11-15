@@ -2367,7 +2367,8 @@
       "status": "DRAFT",
       "reviewer": null,
       "date": null
-    }
+    },
+    "evidence_label": "Planned test condition"
   },
   {
     "claim_id": "BRE-002",
@@ -2914,7 +2915,7 @@
     "source_excerpt": "To enable flexibility, spacesuits are filled with 100% oxygen to only 4.3 psi (pounds per square inch), where the Earth’s pressure at sea level is 14.7 psi.",
     "source_location": "Spacesuits and oxygen concentration",
     "claim_status": "OBJECTIVE_OR_HYPOTHESIS",
-    "evidence_label": "Authors' statement",
+    "evidence_label": "Challenge context",
     "platform": "UNSPECIFIED",
     "gravity_level": "unspecified",
     "topics": [
@@ -2939,7 +2940,7 @@
     "source_excerpt": "To reduce the pre-breathing duration and thus facilitate lunar excursions, it is expected that the Moon Base and pressurized rover(s) will be at a pressure and oxygen concentration between those in a spacesuit and the Earth’s atmosphere.",
     "source_location": "Spacesuits and oxygen concentration",
     "claim_status": "OBJECTIVE_OR_HYPOTHESIS",
-    "evidence_label": "Authors' statement",
+    "evidence_label": "Challenge context",
     "platform": "UNSPECIFIED",
     "gravity_level": "unspecified",
     "topics": [
@@ -2963,7 +2964,7 @@
     "source_excerpt": "The intermediate oxygen concentration used on the Moon will likely be 30% or greater, with a corresponding pressure of 10.2 psi or less.",
     "source_location": "Spacesuits and oxygen concentration",
     "claim_status": "OBJECTIVE_OR_HYPOTHESIS",
-    "evidence_label": "Authors' statement",
+    "evidence_label": "Challenge context",
     "platform": "UNSPECIFIED",
     "gravity_level": "unspecified",
     "topics": [
@@ -2988,7 +2989,7 @@
     "source_excerpt": "Compared to Earth’s atmosphere, that’s more than a 40% increase in the oxygen concentration making materials much more flammable.",
     "source_location": "Spacesuits and oxygen concentration",
     "claim_status": "OBJECTIVE_OR_HYPOTHESIS",
-    "evidence_label": "Authors' statement",
+    "evidence_label": "Challenge context",
     "platform": "UNSPECIFIED",
     "gravity_level": "unspecified",
     "topics": [
@@ -3013,7 +3014,7 @@
     "source_excerpt": "Fine-water-mist extinguishers developed for use on the ISS have practical applications here on Earth, and NASA technology has similarly led to improvements in terrestrial smoke detection and firefighter gear, including protective clothing and air tanks.",
     "source_location": "Earth applications",
     "claim_status": "OBJECTIVE_OR_HYPOTHESIS",
-    "evidence_label": "Earth application",
+    "evidence_label": "Challenge context",
     "platform": "UNSPECIFIED",
     "gravity_level": "1g",
     "topics": [
@@ -3038,7 +3039,7 @@
     "source_excerpt": "there is currently no partial-gravity combustion data available in PSI. We expect such data will be added in the future, for example from the Lunar-g Combustion Investigation (LUCI) and the Flammability of Materials on the Moon (FM2) experiment.",
     "source_location": "Partial-gravity data",
     "claim_status": "OBJECTIVE_OR_HYPOTHESIS",
-    "evidence_label": "Authors' statement",
+    "evidence_label": "Challenge context",
     "platform": "UNSPECIFIED",
     "gravity_level": "unspecified",
     "topics": [
@@ -3062,7 +3063,7 @@
     "source_excerpt": "Partial gravity was mimicked in ACME’s Electric-Field Effects on Laminar Diffusion Flames (E-FIELD Flames) experiment through the effect of the electric field on the ions that naturally occur in flames.",
     "source_location": "Partial-gravity data",
     "claim_status": "OBJECTIVE_OR_HYPOTHESIS",
-    "evidence_label": "Authors' statement",
+    "evidence_label": "Challenge context",
     "platform": "UNSPECIFIED",
     "gravity_level": "unspecified",
     "topics": [
@@ -3086,7 +3087,7 @@
     "source_excerpt": "Microgravity and normal-gravity results could bound what occurs at intermediate gravity levels.",
     "source_location": "Partial-gravity data",
     "claim_status": "OBJECTIVE_OR_HYPOTHESIS",
-    "evidence_label": "Authors' statement",
+    "evidence_label": "Challenge context",
     "platform": "UNSPECIFIED",
     "gravity_level": "multiple",
     "topics": [
@@ -3110,7 +3111,7 @@
     "source_excerpt": "Each of these investigations was conducted within the Microgravity Science Glovebox (MSG) using the modular fan-driven flow duct built for SPICE.",
     "source_location": "Hardware",
     "claim_status": "OBJECTIVE_OR_HYPOTHESIS",
-    "evidence_label": "Authors' statement",
+    "evidence_label": "Challenge context",
     "platform": "ISS_FLIGHT",
     "gravity_level": "microgravity",
     "topics": [
@@ -3134,7 +3135,7 @@
     "source_excerpt": "FLEX, FLEX-2, and the Cool Flames Investigation (CFI) each featured burning droplets of liquid fuel and were conducted with the Multi-user Droplet Combustion Apparatus (MDCA) in the CIR.",
     "source_location": "Hardware",
     "claim_status": "OBJECTIVE_OR_HYPOTHESIS",
-    "evidence_label": "Authors' statement",
+    "evidence_label": "Challenge context",
     "platform": "ISS_FLIGHT",
     "gravity_level": "microgravity",
     "topics": [
@@ -3158,7 +3159,7 @@
     "source_excerpt": "In those tests, the combustion chamber was filled with a mixture of nitrogen and a flammable gas (e.g., propane), while an oxygen-nitrogen mixture of up to 85% oxygen flowed from the spherical burner creating an inside-out flame.",
     "source_location": "Spacesuits and oxygen concentration",
     "claim_status": "OBJECTIVE_OR_HYPOTHESIS",
-    "evidence_label": "Authors' statement",
+    "evidence_label": "Challenge context",
     "platform": "ISS_FLIGHT",
     "gravity_level": "microgravity",
     "topics": [
@@ -3185,7 +3186,7 @@
     "source_excerpt": "Suppression was studied in the Flame Extinguishment Experiment (FLEX) through dilution of the chamber atmosphere with carbon dioxide and helium, both of which suppress fire.",
     "source_location": "Background",
     "claim_status": "OBJECTIVE_OR_HYPOTHESIS",
-    "evidence_label": "Authors' statement",
+    "evidence_label": "Challenge context",
     "platform": "ISS_FLIGHT",
     "gravity_level": "microgravity",
     "topics": [
@@ -3209,7 +3210,7 @@
     "source_excerpt": "While it burned gaseous fuels, the Burning Rate Emulator (BRE) experiment of the Advanced Combustion via Microgravity Experiments (ACME) project was a study of materials flammability in still atmospheres as a function of material properties.",
     "source_location": "Other investigations in PSI",
     "claim_status": "OBJECTIVE_OR_HYPOTHESIS",
-    "evidence_label": "Authors' statement",
+    "evidence_label": "Challenge context",
     "platform": "ISS_FLIGHT",
     "gravity_level": "microgravity",
     "topics": [
@@ -3233,11 +3234,414 @@
     "source_excerpt": "To facilitate spacesuit use, an atmosphere with increased oxygen and reduced pressure compared to Earth’s is expected within the planned Moon Base and pressurized rovers.",
     "source_location": "Background",
     "claim_status": "OBJECTIVE_OR_HYPOTHESIS",
-    "evidence_label": "Authors' statement",
+    "evidence_label": "Challenge context",
     "platform": "UNSPECIFIED",
     "gravity_level": "unspecified",
     "topics": [
       "material_flammability"
+    ],
+    "attribution_note": "Cited as a hashed 2026 NASA Space Apps challenge-statement snapshot, not as a measured PSI result.",
+    "doi": null,
+    "source_url": "https://www.spaceappschallenge.org/2026/challenges/flame-in-freefall/",
+    "materials": [],
+    "review": {
+      "status": "DRAFT",
+      "reviewer": null,
+      "date": null
+    }
+  },
+  {
+    "claim_id": "NTRS12-FLEX-001",
+    "investigation_id": "PSI-69",
+    "source_id": "NTRS-20120017940",
+    "claim_text": "A NASA Glenn overview states that research to date shows that the flammability limit is lower in reduced gravity.",
+    "source_excerpt": "The research to date shows that the flammability limit is lower in reduced gravity.",
+    "source_location": "PDF page 2, Flame Extinguishment Experiment (FLEX)",
+    "claim_status": "REPORTED_RESULT",
+    "platform": "ISS_FLIGHT",
+    "gravity_level": "microgravity",
+    "topics": [
+      "material_flammability"
+    ],
+    "attribution_note": "2012 NASA Glenn ISS combustion overview (IAC-12.A2.7.4). Quoted as a contemporary reported result or method, not a later flight-data paper.",
+    "doi": null,
+    "source_url": "https://ntrs.nasa.gov/citations/20120017940",
+    "materials": [],
+    "review": {
+      "status": "DRAFT",
+      "reviewer": null,
+      "date": null
+    }
+  },
+  {
+    "claim_id": "NTRS12-FLEX-002",
+    "investigation_id": "PSI-69",
+    "source_id": "NTRS-20120017940",
+    "claim_text": "The same overview says the implication of this result is that terrestrial standards for inert gas suppressants in low gravity do not offer the same margin of safety as in normal gravity.",
+    "source_excerpt": "The implication of this result is that terrestrial standards for inert gas suppressants in low gravity do not offer the same margin of safety as in normal gravity.",
+    "source_location": "PDF page 2, Flame Extinguishment Experiment (FLEX)",
+    "claim_status": "REPORTED_RESULT",
+    "platform": "ISS_FLIGHT",
+    "gravity_level": "microgravity",
+    "topics": [
+      "material_flammability"
+    ],
+    "attribution_note": "2012 NASA Glenn ISS combustion overview (IAC-12.A2.7.4). Quoted as a contemporary reported result or method, not a later flight-data paper.",
+    "doi": null,
+    "source_url": "https://ntrs.nasa.gov/citations/20120017940",
+    "materials": [],
+    "review": {
+      "status": "DRAFT",
+      "reviewer": null,
+      "date": null
+    }
+  },
+  {
+    "claim_id": "NTRS12-FLEX-003",
+    "investigation_id": "PSI-69",
+    "source_id": "NTRS-20120017940",
+    "claim_text": "The FLEX experiments performed to date demonstrated radiative and diffusive extinction, combustion instabilities, lower flammability limits and unexplained vaporization after visible flame extinction.",
+    "source_excerpt": "The FLEX experiments performed to date demonstrated radiative and diffusive extinction, combustion instabilities, lower flammability limits and unexplained vaporization after visible flame extinction.",
+    "source_location": "PDF page 2, Flame Extinguishment Experiment (FLEX)",
+    "claim_status": "REPORTED_RESULT",
+    "platform": "ISS_FLIGHT",
+    "gravity_level": "microgravity",
+    "topics": [
+      "material_flammability"
+    ],
+    "attribution_note": "2012 NASA Glenn ISS combustion overview (IAC-12.A2.7.4). Quoted as a contemporary reported result or method, not a later flight-data paper.",
+    "doi": null,
+    "source_url": "https://ntrs.nasa.gov/citations/20120017940",
+    "materials": [],
+    "review": {
+      "status": "DRAFT",
+      "reviewer": null,
+      "date": null
+    }
+  },
+  {
+    "claim_id": "NTRS12-FLEX-004",
+    "investigation_id": "PSI-69",
+    "source_id": "NTRS-20120017940",
+    "claim_text": "The overview reports novel FLEX results which demonstrated the possible existence of cool-flame chemistry in a stable flame that does not transition to a hot-flame.",
+    "source_excerpt": "Recently the FLEX experiment released novel results which demonstrated the possible existence of cool-flame chemistry in a stable flame that does not transition to a hot-flame",
+    "source_location": "PDF page 2, Flame Extinguishment Experiment (FLEX)",
+    "claim_status": "REPORTED_RESULT",
+    "platform": "ISS_FLIGHT",
+    "gravity_level": "microgravity",
+    "topics": [
+      "material_flammability"
+    ],
+    "attribution_note": "2012 NASA Glenn ISS combustion overview (IAC-12.A2.7.4). Quoted as a contemporary reported result or method, not a later flight-data paper.",
+    "doi": null,
+    "source_url": "https://ntrs.nasa.gov/citations/20120017940",
+    "materials": [],
+    "review": {
+      "status": "DRAFT",
+      "reviewer": null,
+      "date": null
+    }
+  },
+  {
+    "claim_id": "NTRS12-FLEX-005",
+    "investigation_id": "PSI-69",
+    "source_id": "NTRS-20120017940",
+    "claim_text": "FLEX uses the CIR to study heptane and methanol droplets in ambient mixtures of oxygen and nitrogen diluted with a second inert gas (nitrogen, carbon dioxide, helium and xenon).",
+    "source_excerpt": "The Flame Extinguishment Experiment (FLEX) uses the CIR with the objective of the study of heptane and methanol droplets in ambient mixtures of oxygen and nitrogen diluted with a second inert gas (nitrogen, carbon dioxide, helium and xenon).",
+    "source_location": "PDF page 2, Flame Extinguishment Experiment (FLEX)",
+    "claim_status": "OBJECTIVE_OR_HYPOTHESIS",
+    "platform": "ISS_FLIGHT",
+    "gravity_level": "microgravity",
+    "topics": [
+      "material_flammability"
+    ],
+    "materials": [
+      "heptane",
+      "methanol"
+    ],
+    "conditions": "oxygen and nitrogen diluted with nitrogen, carbon dioxide, helium and xenon",
+    "attribution_note": "2012 NASA Glenn ISS combustion overview (IAC-12.A2.7.4). Quoted as a contemporary reported result or method, not a later flight-data paper.",
+    "doi": null,
+    "source_url": "https://ntrs.nasa.gov/citations/20120017940",
+    "review": {
+      "status": "DRAFT",
+      "reviewer": null,
+      "date": null
+    }
+  },
+  {
+    "claim_id": "NTRS12-FLEX-006",
+    "investigation_id": "PSI-69",
+    "source_id": "NTRS-20120017940",
+    "claim_text": "The MDCA in the CIR allows dispensing, deployment and ignition of droplets ranging in size from 1 to 5 mm, free-floating or fiber-supported, in an ambient environment of up to 40 percent oxygen.",
+    "source_excerpt": "This facility is currently operational and allows the dispensing, deployment and ignition of droplets ranging in size from 1 to 5 mm (either free-floating or fiber-supported) in a 0 3 atm ambient environment of up to 40 percent oxygen",
+    "source_location": "PDF page 2, Droplet Combustion / MDCA",
+    "claim_status": "REPORTED_RESULT",
+    "evidence_label": "Equipment specification",
+    "platform": "ISS_FLIGHT",
+    "gravity_level": "microgravity",
+    "topics": [
+      "measurement_method"
+    ],
+    "conditions": "droplets 1 to 5 mm; ambient of up to 40 percent oxygen; 0 3 atm as written in the extracted snapshot",
+    "attribution_note": "The extracted snapshot writes the pressure range as '0 3 atm' (a missing hyphen is likely). The numbers are quoted as they appear.",
+    "doi": null,
+    "source_url": "https://ntrs.nasa.gov/citations/20120017940",
+    "materials": [],
+    "review": {
+      "status": "DRAFT",
+      "reviewer": null,
+      "date": null
+    }
+  },
+  {
+    "claim_id": "NTRS12-FLEX2-001",
+    "investigation_id": "PSI-68",
+    "source_id": "NTRS-20120017940",
+    "claim_text": "The overview says FLEX-2, the follow-on experiment, studies a range of fuels including mixtures of pure fuels, real fuel surrogates, soot formation, slow sub-buoyant convective flow effects, and droplet interactions.",
+    "source_excerpt": "FLEX-2, the follow-on experiment, builds upon FLEX. It studies a range of fuels including mixtures of pure fuels, real fuel surrogates, soot formation, slow sub-buoyant convective flow effects, and",
+    "source_location": "PDF page 2, FLEX-2",
+    "claim_status": "OBJECTIVE_OR_HYPOTHESIS",
+    "platform": "ISS_FLIGHT",
+    "gravity_level": "microgravity",
+    "topics": [
+      "material_flammability",
+      "soot_onset"
+    ],
+    "attribution_note": "2012 NASA Glenn ISS combustion overview (IAC-12.A2.7.4). Quoted as a contemporary reported result or method, not a later flight-data paper.",
+    "doi": null,
+    "source_url": "https://ntrs.nasa.gov/citations/20120017940",
+    "materials": [],
+    "review": {
+      "status": "DRAFT",
+      "reviewer": null,
+      "date": null
+    }
+  },
+  {
+    "claim_id": "NTRS12-BASS-001",
+    "investigation_id": "PSI-26",
+    "source_id": "NTRS-20120017940",
+    "claim_text": "The overview states that BASS has been conducted in the Microgravity Science Glovebox, examining the burning and extinction characteristics of a wide variety of fuel samples in microgravity.",
+    "source_excerpt": "The Burning and Suppression of Solids (BASS) investigation has been conducted in the Microgravity Science Glovebox examining the burning and extinction characteristics of a wide variety of fuel samples in microgravity.",
+    "source_location": "PDF page 3, Burning and Suppression of Solids (BASS)",
+    "claim_status": "REPORTED_RESULT",
+    "evidence_label": "Equipment specification",
+    "platform": "ISS_FLIGHT",
+    "gravity_level": "microgravity",
+    "topics": [
+      "measurement_method",
+      "material_flammability"
+    ],
+    "attribution_note": "2012 NASA Glenn ISS combustion overview (IAC-12.A2.7.4). Quoted as a contemporary reported result or method, not a later flight-data paper.",
+    "doi": null,
+    "source_url": "https://ntrs.nasa.gov/citations/20120017940",
+    "materials": [],
+    "review": {
+      "status": "DRAFT",
+      "reviewer": null,
+      "date": null
+    }
+  },
+  {
+    "claim_id": "NTRS12-BASS-002",
+    "investigation_id": "PSI-26",
+    "source_id": "NTRS-20120017940",
+    "claim_text": "BASS tests the hypothesis that materials in microgravity, with adequate ventilation, burn as well if not better than the same material in normal gravity with other conditions being identical.",
+    "source_excerpt": "BASS tests the hypothesis that materials in microgravity, with adequate ventilation, burn as well if not better than the same material in normal gravity with other conditions being identical (pressure, oxygen concentration, temperature, etc.).",
+    "source_location": "PDF page 3, Burning and Suppression of Solids (BASS)",
+    "claim_status": "OBJECTIVE_OR_HYPOTHESIS",
+    "platform": "ISS_FLIGHT",
+    "gravity_level": "microgravity",
+    "topics": [
+      "material_flammability"
+    ],
+    "attribution_note": "2012 NASA Glenn ISS combustion overview (IAC-12.A2.7.4). Quoted as a contemporary reported result or method, not a later flight-data paper.",
+    "doi": null,
+    "source_url": "https://ntrs.nasa.gov/citations/20120017940",
+    "materials": [],
+    "review": {
+      "status": "DRAFT",
+      "reviewer": null,
+      "date": null
+    }
+  },
+  {
+    "claim_id": "NTRS12-SOLID-001",
+    "investigation_id": null,
+    "source_id": "NTRS-20120017940",
+    "claim_text": "The overview states that microgravity experiments demonstrated that the assumed margin of safety of reduced flammability in microgravity, based on quiescent test results, is not valid for most spacecraft environments where ventilation flow strongly enhances flames.",
+    "source_excerpt": "Microgravity experiments demonstrated that the assumed margin of safety of reduced flammability in microgravity, based on quiescent test results, is not valid for most spacecraft environments where ventilation flow strongly enhances flames.",
+    "source_location": "PDF page 3, Solid Fuel Combustion/Material Flammability",
+    "claim_status": "REPORTED_RESULT",
+    "platform": "ISS_FLIGHT",
+    "gravity_level": "microgravity",
+    "topics": [
+      "material_flammability"
+    ],
+    "attribution_note": "The paper states this as a finding from microgravity experiments in general, not as a named investigation result.",
+    "doi": null,
+    "source_url": "https://ntrs.nasa.gov/citations/20120017940",
+    "materials": [],
+    "review": {
+      "status": "DRAFT",
+      "reviewer": null,
+      "date": null
+    }
+  },
+  {
+    "claim_id": "NTRS12-SOLID-002",
+    "investigation_id": null,
+    "source_id": "NTRS-20120017940",
+    "claim_text": "The overview states that in the low flow conditions of microgravity or partial gravity, some materials are flammable at lower oxygen concentrations than in normal gravity.",
+    "source_excerpt": "In the low flow conditions of microgravity or partial gravity, some materials are flammable at lower oxygen concentrations than in normal gravity.",
+    "source_location": "PDF page 3, Solid Fuel Combustion/Material Flammability",
+    "claim_status": "REPORTED_RESULT",
+    "platform": "MIXED",
+    "gravity_level": "multiple",
+    "topics": [
+      "material_flammability"
+    ],
+    "attribution_note": "The paper does not name the specific investigations that support this statement.",
+    "doi": null,
+    "source_url": "https://ntrs.nasa.gov/citations/20120017940",
+    "materials": [],
+    "review": {
+      "status": "DRAFT",
+      "reviewer": null,
+      "date": null
+    }
+  },
+  {
+    "claim_id": "NTRS12-SOLID-003",
+    "investigation_id": null,
+    "source_id": "NTRS-20120017940",
+    "claim_text": "The overview states that once established, flames in low-speed air flows preferentially spread into the oncoming air flow, which is opposite to the effect that occurs in normal gravity.",
+    "source_excerpt": "Once established, flames in low-speed air flows preferentially spread into the oncoming air flow. This is opposite to the effect that occurs in normal gravity.",
+    "source_location": "PDF page 3, Solid Fuel Combustion/Material Flammability",
+    "claim_status": "REPORTED_RESULT",
+    "platform": "MIXED",
+    "gravity_level": "multiple",
+    "topics": [
+      "flame_spread"
+    ],
+    "attribution_note": "The paper does not name the specific investigations that support this statement.",
+    "doi": null,
+    "source_url": "https://ntrs.nasa.gov/citations/20120017940",
+    "materials": [],
+    "review": {
+      "status": "DRAFT",
+      "reviewer": null,
+      "date": null
+    }
+  },
+  {
+    "claim_id": "NTRS12-SLICE-001",
+    "investigation_id": "PSI-106",
+    "source_id": "NTRS-20120017940",
+    "claim_text": "The overview says SLICE will be carried out using the Smoke Point In Coflow Experiment (SPICE) hardware in the Microgravity Science Glovebox (MSG).",
+    "source_excerpt": "SLICE will be carried out using the Smoke Point In Coflow Experiment (SPICE) hardware in the Microgravity Science Glovebox (MSG) and is a precursor to the Coflow Laminar Diffusion Flame",
+    "source_location": "PDF page 3, Structure and Liftoff In Combustion Experiment",
+    "claim_status": "OBJECTIVE_OR_HYPOTHESIS",
+    "evidence_label": "Authors' statement",
+    "platform": "ISS_FLIGHT",
+    "gravity_level": "microgravity",
+    "topics": [
+      "measurement_method"
+    ],
+    "attribution_note": "Stated in 2012 as a planned arrangement of SLICE hardware, not as a later measured result.",
+    "doi": null,
+    "source_url": "https://ntrs.nasa.gov/citations/20120017940",
+    "materials": [],
+    "review": {
+      "status": "DRAFT",
+      "reviewer": null,
+      "date": null
+    }
+  },
+  {
+    "claim_id": "NTRS16-FLEX-001",
+    "investigation_id": "PSI-69",
+    "source_id": "NTRS-20170007283",
+    "claim_text": "A NASA Glenn briefing states that FLEX results revealed a unique two - stage burning event: Cool Flames.",
+    "source_excerpt": "Flame Extinguishment Experiment (FLEX) results revealed a unique two - stage burning event: Cool Flames",
+    "source_location": "PDF page 43, Flame Extinguishment Experiment (FLEX) results",
+    "claim_status": "REPORTED_RESULT",
+    "platform": "ISS_FLIGHT",
+    "gravity_level": "microgravity",
+    "topics": [
+      "material_flammability"
+    ],
+    "attribution_note": "2016 NASA Glenn spacecraft fire safety briefing. Quoted from the FLEX results slide, not from a PSI record.",
+    "doi": null,
+    "source_url": "https://ntrs.nasa.gov/citations/20170007283",
+    "materials": [],
+    "review": {
+      "status": "DRAFT",
+      "reviewer": null,
+      "date": null
+    }
+  },
+  {
+    "claim_id": "NTRS16-FLEX-002",
+    "investigation_id": "PSI-69",
+    "source_id": "NTRS-20170007283",
+    "claim_text": "The briefing states that a hot flame radiatively extinguishes and initiates cool flame burning.",
+    "source_excerpt": "Hot flame radiatively extinguishes - > initiates cool flame burning",
+    "source_location": "PDF page 43, Flame Extinguishment Experiment (FLEX) results",
+    "claim_status": "REPORTED_RESULT",
+    "platform": "ISS_FLIGHT",
+    "gravity_level": "microgravity",
+    "topics": [
+      "material_flammability"
+    ],
+    "attribution_note": "2016 NASA Glenn spacecraft fire safety briefing. Quoted from the FLEX results slide, not from a PSI record.",
+    "doi": null,
+    "source_url": "https://ntrs.nasa.gov/citations/20170007283",
+    "materials": [],
+    "review": {
+      "status": "DRAFT",
+      "reviewer": null,
+      "date": null
+    }
+  },
+  {
+    "claim_id": "NTRS16-FLEX-003",
+    "investigation_id": "PSI-69",
+    "source_id": "NTRS-20170007283",
+    "claim_text": "The briefing states that spacecraft safety procedures based only on considerations of hot flames may be inadequate for assuring safety under all conditions.",
+    "source_excerpt": "Spacecraft safety procedures based only on considerations of hot flames may be inadequate for assuring safety under all conditions.",
+    "source_location": "PDF page 43, Flame Extinguishment Experiment (FLEX) results",
+    "claim_status": "OBJECTIVE_OR_HYPOTHESIS",
+    "evidence_label": "Authors' suggestion",
+    "platform": "ISS_FLIGHT",
+    "gravity_level": "microgravity",
+    "topics": [
+      "material_flammability"
+    ],
+    "attribution_note": "2016 NASA Glenn spacecraft fire safety briefing. Quoted from the FLEX results slide, not from a PSI record.",
+    "doi": null,
+    "source_url": "https://ntrs.nasa.gov/citations/20170007283",
+    "materials": [],
+    "review": {
+      "status": "DRAFT",
+      "reviewer": null,
+      "date": null
+    }
+  },
+  {
+    "claim_id": "CHALLENGE-015",
+    "investigation_id": null,
+    "source_id": "SPACEAPPS-2026-FIF",
+    "claim_text": "The challenge statement says the six experiments in the ACME project featured flames of gaseous fuels and were all conducted with the same modular set of ACME hardware in the Combustion Integrated Rack (CIR).",
+    "source_excerpt": "The six experiments in the ACME project featured flames of gaseous fuels and were all conducted with the same modular set of ACME hardware in the Combustion Integrated Rack (CIR).",
+    "source_location": "Hardware",
+    "claim_status": "OBJECTIVE_OR_HYPOTHESIS",
+    "evidence_label": "Challenge context",
+    "platform": "ISS_FLIGHT",
+    "gravity_level": "microgravity",
+    "topics": [
+      "measurement_method"
     ],
     "attribution_note": "Cited as a hashed 2026 NASA Space Apps challenge-statement snapshot, not as a measured PSI result.",
     "doi": null,

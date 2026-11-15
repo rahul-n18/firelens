@@ -166,7 +166,7 @@ describe("claim verifier", () => {
     expect(text).toContain("Fine-water-mist");
     const added = claims.filter(claim =>
       claim.source_id === "SPACEAPPS-2026-FIF" ||
-      /^(BASS-|BASSII-|SAFFIRE-|FLEX-|FLEX2-|CFI-|BRE-|CFIG-|EFIELD-|SLICE-|CHALLENGE-|EARTH-00[3-8]$)/u.test(claim.claim_id),
+      /^(BASS-|BASSII-|SAFFIRE-|FLEX-|FLEX2-|CFI-|BRE-|CFIG-|EFIELD-|SLICE-|CHALLENGE-|NTRS12-|NTRS16-|EARTH-00[3-8]$)/u.test(claim.claim_id),
     );
     expect(added.length).toBeGreaterThan(80);
     for (const claim of added) {

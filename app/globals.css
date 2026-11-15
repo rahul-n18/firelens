@@ -277,3 +277,35 @@ p { max-width: 72ch; }
   .mission-columns { grid-template-columns: 1fr; }
   .mission-column + .mission-column { padding-left: 0; border-left: 0; border-top: 1px solid var(--rule); }
 }
+
+.mark.challenge_context { border-style: dotted; border-radius: 2px; background: transparent; }
+.evidence-label:has(.challenge_context) { color: var(--muted); }
+.kind-notice { font-size: 14px; color: var(--muted); border-left: 3px solid var(--rule); padding: 6px 0 6px 12px; margin: 8px 0 12px; }
+.family-tabs { display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 8px; margin-bottom: 26px; }
+.family-tabs .gravity-tab { padding: 12px 14px; text-align: left; border: 1px solid var(--rule); background: var(--surface); color: var(--ink); border-radius: 4px; }
+.family-tabs .gravity-tab small { display: block; font-size: 12px; font-weight: 500; color: var(--muted); }
+.family-tabs .gravity-tab[aria-selected=true] { border-color: var(--primary); background: var(--band); }
+.explorer-layout { display: grid; grid-template-columns: minmax(200px, 280px) minmax(0, 1fr); gap: 28px; align-items: start; }
+.explorer-list ol { list-style: none; margin: 0; padding: 0; border-top: 1px solid var(--rule); }
+.explorer-item { width: 100%; text-align: left; padding: 12px 10px; border: 0; border-bottom: 1px solid var(--rule); background: transparent; color: inherit; display: grid; gap: 2px; }
+.explorer-item:hover, .explorer-item.is-selected { background: var(--band); }
+.explorer-item-title { font-weight: 700; }
+.explorer-detail { min-width: 0; }
+.explorer-detail > .muted { margin: 4px 0 12px; }
+.attribute-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 16px; margin-top: 20px; }
+.attribute-card { background: var(--surface); border: 1px solid var(--rule); border-radius: 4px; padding: 16px; }
+.attribute-card h4 { margin-bottom: 10px; }
+.attribute-wide { grid-column: 1 / -1; }
+.compact-claims { gap: 8px; }
+.compact-claims .claim-line { padding: 10px 12px; }
+.compare-picks { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 18px; }
+.compare-picks .text-button[aria-pressed=true] { border-color: var(--primary); background: var(--band); }
+.compare-points { margin-top: 20px; }
+.compare-points ul { list-style: disc; padding-left: 20px; max-width: 80ch; }
+.compare-points li { margin: 6px 0; }
+.compare-gap { color: var(--gap); }
+.compare-table td, .compare-table th { vertical-align: top; }
+@media (max-width: 800px) {
+  .explorer-layout { grid-template-columns: 1fr; }
+  .attribute-grid { grid-template-columns: 1fr; }
+}

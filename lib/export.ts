@@ -1,4 +1,5 @@
-import { gravityLabels, platformLabels, sources, statusLabel, type Claim } from "./evidence";
+import { gravityLabels, platformLabels, sources, type Claim } from "./evidence";
+import { kindLabel } from "./claim-kind";
 
 export function citation(claim: Claim) {
   const source = sources.get(claim.source_id)!;
@@ -10,7 +11,7 @@ export function evidenceBrief(query: string, claims: Claim[], gap?: string) {
   return [
     "FireLens evidence brief", query, gap,
     ...claims.map(claim => [
-      `[${claim.claim_id}] ${statusLabel(claim)} · ${platformLabels[claim.platform]} · ${gravityLabels[claim.gravity_level]}`,
+      `[${claim.claim_id}] ${kindLabel(claim)} · ${platformLabels[claim.platform]} · ${gravityLabels[claim.gravity_level]}`,
       claim.review.status === "DRAFT" && "Not yet reviewed",
       claim.investigation_id === null && "Investigation not identified by source",
       claim.claim_text, claim.conditions, claim.attribution_note, citation(claim),
@@ -23,7 +24,7 @@ export function evidenceJson(query: string, claims: Claim[], gap?: string) {
 }
 
 export function modelDataJson(claims: Claim[]) {
-  const rows = claims.map(claim => ({ ...claim, evidence_label: statusLabel(claim) }));
+  const rows = claims.map(claim => ({ ...claim, evidence_label: kindLabel(claim) }));
   return JSON.stringify({ claims: rows }, null, 2) + "\n";
 }
 
@@ -50,7 +51,7 @@ export function evidenceCsv(query: string | null, claims: Claim[], gap?: string)
   const rows = claims.map(claim => fields.map(field => {
     if (field === "query") return query;
     if (field === "gap") return gap;
-    if (field === "evidence_label") return statusLabel(claim);
+    if (field === "evidence_label") return kindLabel(claim);
     if (field === "review_status") return claim.review.status;
     if (field === "reviewer") return claim.review.reviewer;
     if (field === "review_date") return claim.review.date;

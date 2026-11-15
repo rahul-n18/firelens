@@ -2,7 +2,8 @@ import { readFile } from "node:fs/promises";
 import AxeBuilder from "@axe-core/playwright";
 import { expect, test, type Page } from "@playwright/test";
 import { formatClaimValue } from "../lib/claim-values";
-import { byClaim, statusLabel, type Claim } from "../lib/evidence";
+import { kindLabel } from "../lib/claim-kind";
+import { byClaim, type Claim } from "../lib/evidence";
 
 async function assertBindings(page: Page) {
   await expect(page.locator(".claim-chip:visible:not([data-claim-id])")).toHaveCount(0);
@@ -150,12 +151,12 @@ test("exports exactly the same structured claims as the model data table", async
     expect(cells[0]).toBe(claim.quantity);
     expect(cells[1]).toBe(formatClaimValue(claim));
     expect(cells[2]).toBe(claim.conditions ?? "Not specified");
-    expect(cells[3]).toContain(statusLabel(claim));
+    expect(cells[3]).toContain(kindLabel(claim));
     expect(cells[4]).toBe(id);
-    expect(json[i]).toEqual({ ...claim, evidence_label: statusLabel(claim) });
+    expect(json[i]).toEqual({ ...claim, evidence_label: kindLabel(claim) });
     expect(csv[i]).toMatchObject({
       quantity: claim.quantity, value: String(claim.value), unit: claim.unit ?? "", conditions: claim.conditions ?? "",
-      evidence_label: statusLabel(claim), value_qualifier: claim.value_qualifier ?? "", source_url: claim.source_url,
+      evidence_label: kindLabel(claim), value_qualifier: claim.value_qualifier ?? "", source_url: claim.source_url,
       source_location: claim.source_location, source_excerpt: claim.source_excerpt, review_status: claim.review.status,
     });
   }

@@ -278,7 +278,7 @@ Generated from the corpus manifest, claims, and unavailable-source log.
 - Retrieved · 2026-11-14T19:39:50Z
 - SHA-256 · `3338abaeec4d5cdfa08d496a84cfa9effd055fd8da528bba1ae0abe16ab8d25f`
 - DOI · Unlisted
-- Supported claims · `SAMER-007`, `SAMER-008`
+- Supported claims · `SAMER-007`, `SAMER-008`, `NTRS16-FLEX-001`, `NTRS16-FLEX-002`, `NTRS16-FLEX-003`
 - Access · Public PDF from NASA NTRS.
 - [Source](https://ntrs.nasa.gov/citations/20170007283) · [Snapshot retrieval URL](https://ntrs.nasa.gov/api/citations/20170007283/downloads/20170007283.pdf)
 
@@ -298,7 +298,7 @@ Generated from the corpus manifest, claims, and unavailable-source log.
 - Retrieved · 2026-11-14T19:39:48Z
 - SHA-256 · `5bf8ddf2bcb93b007c4f14de86953c9890fec95c97e5b8010a8c69bb03703199`
 - DOI · Unlisted
-- Supported claims · `SPICE-003`
+- Supported claims · `SPICE-003`, `NTRS12-FLEX-001`, `NTRS12-FLEX-002`, `NTRS12-FLEX-003`, `NTRS12-FLEX-004`, `NTRS12-FLEX-005`, `NTRS12-FLEX-006`, `NTRS12-FLEX2-001`, `NTRS12-BASS-001`, `NTRS12-BASS-002`, `NTRS12-SOLID-001`, `NTRS12-SOLID-002`, `NTRS12-SOLID-003`, `NTRS12-SLICE-001`
 - Access · Public PDF from NASA NTRS. The conference paper also carries an International Astronautical Federation copyright notice.
 - [Source](https://ntrs.nasa.gov/citations/20120017940) · [Snapshot retrieval URL](https://ntrs.nasa.gov/api/citations/20120017940/downloads/20120017940.pdf)
 
@@ -408,7 +408,7 @@ Generated from the corpus manifest, claims, and unavailable-source log.
 - Retrieved · 2026-11-15T11:52:34Z
 - SHA-256 · `a5744cf9e6907deb453551a79f5c6bcfc7bf4ef6a21aab2c259a93895a9f891d`
 - DOI · Unlisted
-- Supported claims · `CHALLENGE-001`, `CHALLENGE-002`, `CHALLENGE-003`, `CHALLENGE-004`, `CHALLENGE-005`, `CHALLENGE-006`, `CHALLENGE-007`, `CHALLENGE-008`, `CHALLENGE-009`, `CHALLENGE-010`, `CHALLENGE-011`, `CHALLENGE-012`, `CHALLENGE-013`, `CHALLENGE-014`
+- Supported claims · `CHALLENGE-001`, `CHALLENGE-002`, `CHALLENGE-003`, `CHALLENGE-004`, `CHALLENGE-005`, `CHALLENGE-006`, `CHALLENGE-007`, `CHALLENGE-008`, `CHALLENGE-009`, `CHALLENGE-010`, `CHALLENGE-011`, `CHALLENGE-012`, `CHALLENGE-013`, `CHALLENGE-014`, `CHALLENGE-015`
 - Access · Public NASA Space Apps 2026 challenge statement. The hashed snapshot is the page HTML retrieved on 2026-11-15. Body text is extracted from the page's Next.js RSC payload (html_selector nextjs-rsc). The page footer states Copyright ©2026 NASA. Use only as cited challenge-statement context, not as a measured PSI result.
 - [Source](https://www.spaceappschallenge.org/2026/challenges/flame-in-freefall/) · [Snapshot retrieval URL](https://www.spaceappschallenge.org/2026/challenges/flame-in-freefall/)
 

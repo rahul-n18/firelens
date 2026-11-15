@@ -1,9 +1,11 @@
-import { gravityLabels, platformLabels, statusLabel, type Claim } from "../lib/evidence";
+import { gravityLabels, platformLabels, type Claim } from "../lib/evidence";
+import { claimKind } from "../lib/claim-kind";
 
 export type OpenClaim = (claim: Claim) => void;
 
 export function Mark({ claim }: { claim: Claim }) {
-  return <span className="evidence-label"><span aria-hidden="true" className={`mark ${claim.evidence_label === "Equipment specification" ? "reported_method" : claim.claim_status.toLowerCase()}`} />{statusLabel(claim)}</span>;
+  const kind = claimKind(claim);
+  return <span className="evidence-label"><span aria-hidden="true" className={`mark ${kind.markClass}`} />{kind.label}</span>;
 }
 
 export function Chip({ claim, open }: { claim: Claim; open: OpenClaim }) {

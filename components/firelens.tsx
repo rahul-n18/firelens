@@ -9,10 +9,12 @@ import { citation, downloadEvidence, evidenceBrief, evidenceCsv, evidenceJson } 
 import { Input, Sheet, Toggle } from "./ui";
 
 import { ClaimLine, DraftLabel, Mark, type OpenClaim } from "./evidence-ui";
+import { claimKind } from "../lib/claim-kind";
 import { Detectors, Measurements } from "./measurements";
 import { SeeIt } from "./see-it";
 import { Missions } from "./missions";
 import { ModelData } from "./model-data";
+import { Explorer } from "./explorer";
 const dateFormatter = new Intl.DateTimeFormat("en-GB", { day: "numeric", month: "short", year: "numeric", timeZone: "UTC" });
 
 type Result = ReturnType<typeof search>["rankings"][number];
@@ -216,7 +218,7 @@ export function FireLens({ available }: { available: string[] }) {
     <a className="skip-link" href="#main-content">Skip to content</a>
     <header className="topbar"><div className="top-inner">
       <a className="wordmark" href="#main-content">FireLens</a>
-      <nav className="page-nav" aria-label="Sections"><a href="#see">See it</a><a href="#measured">Measured</a><a href="#missions">Missions</a><a href="#data">Data</a><a href="#ask">Ask</a></nav>
+      <nav className="page-nav" aria-label="Sections"><a href="#see">See it</a><a href="#measured">Measured</a><a href="#explore">Explore</a><a href="#missions">Missions</a><a href="#data">Data</a><a href="#ask">Ask</a></nav>
       <div className="top-actions"><span>Built on NASA PSI open data</span>
         <Toggle pressed={dark} onPressedChange={setDark} aria-label="Dark theme">{dark ? "Light" : "Dark"}</Toggle></div>
     </div></header>
@@ -232,6 +234,7 @@ export function FireLens({ available }: { available: string[] }) {
       <SeeIt evidence={evidence} byId={byId} open={open} dark={dark} onMoonBriefing={() => setMissionGravity("lunar_0.16g")} />
       <Measurements byId={byId} open={open} />
       <Detectors byId={byId} open={open} />
+      <Explorer evidence={evidence} open={open} />
       <Missions evidence={evidence} open={open} gravity={missionGravity} onGravityChange={setMissionGravity} />
       <ModelData evidence={evidence} open={open} />
       <section className="block" id="ask" aria-labelledby="query-heading">
@@ -336,6 +339,7 @@ export function FireLens({ available }: { available: string[] }) {
         <p className="eyebrow">{selected.claim_id}, {selectedSource.publisher}</p>
         <h3 className="source-title">{selectedSource.title}</h3>
         <div className="claim-meta"><Mark claim={selected} /><span className="review-label">{selected.review.status === "DRAFT" ? "Not yet reviewed" : `Reviewed by ${selected.review.reviewer}`}</span></div>
+        {claimKind(selected).notice && <p className="kind-notice">{claimKind(selected).notice}</p>}
         <blockquote data-claim-excerpt={selected.claim_id}>{selected.source_excerpt}</blockquote>
         <p data-claim-text={selected.claim_id}>{selected.claim_text}</p>
         {selected.attribution_note && <p className="small muted">{selected.attribution_note}</p>}

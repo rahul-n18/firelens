@@ -10,7 +10,7 @@ export const statuses = ["REPORTED_RESULT", "REPORTED_METHOD", "MODEL_RESULT", "
 export const platforms = ["ISS_FLIGHT", "GROUND_LAB", "REDUCED_GRAVITY_AIRCRAFT", "DROP_TOWER", "SOUNDING_ROCKET", "NUMERICAL_MODEL", "MIXED", "UNSPECIFIED"] as const;
 export const gravities = ["1g", "microgravity", "lunar_0.16g", "mars_0.38g", "multiple", "unspecified"] as const;
 export const methods = ["pdfjs", "html", "json"] as const;
-export const evidenceLabels = ["Equipment specification", "Authors' statement", "Authors' suggestion", "Planned (as of Dec 2025)", "Planned (as of 2021)", "Earth application"] as const;
+export const evidenceLabels = ["Equipment specification", "Authors' statement", "Authors' suggestion", "Planned (as of Dec 2025)", "Planned (as of 2021)", "Earth application", "Challenge context", "Planned test condition"] as const;
 
 export interface DerivedFigure {
   file: string;

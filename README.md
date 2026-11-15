@@ -34,7 +34,7 @@ The Source Inspector shows the stored excerpt, review status, and a link back to
 
 ## How evidence is verified
 
-Claims live in [`corpus/claims.json`](corpus/claims.json). Each claim stores a verbatim excerpt, a source location, a classification (measured result, method, computer model, or objective), and a review status. In the current corpus, 35 of 135 claims have been human-reviewed. The rest remain drafts and are labeled as such wherever they appear.
+Claims live in [`corpus/claims.json`](corpus/claims.json). Each claim stores a verbatim excerpt, a source location, a classification (measured result, method, computer model, or objective), and a review status. In the current corpus, 35 of 152 claims have been human-reviewed. The rest remain drafts and are labeled as such wherever they appear.
 
 [`corpus/manifest.json`](corpus/manifest.json) records the source URL, retrieval date, and SHA-256 hash of every snapshot. `npm test` runs the corpus verifier before the unit tests. The verifier checks snapshot hashes, reproduces the stored text from those snapshots, matches excerpts and numeric tokens, and validates claim references and classifications. It runs offline.
 

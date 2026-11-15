@@ -49,7 +49,7 @@ const linkedClaims = new Map(investigations.map(row => [
 ]));
 const shortNames: Record<string, string> = { "PSI-101": "SAME-R", "PSI-102": "SAME", "PSI-107": "SPICE", "PSI-47": "DAFT / DAFT-2" };
 export function investigationName(row: Investigation) {
-  return shortNames[row.investigation_id] ?? row.title;
+  return shortNames[row.investigation_id] ?? row.acronym ?? row.title;
 }
 
 const stop = new Set("a an and are as at by did do does for from has how in is it of on or that the their to was were what when which with".split(" "));
@@ -203,7 +203,11 @@ export function gravityStatus(evidence: Claim[]) {
 }
 
 export function isMeasurement(claim: Claim) {
-  return claim.claim_status === "REPORTED_RESULT" && claim.evidence_label !== "Equipment specification";
+  return claim.claim_status === "REPORTED_RESULT"
+    && claim.evidence_label !== "Equipment specification"
+    && claim.source_id !== "SPACEAPPS-2026-FIF"
+    && claim.evidence_label !== "Challenge context"
+    && claim.evidence_label !== "Planned test condition";
 }
 
 
