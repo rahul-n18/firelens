@@ -46,7 +46,7 @@ function CoverageMap({ gravity, filter, open }: {
   const columns = coverageColumns.filter(column => !filter || column.id === filter);
   const visibleCells = (row: typeof coverage[number]) => row.cells.filter(cell => !filter || cell.id === filter);
   return <section className="section" aria-labelledby="coverage-heading">
-    <div className="section-title"><h2 id="coverage-heading">All evidence by topic</h2></div>
+    <div className="section-title"><h2 id="coverage-heading">Gravity coverage map</h2></div>
     <p className="muted small coverage-note">Hatching marks conditions with no evidence in the corpus. The computer model column covers studies spanning multiple gravity levels.</p>
     <table className="coverage-table">
       <thead><tr><th scope="col">Evidence topic</th>{columns.map(column =>
@@ -298,7 +298,8 @@ export function FireLens({ available }: { available: string[] }) {
         if (gravity) { setQuery(""); setActive(-1); setNotice(""); }
       }} />
       <section className="query-section" aria-labelledby="query-heading">
-        <h2 id="query-heading">Ask about the evidence</h2>
+        <p className="eyebrow">NASA PSI · Combustion science</p>
+        <h1 id="query-heading">Fire evidence in reduced gravity</h1>
         <label className="sr-only" htmlFor="evidence-query">Search the corpus</label>
         <div className="query-wrap"><Input id="evidence-query" ref={input} type="search" value={query}
           placeholder="Search experiments, measurements, or conditions" onChange={event => changeQuery(event.target.value)}
