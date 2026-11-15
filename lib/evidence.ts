@@ -122,6 +122,8 @@ const investigationIndex = index(investigations, row => ({
   Objective: { text: row.objective, boost: 1.4 },
 }));
 
+const smokeTopics = new Set(["smoke_particle_size", "smoke_morphology", "smoke_transport", "detector_response"]);
+
 export function search(input: string, permitted: ClaimFilter = anyClaim, investigationId?: string) {
   const query = parseQuery(input);
   const soot = vocabulary.disambiguation[0];
@@ -132,7 +134,14 @@ export function search(input: string, permitted: ClaimFilter = anyClaim, investi
     ...hit,
     score: hit.score + (query.gravity.includes(hit.item.gravity_level) ? 2 : 0)
       + (query.platform.includes(hit.item.platform) ? 1 : 0),
-  })).sort((a, b) => b.score - a.score || a.item.claim_id.localeCompare(b.item.claim_id));
+  })).sort((a, b) => {
+    if (smokeIntent && !explicitSoot) {
+      const tagged = (claim: typeof a.item) => Number(claim.topics.some(topic => smokeTopics.has(topic)));
+      const diff = tagged(b.item) - tagged(a.item);
+      if (diff) return diff;
+    }
+    return b.score - a.score || a.item.claim_id.localeCompare(b.item.claim_id);
+  });
   const rankings = investigationIndex(query.terms).map(hit => {
     const id = hit.item.investigation_id;
     const support = claimHits.filter(claim => claim.item.investigation_id === id);
@@ -197,7 +206,6 @@ export function isMeasurement(claim: Claim) {
   return claim.claim_status === "REPORTED_RESULT" && claim.evidence_label !== "Equipment specification";
 }
 
-const smokeTopics = new Set(["smoke_particle_size", "smoke_morphology", "smoke_transport", "detector_response"]);
 
 export function smokeEvidence(evidence: Claim[]) {
   return evidence.filter(claim => claim.topics.some(topic => smokeTopics.has(topic)));

@@ -147,4 +147,30 @@ describe("claim verifier", () => {
       await rm(directory, { recursive: true, force: true });
     }
   }, 20_000);
+
+  test("extracts the Space Apps challenge snapshot and keeps new coverage claims in draft", async () => {
+    const [sources, claims] = await Promise.all([
+      readJson<Source[]>(join(corpus, "manifest.json")),
+      readJson<Claim[]>(join(corpus, "claims.json")),
+    ]);
+    const source = sources.find(entry => entry.source_id === "SPACEAPPS-2026-FIF");
+    expect(source).toMatchObject({
+      sha256: "a5744cf9e6907deb453551a79f5c6bcfc7bf4ef6a21aab2c259a93895a9f891d",
+      extraction_method: "html",
+      html_selector: "nextjs-rsc",
+    });
+    const text = await readFile(join(corpus, "text", "SPACEAPPS-2026-FIF.txt"), "utf8");
+    expect(text).toContain("10.2 psi");
+    expect(text).toContain("30% or greater");
+    expect(text).toContain("4.3 psi");
+    expect(text).toContain("Fine-water-mist");
+    const added = claims.filter(claim =>
+      claim.source_id === "SPACEAPPS-2026-FIF" ||
+      /^(BASS-|BASSII-|SAFFIRE-|FLEX-|FLEX2-|CFI-|BRE-|CFIG-|EFIELD-|SLICE-|CHALLENGE-|EARTH-00[3-8]$)/u.test(claim.claim_id),
+    );
+    expect(added.length).toBeGreaterThan(80);
+    for (const claim of added) {
+      expect(claim.review, claim.claim_id).toMatchObject({ status: "DRAFT", reviewer: null, date: null });
+    }
+  });
 });

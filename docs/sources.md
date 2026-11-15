@@ -28,7 +28,7 @@ Generated from the corpus manifest, claims, and unavailable-source log.
 - Retrieved · 2026-11-14T19:40:32Z
 - SHA-256 · `ea118e19d02785f54d246406aacea93878053ff95ddd5bdca44bd29c09a753d1`
 - DOI · [10.60555/vb93-3y72](https://doi.org/10.60555/vb93-3y72)
-- Supported claims · Metadata only
+- Supported claims · `BRE-001`, `BRE-002`, `BRE-003`, `BRE-004`, `BRE-005`, `BRE-006`, `BRE-007`
 - Access · Structured investigation JSON from the PSI web app API. PSI lists Creative Commons Zero v1.0 Universal (CC0-1.0) for this record: https://spdx.org/licenses/CC0-1.0.html.
 - [Source](https://psi.nasa.gov/physci/repo/data/investigations/PSI-20) · [Snapshot retrieval URL](https://psi.nasa.gov/geode-py/ws/repo/investigations/PSI-20)
 
@@ -48,7 +48,7 @@ Generated from the corpus manifest, claims, and unavailable-source log.
 - Retrieved · 2026-11-14T19:40:32Z
 - SHA-256 · `a491519f60b91c9eb2272e651846103f34006867fb74535911e8c18448e48a09`
 - DOI · [10.60555/se5a-8c73](https://doi.org/10.60555/se5a-8c73)
-- Supported claims · Metadata only
+- Supported claims · `EFIELD-001`, `EFIELD-002`, `EFIELD-003`, `EFIELD-004`, `EFIELD-005`, `EARTH-008`
 - Access · Structured investigation JSON from the PSI web app API. PSI lists Creative Commons Zero v1.0 Universal (CC0-1.0) for this record: https://spdx.org/licenses/CC0-1.0.html.
 - [Source](https://psi.nasa.gov/physci/repo/data/investigations/PSI-22) · [Snapshot retrieval URL](https://psi.nasa.gov/geode-py/ws/repo/investigations/PSI-22)
 
@@ -68,7 +68,7 @@ Generated from the corpus manifest, claims, and unavailable-source log.
 - Retrieved · 2026-11-14T19:40:29Z
 - SHA-256 · `b9234754db5da651ad27d888af082b889d07210b018e543369662f065b4ec2da`
 - DOI · [10.60555/4qc4-de67](https://doi.org/10.60555/4qc4-de67)
-- Supported claims · `EARTH-001`
+- Supported claims · `EARTH-001`, `BASSII-001`, `BASSII-002`, `BASSII-003`, `BASSII-004`, `BASSII-005`, `BASSII-006`, `EARTH-003`
 - Access · Structured investigation JSON from the PSI web app API. PSI lists Creative Commons Zero v1.0 Universal (CC0-1.0) for this record: https://spdx.org/licenses/CC0-1.0.html.
 - [Source](https://psi.nasa.gov/physci/repo/data/investigations/PSI-25) · [Snapshot retrieval URL](https://psi.nasa.gov/geode-py/ws/repo/investigations/PSI-25)
 
@@ -78,7 +78,7 @@ Generated from the corpus manifest, claims, and unavailable-source log.
 - Retrieved · 2026-11-14T19:40:26Z
 - SHA-256 · `9dee45d44bb736178db270a07c9ee8f98ac02ee810189ab518271fd4720c0533`
 - DOI · [10.60555/58h4-dy80](https://doi.org/10.60555/58h4-dy80)
-- Supported claims · Metadata only
+- Supported claims · `BASS-001`, `BASS-002`, `BASS-003`, `BASS-004`, `BASS-005`, `BASS-006`, `BASS-007`
 - Access · Structured investigation JSON from the PSI web app API. PSI lists Creative Commons Zero v1.0 Universal (CC0-1.0) for this record: https://spdx.org/licenses/CC0-1.0.html.
 - [Source](https://psi.nasa.gov/physci/repo/data/investigations/PSI-26) · [Snapshot retrieval URL](https://psi.nasa.gov/geode-py/ws/repo/investigations/PSI-26)
 
@@ -88,7 +88,7 @@ Generated from the corpus manifest, claims, and unavailable-source log.
 - Retrieved · 2026-11-14T19:40:32Z
 - SHA-256 · `ab2501bbe6200dabd012e7bf199e79426f8d19eb484c2af421183bb61b558d35`
 - DOI · [10.60555/m6pj-a914](https://doi.org/10.60555/m6pj-a914)
-- Supported claims · Metadata only
+- Supported claims · `CFI-001`, `CFI-002`, `CFI-003`, `CFI-004`, `CFI-005`, `CFI-006`
 - Access · Structured investigation JSON from the PSI web app API. PSI lists Creative Commons Zero v1.0 Universal (CC0-1.0) for this record: https://spdx.org/licenses/CC0-1.0.html.
 - [Source](https://psi.nasa.gov/physci/repo/data/investigations/PSI-39) · [Snapshot retrieval URL](https://psi.nasa.gov/geode-py/ws/repo/investigations/PSI-39)
 
@@ -128,7 +128,7 @@ Generated from the corpus manifest, claims, and unavailable-source log.
 - Retrieved · 2026-11-14T19:40:46Z
 - SHA-256 · `de041dc1dc8b093e8f168b36d3b06cab257b4d75ffb24ff21754b8af4256ebcf`
 - DOI · [10.60555/byp8-h018](https://doi.org/10.60555/byp8-h018)
-- Supported claims · Metadata only
+- Supported claims · `FLEX2-001`, `FLEX2-002`, `FLEX2-003`, `FLEX2-004`
 - Access · Structured investigation JSON from the PSI web app API. PSI lists Creative Commons Zero v1.0 Universal (CC0-1.0) for this record: https://spdx.org/licenses/CC0-1.0.html.
 - [Source](https://psi.nasa.gov/physci/repo/data/investigations/PSI-68) · [Snapshot retrieval URL](https://psi.nasa.gov/geode-py/ws/repo/investigations/PSI-68)
 
@@ -138,7 +138,7 @@ Generated from the corpus manifest, claims, and unavailable-source log.
 - Retrieved · 2026-11-14T19:40:44Z
 - SHA-256 · `a2d8ec5d0e9ad1060f6ecc7a850598634cc5519c373ae70462bf76c31fc8731c`
 - DOI · [10.60555/mbq8-0451](https://doi.org/10.60555/mbq8-0451)
-- Supported claims · Metadata only
+- Supported claims · `FLEX-001`, `FLEX-002`, `FLEX-003`, `FLEX-004`, `EARTH-007`
 - Access · Structured investigation JSON from the PSI web app API. PSI lists Creative Commons Zero v1.0 Universal (CC0-1.0) for this record: https://spdx.org/licenses/CC0-1.0.html.
 - [Source](https://psi.nasa.gov/physci/repo/data/investigations/PSI-69) · [Snapshot retrieval URL](https://psi.nasa.gov/geode-py/ws/repo/investigations/PSI-69)
 
@@ -148,7 +148,7 @@ Generated from the corpus manifest, claims, and unavailable-source log.
 - Retrieved · 2026-11-14T19:40:26Z
 - SHA-256 · `501b5f625733e29c0c6ff0c12b3de1a3e960a159a8c8f8a21ba5c5803afe0570`
 - DOI · [10.60555/0t15-1z43](https://doi.org/10.60555/0t15-1z43)
-- Supported claims · Metadata only
+- Supported claims · `SAFFIRE-I-001`, `SAFFIRE-I-002`, `SAFFIRE-I-003`, `SAFFIRE-I-004`, `SAFFIRE-I-005`, `SAFFIRE-I-006`, `EARTH-004`
 - Access · Structured investigation JSON from the PSI web app API. PSI lists Creative Commons Zero v1.0 Universal (CC0-1.0) for this record: https://spdx.org/licenses/CC0-1.0.html.
 - [Source](https://psi.nasa.gov/physci/repo/data/investigations/PSI-98) · [Snapshot retrieval URL](https://psi.nasa.gov/geode-py/ws/repo/investigations/PSI-98)
 
@@ -158,7 +158,7 @@ Generated from the corpus manifest, claims, and unavailable-source log.
 - Retrieved · 2026-11-14T19:40:28Z
 - SHA-256 · `2c042a6bd82fa6b437cae61490d54ea91f890a52282bc5949b4a0119bcbf6633`
 - DOI · [10.60555/2chp-m469](https://doi.org/10.60555/2chp-m469)
-- Supported claims · Metadata only
+- Supported claims · `SAFFIRE-II-001`, `SAFFIRE-II-002`, `SAFFIRE-II-003`, `SAFFIRE-II-004`, `SAFFIRE-II-005`, `EARTH-005`
 - Access · Structured investigation JSON from the PSI web app API. PSI lists Creative Commons Zero v1.0 Universal (CC0-1.0) for this record: https://spdx.org/licenses/CC0-1.0.html.
 - [Source](https://psi.nasa.gov/physci/repo/data/investigations/PSI-99) · [Snapshot retrieval URL](https://psi.nasa.gov/geode-py/ws/repo/investigations/PSI-99)
 
@@ -168,7 +168,7 @@ Generated from the corpus manifest, claims, and unavailable-source log.
 - Retrieved · 2026-11-14T19:40:27Z
 - SHA-256 · `9c836955a28ff129b2f239f9499e06f4ca52ba58f7a03d384a7bd0528c8bbe10`
 - DOI · [10.60555/040q-4h36](https://doi.org/10.60555/040q-4h36)
-- Supported claims · Metadata only
+- Supported claims · `SAFFIRE-III-001`, `SAFFIRE-III-002`, `SAFFIRE-III-003`, `SAFFIRE-III-004`, `EARTH-006`
 - Access · Structured investigation JSON from the PSI web app API. PSI lists Creative Commons Zero v1.0 Universal (CC0-1.0) for this record: https://spdx.org/licenses/CC0-1.0.html.
 - [Source](https://psi.nasa.gov/physci/repo/data/investigations/PSI-100) · [Snapshot retrieval URL](https://psi.nasa.gov/geode-py/ws/repo/investigations/PSI-100)
 
@@ -198,7 +198,7 @@ Generated from the corpus manifest, claims, and unavailable-source log.
 - Retrieved · 2026-11-14T19:40:37Z
 - SHA-256 · `f705b2e04bd00d05f3c74ae55391c340b5a08d60efa8193e66b7c4e2518d9d5d`
 - DOI · [10.60555/pm12-rg61](https://doi.org/10.60555/pm12-rg61)
-- Supported claims · Metadata only
+- Supported claims · `SLICE-001`, `SLICE-002`, `SLICE-003`, `SLICE-004`, `SLICE-005`, `SLICE-006`
 - Access · Structured investigation JSON from the PSI web app API. PSI lists Creative Commons Zero v1.0 Universal (CC0-1.0) for this record: https://spdx.org/licenses/CC0-1.0.html.
 - [Source](https://psi.nasa.gov/physci/repo/data/investigations/PSI-106) · [Snapshot retrieval URL](https://psi.nasa.gov/geode-py/ws/repo/investigations/PSI-106)
 
@@ -248,7 +248,7 @@ Generated from the corpus manifest, claims, and unavailable-source log.
 - Retrieved · 2026-11-14T19:40:34Z
 - SHA-256 · `e01abe2caa309753a9bee1b0c3c79dec194a2a7300d0d13541e0dcf25e3b0ea5`
 - DOI · [10.60555/cyt1-kh64](https://doi.org/10.60555/cyt1-kh64)
-- Supported claims · Metadata only
+- Supported claims · `CFIG-001`, `CFIG-002`, `CFIG-003`, `CFIG-004`, `CFIG-005`
 - Access · Structured investigation JSON from the PSI web app API. PSI lists Creative Commons Zero v1.0 Universal (CC0-1.0) for this record: https://spdx.org/licenses/CC0-1.0.html.
 - [Source](https://psi.nasa.gov/physci/repo/data/investigations/PSI-159) · [Snapshot retrieval URL](https://psi.nasa.gov/geode-py/ws/repo/investigations/PSI-159)
 
@@ -401,6 +401,16 @@ Generated from the corpus manifest, claims, and unavailable-source log.
 - Supported claims · Metadata only
 - Access · Public NASA Science explainer describing the planned lunar surface experiment.
 - [Source](https://science.nasa.gov/biological-physical/resources/explainers-infographics/why-nasa-is-studying-flames-in-space/) · [Snapshot retrieval URL](https://science.nasa.gov/biological-physical/resources/explainers-infographics/why-nasa-is-studying-flames-in-space/)
+
+## SPACEAPPS-2026-FIF · Flame in Freefall: SI-Powered Fire Safety Insights from Microgravity Combustion Data
+
+- Publisher and tier · NASA Space Apps Challenge · B
+- Retrieved · 2026-11-15T11:52:34Z
+- SHA-256 · `a5744cf9e6907deb453551a79f5c6bcfc7bf4ef6a21aab2c259a93895a9f891d`
+- DOI · Unlisted
+- Supported claims · `CHALLENGE-001`, `CHALLENGE-002`, `CHALLENGE-003`, `CHALLENGE-004`, `CHALLENGE-005`, `CHALLENGE-006`, `CHALLENGE-007`, `CHALLENGE-008`, `CHALLENGE-009`, `CHALLENGE-010`, `CHALLENGE-011`, `CHALLENGE-012`, `CHALLENGE-013`, `CHALLENGE-014`
+- Access · Public NASA Space Apps 2026 challenge statement. The hashed snapshot is the page HTML retrieved on 2026-11-15. Body text is extracted from the page's Next.js RSC payload (html_selector nextjs-rsc). The page footer states Copyright ©2026 NASA. Use only as cited challenge-statement context, not as a measured PSI result.
+- [Source](https://www.spaceappschallenge.org/2026/challenges/flame-in-freefall/) · [Snapshot retrieval URL](https://www.spaceappschallenge.org/2026/challenges/flame-in-freefall/)
 
 ## NTRS-20250010653-ABSTRACT · Lunar Combustion Investigation: Flammability Results from a Rotating Sounding Rocket
 

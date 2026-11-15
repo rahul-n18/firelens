@@ -1234,5 +1234,2019 @@
       "date": "2026-11-15",
       "batch": "LUCI"
     }
+  },
+  {
+    "claim_id": "BASS-001",
+    "investigation_id": "PSI-26",
+    "source_id": "PSI-26",
+    "claim_text": "BASS aimed to begin bridging the gap between the normal gravity NASA-STD-6001 Test#1 method, ground-based microgravity tests, and actual material flammability in microgravity.",
+    "source_excerpt": "Begin to bridge the gap between the normal gravity NASA-STD-6001 Test#1 method, ground-based microgravity tests, and actual material flammability in microgravity.",
+    "source_location": "Objective",
+    "claim_status": "OBJECTIVE_OR_HYPOTHESIS",
+    "platform": "ISS_FLIGHT",
+    "gravity_level": "microgravity",
+    "topics": [
+      "material_flammability"
+    ],
+    "doi": "10.60555/58h4-dy80",
+    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-26",
+    "materials": [],
+    "review": {
+      "status": "DRAFT",
+      "reviewer": null,
+      "date": null
+    }
+  },
+  {
+    "claim_id": "BASS-002",
+    "investigation_id": "PSI-26",
+    "source_id": "PSI-26",
+    "claim_text": "A BASS objective was to assess the effectiveness of an inert, gaseous extinguishing agent similar to that used on ISS in putting out flames over different materials, geometries, preheating, and flow.",
+    "source_excerpt": "Assess the effectiveness of an inert, gaseous extinguishing agent (similar to that used on ISS) in putting out flames over different materials, geometries, preheating, and flow.",
+    "source_location": "Objective",
+    "claim_status": "OBJECTIVE_OR_HYPOTHESIS",
+    "platform": "ISS_FLIGHT",
+    "gravity_level": "microgravity",
+    "topics": [
+      "material_flammability"
+    ],
+    "doi": "10.60555/58h4-dy80",
+    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-26",
+    "materials": [],
+    "review": {
+      "status": "DRAFT",
+      "reviewer": null,
+      "date": null
+    }
+  },
+  {
+    "claim_id": "BASS-003",
+    "investigation_id": "PSI-26",
+    "source_id": "PSI-26",
+    "claim_text": "The BASS experiment was conducted aboard the International Space Station inside the Microgravity Glove Box (MSG).",
+    "source_excerpt": "The experiment was conducted aboard the International Space Station (ISS) inside the Microgravity Glove Box (MSG).",
+    "source_location": "Approach",
+    "claim_status": "REPORTED_RESULT",
+    "evidence_label": "Equipment specification",
+    "platform": "ISS_FLIGHT",
+    "gravity_level": "microgravity",
+    "topics": [
+      "measurement_method"
+    ],
+    "doi": "10.60555/58h4-dy80",
+    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-26",
+    "materials": [],
+    "review": {
+      "status": "DRAFT",
+      "reviewer": null,
+      "date": null
+    }
+  },
+  {
+    "claim_id": "BASS-004",
+    "investigation_id": "PSI-26",
+    "source_id": "PSI-26",
+    "claim_text": "BASS used custom-made fabric samples consisting of 75% cotton and 25% fiberglass (by mass), as well as Nomex fabric and Ultem.",
+    "source_excerpt": "Custom-made fabric samples consisting of 75% cotton and 25% fiberglass (by mass) measuring were used as a fuel source as well as Nomex fabric and Ultem.",
+    "source_location": "Approach",
+    "claim_status": "REPORTED_METHOD",
+    "platform": "ISS_FLIGHT",
+    "gravity_level": "microgravity",
+    "topics": [
+      "material_flammability"
+    ],
+    "materials": [
+      "cotton-fiberglass fabric",
+      "Nomex",
+      "Ultem"
+    ],
+    "conditions": "75% cotton and 25% fiberglass (by mass)",
+    "doi": "10.60555/58h4-dy80",
+    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-26",
+    "review": {
+      "status": "DRAFT",
+      "reviewer": null,
+      "date": null
+    }
+  },
+  {
+    "claim_id": "BASS-005",
+    "investigation_id": "PSI-26",
+    "source_id": "PSI-26",
+    "claim_text": "BASS airflow was controlled using a variable speed fan, with airflow speeds reaching as high as 40 cm/s, directed along the fuel surface in either the opposed or concurrent direction.",
+    "source_excerpt": "Airflow was controlled using a variable speed fan, with airflow speeds reaching as high as 40 cm/s. The airflow was directed along the fuel surface in either the opposed or concurrent direction.",
+    "source_location": "Approach",
+    "claim_status": "REPORTED_METHOD",
+    "platform": "ISS_FLIGHT",
+    "gravity_level": "microgravity",
+    "topics": [
+      "flame_spread"
+    ],
+    "airflow": {
+      "value": 40,
+      "unit": "cm/s",
+      "gravity_level": "microgravity"
+    },
+    "conditions": "opposed or concurrent airflow, speeds reaching as high as 40 cm/s",
+    "doi": "10.60555/58h4-dy80",
+    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-26",
+    "materials": [],
+    "review": {
+      "status": "DRAFT",
+      "reviewer": null,
+      "date": null
+    }
+  },
+  {
+    "claim_id": "BASS-006",
+    "investigation_id": "PSI-26",
+    "source_id": "PSI-26",
+    "claim_text": "BASS samples were placed in a small flow duct (76 mm x 76 mm cross section); other sample shapes included spheres and cylinders.",
+    "source_excerpt": "The samples were placed in a small flow duct (76 mm x 76 mm cross section) that allowed for airflow across the fabric. Other sample shapes were utilized as well including spheres and cylinders.",
+    "source_location": "Approach",
+    "claim_status": "REPORTED_METHOD",
+    "platform": "ISS_FLIGHT",
+    "gravity_level": "microgravity",
+    "topics": [
+      "flame_spread"
+    ],
+    "conditions": "flow duct 76 mm x 76 mm cross section",
+    "doi": "10.60555/58h4-dy80",
+    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-26",
+    "materials": [],
+    "review": {
+      "status": "DRAFT",
+      "reviewer": null,
+      "date": null
+    }
+  },
+  {
+    "claim_id": "BASS-007",
+    "investigation_id": "PSI-26",
+    "source_id": "PSI-26",
+    "claim_text": "The BASS record states that using nitrogen as a flame suppressant in microgravity provides a direct link to current and planned extinguishment techniques.",
+    "source_excerpt": "Using nitrogen as a flame suppressant in microgravity provides a direct link to current and planned extinguishment techniques.",
+    "source_location": "Research impacts",
+    "claim_status": "OBJECTIVE_OR_HYPOTHESIS",
+    "evidence_label": "Authors' statement",
+    "platform": "ISS_FLIGHT",
+    "gravity_level": "microgravity",
+    "topics": [
+      "material_flammability"
+    ],
+    "doi": "10.60555/58h4-dy80",
+    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-26",
+    "materials": [],
+    "review": {
+      "status": "DRAFT",
+      "reviewer": null,
+      "date": null
+    }
+  },
+  {
+    "claim_id": "BASSII-001",
+    "investigation_id": "PSI-25",
+    "source_id": "PSI-25",
+    "claim_text": "BASS-II aimed to study the ignition, flame growth, flame spread, and extinction limits for solid fuels burning in low-velocity forced flows in microgravity.",
+    "source_excerpt": "Study the ignition, flame growth, flame spread, and extinction limits for solid fuels burning in low-velocity forced flows in microgravity.",
+    "source_location": "Objective",
+    "claim_status": "OBJECTIVE_OR_HYPOTHESIS",
+    "platform": "ISS_FLIGHT",
+    "gravity_level": "microgravity",
+    "topics": [
+      "flame_spread",
+      "material_flammability"
+    ],
+    "doi": "10.60555/4qc4-de67",
+    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
+    "materials": [],
+    "review": {
+      "status": "DRAFT",
+      "reviewer": null,
+      "date": null
+    }
+  },
+  {
+    "claim_id": "BASSII-002",
+    "investigation_id": "PSI-25",
+    "source_id": "PSI-25",
+    "claim_text": "BASS-II planned to examine practical, realistic (thicker) fuels in typical geometries, including slabs, cylinders, and spherical sections.",
+    "source_excerpt": "Practical, realistic (thicker) fuels in typical geometries will be examined, including slabs, cylinders, and spherical sections.",
+    "source_location": "Objective",
+    "claim_status": "OBJECTIVE_OR_HYPOTHESIS",
+    "platform": "ISS_FLIGHT",
+    "gravity_level": "microgravity",
+    "topics": [
+      "material_flammability"
+    ],
+    "doi": "10.60555/4qc4-de67",
+    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
+    "materials": [],
+    "review": {
+      "status": "DRAFT",
+      "reviewer": null,
+      "date": null
+    }
+  },
+  {
+    "claim_id": "BASSII-003",
+    "investigation_id": "PSI-25",
+    "source_id": "PSI-25",
+    "claim_text": "BASS-II primary variables included forced flow velocity (speed and direction), ambient oxygen concentration via working volume nitrogen vitiation, and sample geometry such as rods, spherical section, slabs, films, and fabric sheets.",
+    "source_excerpt": "The primary variables include:\n     • Forced flow velocity (speed and direction)\n     • Ambient oxygen concentration (via working volume nitrogen vitiation)\n     • Sample geometry (rods, spherical section, slabs, films, and fabric sheets",
+    "source_location": "Objective",
+    "claim_status": "OBJECTIVE_OR_HYPOTHESIS",
+    "platform": "ISS_FLIGHT",
+    "gravity_level": "microgravity",
+    "topics": [
+      "flame_spread",
+      "material_flammability"
+    ],
+    "doi": "10.60555/4qc4-de67",
+    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
+    "materials": [],
+    "review": {
+      "status": "DRAFT",
+      "reviewer": null,
+      "date": null
+    }
+  },
+  {
+    "claim_id": "BASSII-004",
+    "investigation_id": "PSI-25",
+    "source_id": "PSI-25",
+    "claim_text": "The BASS-II wind tunnel was installed in the Microgravity Science Glovebox, which supplied power, imaging, and a level of containment.",
+    "source_excerpt": "The wind tunnel was installed in the Microgravity Science Glovebox which supplied power, imaging, and a level of containment.",
+    "source_location": "Approach",
+    "claim_status": "REPORTED_RESULT",
+    "evidence_label": "Equipment specification",
+    "platform": "ISS_FLIGHT",
+    "gravity_level": "microgravity",
+    "topics": [
+      "measurement_method"
+    ],
+    "doi": "10.60555/4qc4-de67",
+    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
+    "materials": [],
+    "review": {
+      "status": "DRAFT",
+      "reviewer": null,
+      "date": null
+    }
+  },
+  {
+    "claim_id": "BASSII-005",
+    "investigation_id": "PSI-25",
+    "source_id": "PSI-25",
+    "claim_text": "BASS-II fuel samples were mounted inside a small wind tunnel that could impose airflow speeds up to 40 cm/s.",
+    "source_excerpt": "Fuel samples were mounted inside a small wind tunnel which could impose airflow speeds up to 40 cm/s.",
+    "source_location": "Approach",
+    "claim_status": "REPORTED_METHOD",
+    "platform": "ISS_FLIGHT",
+    "gravity_level": "microgravity",
+    "topics": [
+      "flame_spread"
+    ],
+    "airflow": {
+      "value": 40,
+      "unit": "cm/s",
+      "gravity_level": "microgravity"
+    },
+    "conditions": "airflow speeds up to 40 cm/s",
+    "doi": "10.60555/4qc4-de67",
+    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
+    "materials": [],
+    "review": {
+      "status": "DRAFT",
+      "reviewer": null,
+      "date": null
+    }
+  },
+  {
+    "claim_id": "BASSII-006",
+    "investigation_id": "PSI-25",
+    "source_id": "PSI-25",
+    "claim_text": "BASS-II main variables were airflow speed and oxygen concentration, with oxygen varied below 21% by adding nitrogen; flame growth and spread rates were determined in both opposed and concurrent flow.",
+    "source_excerpt": "Main variables are airflow speed and oxygen concentration (oxygen varied below 21% by adding nitrogen). Flame appearance, flame growth, and spread rates were determined in both the opposed and concurrent flow.",
+    "source_location": "Approach",
+    "claim_status": "REPORTED_METHOD",
+    "platform": "ISS_FLIGHT",
+    "gravity_level": "microgravity",
+    "topics": [
+      "flame_spread",
+      "material_flammability"
+    ],
+    "conditions": "oxygen varied below 21% by adding nitrogen",
+    "doi": "10.60555/4qc4-de67",
+    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
+    "materials": [],
+    "review": {
+      "status": "DRAFT",
+      "reviewer": null,
+      "date": null
+    }
+  },
+  {
+    "claim_id": "EARTH-003",
+    "investigation_id": "PSI-25",
+    "source_id": "PSI-25",
+    "claim_text": "The BASS-II record states that its combustion models can be used to more accurately study flames on Earth, such as in wildfires, building fires, and energy recapture from waste recycling.",
+    "source_excerpt": "These models can then be used to more accurately study flames on Earth, such as in wildfires, building fires, energy recapture from waste recycling, and other combustion problems.",
+    "source_location": "Research impacts",
+    "claim_status": "OBJECTIVE_OR_HYPOTHESIS",
+    "evidence_label": "Earth application",
+    "platform": "UNSPECIFIED",
+    "gravity_level": "1g",
+    "topics": [
+      "earth_application"
+    ],
+    "doi": "10.60555/4qc4-de67",
+    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
+    "materials": [],
+    "review": {
+      "status": "DRAFT",
+      "reviewer": null,
+      "date": null
+    }
+  },
+  {
+    "claim_id": "SAFFIRE-I-001",
+    "investigation_id": "PSI-98",
+    "source_id": "PSI-98",
+    "claim_text": "Saffire-I objectives were to determine how rapidly a large scale fire grows in low-gravity and to investigate the low-g flammability limits compared to those obtained in NASA’s normal gravity material flammability screening test.",
+    "source_excerpt": "(1) determine how rapidly a large scale fire grows in low-gravity and (2) investigate the low-g flammability limits compared to those obtained in NASA’s normal gravity material flammability screening test.",
+    "source_location": "Objective",
+    "claim_status": "OBJECTIVE_OR_HYPOTHESIS",
+    "platform": "ISS_FLIGHT",
+    "gravity_level": "microgravity",
+    "topics": [
+      "material_flammability",
+      "flame_spread"
+    ],
+    "doi": "10.60555/0t15-1z43",
+    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-98",
+    "materials": [],
+    "review": {
+      "status": "DRAFT",
+      "reviewer": null,
+      "date": null
+    }
+  },
+  {
+    "claim_id": "SAFFIRE-I-002",
+    "investigation_id": "PSI-98",
+    "source_id": "PSI-98",
+    "claim_text": "The Saffire-I sample material is a composite fabric called Sibal consisting of cotton on a fiberglass substrate (75% cotton, 25% fiberglass by weight).",
+    "source_excerpt": "The sample material for Saffire-I is a composite fabric called Sibal consisting of cotton on a fiberglass substrate (75% cotton, 25% fiberglass by weight).",
+    "source_location": "Approach",
+    "claim_status": "REPORTED_METHOD",
+    "platform": "ISS_FLIGHT",
+    "gravity_level": "microgravity",
+    "topics": [
+      "material_flammability"
+    ],
+    "materials": [
+      "Sibal (75% cotton, 25% fiberglass)"
+    ],
+    "conditions": "75% cotton, 25% fiberglass by weight",
+    "doi": "10.60555/0t15-1z43",
+    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-98",
+    "review": {
+      "status": "DRAFT",
+      "reviewer": null,
+      "date": null
+    }
+  },
+  {
+    "claim_id": "SAFFIRE-I-003",
+    "investigation_id": "PSI-98",
+    "source_id": "PSI-98",
+    "claim_text": "The Saffire-I sample was approximately 0.94 meters long and 0.4 meters wide, simulating a large piece of flammable fabric.",
+    "source_excerpt": "The sample was approximately 0.94 meters long and 0.4 meters wide, simulating a large piece of flammable fabric.",
+    "source_location": "Approach",
+    "claim_status": "REPORTED_METHOD",
+    "platform": "ISS_FLIGHT",
+    "gravity_level": "microgravity",
+    "topics": [
+      "flame_spread"
+    ],
+    "conditions": "sample approximately 0.94 meters long and 0.4 meters wide",
+    "doi": "10.60555/0t15-1z43",
+    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-98",
+    "materials": [],
+    "review": {
+      "status": "DRAFT",
+      "reviewer": null,
+      "date": null
+    }
+  },
+  {
+    "claim_id": "SAFFIRE-I-004",
+    "investigation_id": "PSI-98",
+    "source_id": "PSI-98",
+    "claim_text": "Saffire-I was conducted at an air flow velocity of 20 cm/s.",
+    "source_excerpt": "Saffire-I was conducted at an air flow velocity of 20 cm/s.",
+    "source_location": "Approach",
+    "claim_status": "REPORTED_METHOD",
+    "platform": "ISS_FLIGHT",
+    "gravity_level": "microgravity",
+    "topics": [
+      "flame_spread"
+    ],
+    "airflow": {
+      "value": 20,
+      "unit": "cm/s",
+      "gravity_level": "microgravity"
+    },
+    "conditions": "air flow velocity of 20 cm/s",
+    "doi": "10.60555/0t15-1z43",
+    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-98",
+    "materials": [],
+    "review": {
+      "status": "DRAFT",
+      "reviewer": null,
+      "date": null
+    }
+  },
+  {
+    "claim_id": "SAFFIRE-I-005",
+    "investigation_id": "PSI-98",
+    "source_id": "PSI-98",
+    "claim_text": "The Saffire-1 experiment was performed on the Orbital Science’s Cygnus resupply vehicle after it deberthed from the ISS.",
+    "source_excerpt": "The Saffire-1 experiments was performed on the Orbital Science’s Cygnus resupply vehicle after it deberthed from the ISS.",
+    "source_location": "Approach",
+    "claim_status": "REPORTED_RESULT",
+    "evidence_label": "Equipment specification",
+    "platform": "ISS_FLIGHT",
+    "gravity_level": "microgravity",
+    "topics": [
+      "measurement_method"
+    ],
+    "doi": "10.60555/0t15-1z43",
+    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-98",
+    "materials": [],
+    "review": {
+      "status": "DRAFT",
+      "reviewer": null,
+      "date": null
+    }
+  },
+  {
+    "claim_id": "SAFFIRE-I-006",
+    "investigation_id": "PSI-98",
+    "source_id": "PSI-98",
+    "claim_text": "Saffire-I diagnostics included thermocouples for flow, flame, and plume temperatures, two radiometers, solid state sensors for pressure, CO2 and O2 mole faction, and two anemometer for flow velocity.",
+    "source_excerpt": "In addition, thermocouples provided flow, flame, and plume temperatures, two radiometers recorded flame radiation, solid state sensors were used to measure pressure, CO2 and O2 mole faction, and two anemometer tracked flow velocity.",
+    "source_location": "Approach",
+    "claim_status": "REPORTED_METHOD",
+    "platform": "ISS_FLIGHT",
+    "gravity_level": "microgravity",
+    "topics": [
+      "measurement_method"
+    ],
+    "doi": "10.60555/0t15-1z43",
+    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-98",
+    "materials": [],
+    "review": {
+      "status": "DRAFT",
+      "reviewer": null,
+      "date": null
+    }
+  },
+  {
+    "claim_id": "EARTH-004",
+    "investigation_id": "PSI-98",
+    "source_id": "PSI-98",
+    "claim_text": "The Saffire-I record states that studying fire in small, sealed environments such as the Cygnus cargo supply vehicle benefits fire safety and prevention efforts on Earth, including inside mines, airplanes, or submarines.",
+    "source_excerpt": "Studying fire in small, sealed environments such as the Cygnus cargo supply vehicle benefits fire safety and prevention efforts on Earth, including inside mines, airplanes, or submarines.",
+    "source_location": "Research impacts",
+    "claim_status": "OBJECTIVE_OR_HYPOTHESIS",
+    "evidence_label": "Earth application",
+    "platform": "UNSPECIFIED",
+    "gravity_level": "1g",
+    "topics": [
+      "earth_application"
+    ],
+    "doi": "10.60555/0t15-1z43",
+    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-98",
+    "materials": [],
+    "review": {
+      "status": "DRAFT",
+      "reviewer": null,
+      "date": null
+    }
+  },
+  {
+    "claim_id": "SAFFIRE-II-001",
+    "investigation_id": "PSI-99",
+    "source_id": "PSI-99",
+    "claim_text": "Saffire-II objectives are to determine how rapidly a large scale fire grows in low-gravity and to investigate the low-g flammability limits compared to those obtained in NASA’s normal gravity material flammability screening test.",
+    "source_excerpt": "The objectives of SAFFIRE-II are to determine how rapidly a large scale fire grows in low-gravity and to investigate the low-g flammability limits compared to those obtained in NASA’s normal gravity material flammability screening test.",
+    "source_location": "Objective",
+    "claim_status": "OBJECTIVE_OR_HYPOTHESIS",
+    "platform": "ISS_FLIGHT",
+    "gravity_level": "microgravity",
+    "topics": [
+      "material_flammability",
+      "flame_spread"
+    ],
+    "doi": "10.60555/2chp-m469",
+    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-99",
+    "materials": [],
+    "review": {
+      "status": "DRAFT",
+      "reviewer": null,
+      "date": null
+    }
+  },
+  {
+    "claim_id": "SAFFIRE-II-002",
+    "investigation_id": "PSI-99",
+    "source_id": "PSI-99",
+    "claim_text": "Saffire-II added more samples including SIBAL, silicone, structure PMMA, flat PMMA, and PMMA with Nomex.",
+    "source_excerpt": "As a follow on to the Saffire-I investigation, the Saffire-II investigation added more samples including SIBAL, silicone, structure PMMA, flat PMMA, and PMMA with Nomex.",
+    "source_location": "Approach",
+    "claim_status": "REPORTED_METHOD",
+    "platform": "ISS_FLIGHT",
+    "gravity_level": "microgravity",
+    "topics": [
+      "material_flammability"
+    ],
+    "materials": [
+      "SIBAL",
+      "silicone",
+      "PMMA",
+      "Nomex"
+    ],
+    "doi": "10.60555/2chp-m469",
+    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-99",
+    "review": {
+      "status": "DRAFT",
+      "reviewer": null,
+      "date": null
+    }
+  },
+  {
+    "claim_id": "SAFFIRE-II-003",
+    "investigation_id": "PSI-99",
+    "source_id": "PSI-99",
+    "claim_text": "Saffire-II has a sample card that contains 9 samples, each 5 cm x 29 cm.",
+    "source_excerpt": "Saffire-II has a sample card that contains 9 samples, each 5 cm x 29 cm.",
+    "source_location": "Approach",
+    "claim_status": "REPORTED_METHOD",
+    "platform": "ISS_FLIGHT",
+    "gravity_level": "microgravity",
+    "topics": [
+      "flame_spread"
+    ],
+    "conditions": "9 samples, each 5 cm x 29 cm",
+    "doi": "10.60555/2chp-m469",
+    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-99",
+    "materials": [],
+    "review": {
+      "status": "DRAFT",
+      "reviewer": null,
+      "date": null
+    }
+  },
+  {
+    "claim_id": "SAFFIRE-II-004",
+    "investigation_id": "PSI-99",
+    "source_id": "PSI-99",
+    "claim_text": "Depending on the sample material, Saffire-II was conducted at an air flow velocity of either 20 or 30 cm/s, the flow being either concurrent or opposed.",
+    "source_excerpt": "Depending on the sample material, the Saffire-II was conducted at an air flow velocity of either 20 or 30 cm/s, the flow being either concurrent or opposed.",
+    "source_location": "Approach",
+    "claim_status": "REPORTED_METHOD",
+    "platform": "ISS_FLIGHT",
+    "gravity_level": "microgravity",
+    "topics": [
+      "flame_spread"
+    ],
+    "conditions": "air flow velocity of either 20 or 30 cm/s, concurrent or opposed",
+    "doi": "10.60555/2chp-m469",
+    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-99",
+    "materials": [],
+    "review": {
+      "status": "DRAFT",
+      "reviewer": null,
+      "date": null
+    }
+  },
+  {
+    "claim_id": "SAFFIRE-II-005",
+    "investigation_id": "PSI-99",
+    "source_id": "PSI-99",
+    "claim_text": "The Saffire-II experiment was performed on the Orbital Science’s Cygnus resupply vehicle after it deberthed from the ISS.",
+    "source_excerpt": "The Saffire-II experiment was performed on the Orbital Science’s Cygnus resupply vehicle after it deberthed from the ISS.",
+    "source_location": "Approach",
+    "claim_status": "REPORTED_RESULT",
+    "evidence_label": "Equipment specification",
+    "platform": "ISS_FLIGHT",
+    "gravity_level": "microgravity",
+    "topics": [
+      "measurement_method"
+    ],
+    "doi": "10.60555/2chp-m469",
+    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-99",
+    "materials": [],
+    "review": {
+      "status": "DRAFT",
+      "reviewer": null,
+      "date": null
+    }
+  },
+  {
+    "claim_id": "EARTH-005",
+    "investigation_id": "PSI-99",
+    "source_id": "PSI-99",
+    "claim_text": "The Saffire-II record states that studying fire in small, sealed environments such as the Cygnus cargo supply vehicle benefits fire safety and prevention efforts on Earth, including inside mines, airplanes, or submarines.",
+    "source_excerpt": "Studying fire in small, sealed environments such as the Cygnus cargo supply vehicle benefits fire safety and prevention efforts on Earth, including inside mines, airplanes, or submarines.",
+    "source_location": "Research impacts",
+    "claim_status": "OBJECTIVE_OR_HYPOTHESIS",
+    "evidence_label": "Earth application",
+    "platform": "UNSPECIFIED",
+    "gravity_level": "1g",
+    "topics": [
+      "earth_application"
+    ],
+    "doi": "10.60555/2chp-m469",
+    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-99",
+    "materials": [],
+    "review": {
+      "status": "DRAFT",
+      "reviewer": null,
+      "date": null
+    }
+  },
+  {
+    "claim_id": "SAFFIRE-III-001",
+    "investigation_id": "PSI-100",
+    "source_id": "PSI-100",
+    "claim_text": "Saffire-III objectives were to determine how rapidly a large scale fire grows in low-gravity and to investigate the low-g flammability limits compared to those obtained in NASA’s normal gravity material flammability screening test.",
+    "source_excerpt": "(1) determine how rapidly a large scale fire grows in low-gravity and (2) investigate the low-g flammability limits compared to those obtained in NASA’s normal gravity material flammability screening test.",
+    "source_location": "Objective",
+    "claim_status": "OBJECTIVE_OR_HYPOTHESIS",
+    "platform": "ISS_FLIGHT",
+    "gravity_level": "microgravity",
+    "topics": [
+      "material_flammability",
+      "flame_spread"
+    ],
+    "doi": "10.60555/040q-4h36",
+    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-100",
+    "materials": [],
+    "review": {
+      "status": "DRAFT",
+      "reviewer": null,
+      "date": null
+    }
+  },
+  {
+    "claim_id": "SAFFIRE-III-002",
+    "investigation_id": "PSI-100",
+    "source_id": "PSI-100",
+    "claim_text": "Saffire-III experiments were conducted at a flow velocity of 30 cm/s compared to 20 cm/s during Saffire I, with the flow either concurrent or opposed.",
+    "source_excerpt": "However, the experiments were conducted at a flow velocity of 30 cm/s compared to 20 cm/s during Saffire I. The flow was either concurrent or opposed.",
+    "source_location": "Approach",
+    "claim_status": "REPORTED_METHOD",
+    "platform": "ISS_FLIGHT",
+    "gravity_level": "microgravity",
+    "topics": [
+      "flame_spread"
+    ],
+    "conditions": "flow velocity of 30 cm/s compared to 20 cm/s during Saffire I, concurrent or opposed",
+    "airflow": {
+      "value": 30,
+      "unit": "cm/s",
+      "gravity_level": "microgravity"
+    },
+    "doi": "10.60555/040q-4h36",
+    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-100",
+    "materials": [],
+    "review": {
+      "status": "DRAFT",
+      "reviewer": null,
+      "date": null
+    }
+  },
+  {
+    "claim_id": "SAFFIRE-III-003",
+    "investigation_id": "PSI-100",
+    "source_id": "PSI-100",
+    "claim_text": "The Saffire-III experiments were performed on the Orbital Science’s Cygnus resupply vehicle after it deberthed from the ISS.",
+    "source_excerpt": "The Saffire-III experiments were performed on the Orbital Science’s Cygnus resupply vehicle after it deberthed from the ISS.",
+    "source_location": "Approach",
+    "claim_status": "REPORTED_RESULT",
+    "evidence_label": "Equipment specification",
+    "platform": "ISS_FLIGHT",
+    "gravity_level": "microgravity",
+    "topics": [
+      "measurement_method"
+    ],
+    "doi": "10.60555/040q-4h36",
+    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-100",
+    "materials": [],
+    "review": {
+      "status": "DRAFT",
+      "reviewer": null,
+      "date": null
+    }
+  },
+  {
+    "claim_id": "SAFFIRE-III-004",
+    "investigation_id": "PSI-100",
+    "source_id": "PSI-100",
+    "claim_text": "The Saffire-III investigation also used SIBAL as the sample material.",
+    "source_excerpt": "As a follow on to the Saffire 1 investigation, the Saffire III investigation also used SIBAL as the sample material.",
+    "source_location": "Approach",
+    "claim_status": "REPORTED_METHOD",
+    "platform": "ISS_FLIGHT",
+    "gravity_level": "microgravity",
+    "topics": [
+      "material_flammability"
+    ],
+    "materials": [
+      "SIBAL"
+    ],
+    "doi": "10.60555/040q-4h36",
+    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-100",
+    "review": {
+      "status": "DRAFT",
+      "reviewer": null,
+      "date": null
+    }
+  },
+  {
+    "claim_id": "EARTH-006",
+    "investigation_id": "PSI-100",
+    "source_id": "PSI-100",
+    "claim_text": "The Saffire-III PSI record states that studying fire in small, sealed environments such as the Cygnus cargo supply vehicle benefits fire safety and prevention efforts on Earth, including inside mines, airplanes, or submarines.",
+    "source_excerpt": "Studying fire in small, sealed environments such as the Cygnus cargo supply vehicle benefits fire safety and prevention efforts on Earth, including inside mines, airplanes, or submarines.",
+    "source_location": "Research impacts",
+    "claim_status": "OBJECTIVE_OR_HYPOTHESIS",
+    "evidence_label": "Earth application",
+    "platform": "UNSPECIFIED",
+    "gravity_level": "1g",
+    "topics": [
+      "earth_application"
+    ],
+    "doi": "10.60555/040q-4h36",
+    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-100",
+    "materials": [],
+    "review": {
+      "status": "DRAFT",
+      "reviewer": null,
+      "date": null
+    }
+  },
+  {
+    "claim_id": "FLEX-001",
+    "investigation_id": "PSI-69",
+    "source_id": "PSI-69",
+    "claim_text": "FLEX aims to map the flammability limits of liquid fuels in microgravity environments and measure the effectiveness of various gaseous fire suppressants such as CO2, He, and SF6.",
+    "source_excerpt": "The FLEX (Flame Extinguishment Experiment) investigation aims to map the flammability limits of liquid fuels in microgravity environments, measure the effectiveness of various gaseous fire suppressants such as CO2, He, and SF6, and develop reliable predictive models for combustion limits under reduced gravity conditions.",
+    "source_location": "Objective",
+    "claim_status": "OBJECTIVE_OR_HYPOTHESIS",
+    "platform": "ISS_FLIGHT",
+    "gravity_level": "microgravity",
+    "topics": [
+      "material_flammability"
+    ],
+    "doi": "10.60555/mbq8-0451",
+    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-69",
+    "materials": [],
+    "review": {
+      "status": "DRAFT",
+      "reviewer": null,
+      "date": null
+    }
+  },
+  {
+    "claim_id": "FLEX-002",
+    "investigation_id": "PSI-69",
+    "source_id": "PSI-69",
+    "claim_text": "FLEX hardware is listed as the Combustion Integrated Rack (CIR)-Fluids and Combustion Facility (FCF) and the Multi-user Droplet Combustion Appartatus (MDCA).",
+    "source_excerpt": "Combustion Integrated Rack (CIR)-Fluids and Combustion Facility (FCF), Multi-user Droplet Combustion Appartatus (MDCA)",
+    "source_location": "experimentHardware",
+    "claim_status": "REPORTED_RESULT",
+    "evidence_label": "Equipment specification",
+    "platform": "ISS_FLIGHT",
+    "gravity_level": "microgravity",
+    "topics": [
+      "measurement_method"
+    ],
+    "doi": "10.60555/mbq8-0451",
+    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-69",
+    "materials": [],
+    "review": {
+      "status": "DRAFT",
+      "reviewer": null,
+      "date": null
+    }
+  },
+  {
+    "claim_id": "FLEX-003",
+    "investigation_id": "PSI-69",
+    "source_id": "PSI-69",
+    "claim_text": "A primary FLEX objective is to determine the Limiting Oxygen Index (LOI) as a function of ambient pressure and determine how the presence of a suppressant influences the LOI.",
+    "source_excerpt": "A primary objective of the experiments is to determine the Limiting Oxygen Index (LOI) as a function of ambient pressure and determine how the presence of a suppressant influences the LOI .",
+    "source_location": "Approach",
+    "claim_status": "OBJECTIVE_OR_HYPOTHESIS",
+    "platform": "ISS_FLIGHT",
+    "gravity_level": "microgravity",
+    "topics": [
+      "material_flammability"
+    ],
+    "doi": "10.60555/mbq8-0451",
+    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-69",
+    "materials": [],
+    "review": {
+      "status": "DRAFT",
+      "reviewer": null,
+      "date": null
+    }
+  },
+  {
+    "claim_id": "FLEX-004",
+    "investigation_id": "PSI-69",
+    "source_id": "PSI-69",
+    "claim_text": "The FLEX LOI procedure selects a test pressure of 0.5 − 1.5 atm and a smaller droplet size of approximately 3 mm.",
+    "source_excerpt": "1. Select the test pressure (0.5 − 1.5 atm) for the LOI tests.\n  2. Select a smaller droplet size (≈ 3 mm)",
+    "source_location": "Approach",
+    "claim_status": "REPORTED_METHOD",
+    "platform": "ISS_FLIGHT",
+    "gravity_level": "microgravity",
+    "topics": [
+      "material_flammability"
+    ],
+    "conditions": "test pressure 0.5 − 1.5 atm; smaller droplet size ≈ 3 mm",
+    "doi": "10.60555/mbq8-0451",
+    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-69",
+    "materials": [],
+    "review": {
+      "status": "DRAFT",
+      "reviewer": null,
+      "date": null
+    }
+  },
+  {
+    "claim_id": "EARTH-007",
+    "investigation_id": "PSI-69",
+    "source_id": "PSI-69",
+    "claim_text": "The FLEX record states that insights from these experiments have the potential to advance fire safety in confined and reduced-gravity environments, such as submarines or high-altitude aircraft.",
+    "source_excerpt": "On Earth, the insights gained from these experiments have the potential to advance fire safety in confined and reduced-gravity environments, such as submarines or high-altitude aircraft.",
+    "source_location": "Research impacts",
+    "claim_status": "OBJECTIVE_OR_HYPOTHESIS",
+    "evidence_label": "Earth application",
+    "platform": "UNSPECIFIED",
+    "gravity_level": "1g",
+    "topics": [
+      "earth_application"
+    ],
+    "doi": "10.60555/mbq8-0451",
+    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-69",
+    "materials": [],
+    "review": {
+      "status": "DRAFT",
+      "reviewer": null,
+      "date": null
+    }
+  },
+  {
+    "claim_id": "FLEX2-001",
+    "investigation_id": "PSI-68",
+    "source_id": "PSI-68",
+    "claim_text": "The primary goal of the FLEX-2 flight experiments is to extend the results of FLEX-1 to fuels and environmental conditions that mimic real combustor conditions, and to provide benchmark data on bi-component droplet combustion.",
+    "source_excerpt": "The primary goal of the FLEX-2 flight experiments is to extend the results of FLEX-1 to fuels and environmental conditions that mimic real combustor conditions, as well as, provide benchmark experimental data on bi-component droplet combustion over a wide range of initial conditions in order to validate numerical simulations and to develop new theoretical models.",
+    "source_location": "Objective",
+    "claim_status": "OBJECTIVE_OR_HYPOTHESIS",
+    "platform": "ISS_FLIGHT",
+    "gravity_level": "microgravity",
+    "topics": [
+      "material_flammability"
+    ],
+    "doi": "10.60555/byp8-h018",
+    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-68",
+    "materials": [],
+    "review": {
+      "status": "DRAFT",
+      "reviewer": null,
+      "date": null
+    }
+  },
+  {
+    "claim_id": "FLEX2-002",
+    "investigation_id": "PSI-68",
+    "source_id": "PSI-68",
+    "claim_text": "The investigation hardware is listed as the Combustion Integrated Rack (CIR) and the Multi-user Droplet Combustion Appartatus (MDCA).",
+    "source_excerpt": "Combustion Integrated Rack (CIR), Multi-user Droplet Combustion Appartatus (MDCA)",
+    "source_location": "experimentHardware",
+    "claim_status": "REPORTED_RESULT",
+    "evidence_label": "Equipment specification",
+    "platform": "ISS_FLIGHT",
+    "gravity_level": "microgravity",
+    "topics": [
+      "measurement_method"
+    ],
+    "doi": "10.60555/byp8-h018",
+    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-68",
+    "materials": [],
+    "review": {
+      "status": "DRAFT",
+      "reviewer": null,
+      "date": null
+    }
+  },
+  {
+    "claim_id": "FLEX2-003",
+    "investigation_id": "PSI-68",
+    "source_id": "PSI-68",
+    "claim_text": "The chamber atmosphere was varied in pressure between 0.5 atm to 3.0 atm and O2 concentration between 0.1 to 0.4 mole fraction, with the diluent gas making up the balance.",
+    "source_excerpt": "The chamber was filled with the appropriate atmosphere, which was varied in pressure between 0.5 atm to 3.0 atm and O2 concentration between 0.1 to 0.4 mole fraction with the diluent gas making up the balance.",
+    "source_location": "Approach",
+    "claim_status": "REPORTED_METHOD",
+    "platform": "ISS_FLIGHT",
+    "gravity_level": "microgravity",
+    "topics": [
+      "material_flammability"
+    ],
+    "conditions": "pressure between 0.5 atm to 3.0 atm; O2 concentration between 0.1 to 0.4 mole fraction",
+    "doi": "10.60555/byp8-h018",
+    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-68",
+    "materials": [],
+    "review": {
+      "status": "DRAFT",
+      "reviewer": null,
+      "date": null
+    }
+  },
+  {
+    "claim_id": "FLEX2-004",
+    "investigation_id": "PSI-68",
+    "source_id": "PSI-68",
+    "claim_text": "Independently varied FLEX-2 parameters included fuel type, ambient gas composition, ambient pressure, droplet initial diameter, droplet translation velocity (and acceleration), and droplet spacing and initial size in a binary linear array.",
+    "source_excerpt": "The independently varied experimental parameters during FLEX-2 experiments were 1) Fuel type 2) Ambient gas composition 3) Ambient Pressure 4) Droplet initial diameter 5) Droplet translation velocity (and acceleration) 6) Droplet spacing and initial size in a binary linear array.",
+    "source_location": "Approach",
+    "claim_status": "REPORTED_METHOD",
+    "platform": "ISS_FLIGHT",
+    "gravity_level": "microgravity",
+    "topics": [
+      "material_flammability"
+    ],
+    "doi": "10.60555/byp8-h018",
+    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-68",
+    "materials": [],
+    "review": {
+      "status": "DRAFT",
+      "reviewer": null,
+      "date": null
+    }
+  },
+  {
+    "claim_id": "CFI-001",
+    "investigation_id": "PSI-39",
+    "source_id": "PSI-39",
+    "claim_text": "CFI objectives include examining the combustion behavior of n-dodecane and mixtures of n-dodecane/iso-dodecane at pressures ranging from 0.25 atm to 5 atm, and analyzing the effects of helium dilution on cool flame behavior.",
+    "source_excerpt": "1) Examine the combustion behavior of n-dodecane and mixtures of n-dodecane/iso-dodecane at pressures ranging from 0.25 atm to 5 atm.\n    2) Analyze the effects of helium dilution on cool flame behavior.",
+    "source_location": "Objective",
+    "claim_status": "OBJECTIVE_OR_HYPOTHESIS",
+    "platform": "ISS_FLIGHT",
+    "gravity_level": "microgravity",
+    "topics": [
+      "material_flammability"
+    ],
+    "materials": [
+      "n-dodecane",
+      "iso-dodecane"
+    ],
+    "conditions": "pressures ranging from 0.25 atm to 5 atm",
+    "doi": "10.60555/m6pj-a914",
+    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-39",
+    "review": {
+      "status": "DRAFT",
+      "reviewer": null,
+      "date": null
+    }
+  },
+  {
+    "claim_id": "CFI-002",
+    "investigation_id": "PSI-39",
+    "source_id": "PSI-39",
+    "claim_text": "CFI hardware is listed as the Multi-User Droplet Combustion Apparatus (MDCA) and the Combustion Integrated Rack (CIR).",
+    "source_excerpt": "Multi-User Droplet Combustion Apparatus (MDCA), Combustion Integrated Rack (CIR)",
+    "source_location": "experimentHardware",
+    "claim_status": "REPORTED_RESULT",
+    "evidence_label": "Equipment specification",
+    "platform": "ISS_FLIGHT",
+    "gravity_level": "microgravity",
+    "topics": [
+      "measurement_method"
+    ],
+    "doi": "10.60555/m6pj-a914",
+    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-39",
+    "materials": [],
+    "review": {
+      "status": "DRAFT",
+      "reviewer": null,
+      "date": null
+    }
+  },
+  {
+    "claim_id": "CFI-003",
+    "investigation_id": "PSI-39",
+    "source_id": "PSI-39",
+    "claim_text": "The CFI approach describes delivery of the desired gas mixture to the combustion chamber ranging from 0.25 to 0.5 atm.",
+    "source_excerpt": "A system of gas bottles and fuel syringes delivers the desired gas mixture to the combustion chamber ranging from 0.25 to 0.5 atm.",
+    "source_location": "Approach",
+    "claim_status": "REPORTED_METHOD",
+    "platform": "ISS_FLIGHT",
+    "gravity_level": "microgravity",
+    "topics": [
+      "material_flammability"
+    ],
+    "conditions": "gas mixture to the combustion chamber ranging from 0.25 to 0.5 atm",
+    "doi": "10.60555/m6pj-a914",
+    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-39",
+    "materials": [],
+    "review": {
+      "status": "DRAFT",
+      "reviewer": null,
+      "date": null
+    }
+  },
+  {
+    "claim_id": "CFI-004",
+    "investigation_id": "PSI-39",
+    "source_id": "PSI-39",
+    "claim_text": "Fuels observed in CFI include n-dodecane, farnesane, and mixtures of n-dodecane/iso-dodecane.",
+    "source_excerpt": "Fuels observed include n-dodecane, farnesane, and mixtures of n-dodecane/iso-dodecane.",
+    "source_location": "Approach",
+    "claim_status": "REPORTED_METHOD",
+    "platform": "ISS_FLIGHT",
+    "gravity_level": "microgravity",
+    "topics": [
+      "material_flammability"
+    ],
+    "materials": [
+      "n-dodecane",
+      "farnesane",
+      "iso-dodecane"
+    ],
+    "doi": "10.60555/m6pj-a914",
+    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-39",
+    "review": {
+      "status": "DRAFT",
+      "reviewer": null,
+      "date": null
+    }
+  },
+  {
+    "claim_id": "CFI-005",
+    "investigation_id": "PSI-39",
+    "source_id": "PSI-39",
+    "claim_text": "CFI diagnostics included a black-and-white camera for droplet size, a UV camera for OH* radical emissions and flame size, other high resolution cameras, and narrow-band and wide-band radiometers for flame radiation.",
+    "source_excerpt": "Flames were observed with a black-and-white camera for droplet size measurements. A UV camera was used for capturing the OH* radical emissions and flame size. Other high resolution cameras were used for monitoring and documentation. Narrow-band and wide-band radiometers for analyzed flame radiation.",
+    "source_location": "Approach",
+    "claim_status": "REPORTED_METHOD",
+    "platform": "ISS_FLIGHT",
+    "gravity_level": "microgravity",
+    "topics": [
+      "measurement_method"
+    ],
+    "doi": "10.60555/m6pj-a914",
+    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-39",
+    "materials": [],
+    "review": {
+      "status": "DRAFT",
+      "reviewer": null,
+      "date": null
+    }
+  },
+  {
+    "claim_id": "CFI-006",
+    "investigation_id": "PSI-39",
+    "source_id": "PSI-39",
+    "claim_text": "The CFI record states that the investigation will support the design of safer spacecraft systems by refining knowledge of combustion in microgravity environments.",
+    "source_excerpt": "and support the design of safer spacecraft systems by refining knowledge of combustion in microgravity environments.",
+    "source_location": "Research impacts",
+    "claim_status": "OBJECTIVE_OR_HYPOTHESIS",
+    "evidence_label": "Authors' statement",
+    "platform": "ISS_FLIGHT",
+    "gravity_level": "microgravity",
+    "topics": [
+      "material_flammability"
+    ],
+    "doi": "10.60555/m6pj-a914",
+    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-39",
+    "materials": [],
+    "review": {
+      "status": "DRAFT",
+      "reviewer": null,
+      "date": null
+    }
+  },
+  {
+    "claim_id": "BRE-001",
+    "investigation_id": "PSI-20",
+    "source_id": "PSI-20",
+    "claim_text": "BRE planned to examine NASA-considered atmospheres for human space missions: 14.7 psia, 21 % oxygen; 10.2 psia, 26.5 %; and 8.2 psia, 34 % oxygen.",
+    "source_excerpt": "NASA - considered atmosphere for human space missions will be examined: 14.7 psia, 21 % oxygen: 10.2 psia, 26.5 %; and 8.2 psia, 34 % oxygen.",
+    "source_location": "Objective",
+    "claim_status": "OBJECTIVE_OR_HYPOTHESIS",
+    "platform": "ISS_FLIGHT",
+    "gravity_level": "microgravity",
+    "topics": [
+      "material_flammability"
+    ],
+    "conditions": "14.7 psia, 21 % oxygen; 10.2 psia, 26.5 %; and 8.2 psia, 34 % oxygen",
+    "attribution_note": "These atmospheres are stated as conditions that will be examined, not as measured BRE results.",
+    "doi": "10.60555/vb93-3y72",
+    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-20",
+    "materials": [],
+    "review": {
+      "status": "DRAFT",
+      "reviewer": null,
+      "date": null
+    }
+  },
+  {
+    "claim_id": "BRE-002",
+    "investigation_id": "PSI-20",
+    "source_id": "PSI-20",
+    "claim_text": "BRE planned to observe burning behavior in long-duration microgravity for CH4/N2 and C2H4/N2 mixtures on porous circular burners of 25 and 50 mm diameter.",
+    "source_excerpt": "Observe burning behavior in long-duration microgravity for CH4/N2 and C2H4/N2mixtures on porous circular burners of 25  and 50 mm diameter.",
+    "source_location": "Objective",
+    "claim_status": "OBJECTIVE_OR_HYPOTHESIS",
+    "platform": "ISS_FLIGHT",
+    "gravity_level": "microgravity",
+    "topics": [
+      "material_flammability"
+    ],
+    "materials": [
+      "CH4/N2",
+      "C2H4/N2"
+    ],
+    "conditions": "porous circular burners of 25  and 50 mm diameter",
+    "doi": "10.60555/vb93-3y72",
+    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-20",
+    "review": {
+      "status": "DRAFT",
+      "reviewer": null,
+      "date": null
+    }
+  },
+  {
+    "claim_id": "BRE-003",
+    "investigation_id": "PSI-20",
+    "source_id": "PSI-20",
+    "claim_text": "BRE hardware is listed as the Combustion Integrated Rack (CIR), ACME.",
+    "source_excerpt": "Combustion Integrated Rack (CIR), ACME",
+    "source_location": "experimentHardware",
+    "claim_status": "REPORTED_RESULT",
+    "evidence_label": "Equipment specification",
+    "platform": "ISS_FLIGHT",
+    "gravity_level": "microgravity",
+    "topics": [
+      "measurement_method"
+    ],
+    "doi": "10.60555/vb93-3y72",
+    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-20",
+    "materials": [],
+    "review": {
+      "status": "DRAFT",
+      "reviewer": null,
+      "date": null
+    }
+  },
+  {
+    "claim_id": "BRE-004",
+    "investigation_id": "PSI-20",
+    "source_id": "PSI-20",
+    "claim_text": "The BRE record reports that quasi-steady burning corresponding to various condensed-phase materials (such as PMMA and Nylon) was observed in microgravity despite the absence of air flow.",
+    "source_excerpt": "Quasi-steady burning corresponding to various condensed-phase materials (such as PMMA and Nylon) was observed in microgravity despite the absence of air flow, where the cessation of ventilation is an established step in putting out spacecraft fires.",
+    "source_location": "Research impacts",
+    "claim_status": "REPORTED_RESULT",
+    "platform": "ISS_FLIGHT",
+    "gravity_level": "microgravity",
+    "topics": [
+      "material_flammability"
+    ],
+    "materials": [
+      "PMMA",
+      "Nylon"
+    ],
+    "doi": "10.60555/vb93-3y72",
+    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-20",
+    "review": {
+      "status": "DRAFT",
+      "reviewer": null,
+      "date": null
+    }
+  },
+  {
+    "claim_id": "BRE-005",
+    "investigation_id": "PSI-20",
+    "source_id": "PSI-20",
+    "claim_text": "The BRE record reports that ongoing combustion without air flow was notably seen in elevated-oxygen atmospheres being considered for future spacecraft, whereas such flames in a normal atmosphere of 21% oxygen self-extinguished in a short time.",
+    "source_excerpt": "The ongoing combustion without air flow was notably seen in elevated-oxygen atmospheres which are being considered for use in future spacecraft, whereas such flames in a normal atmosphere of 21% oxygen self-extinguished in a short time.",
+    "source_location": "Research impacts",
+    "claim_status": "REPORTED_RESULT",
+    "platform": "ISS_FLIGHT",
+    "gravity_level": "microgravity",
+    "topics": [
+      "material_flammability"
+    ],
+    "conditions": "normal atmosphere of 21% oxygen",
+    "doi": "10.60555/vb93-3y72",
+    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-20",
+    "materials": [],
+    "review": {
+      "status": "DRAFT",
+      "reviewer": null,
+      "date": null
+    }
+  },
+  {
+    "claim_id": "BRE-006",
+    "investigation_id": "PSI-20",
+    "source_id": "PSI-20",
+    "claim_text": "The BRE record, while describing results as still preliminary, suggests that NASA may want to increase use of its alternative flammability Test 2, with the cone calorimeter.",
+    "source_excerpt": "While BRE’s results are still preliminary, they suggest that NASA may want to increase use of its alternative flammability Test 2, with the cone calorimeter, where that test can measure material properties corresponding to the microgravity flames observed with the BRE burner.",
+    "source_location": "Research impacts",
+    "claim_status": "OBJECTIVE_OR_HYPOTHESIS",
+    "evidence_label": "Authors' suggestion",
+    "platform": "ISS_FLIGHT",
+    "gravity_level": "microgravity",
+    "topics": [
+      "material_flammability"
+    ],
+    "doi": "10.60555/vb93-3y72",
+    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-20",
+    "materials": [],
+    "review": {
+      "status": "DRAFT",
+      "reviewer": null,
+      "date": null
+    }
+  },
+  {
+    "claim_id": "BRE-007",
+    "investigation_id": "PSI-20",
+    "source_id": "PSI-20",
+    "claim_text": "BRE also planned to consider the Objective 1 conditions for ambients of O2/CO2 (desired) and for extinction limits.",
+    "source_excerpt": "2. Consider the conditions of Objective 1 for ambients of O2/CO2 (desired).\n  3. Consider the conditions of Objectives 1 – 2 for extinction limits.",
+    "source_location": "Objective",
+    "claim_status": "OBJECTIVE_OR_HYPOTHESIS",
+    "platform": "ISS_FLIGHT",
+    "gravity_level": "microgravity",
+    "topics": [
+      "material_flammability"
+    ],
+    "doi": "10.60555/vb93-3y72",
+    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-20",
+    "materials": [],
+    "review": {
+      "status": "DRAFT",
+      "reviewer": null,
+      "date": null
+    }
+  },
+  {
+    "claim_id": "CFIG-001",
+    "investigation_id": "PSI-159",
+    "source_id": "PSI-159",
+    "claim_text": "CFI-G aimed to determine the conditions for which cool diffusion flames occur for propane, n-butane, and n-pentane; normal and inverse flames; and a broad range of Zst, Tad, and fluent flow rate.",
+    "source_excerpt": "2. Determine the conditions for which cool diffusion flames occur for propane, n-butane, and n-pentane; normal and inverse flames; and a broad range of Zst, Tad, and fluent flow rate.",
+    "source_location": "Objective",
+    "claim_status": "OBJECTIVE_OR_HYPOTHESIS",
+    "platform": "ISS_FLIGHT",
+    "gravity_level": "microgravity",
+    "topics": [
+      "material_flammability"
+    ],
+    "materials": [
+      "propane",
+      "n-butane",
+      "n-pentane"
+    ],
+    "doi": "10.60555/cyt1-kh64",
+    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-159",
+    "review": {
+      "status": "DRAFT",
+      "reviewer": null,
+      "date": null
+    }
+  },
+  {
+    "claim_id": "CFIG-002",
+    "investigation_id": "PSI-159",
+    "source_id": "PSI-159",
+    "claim_text": "CFI-G hardware is listed as ACME, Combustion Integrated Rack (CIR).",
+    "source_excerpt": "ACME, Combustion Integrated Rack (CIR)",
+    "source_location": "experimentHardware",
+    "claim_status": "REPORTED_RESULT",
+    "evidence_label": "Equipment specification",
+    "platform": "ISS_FLIGHT",
+    "gravity_level": "microgravity",
+    "topics": [
+      "measurement_method"
+    ],
+    "doi": "10.60555/cyt1-kh64",
+    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-159",
+    "materials": [],
+    "review": {
+      "status": "DRAFT",
+      "reviewer": null,
+      "date": null
+    }
+  },
+  {
+    "claim_id": "CFIG-003",
+    "investigation_id": "PSI-159",
+    "source_id": "PSI-159",
+    "claim_text": "The investigation planned to perform spherical diffusion flame tests aboard the ISS, considering multiple fuels, a range of reactant dilutions, flow rates, and pressures for normal and inverse convection directions.",
+    "source_excerpt": "Perform spherical diffusion flame tests aboard the International Space Station. Consider multiple fuels, a range of reactant dilutions, flow rates, and pressures for normal and inverse convection directions.",
+    "source_location": "Approach",
+    "claim_status": "OBJECTIVE_OR_HYPOTHESIS",
+    "platform": "ISS_FLIGHT",
+    "gravity_level": "microgravity",
+    "topics": [
+      "material_flammability"
+    ],
+    "doi": "10.60555/cyt1-kh64",
+    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-159",
+    "materials": [],
+    "review": {
+      "status": "DRAFT",
+      "reviewer": null,
+      "date": null
+    }
+  },
+  {
+    "claim_id": "CFIG-004",
+    "investigation_id": "PSI-159",
+    "source_id": "PSI-159",
+    "claim_text": "The investigation planned to observe the flames with a broad suite of cameras, radiometers, photomultiplier tubes, and thermocouples.",
+    "source_excerpt": "Observe the flames with a broad suite of cameras, radiometers, photomultiplier tubes, and thermocouples.",
+    "source_location": "Approach",
+    "claim_status": "OBJECTIVE_OR_HYPOTHESIS",
+    "platform": "ISS_FLIGHT",
+    "gravity_level": "microgravity",
+    "topics": [
+      "measurement_method"
+    ],
+    "doi": "10.60555/cyt1-kh64",
+    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-159",
+    "materials": [],
+    "review": {
+      "status": "DRAFT",
+      "reviewer": null,
+      "date": null
+    }
+  },
+  {
+    "claim_id": "CFIG-005",
+    "investigation_id": "PSI-159",
+    "source_id": "PSI-159",
+    "claim_text": "The CFI-G record describes cool diffusion flames as having peak temperatures of 500 – 1000 K.",
+    "source_excerpt": "Research into cool diffusion flames (whose peak temperatures are 500 – 1000 K) has grown exponentially since they were discovered in 2012.",
+    "source_location": "Research impacts",
+    "claim_status": "OBJECTIVE_OR_HYPOTHESIS",
+    "evidence_label": "Authors' statement",
+    "platform": "UNSPECIFIED",
+    "gravity_level": "unspecified",
+    "topics": [
+      "material_flammability"
+    ],
+    "conditions": "peak temperatures are 500 – 1000 K",
+    "doi": "10.60555/cyt1-kh64",
+    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-159",
+    "materials": [],
+    "review": {
+      "status": "DRAFT",
+      "reviewer": null,
+      "date": null
+    }
+  },
+  {
+    "claim_id": "EFIELD-001",
+    "investigation_id": "PSI-22",
+    "source_id": "PSI-22",
+    "claim_text": "The E-FIELD Flames objective is to better understand the relationship between electric field voltage and chemi-ion current, analyze the dynamic response of flames to electric field changes, evaluate soot formation, and characterize stabilized near-limit lifted flames.",
+    "source_excerpt": "The objective of this investigation is to better understand the relationship between electric field voltage and chemi-ion current, analyze the dynamic response of flames to electric field changes, evaluate soot formation, and characterize stabilized near-limit lifted flames.",
+    "source_location": "Objective",
+    "claim_status": "OBJECTIVE_OR_HYPOTHESIS",
+    "platform": "ISS_FLIGHT",
+    "gravity_level": "microgravity",
+    "topics": [
+      "soot_onset"
+    ],
+    "doi": "10.60555/se5a-8c73",
+    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-22",
+    "materials": [],
+    "review": {
+      "status": "DRAFT",
+      "reviewer": null,
+      "date": null
+    }
+  },
+  {
+    "claim_id": "EFIELD-002",
+    "investigation_id": "PSI-22",
+    "source_id": "PSI-22",
+    "claim_text": "E-FIELD Flames hardware is listed as the Combustion Integrated Rack (CIR), ACME.",
+    "source_excerpt": "Combustion Integrated Rack (CIR), ACME",
+    "source_location": "experimentHardware",
+    "claim_status": "REPORTED_RESULT",
+    "evidence_label": "Equipment specification",
+    "platform": "ISS_FLIGHT",
+    "gravity_level": "microgravity",
+    "topics": [
+      "measurement_method"
+    ],
+    "doi": "10.60555/se5a-8c73",
+    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-22",
+    "materials": [],
+    "review": {
+      "status": "DRAFT",
+      "reviewer": null,
+      "date": null
+    }
+  },
+  {
+    "claim_id": "EFIELD-003",
+    "investigation_id": "PSI-22",
+    "source_id": "PSI-22",
+    "claim_text": "An electric field is generated by creating a high voltage (up to 10 kV) differential between the burner and a flat circular mesh suspended above the burner.",
+    "source_excerpt": "An electric field is generated by creating a high voltage (up to 10 kV) differential between the burner and a flat circular mesh suspended above (i.e., downstream of) the burner.",
+    "source_location": "Approach",
+    "claim_status": "REPORTED_METHOD",
+    "platform": "ISS_FLIGHT",
+    "gravity_level": "microgravity",
+    "topics": [
+      "measurement_method"
+    ],
+    "conditions": "high voltage (up to 10 kV)",
+    "doi": "10.60555/se5a-8c73",
+    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-22",
+    "materials": [],
+    "review": {
+      "status": "DRAFT",
+      "reviewer": null,
+      "date": null
+    }
+  },
+  {
+    "claim_id": "EFIELD-004",
+    "investigation_id": "PSI-22",
+    "source_id": "PSI-22",
+    "claim_text": "Methane and ethylene were used as fuels and diluted with nitrogen to control flame strength.",
+    "source_excerpt": "Methane and ethylene were used as fuels and diluted with nitrogen to control flame strength.",
+    "source_location": "Approach",
+    "claim_status": "REPORTED_METHOD",
+    "platform": "ISS_FLIGHT",
+    "gravity_level": "microgravity",
+    "topics": [
+      "soot_onset"
+    ],
+    "materials": [
+      "methane",
+      "ethylene"
+    ],
+    "doi": "10.60555/se5a-8c73",
+    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-22",
+    "review": {
+      "status": "DRAFT",
+      "reviewer": null,
+      "date": null
+    }
+  },
+  {
+    "claim_id": "EFIELD-005",
+    "investigation_id": "PSI-22",
+    "source_id": "PSI-22",
+    "claim_text": "The E-FIELD Flames PSI record states that the research is not being conducted to serve any space applications, but that its findings could aid the development of future space-based combustion devices, for example for solid waste processing.",
+    "source_excerpt": "The E-FIELD Flames research is not being conducted to serve any space applications, but it is possible that its findings could aid the development of future space-based combustion devices (e.g., for solid waste processing).",
+    "source_location": "Research impacts",
+    "claim_status": "OBJECTIVE_OR_HYPOTHESIS",
+    "evidence_label": "Authors' statement",
+    "platform": "ISS_FLIGHT",
+    "gravity_level": "microgravity",
+    "topics": [
+      "earth_application"
+    ],
+    "doi": "10.60555/se5a-8c73",
+    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-22",
+    "materials": [],
+    "review": {
+      "status": "DRAFT",
+      "reviewer": null,
+      "date": null
+    }
+  },
+  {
+    "claim_id": "EARTH-008",
+    "investigation_id": "PSI-22",
+    "source_id": "PSI-22",
+    "claim_text": "The E-FIELD record states that the use of electric fields to control flames can reduce the production of harmful pollutants in practical terrestrial combustion.",
+    "source_excerpt": "The use of electric fields to control flames can reduce the production of harmful pollutants in practical terrestrial combustion.",
+    "source_location": "Research impacts",
+    "claim_status": "OBJECTIVE_OR_HYPOTHESIS",
+    "evidence_label": "Earth application",
+    "platform": "UNSPECIFIED",
+    "gravity_level": "1g",
+    "topics": [
+      "earth_application"
+    ],
+    "doi": "10.60555/se5a-8c73",
+    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-22",
+    "materials": [],
+    "review": {
+      "status": "DRAFT",
+      "reviewer": null,
+      "date": null
+    }
+  },
+  {
+    "claim_id": "SLICE-001",
+    "investigation_id": "PSI-106",
+    "source_id": "PSI-106",
+    "claim_text": "The SLICE objective is to better understand the structure and stability of laminar diffusion flames in microgravity.",
+    "source_excerpt": "The objective of this investigation is to better understand the structure and stability of laminar diffusion flames in microgravity.",
+    "source_location": "Objective",
+    "claim_status": "OBJECTIVE_OR_HYPOTHESIS",
+    "platform": "ISS_FLIGHT",
+    "gravity_level": "microgravity",
+    "topics": [
+      "soot_onset"
+    ],
+    "doi": "10.60555/pm12-rg61",
+    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-106",
+    "materials": [],
+    "review": {
+      "status": "DRAFT",
+      "reviewer": null,
+      "date": null
+    }
+  },
+  {
+    "claim_id": "SLICE-002",
+    "investigation_id": "PSI-106",
+    "source_id": "PSI-106",
+    "claim_text": "SLICE specific objectives included determining the liftoff velocity limits for different fuels and burner diameters, and evaluating the impact of fuel dilution with nitrogen on soot formation and flame stability.",
+    "source_excerpt": "2. Determine the liftoff velocity limits for different fuels and burner diameters.\n3. Evaluate the impact of fuel dilution with nitrogen on soot formation and flame stability.",
+    "source_location": "Objective",
+    "claim_status": "OBJECTIVE_OR_HYPOTHESIS",
+    "platform": "ISS_FLIGHT",
+    "gravity_level": "microgravity",
+    "topics": [
+      "soot_onset"
+    ],
+    "doi": "10.60555/pm12-rg61",
+    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-106",
+    "materials": [],
+    "review": {
+      "status": "DRAFT",
+      "reviewer": null,
+      "date": null
+    }
+  },
+  {
+    "claim_id": "SLICE-003",
+    "investigation_id": "PSI-106",
+    "source_id": "PSI-106",
+    "claim_text": "The SLICE apparatus consisted of a fan-driven flow duct, exchangeable burner tubes, and integrated sensors to measure flow rates and temperature.",
+    "source_excerpt": "The SLICE apparatus consisted of a fan-driven flow duct, exchangeable burner tubes, and integrated sensors to measure flow rates and temperature.",
+    "source_location": "Approach",
+    "claim_status": "REPORTED_RESULT",
+    "evidence_label": "Equipment specification",
+    "platform": "ISS_FLIGHT",
+    "gravity_level": "microgravity",
+    "topics": [
+      "measurement_method"
+    ],
+    "doi": "10.60555/pm12-rg61",
+    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-106",
+    "materials": [],
+    "review": {
+      "status": "DRAFT",
+      "reviewer": null,
+      "date": null
+    }
+  },
+  {
+    "claim_id": "SLICE-004",
+    "investigation_id": "PSI-106",
+    "source_id": "PSI-106",
+    "claim_text": "SLICE used several fuels such as methane, ethylene, and nitrogen-diluted mixtures, with flames observed under controlled coflow air conditions.",
+    "source_excerpt": "This setup used several fuels such as methane, ethylene, and nitrogen-diluted mixtures. Flames were then manually ignited and observed under controlled coflow air conditions.",
+    "source_location": "Approach",
+    "claim_status": "REPORTED_METHOD",
+    "platform": "ISS_FLIGHT",
+    "gravity_level": "microgravity",
+    "topics": [
+      "soot_onset"
+    ],
+    "materials": [
+      "methane",
+      "ethylene"
+    ],
+    "doi": "10.60555/pm12-rg61",
+    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-106",
+    "review": {
+      "status": "DRAFT",
+      "reviewer": null,
+      "date": null
+    }
+  },
+  {
+    "claim_id": "SLICE-005",
+    "investigation_id": "PSI-106",
+    "source_id": "PSI-106",
+    "claim_text": "More than 4,000 high-resolution images were captured across 13 SLICE testing experiments.",
+    "source_excerpt": "More than 4,000 high-resolution images were captured across 13 testing experiments.",
+    "source_location": "Approach",
+    "claim_status": "REPORTED_RESULT",
+    "platform": "ISS_FLIGHT",
+    "gravity_level": "microgravity",
+    "topics": [
+      "measurement_method"
+    ],
+    "quantity": "high-resolution images",
+    "conditions": "across 13 testing experiments",
+    "doi": "10.60555/pm12-rg61",
+    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-106",
+    "materials": [],
+    "review": {
+      "status": "DRAFT",
+      "reviewer": null,
+      "date": null
+    }
+  },
+  {
+    "claim_id": "SLICE-006",
+    "investigation_id": "PSI-106",
+    "source_id": "PSI-106",
+    "claim_text": "The SLICE record lists insights into flame stability and behavior to enhance fire safety as a research impact.",
+    "source_excerpt": "3. Insights into flame stability and behavior to enhance fire safety.",
+    "source_location": "Research impacts",
+    "claim_status": "OBJECTIVE_OR_HYPOTHESIS",
+    "evidence_label": "Authors' statement",
+    "platform": "ISS_FLIGHT",
+    "gravity_level": "microgravity",
+    "topics": [
+      "earth_application"
+    ],
+    "doi": "10.60555/pm12-rg61",
+    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-106",
+    "materials": [],
+    "review": {
+      "status": "DRAFT",
+      "reviewer": null,
+      "date": null
+    }
+  },
+  {
+    "claim_id": "CHALLENGE-001",
+    "investigation_id": null,
+    "source_id": "SPACEAPPS-2026-FIF",
+    "claim_text": "The challenge statement says that, to enable flexibility, spacesuits are filled with 100% oxygen to only 4.3 psi, where the Earth’s pressure at sea level is 14.7 psi.",
+    "source_excerpt": "To enable flexibility, spacesuits are filled with 100% oxygen to only 4.3 psi (pounds per square inch), where the Earth’s pressure at sea level is 14.7 psi.",
+    "source_location": "Spacesuits and oxygen concentration",
+    "claim_status": "OBJECTIVE_OR_HYPOTHESIS",
+    "evidence_label": "Authors' statement",
+    "platform": "UNSPECIFIED",
+    "gravity_level": "unspecified",
+    "topics": [
+      "material_flammability"
+    ],
+    "conditions": "spacesuits 100% oxygen to only 4.3 psi; Earth sea level 14.7 psi",
+    "attribution_note": "Cited as a hashed 2026 NASA Space Apps challenge-statement snapshot, not as a measured PSI result.",
+    "doi": null,
+    "source_url": "https://www.spaceappschallenge.org/2026/challenges/flame-in-freefall/",
+    "materials": [],
+    "review": {
+      "status": "DRAFT",
+      "reviewer": null,
+      "date": null
+    }
+  },
+  {
+    "claim_id": "CHALLENGE-002",
+    "investigation_id": null,
+    "source_id": "SPACEAPPS-2026-FIF",
+    "claim_text": "The challenge statement says it is expected that the Moon Base and pressurized rover(s) will be at a pressure and oxygen concentration between those in a spacesuit and the Earth’s atmosphere.",
+    "source_excerpt": "To reduce the pre-breathing duration and thus facilitate lunar excursions, it is expected that the Moon Base and pressurized rover(s) will be at a pressure and oxygen concentration between those in a spacesuit and the Earth’s atmosphere.",
+    "source_location": "Spacesuits and oxygen concentration",
+    "claim_status": "OBJECTIVE_OR_HYPOTHESIS",
+    "evidence_label": "Authors' statement",
+    "platform": "UNSPECIFIED",
+    "gravity_level": "unspecified",
+    "topics": [
+      "material_flammability"
+    ],
+    "attribution_note": "Cited as a hashed 2026 NASA Space Apps challenge-statement snapshot, not as a measured PSI result.",
+    "doi": null,
+    "source_url": "https://www.spaceappschallenge.org/2026/challenges/flame-in-freefall/",
+    "materials": [],
+    "review": {
+      "status": "DRAFT",
+      "reviewer": null,
+      "date": null
+    }
+  },
+  {
+    "claim_id": "CHALLENGE-003",
+    "investigation_id": null,
+    "source_id": "SPACEAPPS-2026-FIF",
+    "claim_text": "The challenge statement says the intermediate oxygen concentration used on the Moon will likely be 30% or greater, with a corresponding pressure of 10.2 psi or less.",
+    "source_excerpt": "The intermediate oxygen concentration used on the Moon will likely be 30% or greater, with a corresponding pressure of 10.2 psi or less.",
+    "source_location": "Spacesuits and oxygen concentration",
+    "claim_status": "OBJECTIVE_OR_HYPOTHESIS",
+    "evidence_label": "Authors' statement",
+    "platform": "UNSPECIFIED",
+    "gravity_level": "unspecified",
+    "topics": [
+      "material_flammability"
+    ],
+    "conditions": "30% or greater oxygen; 10.2 psi or less",
+    "attribution_note": "Cited as a hashed 2026 NASA Space Apps challenge-statement snapshot, not as a measured PSI result.",
+    "doi": null,
+    "source_url": "https://www.spaceappschallenge.org/2026/challenges/flame-in-freefall/",
+    "materials": [],
+    "review": {
+      "status": "DRAFT",
+      "reviewer": null,
+      "date": null
+    }
+  },
+  {
+    "claim_id": "CHALLENGE-004",
+    "investigation_id": null,
+    "source_id": "SPACEAPPS-2026-FIF",
+    "claim_text": "The challenge statement says that, compared to Earth’s atmosphere, that is more than a 40% increase in the oxygen concentration, making materials much more flammable.",
+    "source_excerpt": "Compared to Earth’s atmosphere, that’s more than a 40% increase in the oxygen concentration making materials much more flammable.",
+    "source_location": "Spacesuits and oxygen concentration",
+    "claim_status": "OBJECTIVE_OR_HYPOTHESIS",
+    "evidence_label": "Authors' statement",
+    "platform": "UNSPECIFIED",
+    "gravity_level": "unspecified",
+    "topics": [
+      "material_flammability"
+    ],
+    "conditions": "more than a 40% increase in the oxygen concentration",
+    "attribution_note": "Cited as a hashed 2026 NASA Space Apps challenge-statement snapshot, not as a measured PSI result.",
+    "doi": null,
+    "source_url": "https://www.spaceappschallenge.org/2026/challenges/flame-in-freefall/",
+    "materials": [],
+    "review": {
+      "status": "DRAFT",
+      "reviewer": null,
+      "date": null
+    }
+  },
+  {
+    "claim_id": "CHALLENGE-005",
+    "investigation_id": null,
+    "source_id": "SPACEAPPS-2026-FIF",
+    "claim_text": "The challenge statement says fine-water-mist extinguishers developed for use on the ISS have practical applications on Earth, and that NASA technology has led to improvements in terrestrial smoke detection and firefighter gear, including protective clothing and air tanks.",
+    "source_excerpt": "Fine-water-mist extinguishers developed for use on the ISS have practical applications here on Earth, and NASA technology has similarly led to improvements in terrestrial smoke detection and firefighter gear, including protective clothing and air tanks.",
+    "source_location": "Earth applications",
+    "claim_status": "OBJECTIVE_OR_HYPOTHESIS",
+    "evidence_label": "Earth application",
+    "platform": "UNSPECIFIED",
+    "gravity_level": "1g",
+    "topics": [
+      "earth_application",
+      "detector_response"
+    ],
+    "attribution_note": "Cited as a hashed 2026 NASA Space Apps challenge-statement snapshot, not as a measured PSI result.",
+    "doi": null,
+    "source_url": "https://www.spaceappschallenge.org/2026/challenges/flame-in-freefall/",
+    "materials": [],
+    "review": {
+      "status": "DRAFT",
+      "reviewer": null,
+      "date": null
+    }
+  },
+  {
+    "claim_id": "CHALLENGE-006",
+    "investigation_id": null,
+    "source_id": "SPACEAPPS-2026-FIF",
+    "claim_text": "The challenge statement says there is currently no partial-gravity combustion data available in PSI, and that such data is expected from LUCI and the FM2 experiment.",
+    "source_excerpt": "there is currently no partial-gravity combustion data available in PSI. We expect such data will be added in the future, for example from the Lunar-g Combustion Investigation (LUCI) and the Flammability of Materials on the Moon (FM2) experiment.",
+    "source_location": "Partial-gravity data",
+    "claim_status": "OBJECTIVE_OR_HYPOTHESIS",
+    "evidence_label": "Authors' statement",
+    "platform": "UNSPECIFIED",
+    "gravity_level": "unspecified",
+    "topics": [
+      "flame_spread"
+    ],
+    "attribution_note": "Cited as a hashed 2026 NASA Space Apps challenge-statement snapshot, not as a measured PSI result.",
+    "doi": null,
+    "source_url": "https://www.spaceappschallenge.org/2026/challenges/flame-in-freefall/",
+    "materials": [],
+    "review": {
+      "status": "DRAFT",
+      "reviewer": null,
+      "date": null
+    }
+  },
+  {
+    "claim_id": "CHALLENGE-007",
+    "investigation_id": null,
+    "source_id": "SPACEAPPS-2026-FIF",
+    "claim_text": "The challenge statement says partial gravity was mimicked in ACME’s E-FIELD Flames experiment through the effect of the electric field on the ions that naturally occur in flames.",
+    "source_excerpt": "Partial gravity was mimicked in ACME’s Electric-Field Effects on Laminar Diffusion Flames (E-FIELD Flames) experiment through the effect of the electric field on the ions that naturally occur in flames.",
+    "source_location": "Partial-gravity data",
+    "claim_status": "OBJECTIVE_OR_HYPOTHESIS",
+    "evidence_label": "Authors' statement",
+    "platform": "UNSPECIFIED",
+    "gravity_level": "unspecified",
+    "topics": [
+      "flame_spread"
+    ],
+    "attribution_note": "Challenge-statement context. The PSI-22 E-FIELD record does not itself describe the experiment as a partial-gravity proxy.",
+    "doi": null,
+    "source_url": "https://www.spaceappschallenge.org/2026/challenges/flame-in-freefall/",
+    "materials": [],
+    "review": {
+      "status": "DRAFT",
+      "reviewer": null,
+      "date": null
+    }
+  },
+  {
+    "claim_id": "CHALLENGE-008",
+    "investigation_id": null,
+    "source_id": "SPACEAPPS-2026-FIF",
+    "claim_text": "The challenge statement says microgravity and normal-gravity results could bound what occurs at intermediate gravity levels.",
+    "source_excerpt": "Microgravity and normal-gravity results could bound what occurs at intermediate gravity levels.",
+    "source_location": "Partial-gravity data",
+    "claim_status": "OBJECTIVE_OR_HYPOTHESIS",
+    "evidence_label": "Authors' statement",
+    "platform": "UNSPECIFIED",
+    "gravity_level": "multiple",
+    "topics": [
+      "flame_spread"
+    ],
+    "attribution_note": "Cited as a hashed 2026 NASA Space Apps challenge-statement snapshot, not as a measured PSI result.",
+    "doi": null,
+    "source_url": "https://www.spaceappschallenge.org/2026/challenges/flame-in-freefall/",
+    "materials": [],
+    "review": {
+      "status": "DRAFT",
+      "reviewer": null,
+      "date": null
+    }
+  },
+  {
+    "claim_id": "CHALLENGE-009",
+    "investigation_id": null,
+    "source_id": "SPACEAPPS-2026-FIF",
+    "claim_text": "The challenge statement says BASS, BASS-II, SPICE, and SLICE were each conducted within the Microgravity Science Glovebox (MSG) using the modular fan-driven flow duct built for SPICE.",
+    "source_excerpt": "Each of these investigations was conducted within the Microgravity Science Glovebox (MSG) using the modular fan-driven flow duct built for SPICE.",
+    "source_location": "Hardware",
+    "claim_status": "OBJECTIVE_OR_HYPOTHESIS",
+    "evidence_label": "Authors' statement",
+    "platform": "ISS_FLIGHT",
+    "gravity_level": "microgravity",
+    "topics": [
+      "measurement_method"
+    ],
+    "attribution_note": "Cited as a hashed 2026 NASA Space Apps challenge-statement snapshot, not as a measured PSI result.",
+    "doi": null,
+    "source_url": "https://www.spaceappschallenge.org/2026/challenges/flame-in-freefall/",
+    "materials": [],
+    "review": {
+      "status": "DRAFT",
+      "reviewer": null,
+      "date": null
+    }
+  },
+  {
+    "claim_id": "CHALLENGE-010",
+    "investigation_id": null,
+    "source_id": "SPACEAPPS-2026-FIF",
+    "claim_text": "The challenge statement says FLEX, FLEX-2, and CFI each featured burning droplets of liquid fuel and were conducted with the Multi-user Droplet Combustion Apparatus (MDCA) in the CIR.",
+    "source_excerpt": "FLEX, FLEX-2, and the Cool Flames Investigation (CFI) each featured burning droplets of liquid fuel and were conducted with the Multi-user Droplet Combustion Apparatus (MDCA) in the CIR.",
+    "source_location": "Hardware",
+    "claim_status": "OBJECTIVE_OR_HYPOTHESIS",
+    "evidence_label": "Authors' statement",
+    "platform": "ISS_FLIGHT",
+    "gravity_level": "microgravity",
+    "topics": [
+      "measurement_method"
+    ],
+    "attribution_note": "Cited as a hashed 2026 NASA Space Apps challenge-statement snapshot, not as a measured PSI result.",
+    "doi": null,
+    "source_url": "https://www.spaceappschallenge.org/2026/challenges/flame-in-freefall/",
+    "materials": [],
+    "review": {
+      "status": "DRAFT",
+      "reviewer": null,
+      "date": null
+    }
+  },
+  {
+    "claim_id": "CHALLENGE-011",
+    "investigation_id": null,
+    "source_id": "SPACEAPPS-2026-FIF",
+    "claim_text": "The challenge statement says that in those CFI-G tests, an oxygen-nitrogen mixture of up to 85% oxygen flowed from the spherical burner, creating an inside-out flame.",
+    "source_excerpt": "In those tests, the combustion chamber was filled with a mixture of nitrogen and a flammable gas (e.g., propane), while an oxygen-nitrogen mixture of up to 85% oxygen flowed from the spherical burner creating an inside-out flame.",
+    "source_location": "Spacesuits and oxygen concentration",
+    "claim_status": "OBJECTIVE_OR_HYPOTHESIS",
+    "evidence_label": "Authors' statement",
+    "platform": "ISS_FLIGHT",
+    "gravity_level": "microgravity",
+    "topics": [
+      "material_flammability"
+    ],
+    "materials": [
+      "propane"
+    ],
+    "conditions": "oxygen-nitrogen mixture of up to 85% oxygen",
+    "attribution_note": "Challenge-statement context describing CFI-G. This 85% oxygen figure is not present in the stored PSI-159 record text.",
+    "doi": null,
+    "source_url": "https://www.spaceappschallenge.org/2026/challenges/flame-in-freefall/",
+    "review": {
+      "status": "DRAFT",
+      "reviewer": null,
+      "date": null
+    }
+  },
+  {
+    "claim_id": "CHALLENGE-012",
+    "investigation_id": null,
+    "source_id": "SPACEAPPS-2026-FIF",
+    "claim_text": "The challenge statement says suppression was studied in FLEX through dilution of the chamber atmosphere with carbon dioxide and helium, both of which suppress fire.",
+    "source_excerpt": "Suppression was studied in the Flame Extinguishment Experiment (FLEX) through dilution of the chamber atmosphere with carbon dioxide and helium, both of which suppress fire.",
+    "source_location": "Background",
+    "claim_status": "OBJECTIVE_OR_HYPOTHESIS",
+    "evidence_label": "Authors' statement",
+    "platform": "ISS_FLIGHT",
+    "gravity_level": "microgravity",
+    "topics": [
+      "material_flammability"
+    ],
+    "attribution_note": "Cited as a hashed 2026 NASA Space Apps challenge-statement snapshot, not as a measured PSI result.",
+    "doi": null,
+    "source_url": "https://www.spaceappschallenge.org/2026/challenges/flame-in-freefall/",
+    "materials": [],
+    "review": {
+      "status": "DRAFT",
+      "reviewer": null,
+      "date": null
+    }
+  },
+  {
+    "claim_id": "CHALLENGE-013",
+    "investigation_id": null,
+    "source_id": "SPACEAPPS-2026-FIF",
+    "claim_text": "The challenge statement says that while BRE burned gaseous fuels, it was a study of materials flammability in still atmospheres as a function of material properties.",
+    "source_excerpt": "While it burned gaseous fuels, the Burning Rate Emulator (BRE) experiment of the Advanced Combustion via Microgravity Experiments (ACME) project was a study of materials flammability in still atmospheres as a function of material properties.",
+    "source_location": "Other investigations in PSI",
+    "claim_status": "OBJECTIVE_OR_HYPOTHESIS",
+    "evidence_label": "Authors' statement",
+    "platform": "ISS_FLIGHT",
+    "gravity_level": "microgravity",
+    "topics": [
+      "material_flammability"
+    ],
+    "attribution_note": "Cited as a hashed 2026 NASA Space Apps challenge-statement snapshot, not as a measured PSI result.",
+    "doi": null,
+    "source_url": "https://www.spaceappschallenge.org/2026/challenges/flame-in-freefall/",
+    "materials": [],
+    "review": {
+      "status": "DRAFT",
+      "reviewer": null,
+      "date": null
+    }
+  },
+  {
+    "claim_id": "CHALLENGE-014",
+    "investigation_id": null,
+    "source_id": "SPACEAPPS-2026-FIF",
+    "claim_text": "The challenge statement says an atmosphere with increased oxygen and reduced pressure compared to Earth’s is expected within the planned Moon Base and pressurized rovers.",
+    "source_excerpt": "To facilitate spacesuit use, an atmosphere with increased oxygen and reduced pressure compared to Earth’s is expected within the planned Moon Base and pressurized rovers.",
+    "source_location": "Background",
+    "claim_status": "OBJECTIVE_OR_HYPOTHESIS",
+    "evidence_label": "Authors' statement",
+    "platform": "UNSPECIFIED",
+    "gravity_level": "unspecified",
+    "topics": [
+      "material_flammability"
+    ],
+    "attribution_note": "Cited as a hashed 2026 NASA Space Apps challenge-statement snapshot, not as a measured PSI result.",
+    "doi": null,
+    "source_url": "https://www.spaceappschallenge.org/2026/challenges/flame-in-freefall/",
+    "materials": [],
+    "review": {
+      "status": "DRAFT",
+      "reviewer": null,
+      "date": null
+    }
   }
 ]

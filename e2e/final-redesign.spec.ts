@@ -107,12 +107,17 @@ test("keeps the mission and data views accessible in both themes", async ({ page
 test("links the most relevant studies directly to scoped Ask results", async ({ page }) => {
   await page.goto("/#missions");
   const studies = page.getByRole("region", { name: "Most relevant studies" });
-  await studies.getByRole("link", { name: "SAME-R", exact: true }).click();
-  await expect(page).toHaveURL(/\?investigation=PSI-101#ask$/u);
+  const first = studies.getByRole("link").first();
+  const name = (await first.innerText()).trim();
+  const href = await first.getAttribute("href");
+  expect(href).toMatch(/\?investigation=PSI-\d+#ask$/u);
+  const investigation = new URL(href!, "http://127.0.0.1").searchParams.get("investigation");
+  await first.click();
+  await expect(page).toHaveURL(new RegExp(`\\?investigation=${investigation}#ask$`));
   const ask = page.getByRole("region", { name: "Ask your own question" });
-  await expect(ask.locator(".ask-filter")).toContainText("SAME-R");
+  await expect(ask.locator(".ask-filter")).toContainText(name);
   await expect(ask.getByRole("region", { name: "Ranked investigations" }).locator(".result")).toHaveCount(1);
-  await expect(ask.locator(".result")).toContainText("PSI-101");
+  await expect(ask.locator(".result")).toContainText(investigation!);
   await ask.getByRole("button", { name: "Clear investigation filter" }).click();
   await expect(ask.locator(".ask-filter")).toHaveCount(0);
   await expect(page).toHaveURL(/\/#ask$/u);

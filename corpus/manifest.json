@@ -627,7 +627,7 @@
   },
   {
     "source_id": "ESA-NO-FIRE",
-    "title": "No fire in the sky: preventing an astronaut’s worst nightmare",
+    "title": "No fire in the sky: preventing an astronaut\u2019s worst nightmare",
     "authors": [],
     "year": 2021,
     "publisher": "European Space Agency",
@@ -759,6 +759,24 @@
     "extraction_method": "html",
     "access_note": "Public NASA Science explainer describing the planned lunar surface experiment.",
     "context_for": "NTRS-20250010653-ABSTRACT"
+  },
+  {
+    "source_id": "SPACEAPPS-2026-FIF",
+    "title": "Flame in Freefall: SI-Powered Fire Safety Insights from Microgravity Combustion Data",
+    "authors": [],
+    "year": 2026,
+    "publisher": "NASA Space Apps Challenge",
+    "tier": "B",
+    "url": "https://www.spaceappschallenge.org/2026/challenges/flame-in-freefall/",
+    "doi": null,
+    "retrieval_url": "https://www.spaceappschallenge.org/2026/challenges/flame-in-freefall/",
+    "retrieval_user_agent": "FireLensCorpus/1.0 (NASA Space Apps research snapshot)",
+    "raw_file": "raw/SPACEAPPS-2026-FIF.html",
+    "retrieved_at": "2026-11-15T11:52:34Z",
+    "sha256": "a5744cf9e6907deb453551a79f5c6bcfc7bf4ef6a21aab2c259a93895a9f891d",
+    "extraction_method": "html",
+    "html_selector": "nextjs-rsc",
+    "access_note": "Public NASA Space Apps 2026 challenge statement. The hashed snapshot is the page HTML retrieved on 2026-11-15. Body text is extracted from the page's Next.js RSC payload (html_selector nextjs-rsc). The page footer states Copyright \u00a92026 NASA. Use only as cited challenge-statement context, not as a measured PSI result."
   },
   {
     "source_id": "NTRS-20250010653-ABSTRACT",

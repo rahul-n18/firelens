@@ -40,6 +40,28 @@ async function pdfText(bytes: Uint8Array, range?: [number, number]): Promise<str
   }
 }
 
+
+function extractNextjsRsc(raw: string): string {
+  const unescaped = raw
+    .replace(/\\u([0-9a-fA-F]{4})/gu, (_, hex) => String.fromCharCode(Number.parseInt(hex, 16)))
+    .replace(/\\n/g, "\n")
+    .replace(/\\"/g, '"')
+    .replace(/\\\//g, "/");
+  const $page = load(unescaped);
+  const payload = $page("script").toArray().map(node => $page(node).html() ?? $page(node).text()).join("\n");
+  const $ = load(`<div id="firelens-rsc">${payload}</div>`);
+  const seen = new Set<string>();
+  const blocks: string[] = [];
+  for (const node of $("h1,h2,h3,h4,p,li,blockquote").toArray()) {
+    const block = $(node).text().replace(/\s+/gu, " ").trim();
+    const key = block.toLowerCase();
+    if (!block || seen.has(key)) continue;
+    seen.add(key);
+    blocks.push(block);
+  }
+  return blocks.join("\n\n");
+}
+
 export async function extractText(bytes: Uint8Array, source: Pick<Source, "extraction_method" | "pages" | "html_selector">): Promise<string> {
   const decoded = () => Buffer.from(bytes).toString("utf8");
   let text: string;
@@ -51,6 +73,10 @@ export async function extractText(bytes: Uint8Array, source: Pick<Source, "extra
       text = jsonText(JSON.parse(decoded())).join("\n\n");
       break;
     case "html": {
+      if (source.html_selector === "nextjs-rsc") {
+        text = extractNextjsRsc(decoded());
+        break;
+      }
       const $ = load(decoded());
       $("script, style, nav, header, footer, noscript").remove();
       const article = $(source.html_selector ?? "article, main").first();

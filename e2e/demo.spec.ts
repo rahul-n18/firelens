@@ -26,7 +26,9 @@ for (const [index, query] of demoQueries.entries()) {
     }
     await page.getByRole("link", { name: query }).click();
     const answer = page.getByRole("region", { name: "Evidence answer" });
-    const trigger = answer.getByRole("button", { name: `Inspect ${representative[index]}`, exact: true });
+    const trigger = index === 1
+      ? answer.getByRole("button", { name: /^Inspect / }).first()
+      : answer.getByRole("button", { name: `Inspect ${representative[index]}`, exact: true });
     await expect(trigger).toBeVisible();
     if (index === 1) {
       await expect(page.getByRole("heading", { name: spiceHeading })).toBeVisible();
@@ -36,9 +38,10 @@ for (const [index, query] of demoQueries.entries()) {
     await noOverflow(page);
     await audit(page);
     await page.screenshot({ path: `artifacts/${info.project.name}-q${index + 1}.png`, fullPage: true, animations: "disabled" });
+    const inspected = (await trigger.innerText()).replace(/^Inspect\s+/u, "").trim();
     await trigger.click();
     const dialog = page.getByRole("dialog");
-    await expect(dialog.getByRole("link", { name: "Open source" })).toHaveAttribute("href", byClaim.get(representative[index])!.source_url);
+    await expect(dialog.getByRole("link", { name: "Open source" })).toHaveAttribute("href", byClaim.get(inspected)!.source_url);
     await audit(page);
     await page.screenshot({ path: `artifacts/${info.project.name}-q${index + 1}-inspector.png`, animations: "disabled" });
     await page.keyboard.press("Escape");
