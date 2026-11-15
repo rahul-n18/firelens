@@ -334,3 +334,33 @@ p { max-width: 72ch; }
   .habitat-layout { grid-template-columns: 1fr; }
   .habitat-tabs { grid-template-columns: 1fr; }
 }
+
+.bounds-grid { display: grid; grid-template-columns: minmax(0, 1.1fr) minmax(0, .9fr); gap: 28px; align-items: start; }
+.bound-panel h3 { margin-bottom: 8px; }
+.bound-chart { margin: 16px 0 20px; padding: 12px 12px 8px; border: 1px solid var(--rule); border-radius: 8px; background: var(--surface); color: var(--ink); }
+.bound-chart figcaption { margin-bottom: 8px; }
+.bound-legend { display: flex; flex-wrap: wrap; gap: 12px 20px; list-style: none; margin: 8px 0 0; padding: 0; font-size: 13px; color: var(--muted); }
+.bound-legend li { display: flex; align-items: center; gap: 8px; }
+.bound-legend-mark { width: 10px; height: 10px; display: inline-block; }
+.bound-legend-mark.context { border: 2px dotted var(--muted); border-radius: 50%; background: var(--surface); }
+.bound-legend-mark.planned { border: 1.5px solid var(--primary); background: var(--band); }
+.bound-chart svg { display: block; width: 100%; height: auto; }
+.bound-grid { stroke: var(--rule); stroke-width: 1; }
+.bound-tick, .bound-axis, .bound-region-label { fill: var(--muted); font-size: 11px; }
+.bound-axis { font-weight: 600; }
+.bound-region-outline { fill: none; stroke: var(--muted); stroke-width: 1; stroke-dasharray: 3 3; }
+.bound-mark.context { fill: var(--surface); stroke: var(--muted); stroke-width: 2; stroke-dasharray: 2 2; }
+.bound-mark.planned { fill: var(--band); stroke: var(--primary); stroke-width: 1.5; }
+.bound-table-scroll { max-width: 100%; overflow-x: auto; border: 1px solid var(--rule); border-radius: 8px; background: var(--surface); }
+.bound-table { width: 100%; min-width: 520px; border-collapse: collapse; font-size: 14px; }
+.bound-table thead { background: var(--band); color: var(--muted); }
+.bound-table :is(th, td) { border-bottom: 1px solid var(--rule); text-align: left; padding: 10px 12px; vertical-align: top; }
+.bound-table tbody tr:last-child :is(th, td) { border-bottom: 0; }
+.bound-table th p { font-weight: 400; margin-top: 4px; }
+.bound-groups { list-style: none; margin: 16px 0 0; padding: 0; }
+.bound-groups > li { padding: 16px 0; border-top: 1px solid var(--rule); }
+.bound-groups h4 { margin-bottom: 6px; }
+.bound-groups > li > p { margin-bottom: 10px; font-size: 14px; }
+@media (max-width: 900px) {
+  .bounds-grid { grid-template-columns: 1fr; }
+}

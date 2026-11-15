@@ -36,7 +36,7 @@ export function Habitats({ evidence, open }: { evidence: Claim[]; open: OpenClai
       <h2 className="block-title" id="habitats-heading">Habitat relevance</h2>
       <p className="section-intro">
         Investigations are ranked for a spacecraft cabin, a surface habitat, or a pressurized rover from visible, cited factors — gravity class, atmosphere overlap, measured flammability results, and whether a source actually names that habitat.
-        A relevance tag appears only when a source supports it. Everything else is labeled Not assessed. There is no hidden score.
+        A relevance tag appears only when a source supports it. Everything else is labeled Not assessed. There is no hidden score. A <a href="#bounds">Moon and rover bounds</a> panel then separates challenge-stated atmospheres and partial-gravity evidence from measurements.
       </p>
 
       <div className="habitat-tabs" role="tablist" aria-label="Habitat">

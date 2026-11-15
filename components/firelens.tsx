@@ -14,6 +14,7 @@ import { Detectors, Measurements } from "./measurements";
 import { SeeIt } from "./see-it";
 import { Missions } from "./missions";
 import { Habitats } from "./habitats";
+import { Bounds } from "./bounds";
 import { ModelData } from "./model-data";
 import { Explorer } from "./explorer";
 const dateFormatter = new Intl.DateTimeFormat("en-GB", { day: "numeric", month: "short", year: "numeric", timeZone: "UTC" });
@@ -238,6 +239,7 @@ export function FireLens({ available }: { available: string[] }) {
       <Explorer evidence={evidence} open={open} />
       <Missions evidence={evidence} open={open} gravity={missionGravity} onGravityChange={setMissionGravity} />
       <Habitats evidence={evidence} open={open} />
+      <Bounds open={open} />
       <ModelData evidence={evidence} open={open} />
       <section className="block" id="ask" aria-labelledby="query-heading">
         <h2 className="block-title" id="query-heading">Ask your own question</h2>
