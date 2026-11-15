@@ -10,6 +10,14 @@ export const statuses = ["REPORTED_RESULT", "REPORTED_METHOD", "MODEL_RESULT", "
 export const platforms = ["ISS_FLIGHT", "GROUND_LAB", "REDUCED_GRAVITY_AIRCRAFT", "DROP_TOWER", "NUMERICAL_MODEL", "MIXED", "UNSPECIFIED"] as const;
 export const gravities = ["1g", "microgravity", "lunar_0.16g", "mars_0.38g", "multiple", "unspecified"] as const;
 export const methods = ["pdfjs", "html", "json"] as const;
+export const evidenceLabels = ["Equipment specification", "Authors' statement", "Authors' suggestion", "Planned (NASA)", "Planned (as of 2021)", "Earth application"] as const;
+
+export interface DerivedFigure {
+  file: string;
+  slide: number;
+  crop: [left: number, top: number, right: number, bottom: number];
+  sha256: string;
+}
 
 export interface Source {
   source_id: string;
@@ -31,6 +39,7 @@ export interface Source {
   access_level?: "ABSTRACT_ONLY";
   pages?: [number, number];
   html_selector?: string;
+  derived_assets?: DerivedFigure[];
 }
 
 export interface Claim {
@@ -41,6 +50,7 @@ export interface Claim {
   source_excerpt: string;
   source_location: string;
   claim_status: typeof statuses[number];
+  evidence_label?: typeof evidenceLabels[number];
   platform: typeof platforms[number];
   gravity_level: typeof gravities[number];
   topics: string[];
@@ -48,13 +58,14 @@ export interface Claim {
   quantity?: string;
   value?: string | number;
   unit?: string;
-  value_qualifier?: "greater_than" | "less_than";
+  value_qualifier?: "greater_than" | "less_than" | "range" | "approximately" | "typically";
+  airflow?: { value: number; unit: "cm/s"; gravity_level: typeof gravities[number] };
   conditions?: string;
   attribution_note?: string;
   derived_from?: string[];
   doi: string | null;
   source_url: string;
-  review: { status: "DRAFT" | "HUMAN_REVIEWED"; reviewer: string | null; date: string | null };
+  review: { status: "DRAFT" | "HUMAN_REVIEWED"; reviewer: string | null; date: string | null; batch?: "A" };
 }
 
 export interface Investigation {

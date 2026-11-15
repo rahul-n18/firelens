@@ -6,7 +6,9 @@
     "smoke_transport": ["ventilation", "air flow", "particle trajectories", "aging"],
     "pyrolysis": ["pyrolysis", "overheating", "smoldering"],
     "soot_onset": ["smoke point", "soot emission", "coflow flame"],
-    "measurement_method": ["moment method", "aerosol diagnostics", "instrument comparison"]
+    "measurement_method": ["moment method", "aerosol diagnostics", "instrument comparison"],
+    "earth_application": ["terrestrial application", "fire safety on Earth"],
+    "material_flammability": ["flame growth", "material burning", "flame spread"]
   },
   "gravity": {
     "1g": ["1 g", "normal gravity", "Earth gravity"],

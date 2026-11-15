@@ -42,7 +42,7 @@ test("labels lunar models and planned work as context for the gap", async ({ pag
   await expect(transport).toHaveClass(/condition-active/);
   await expect(transport).not.toHaveClass(/hatched/);
   await expect(transport.getByText("No measurement in corpus")).toBeVisible();
-  const models = transport.getByRole("button", { name: "Computer model · 2 (2 reviewed)" });
+  const models = transport.getByRole("button", { name: "Computer model · 3 (2 reviewed)" });
   await expect(models.locator(".model_result")).toHaveCSS("border-top-style", "dashed");
   await models.click();
   const dialog = page.getByRole("dialog");
@@ -50,6 +50,8 @@ test("labels lunar models and planned work as context for the gap", async ({ pag
   await expect(group.getByRole("button", { name: "LUNAR-001" })).toHaveAttribute("aria-pressed", "true");
   await group.getByRole("button", { name: "LUNAR-002" }).click();
   await expect(group.getByRole("button", { name: "LUNAR-002" })).toHaveAttribute("aria-pressed", "true");
+  await group.getByRole("button", { name: "LUNAR-003" }).click();
+  await expect(dialog.getByText("Not yet reviewed")).toBeVisible();
   await page.keyboard.press("Escape");
   await expect(models).toBeFocused();
 });
@@ -75,7 +77,7 @@ test("hatches only cells without claims and displays corpus totals", async ({ pa
     `${claims.length} claims · ${reviewed} human-reviewed · ${linked} investigations with evidence · ${investigations.length} indexed`,
   );
   const particle = page.locator('[data-topic="smoke_particle_size"][data-gravity="microgravity"]:visible');
-  await expect(particle.getByRole("button", { name: /^Measured/ })).toHaveText("Measured · 4 (3 reviewed)");
+  await expect(particle.getByRole("button", { name: /^Measured/ })).toHaveText("Measured · 5 (3 reviewed)");
   await expect(particle.getByText("Not yet reviewed")).toHaveCount(0);
 });
 

@@ -161,7 +161,3 @@ p { max-width: 72ch; }
 .ladder-references { display: flex; flex-wrap: wrap; column-gap: 16px; row-gap: 4px; margin-top: 4px; }
 .brand a, .top-actions > .text-button { flex-shrink: 0; white-space: nowrap; }
 .findings-note { margin-top: 16px; }
-
-/* Restore the original search-first landing layout. */
-.hero, .ladder-section, .section:has(#findings-heading), .section:has(#how-heading), .read-note .glossary { display: none; }
-.query-section h1 { margin-bottom: 20px; }

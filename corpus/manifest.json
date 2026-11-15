@@ -423,7 +423,31 @@
     "retrieved_at": "2026-11-14T19:39:50Z",
     "sha256": "0685a722f6da522c7365534a8c284e5e38da3425d3fca7ec92ff38cbbe8fa9b6",
     "extraction_method": "pdfjs",
-    "access_note": "Public PDF from NASA NTRS. NTRS dates the presentation to May 2013, consistent with the cover date. Slide footers contain conflicting meeting labels. The slides use the label SAME and include Pyrell Run 84, which the stored PSI-101 record identifies as SAME-R. Page 19 groups the conclusions without identifying which flight investigation each result summarizes, so the claims are unassigned."
+    "access_note": "Public PDF from NASA NTRS. NTRS dates the presentation to May 2013, consistent with the cover date. Slide footers contain conflicting meeting labels. The slides use the label SAME and include Pyrell Run 84, which the stored PSI-101 record identifies as SAME-R. Page 19 groups the conclusions without identifying which flight investigation each result summarizes, so the claims are unassigned.",
+    "derived_assets": [
+      {
+        "file": "figures/destiny-smoke-simulation.jpg",
+        "slide": 3,
+        "crop": [
+          0.1,
+          0.24,
+          0.89,
+          0.888
+        ],
+        "sha256": "52af329ac5987e279125e46e17fc3e330cd652be2269b560e4d199d79103de29"
+      },
+      {
+        "file": "figures/particle-size-comparison.jpg",
+        "slide": 18,
+        "crop": [
+          0.06,
+          0.19,
+          0.92,
+          0.885
+        ],
+        "sha256": "c453d8ef33d287958c2b8884cae61ded69ee965345750799b6904502110f1ac0"
+      }
+    ]
   },
   {
     "source_id": "NTRS-20140006585-ABSTRACT",
@@ -718,5 +742,21 @@
     "extraction_method": "pdfjs",
     "access_note": "Full PDF linked by co-author Peter Sunderland on his university website. The PDF carries an Elsevier copyright notice.",
     "local_only": true
+  },
+  {
+    "source_id": "NASA-FM2",
+    "title": "Why NASA is studying flames in space",
+    "authors": [],
+    "year": 2024,
+    "publisher": "NASA Science",
+    "tier": "B",
+    "url": "https://science.nasa.gov/biological-physical/resources/explainers-infographics/why-nasa-is-studying-flames-in-space/",
+    "doi": null,
+    "retrieval_url": "https://science.nasa.gov/biological-physical/resources/explainers-infographics/why-nasa-is-studying-flames-in-space/",
+    "raw_file": "raw/NASA-FM2.html",
+    "retrieved_at": "2026-11-15T09:57:51.945Z",
+    "sha256": "b1f51283d3458b71d622980932aed2d9ae7138d46872d224c9e0425279334c12",
+    "extraction_method": "html",
+    "access_note": "Public NASA Science explainer describing the planned lunar surface experiment."
   }
 ]

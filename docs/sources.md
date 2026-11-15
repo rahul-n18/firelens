@@ -68,7 +68,7 @@ Generated from the corpus manifest, claims, and unavailable-source log.
 - Retrieved · 2026-11-14T19:40:29Z
 - SHA-256 · `b9234754db5da651ad27d888af082b889d07210b018e543369662f065b4ec2da`
 - DOI · [10.60555/4qc4-de67](https://doi.org/10.60555/4qc4-de67)
-- Supported claims · Metadata only
+- Supported claims · `EARTH-001`
 - Access · Structured investigation JSON from the PSI web app API. PSI lists Creative Commons Zero v1.0 Universal (CC0-1.0) for this record: https://spdx.org/licenses/CC0-1.0.html.
 - [Source](https://psi.nasa.gov/physci/repo/data/investigations/PSI-25) · [Snapshot retrieval URL](https://psi.nasa.gov/geode-py/ws/repo/investigations/PSI-25)
 
@@ -88,7 +88,7 @@ Generated from the corpus manifest, claims, and unavailable-source log.
 - Retrieved · 2026-11-14T19:40:32Z
 - SHA-256 · `ab2501bbe6200dabd012e7bf199e79426f8d19eb484c2af421183bb61b558d35`
 - DOI · [10.60555/m6pj-a914](https://doi.org/10.60555/m6pj-a914)
-- Supported claims · Metadata only
+- Supported claims · `EARTH-004`
 - Access · Structured investigation JSON from the PSI web app API. PSI lists Creative Commons Zero v1.0 Universal (CC0-1.0) for this record: https://spdx.org/licenses/CC0-1.0.html.
 - [Source](https://psi.nasa.gov/physci/repo/data/investigations/PSI-39) · [Snapshot retrieval URL](https://psi.nasa.gov/geode-py/ws/repo/investigations/PSI-39)
 
@@ -118,7 +118,7 @@ Generated from the corpus manifest, claims, and unavailable-source log.
 - Retrieved · 2026-11-14T19:40:27Z
 - SHA-256 · `e4325a65cecdbbc8104502ddbf4d8cec42c463e8e8bc9d61d92b939614cff444`
 - DOI · [10.60555/e9xp-ex83](https://doi.org/10.60555/e9xp-ex83)
-- Supported claims · Metadata only
+- Supported claims · `EARTH-002`
 - Access · Structured investigation JSON from the PSI web app API. PSI lists Creative Commons Zero v1.0 Universal (CC0-1.0) for this record: https://spdx.org/licenses/CC0-1.0.html.
 - [Source](https://psi.nasa.gov/physci/repo/data/investigations/PSI-62) · [Snapshot retrieval URL](https://psi.nasa.gov/geode-py/ws/repo/investigations/PSI-62)
 
@@ -198,7 +198,7 @@ Generated from the corpus manifest, claims, and unavailable-source log.
 - Retrieved · 2026-11-14T19:40:37Z
 - SHA-256 · `f705b2e04bd00d05f3c74ae55391c340b5a08d60efa8193e66b7c4e2518d9d5d`
 - DOI · [10.60555/pm12-rg61](https://doi.org/10.60555/pm12-rg61)
-- Supported claims · Metadata only
+- Supported claims · `EARTH-003`
 - Access · Structured investigation JSON from the PSI web app API. PSI lists Creative Commons Zero v1.0 Universal (CC0-1.0) for this record: https://spdx.org/licenses/CC0-1.0.html.
 - [Source](https://psi.nasa.gov/physci/repo/data/investigations/PSI-106) · [Snapshot retrieval URL](https://psi.nasa.gov/geode-py/ws/repo/investigations/PSI-106)
 
@@ -258,7 +258,7 @@ Generated from the corpus manifest, claims, and unavailable-source log.
 - Retrieved · 2026-11-14T19:39:50Z
 - SHA-256 · `0685a722f6da522c7365534a8c284e5e38da3425d3fca7ec92ff38cbbe8fa9b6`
 - DOI · Unlisted
-- Supported claims · `NTRS13-001`, `NTRS13-002`, `NTRS13-003`, `NTRS13-005`, `NTRS13-006`
+- Supported claims · `NTRS13-001`, `NTRS13-002`, `NTRS13-003`, `NTRS13-005`, `NTRS13-006`, `NTRS13-007`, `NTRS13-008`, `NTRS13-008b`, `NTRS13-009`, `NTRS13-009b`, `NTRS13-010`, `NTRS13-011`, `NTRS13-012`, `NTRS13-013`
 - Access · Public PDF from NASA NTRS. NTRS dates the presentation to May 2013, consistent with the cover date. Slide footers contain conflicting meeting labels. The slides use the label SAME and include Pyrell Run 84, which the stored PSI-101 record identifies as SAME-R. Page 19 groups the conclusions without identifying which flight investigation each result summarizes, so the claims are unassigned.
 - [Source](https://ntrs.nasa.gov/citations/20140006585) · [Snapshot retrieval URL](https://ntrs.nasa.gov/api/citations/20140006585/downloads/20140006585.pdf)
 
@@ -288,8 +288,8 @@ Generated from the corpus manifest, claims, and unavailable-source log.
 - Retrieved · 2026-11-14T19:39:49Z
 - SHA-256 · `ed2312bdba4230de00df69ee908bf64f086f860b6e901a93701ee013cb1d625a`
 - DOI · Unlisted
-- Supported claims · `LUNAR-001`, `LUNAR-002`
-- Access · Public PDF from NASA NTRS.
+- Supported claims · `LUNAR-001`, `LUNAR-002`, `LUNAR-003`, `LUNAR-004`
+- Access · Local-only snapshot. Public PDF from NASA NTRS.
 - [Source](https://ntrs.nasa.gov/citations/20230013826) · [Snapshot retrieval URL](https://ntrs.nasa.gov/api/citations/20230013826/downloads/AAAR%202023%20v1.pdf)
 
 ## NTRS-20120017940 · Combustion, Complex Fluids, and Fluid Physics Experiments on the ISS
@@ -349,27 +349,27 @@ Generated from the corpus manifest, claims, and unavailable-source log.
 - SHA-256 · `d83ed84a316b6661654014a581bc9da6134607621ca0c6d32773a0388a34dcd0`
 - DOI · Unlisted
 - Supported claims · `ESA-001`
-- Access · Full ESA article. The partial-gravity campaign is described as future work at the time of publication.
+- Access · Local-only snapshot. Full ESA article. The partial-gravity campaign is described as future work at the time of publication.
 - [Source](https://www.esa.int/articles/no-fire-in-the-sky-preventing-an-astronaut-s-worst-nightmare) · [Snapshot retrieval URL](https://www.esa.int/articles/no-fire-in-the-sky-preventing-an-astronaut-s-worst-nightmare)
 
 ## AST-1025124 · Smoke Characterization and Feasibility of the Moment Method for Spacecraft Fire Detection
 
 - Publisher and tier · Aerosol Science and Technology · B
 - Retrieved · 2026-11-14T19:44:38Z
-- SHA-256 · `76da0c44c7ec7461830564185eb5c67fe206ebce2d94966e3eaac201200a93b1`
+- SHA-256 · `d42a92cfde7adb2ba9e4579ec7ce3b02a6b1111919c32242a46e7cc5d1e48df6`
 - DOI · [10.1080/02786826.2015.1025124](https://doi.org/10.1080/02786826.2015.1025124)
 - Supported claims · `SAMER-009`
-- Access · Partial snapshot: NIST publication abstract. Author order follows the publication as listed in the stored PSI-102 record. Full-text access attempts are recorded in unavailable.json.
+- Access · Partial snapshot: NIST publication abstract. Author order follows the publication as listed in the stored PSI-102 record. Full-text access attempts are recorded in unavailable.json. The page snapshot has its embedded Mapbox token redacted.
 - [Source](https://www.nist.gov/publications/smoke-characterization-and-feasibility-moment-method-spacecraft-fire-detection) · [Snapshot retrieval URL](https://www.nist.gov/publications/smoke-characterization-and-feasibility-moment-method-spacecraft-fire-detection)
 
 ## AST-1025125 · Pyrolysis Smoke Generated Under Low-Gravity Conditions
 
 - Publisher and tier · Aerosol Science and Technology · B
 - Retrieved · 2026-11-14T19:44:37Z
-- SHA-256 · `54a308c9d852f51943ee0c6cb673ef6d427ef7b7d941b3a8d0ef53141d28ec38`
+- SHA-256 · `5c51174ed48b8f967fb19845dee905e7f4d34323463155a8c9774b9ca252abb8`
 - DOI · [10.1080/02786826.2015.1025125](https://doi.org/10.1080/02786826.2015.1025125)
 - Supported claims · `SAME-005`
-- Access · Partial snapshot: NIST publication abstract. Author order follows the publication as listed in the stored PSI-102 record. Full-text access attempts are recorded in unavailable.json.
+- Access · Partial snapshot: NIST publication abstract. Author order follows the publication as listed in the stored PSI-102 record. Full-text access attempts are recorded in unavailable.json. The page snapshot has its embedded Mapbox token redacted.
 - [Source](https://www.nist.gov/publications/pyrolysis-smoke-generated-under-low-gravity-conditions) · [Snapshot retrieval URL](https://www.nist.gov/publications/pyrolysis-smoke-generated-under-low-gravity-conditions)
 
 ## SPICE-PROCEEDINGS · Laminar Smoke Points of Nonbuoyant Coflowing Flames
@@ -379,7 +379,7 @@ Generated from the corpus manifest, claims, and unavailable-source log.
 - SHA-256 · `851a2e1508bca46d8a5466749a224d12e8b67e39f65d63a5790506b57423e892`
 - DOI · [10.3850/978-981-08-7724-8_12-04](https://doi.org/10.3850/978-981-08-7724-8_12-04)
 - Supported claims · `SPICE-007`
-- Access · Partial snapshot: the publisher abstract was available with a browser User-Agent. The full PDF link led to a payment or password page. The abstract page credits the CPD Unit, University of Leeds.
+- Access · Local-only snapshot. Partial snapshot: the publisher abstract was available with a browser User-Agent. The full PDF link led to a payment or password page. The abstract page credits the CPD Unit, University of Leeds.
 - [Source](https://rpsonline.com.sg/proceedings/9789810877248/html/978-981-08-7724-8_12-04.php) · [Snapshot retrieval URL](https://rpsonline.com.sg/proceedings/9789810877248/html/978-981-08-7724-8_12-04.php)
 
 ## SPICE-FSJ · Laminar smoke points of coflowing flames in microgravity
@@ -391,6 +391,16 @@ Generated from the corpus manifest, claims, and unavailable-source log.
 - Supported claims · `SPICE-006`
 - Access · Local-only snapshot. Full PDF linked by co-author Peter Sunderland on his university website. The PDF carries an Elsevier copyright notice.
 - [Source](https://terpconnect.umd.edu/~pbs/2011%20Dotson%20et%20al.%20FSJ.pdf) · [Snapshot retrieval URL](https://terpconnect.umd.edu/~pbs/2011%20Dotson%20et%20al.%20FSJ.pdf)
+
+## NASA-FM2 · Why NASA is studying flames in space
+
+- Publisher and tier · NASA Science · B
+- Retrieved · 2026-11-15T09:57:51.945Z
+- SHA-256 · `b1f51283d3458b71d622980932aed2d9ae7138d46872d224c9e0425279334c12`
+- DOI · Unlisted
+- Supported claims · `PLANNED-002`
+- Access · Public NASA Science explainer describing the planned lunar surface experiment.
+- [Source](https://science.nasa.gov/biological-physical/resources/explainers-infographics/why-nasa-is-studying-flames-in-space/) · [Snapshot retrieval URL](https://science.nasa.gov/biological-physical/resources/explainers-infographics/why-nasa-is-studying-flames-in-space/)
 
 ## Unavailable full texts
 

@@ -1,0 +1,59 @@
+Why NASA is studying flames in space
+
+Space combustion research is helping keep future astronauts safe
+
+This image shows a sequence of snapshots taken about 3 seconds apart during the Solid Fuel Ignition and Extinction (SoFIE) Growth and Extinction Limits (GEL) experiment aboard the space station. Credit: NASA
+
+While setting a fire in space sounds like a bad idea, scientists have been safely creating controlled flames in space for decades. These experiments, many of which are sponsored by NASA’s Biological and Physical Sciences (BPS) Division, are improving our understanding of combustion and the safety of future deep space explorers.
+
+What causes flames to behave differently in space?
+
+When you remove Earth’s gravitational pull, flames behave much differently. The typical shape of a candle flame is caused by less dense warm air rising to be replaced by cooler ambient air from below. In microgravity, however, that circulation effect does not happen, creating a spherical flame!
+
+A spherical flame created in space (left), and a candle flame burning on Earth (right)
+
+Why study flames in space?
+
+Gravity is a strong force that can cloud scientific studies on Earth. Studying combustion in microgravity provides a unique opportunity for scientists to better understand the fundamental aspects of combustion without that clouding effect of gravity.
+
+Additionally, researchers study fire in space to better protect astronauts. Astronauts must know what to expect in case of a fire emergency. Unlike on Earth, Astronauts cannot leave the spacecraft and dial 911. The spacecraft environment must be made as safe as possible by using materials that do not burn whenever possible. Some materials may even be more flammable in partial-gravity environments, making this research crucial.
+
+NASA astronaut Kate Rubins is photographed replacing two Multi-user Droplet Combustion Apparatus (MDCA) Igniter Tips as part of the Combustion Integration Rack (CIR) Igniter Replacement operations. Credit: NASA
+
+How to study fire in microgravity
+
+Researchers have designed International Space Station facilities to study combustion while keeping crew safe during the tests. The primary facility used to study flames aboard station is the Combustion Integrated Rack (CIR). CIR safely contains small-scale flame studies and requires little crew interaction.
+
+The BPS-sponsored Solid Fuel Ignition and Extinction (SoFIE) experiment is designed to slot into the CIR and enables studies of ignition and the flammability of solid spacecraft materials.
+
+Larger scale flame studies have been conducted aboard Northrop Grumman Cygnus spacecraft after they depart station. This Saffire series of experiments allowed for scaled-up studies of fire spread.
+
+What have we learned?
+
+After decades of space combustion research, researchers have made great progress so far.
+
+The discovery of a specific type of cool flame was an important breakthrough during the Flame Extinguishment Experiment (FLEX) experiment on the space station. Learning more about the behavior of these chemically different flames could lead to the development of more-efficient, less-polluting vehicles.
+
+Confined Combustion, sponsored by the ISS National Lab, examined flame spread in confined spaces of different shapes. These results provide guidance for the design of structures, fire safety codes, and response in space and on Earth.
+
+A number of BPS-sponsored experiments have been conducted inside of SoFIE, including SoFIE-GEL, and SoFIE-MIST. Together, they will help us better understand early flame growth and fire spread. The two more experiments in the future (NCA and SMuRF).
+
+The Solid Fuel Ignition and Extinction (SoFIE) Growth and Extinction Limits (GEL) experiment successfully conducted its first test in the Combustion Integrated Rack (CIR) aboard the International Space Station (ISS) on January 13th. Image courtesy of NASA.
+
+Flames on the Moon
+
+With humanity heading back to the Moon as a part of the Artemis program, studying flames in true lunar gravity is important for crew safety. Tests will help us understand how to better design our habitats, and which materials to avoid which may be more flammable in an environment with less gravity.
+
+The Flammability of Materials on the Moon (FM2) study will be the first flammability test on another world. The experiment will be conducted on the lunar surface to evaluate flame size, strength, intensity and spread compared to Earth gravity.
+
+Related Resources
+
+Fighting Fire with Fire: New Space Station Experiments Study Flames in Space
+
+Studying Combustion and Fire Safety
+
+Cool Flames Created During a First for International Space Station Research
+
+About BPS
+
+NASA’s Biological and Physical Sciences Division pioneers scientific discovery and enables exploration by using space environments to conduct investigations not possible on Earth. Studying biological and physical phenomenon under extreme conditions allows researchers to advance the fundamental scientific knowledge required to go farther and stay longer in space, while also benefitting life on Earth.

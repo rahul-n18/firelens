@@ -226,7 +226,8 @@
       "reviewer": null,
       "date": null
     },
-    "attribution_note": "The slides include SAME-R material, but the conclusion slide does not identify the flight investigation for this result."
+    "attribution_note": "The slides include SAME-R material, but the conclusion slide does not identify the flight investigation for this result.",
+    "value_qualifier": "range"
   },
   {
     "claim_id": "NTRS13-002",
@@ -250,7 +251,15 @@
       "reviewer": null,
       "date": null
     },
-    "attribution_note": "The slides include SAME-R material, but the conclusion slide does not identify the flight investigation for this result."
+    "attribution_note": "The slides include SAME-R material, but the conclusion slide does not identify the flight investigation for this result.",
+    "quantity": "ground-test airflow",
+    "value": 8,
+    "unit": "cm/s",
+    "airflow": {
+      "value": 8,
+      "unit": "cm/s",
+      "gravity_level": "1g"
+    }
   },
   {
     "claim_id": "NTRS13-003",
@@ -367,6 +376,11 @@
       "status": "HUMAN_REVIEWED",
       "reviewer": "R. Naveen",
       "date": "2026-11-15"
+    },
+    "airflow": {
+      "value": 5,
+      "unit": "cm/s",
+      "gravity_level": "lunar_0.16g"
     }
   },
   {
@@ -567,7 +581,8 @@
       "reviewer": "R. Naveen",
       "date": "2026-11-15"
     },
-    "attribution_note": "Described as future work in a 2021 article."
+    "attribution_note": "Described as future work in a 2021 article.",
+    "evidence_label": "Planned (as of 2021)"
   },
   {
     "claim_id": "SAMER-009",
@@ -657,7 +672,10 @@
       "status": "HUMAN_REVIEWED",
       "reviewer": "R. Naveen",
       "date": "2026-11-15"
-    }
+    },
+    "quantity": "particle size relative to normal gravity",
+    "value": "twice",
+    "value_qualifier": "typically"
   },
   {
     "claim_id": "NTRS13-005",
@@ -703,7 +721,8 @@
       "status": "HUMAN_REVIEWED",
       "reviewer": "R. Naveen",
       "date": "2026-11-15"
-    }
+    },
+    "evidence_label": "Authors' suggestion"
   },
   {
     "claim_id": "PSI-115-001",
@@ -748,6 +767,427 @@
       "status": "DRAFT",
       "reviewer": null,
       "date": null
+    }
+  },
+  {
+    "claim_id": "NTRS13-007",
+    "investigation_id": null,
+    "source_id": "NTRS-20140006585",
+    "claim_text": "For lampwick and silicone, about 40% of smoke mass was in particles larger than 1 µm.",
+    "source_excerpt": "For lampwick and silicone approximately 40% of the aerosol mass had aerodynamic diameters greater than 1 μ m",
+    "source_location": "PDF page 19, Conclusions",
+    "claim_status": "REPORTED_RESULT",
+    "platform": "ISS_FLIGHT",
+    "gravity_level": "microgravity",
+    "topics": [
+      "smoke_particle_size"
+    ],
+    "materials": [
+      "lampwick",
+      "silicone"
+    ],
+    "quantity": "aerosol mass fraction",
+    "value": 40,
+    "unit": "%",
+    "value_qualifier": "approximately",
+    "conditions": "aerodynamic diameter > 1 μm; lampwick and silicone",
+    "attribution_note": "The slides include SAME-R material, but the conclusion slide does not identify the flight investigation for this result.",
+    "doi": null,
+    "source_url": "https://ntrs.nasa.gov/citations/20140006585",
+    "review": {
+      "status": "DRAFT",
+      "reviewer": null,
+      "date": null,
+      "batch": "A"
+    }
+  },
+  {
+    "claim_id": "NTRS13-008",
+    "investigation_id": null,
+    "source_id": "NTRS-20140006585",
+    "claim_text": "The Space Station smoke detector is sensitive to particles larger than 0.5 µm.",
+    "source_excerpt": "ISS detector: sensitive > 0.5 micron",
+    "source_location": "PDF page 4, Background: Spacecraft Fire Detection",
+    "claim_status": "REPORTED_RESULT",
+    "platform": "UNSPECIFIED",
+    "gravity_level": "unspecified",
+    "topics": [
+      "detector_response"
+    ],
+    "materials": [],
+    "evidence_label": "Equipment specification",
+    "quantity": "Space Station detector sensitivity",
+    "value": 0.5,
+    "unit": "µm",
+    "value_qualifier": "greater_than",
+    "doi": null,
+    "source_url": "https://ntrs.nasa.gov/citations/20140006585",
+    "review": {
+      "status": "DRAFT",
+      "reviewer": null,
+      "date": null,
+      "batch": "A"
+    }
+  },
+  {
+    "claim_id": "NTRS13-008b",
+    "investigation_id": null,
+    "source_id": "NTRS-20140006585",
+    "claim_text": "The Space Station smoke detector’s minimum reported sensitivity is 0.3 µm.",
+    "source_excerpt": "2-pass IR laser-diode forward-scattering detector (30 degrees) minimum reported sensitivity is 0.3 μ m.",
+    "source_location": "PDF page 4, Background: Spacecraft Fire Detection",
+    "claim_status": "REPORTED_RESULT",
+    "platform": "UNSPECIFIED",
+    "gravity_level": "unspecified",
+    "topics": [
+      "detector_response"
+    ],
+    "materials": [],
+    "evidence_label": "Equipment specification",
+    "quantity": "Space Station detector minimum reported sensitivity",
+    "value": 0.3,
+    "unit": "µm",
+    "doi": null,
+    "source_url": "https://ntrs.nasa.gov/citations/20140006585",
+    "review": {
+      "status": "DRAFT",
+      "reviewer": null,
+      "date": null,
+      "batch": "A"
+    }
+  },
+  {
+    "claim_id": "NTRS13-009",
+    "investigation_id": null,
+    "source_id": "NTRS-20140006585",
+    "claim_text": "The Space Shuttle smoke detector is sensitive to particles smaller than 1 µm.",
+    "source_excerpt": "STS Detector: sensitive < 1 micron",
+    "source_location": "PDF page 4, Background: Spacecraft Fire Detection",
+    "claim_status": "REPORTED_RESULT",
+    "platform": "UNSPECIFIED",
+    "gravity_level": "unspecified",
+    "topics": [
+      "detector_response"
+    ],
+    "materials": [],
+    "evidence_label": "Equipment specification",
+    "quantity": "Space Shuttle detector sensitivity",
+    "value": 1,
+    "unit": "µm",
+    "value_qualifier": "less_than",
+    "doi": null,
+    "source_url": "https://ntrs.nasa.gov/citations/20140006585",
+    "review": {
+      "status": "DRAFT",
+      "reviewer": null,
+      "date": null,
+      "batch": "A"
+    }
+  },
+  {
+    "claim_id": "NTRS13-009b",
+    "investigation_id": null,
+    "source_id": "NTRS-20140006585",
+    "claim_text": "The Space Shuttle detector’s inertial separator rejects particles larger than 1–2 µm.",
+    "source_excerpt": "dual-chamber ionization with inertial separator which rejects particles larger than 1-2 microns.",
+    "source_location": "PDF page 4, Background: Spacecraft Fire Detection",
+    "claim_status": "REPORTED_RESULT",
+    "platform": "UNSPECIFIED",
+    "gravity_level": "unspecified",
+    "topics": [
+      "detector_response"
+    ],
+    "materials": [],
+    "evidence_label": "Equipment specification",
+    "quantity": "Space Shuttle detector inertial separator rejection threshold",
+    "value": "1–2",
+    "unit": "µm",
+    "value_qualifier": "range",
+    "doi": null,
+    "source_url": "https://ntrs.nasa.gov/citations/20140006585",
+    "review": {
+      "status": "DRAFT",
+      "reviewer": null,
+      "date": null,
+      "batch": "A"
+    }
+  },
+  {
+    "claim_id": "NTRS13-010",
+    "investigation_id": null,
+    "source_id": "NTRS-20140006585",
+    "claim_text": "NASA simulated smoke in the ISS Destiny module at low and normal gravity.",
+    "source_excerpt": "Destiny Smoke Detection Simulation-25% Soot effect of gravity Low-gravity Normal-gravity",
+    "source_location": "PDF page 3, Smoke Detection Background",
+    "claim_status": "MODEL_RESULT",
+    "platform": "NUMERICAL_MODEL",
+    "gravity_level": "multiple",
+    "topics": [
+      "smoke_transport"
+    ],
+    "materials": [],
+    "doi": null,
+    "source_url": "https://ntrs.nasa.gov/citations/20140006585",
+    "review": {
+      "status": "DRAFT",
+      "reviewer": null,
+      "date": null,
+      "batch": "A"
+    }
+  },
+  {
+    "claim_id": "NTRS13-011",
+    "investigation_id": null,
+    "source_id": "NTRS-20140006585",
+    "claim_text": "SAME used a commercial First Alert smoke detector among its instruments.",
+    "source_excerpt": "First Moment: First Alert™ Smoke Detector",
+    "source_location": "PDF page 6, SAME Experimental Diagnostic Measurements",
+    "claim_status": "REPORTED_METHOD",
+    "platform": "ISS_FLIGHT",
+    "gravity_level": "microgravity",
+    "topics": [
+      "detector_response",
+      "earth_application"
+    ],
+    "materials": [],
+    "doi": null,
+    "source_url": "https://ntrs.nasa.gov/citations/20140006585",
+    "review": {
+      "status": "DRAFT",
+      "reviewer": null,
+      "date": null,
+      "batch": "A"
+    }
+  },
+  {
+    "claim_id": "NTRS13-012",
+    "investigation_id": null,
+    "source_id": "NTRS-20140006585",
+    "claim_text": "The SAME sample carousel lists silicone, Teflon, Kapton, lampwick, Pyrell and DBP.",
+    "source_excerpt": "Sample Materials: Silicone Teflon Kapton LampWick Pyrell DBP",
+    "source_location": "PDF page 7, SAME Sample Carousel",
+    "claim_status": "REPORTED_METHOD",
+    "platform": "ISS_FLIGHT",
+    "gravity_level": "microgravity",
+    "topics": [
+      "measurement_method"
+    ],
+    "materials": [
+      "Silicone",
+      "Teflon",
+      "Kapton",
+      "LampWick",
+      "Pyrell",
+      "DBP"
+    ],
+    "conditions": "Silicone, Teflon, Kapton, LampWick, Pyrell, DBP",
+    "doi": null,
+    "source_url": "https://ntrs.nasa.gov/citations/20140006585",
+    "review": {
+      "status": "DRAFT",
+      "reviewer": null,
+      "date": null,
+      "batch": "A"
+    }
+  },
+  {
+    "claim_id": "NTRS13-013",
+    "investigation_id": null,
+    "source_id": "NTRS-20140006585",
+    "claim_text": "The authors note real spacecraft fires involve an even wider range of materials and conditions.",
+    "source_excerpt": "Spacecraft fire conditions include an even wider array of materials and conditions.",
+    "source_location": "PDF page 19, Conclusions",
+    "claim_status": "OBJECTIVE_OR_HYPOTHESIS",
+    "platform": "MIXED",
+    "gravity_level": "multiple",
+    "topics": [
+      "detector_response"
+    ],
+    "materials": [],
+    "evidence_label": "Authors' statement",
+    "doi": null,
+    "source_url": "https://ntrs.nasa.gov/citations/20140006585",
+    "review": {
+      "status": "DRAFT",
+      "reviewer": null,
+      "date": null,
+      "batch": "A"
+    }
+  },
+  {
+    "claim_id": "LUNAR-003",
+    "investigation_id": null,
+    "source_id": "NTRS-20230013826",
+    "claim_text": "In the lunar-gravity model, the stratified plume layer remained partly intact at 1 cm/s before the forced flow path developed.",
+    "source_excerpt": "In lunar gravity, stratified plume layer is somewhat retained at u forced = 1 cm/s condition, before forced flow path develops",
+    "source_location": "PDF page 1, Results and Discussion",
+    "claim_status": "MODEL_RESULT",
+    "platform": "NUMERICAL_MODEL",
+    "gravity_level": "lunar_0.16g",
+    "topics": [
+      "smoke_transport"
+    ],
+    "materials": [],
+    "quantity": "forced airflow",
+    "value": 1,
+    "unit": "cm/s",
+    "airflow": {
+      "value": 1,
+      "unit": "cm/s",
+      "gravity_level": "lunar_0.16g"
+    },
+    "doi": null,
+    "source_url": "https://ntrs.nasa.gov/citations/20230013826",
+    "review": {
+      "status": "DRAFT",
+      "reviewer": null,
+      "date": null,
+      "batch": "A"
+    }
+  },
+  {
+    "claim_id": "LUNAR-004",
+    "investigation_id": null,
+    "source_id": "NTRS-20230013826",
+    "claim_text": "The authors suggest ceiling placement for earlier smoke detection and recommend considering detector placement relative to air supplies and returns.",
+    "source_excerpt": "Smoke detectors could be placed on ceilings to facilitate earlier smoke detection, but detector placement relative to supplies and returns must be carefully considered",
+    "source_location": "PDF page 1, What does this mean for future Lunar habitats?",
+    "claim_status": "OBJECTIVE_OR_HYPOTHESIS",
+    "platform": "NUMERICAL_MODEL",
+    "gravity_level": "lunar_0.16g",
+    "topics": [
+      "detector_response"
+    ],
+    "materials": [],
+    "evidence_label": "Authors' suggestion",
+    "doi": null,
+    "source_url": "https://ntrs.nasa.gov/citations/20230013826",
+    "review": {
+      "status": "DRAFT",
+      "reviewer": null,
+      "date": null,
+      "batch": "A"
+    }
+  },
+  {
+    "claim_id": "EARTH-001",
+    "investigation_id": "PSI-25",
+    "source_id": "PSI-25",
+    "claim_text": "The BASS-II record identifies combustion models for designing fire detection and suppression systems in microgravity and on Earth as an application.",
+    "source_excerpt": "BASS-II results contribute to the combustion computational models used in the design of fire detection and suppression systems in microgravity and on Earth.",
+    "source_location": "Objective",
+    "claim_status": "OBJECTIVE_OR_HYPOTHESIS",
+    "platform": "UNSPECIFIED",
+    "gravity_level": "1g",
+    "topics": [
+      "earth_application"
+    ],
+    "materials": [],
+    "evidence_label": "Earth application",
+    "doi": "10.60555/4qc4-de67",
+    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
+    "review": {
+      "status": "DRAFT",
+      "reviewer": null,
+      "date": null,
+      "batch": "A"
+    }
+  },
+  {
+    "claim_id": "EARTH-002",
+    "investigation_id": "PSI-62",
+    "source_id": "PSI-62",
+    "claim_text": "The investigation identifies improvements to Earth combustion modeling and fire safety standards as a potential application.",
+    "source_excerpt": "On Earth, these advancements could improve combustion modeling by deepening our understanding of coupled thermal, chemical, and flow processes, which betters fire safety standards.",
+    "source_location": "Research impacts",
+    "claim_status": "OBJECTIVE_OR_HYPOTHESIS",
+    "platform": "UNSPECIFIED",
+    "gravity_level": "1g",
+    "topics": [
+      "earth_application"
+    ],
+    "materials": [],
+    "evidence_label": "Earth application",
+    "doi": "10.60555/e9xp-ex83",
+    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-62",
+    "review": {
+      "status": "DRAFT",
+      "reviewer": null,
+      "date": null,
+      "batch": "A"
+    }
+  },
+  {
+    "claim_id": "EARTH-003",
+    "investigation_id": "PSI-106",
+    "source_id": "PSI-106",
+    "claim_text": "The record identifies more efficient combustion technologies on Earth as a potential application of improved flame models.",
+    "source_excerpt": "Improved numerical models for flame behavior lead to more efficient combustion technologies on Earth.",
+    "source_location": "Research impacts",
+    "claim_status": "OBJECTIVE_OR_HYPOTHESIS",
+    "platform": "UNSPECIFIED",
+    "gravity_level": "1g",
+    "topics": [
+      "earth_application"
+    ],
+    "materials": [],
+    "evidence_label": "Earth application",
+    "doi": "10.60555/pm12-rg61",
+    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-106",
+    "review": {
+      "status": "DRAFT",
+      "reviewer": null,
+      "date": null,
+      "batch": "A"
+    }
+  },
+  {
+    "claim_id": "EARTH-004",
+    "investigation_id": "PSI-39",
+    "source_id": "PSI-39",
+    "claim_text": "The Cool Flames Investigation record identifies fuel development and advanced engine design as applications.",
+    "source_excerpt": "Cool flames play a key role in the development and selection of new fuels and the design of advanced engines such as clean, high-efficiency Homogeneous Charge Compression Ignition (HCCI) engines.",
+    "source_location": "Research impacts",
+    "claim_status": "OBJECTIVE_OR_HYPOTHESIS",
+    "platform": "UNSPECIFIED",
+    "gravity_level": "1g",
+    "topics": [
+      "earth_application"
+    ],
+    "materials": [],
+    "evidence_label": "Earth application",
+    "doi": "10.60555/m6pj-a914",
+    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-39",
+    "review": {
+      "status": "DRAFT",
+      "reviewer": null,
+      "date": null,
+      "batch": "A"
+    }
+  },
+  {
+    "claim_id": "PLANNED-002",
+    "investigation_id": null,
+    "source_id": "NASA-FM2",
+    "claim_text": "NASA plans to study flame size, strength, intensity and spread on the Moon relative to Earth gravity.",
+    "source_excerpt": "The experiment will be conducted on the lunar surface to evaluate flame size, strength, intensity and spread compared to Earth gravity.",
+    "source_location": "The Flammability of Materials on the Moon study",
+    "claim_status": "OBJECTIVE_OR_HYPOTHESIS",
+    "platform": "UNSPECIFIED",
+    "gravity_level": "lunar_0.16g",
+    "topics": [
+      "material_flammability"
+    ],
+    "materials": [],
+    "evidence_label": "Planned (NASA)",
+    "attribution_note": "The NASA Science page describes the Flammability of Materials on the Moon experiment as future work.",
+    "doi": null,
+    "source_url": "https://science.nasa.gov/biological-physical/resources/explainers-infographics/why-nasa-is-studying-flames-in-space/",
+    "review": {
+      "status": "DRAFT",
+      "reviewer": null,
+      "date": null,
+      "batch": "A"
     }
   }
 ]

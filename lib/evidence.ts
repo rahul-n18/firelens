@@ -31,9 +31,7 @@ export const statusLabels: Record<Claim["claim_status"], string> = {
   OBJECTIVE_OR_HYPOTHESIS: "Goal, not a result", TEAM_INFERENCE: "Our inference", NOT_ESTABLISHED: "No evidence in corpus",
 };
 export function statusLabel(claim: Claim) {
-  if (claim.claim_id === "ESA-001") return "Planned (as of 2021)";
-  if (claim.claim_id === "NTRS13-006") return "Authors' suggestion";
-  return statusLabels[claim.claim_status];
+  return claim.evidence_label ?? statusLabels[claim.claim_status];
 }
 export const byClaim = new Map(claims.map(claim => [claim.claim_id, claim]));
 const linkedClaims = new Map(investigations.map(row => [

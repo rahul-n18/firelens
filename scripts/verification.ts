@@ -1,7 +1,7 @@
 import { readdir, readFile } from "node:fs/promises";
 import { join, resolve } from "node:path";
 import {
-  focus, gravities, methods, platforms, readJson, sha256, statuses,
+  evidenceLabels, focus, gravities, methods, platforms, readJson, sha256, statuses,
   type Claim, type Investigation, type Source, type Unavailable,
 } from "./corpus.js";
 import { extractText } from "./extraction.js";
@@ -31,11 +31,19 @@ const bounds = {
   greater_than: /(?:\b(?:over|above|greater than|more than|exceed(?:ed|s)?)\s+|>\s*)$/iu,
   less_than: /(?:\b(?:below|under|less than|fewer than)\s+|<\s*)$/iu,
 };
+const scalarQualifiers = {
+  ...bounds,
+  approximately: /\b(?:approximately|about|roughly)\s+$/iu,
+};
 
 function checkValue(claim: Claim, excerpt: string, fail: (message: string) => void): void {
   const { value, unit, value_qualifier: qualifier } = claim;
   if (value === undefined) {
     if (unit !== undefined || qualifier !== undefined) fail("unit and value_qualifier require a value");
+    return;
+  }
+  if (value === "twice" && unit === undefined && qualifier === "typically") {
+    if (!/\btypically twice\b/iu.test(excerpt)) fail("the excerpt must state typically twice");
     return;
   }
   if (!valuePattern.test(String(value))) {
@@ -45,15 +53,30 @@ function checkValue(claim: Claim, excerpt: string, fail: (message: string) => vo
   if (unit !== undefined && (typeof unit !== "string" || !unit.trim() || numericTokens(unit).length)) {
     fail("unit must be a nonempty unit label without a numeric value");
   }
-  if (qualifier !== undefined && (!Object.hasOwn(bounds, qualifier) || String(value).includes("–"))) {
-    fail("value_qualifier must be greater_than or less_than on a single number");
+  const [lower, upper] = String(value).split("–");
+  if (upper !== undefined) {
+    let stated = false;
+    for (const first of excerpt.matchAll(/(?<![\d.])[+-]?(?:\d+(?:\.\d+)?|\.\d+)(?:[eE][+-]?\d+)?/gu)) {
+      if (first[0] !== lower) continue;
+      const following = excerpt.slice(first.index + first[0].length);
+      const second = new RegExp(`^\\s*(?:to\\s+|[-–]\\s*)(${scalar})(?![\\d.])`, "u").exec(following);
+      if (second?.[1] === upper) stated = true;
+    }
+    if (!stated || (qualifier !== undefined && qualifier !== "range")) {
+      fail("numeric range and qualifier must match the excerpt");
+    }
+    return;
+  }
+  if (qualifier !== undefined && !Object.hasOwn(scalarQualifiers, qualifier)) {
+    fail("invalid qualifier for a single numeric value");
     return;
   }
   const positions = [...excerpt.matchAll(/(?<![\d.])(?:[+-]?(?:\d+(?:\.\d+)?|\.\d+)(?:[eE][+-]?\d+)?)/gu)]
     .filter(match => match[0] === String(value));
-  const matchingBounds = (Object.keys(bounds) as (keyof typeof bounds)[])
-    .filter(key => positions.some(match => bounds[key].test(excerpt.slice(0, match.index))));
-  if (qualifier ? !matchingBounds.includes(qualifier) : matchingBounds.length > 0) {
+  const matchingQualifiers = Object.entries(scalarQualifiers)
+    .filter(([, pattern]) => positions.some(match => pattern.test(excerpt.slice(0, match.index))))
+    .map(([key]) => key);
+  if (qualifier ? !matchingQualifiers.includes(qualifier) : matchingQualifiers.length > 0) {
     fail("value_qualifier must match the bound stated in the excerpt");
   }
 }
@@ -102,6 +125,14 @@ export function checkClaims(
       fail("excerpt is absent from extracted text");
     }
     checkValue(claim, excerpt, fail);
+    if (claim.airflow) {
+      const { value, unit, gravity_level } = claim.airflow;
+      const statedSpeeds = [...excerpt.matchAll(/(\d+(?:\.\d+)?)\s*cm\/s\b/gu)].map(match => Number(match[1]));
+      if (unit !== "cm/s" || !statedSpeeds.includes(value) || !gravities.includes(gravity_level) ||
+          (claim.gravity_level !== "multiple" && gravity_level !== claim.gravity_level)) {
+        fail("structured airflow must match a speed and gravity supported by the claim");
+      }
+    }
     const numbers = new Set(numericTokens(excerpt));
     const claimedNumbers = [claim.value, claim.claim_text, claim.conditions, claim.quantity, claim.unit]
       .flatMap(numericTokens);
@@ -110,6 +141,10 @@ export function checkClaims(
     }
     if (!claim.claim_text?.trim() || !claim.source_location?.trim()) fail("missing claim text or source location");
     if (!statuses.includes(claim.claim_status)) fail("invalid claim status");
+    if (claim.evidence_label && (!evidenceLabels.includes(claim.evidence_label) ||
+      claim.claim_status !== (claim.evidence_label === "Equipment specification" ? "REPORTED_RESULT" : "OBJECTIVE_OR_HYPOTHESIS"))) {
+      fail("evidence label conflicts with claim status");
+    }
     if (!platforms.includes(claim.platform)) fail("invalid platform");
     if (!gravities.includes(claim.gravity_level)) fail("invalid gravity level");
     if (!Array.isArray(claim.topics) || !claim.topics.length || claim.topics.some(topic => !topics.has(topic))) {
@@ -155,7 +190,7 @@ export function checkClaims(
   return problems;
 }
 
-export async function verifyCorpus(directory: string) {
+export async function verifyCorpus(directory: string, publicDirectory = join(directory, "..", "public")) {
   const [sources, claims, vocabulary, investigations, unavailable] = await Promise.all([
     readJson<Source[]>(join(directory, "manifest.json")),
     readJson<Claim[]>(join(directory, "claims.json")),
@@ -166,6 +201,7 @@ export async function verifyCorpus(directory: string) {
   const errors: string[] = [];
   const ids = new Set<string>();
   const rawPaths = new Set<string>();
+  const figurePaths = new Set<string>();
   const texts = new Map<string, string>();
   const raw = new Map<string, Buffer>();
   const skippedSources = new Set<string>();
@@ -189,6 +225,19 @@ export async function verifyCorpus(directory: string) {
       continue;
     }
     rawPaths.add(source.raw_file);
+    for (const asset of source.derived_assets ?? []) {
+      const [left, top, right, bottom] = asset.crop;
+      if (source.extraction_method !== "pdfjs" || !Number.isInteger(asset.slide) || asset.slide < 1 ||
+          !(left >= 0 && left < right && right <= 1 && top >= 0 && top < bottom && bottom <= 1) ||
+          !/^figures\/[a-z0-9-]+\.jpg$/u.test(asset.file) || figurePaths.has(asset.file) ||
+          !/^[a-f0-9]{64}$/u.test(asset.sha256)) {
+        fail("invalid or duplicate derived figure metadata");
+        continue;
+      }
+      figurePaths.add(asset.file);
+      const bytes = await readFile(join(publicDirectory, asset.file)).catch(() => undefined);
+      if (!bytes || sha256(bytes) !== asset.sha256) fail(`derived figure missing or SHA-256 mismatch: ${asset.file}`);
+    }
     try {
       const bytes = raw.get(source.raw_file) ?? await readFile(resolve(directory, source.raw_file)).catch(error => {
         if (source.local_only && error.code === "ENOENT") return undefined;
@@ -204,6 +253,9 @@ export async function verifyCorpus(directory: string) {
         continue;
       }
       const text = await readFile(join(directory, "text", `${id}.txt`), "utf8");
+      for (const asset of source.derived_assets ?? []) {
+        if (!text.includes(`[[page ${asset.slide}]]\n`)) fail(`derived figure slide is missing: ${asset.file}`);
+      }
       if (normalize(text) !== normalize(await extractText(bytes, source))) {
         fail("stored text differs from extraction of the raw snapshot");
       }
@@ -242,7 +294,7 @@ export async function verifyCorpus(directory: string) {
       const source = byId.get(row.source_id);
       const bytes = source && raw.get(source.raw_file);
       const record = bytes && JSON.parse(bytes.toString());
-      const coverage = focus.includes(row.investigation_id) ? "DRAFT_CLAIMS" : "METADATA_ONLY";
+      const coverage = claims.some(claim => claim.investigation_id === row.investigation_id) ? "DRAFT_CLAIMS" : "METADATA_ONLY";
       if (!record || record.accession !== row.investigation_id || record.title !== row.title ||
           (record.doi || null) !== row.doi || (record.objective ?? "") !== row.objective || row.coverage !== coverage) {
         errors.push(`${row.investigation_id}: index row differs from the individual PSI record or expected coverage`);

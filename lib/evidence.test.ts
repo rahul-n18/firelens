@@ -39,10 +39,11 @@ describe("condition-specific evidence", () => {
       ["LUNAR-001", "Computer model"], ["LUNAR-002", "Computer model"], ["ESA-001", "Planned (as of 2021)"],
     ]);
     const transport = coverage.find(row => row.topic === "smoke_transport")!;
-    expect(transport.cells.find(cell => cell.id === "model")?.claims).toEqual([]);
-    expect(transport.cells.find(cell => cell.id === "lunar_0.16g")?.claims.map(claim => claim.claim_id)).toEqual(["LUNAR-001", "LUNAR-002"]);
+    expect(transport.cells.find(cell => cell.id === "model")?.claims.map(claim => claim.claim_id)).toEqual(["NTRS13-010"]);
+    expect(transport.cells.find(cell => cell.id === "lunar_0.16g")?.claims.map(claim => claim.claim_id))
+      .toEqual(["LUNAR-001", "LUNAR-002", "LUNAR-003"]);
     expect(coverage.flatMap(row => row.cells.find(cell => cell.id === "model")?.claims ?? [])
-      .map(claim => claim.claim_id)).toEqual(["PSI-115-001"]);
+      .map(claim => claim.claim_id)).toEqual(["PSI-115-001", "NTRS13-010"]);
     expect(comparisonRows.flatMap(row => [...row.flight, ...row.ground]).every(claim => claim.claim_status !== "MODEL_RESULT")).toBe(true);
     expect(crossGravity.map(claim => claim.claim_id)).toEqual(["NTRS13-002", "NTRS13-004"]);
   });

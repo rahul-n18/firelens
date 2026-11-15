@@ -2,7 +2,7 @@ import { cp, mkdtemp, readFile, rm, writeFile } from "node:fs/promises";
 import { tmpdir } from "node:os";
 import { join } from "node:path";
 import { beforeAll, describe, expect, test } from "vitest";
-import { corpus, readJson, type Claim, type Source } from "./corpus.js";
+import { corpus, readJson, root, type Claim, type Source } from "./corpus.js";
 import { checkClaims, normalize, verifyCorpus } from "./verification.js";
 
 let fixtureClaim: Claim;
@@ -91,7 +91,7 @@ describe("claim verifier", () => {
     try {
       await cp(corpus, directory, { recursive: true });
       await writeFile(join(directory, fixtureSource.raw_file), "{}");
-      const { errors } = await verifyCorpus(directory);
+      const { errors } = await verifyCorpus(directory, join(root, "public"));
       expect(errors).toContain("PSI-101, SAMER-001, SAMER-002, SAMER-003, SAMER-010, SAMER-011: raw SHA-256 mismatch");
     } finally {
       await rm(directory, { recursive: true, force: true });
@@ -107,11 +107,11 @@ describe("claim verifier", () => {
         join(corpus, source.raw_file), join(corpus, "text", `${source.source_id}.txt`),
       ]));
       await cp(corpus, directory, { recursive: true, filter: path => !privatePaths.has(path) });
-      const result = await verifyCorpus(directory);
+      const result = await verifyCorpus(directory, join(root, "public"));
       expect(result.errors).toEqual([]);
       expect([...result.skippedSources]).toEqual(local.map(source => source.source_id));
       await writeFile(join(directory, "raw/NIST-SAME.pdf"), "invalid PDF");
-      const corrupt = await verifyCorpus(directory);
+      const corrupt = await verifyCorpus(directory, join(root, "public"));
       expect(corrupt.skippedSources.has("NIST-SAME")).toBe(false);
       expect(corrupt.errors).toContain("NIST-SAME, SAME-003, SAME-006: raw SHA-256 mismatch");
       expect(corrupt.errors).toContain("SAE-2009-01-2468, SAME-004: raw SHA-256 mismatch");
