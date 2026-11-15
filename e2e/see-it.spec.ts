@@ -57,3 +57,16 @@ test("navigates the gravity tabs by keyboard and renders a reduced-motion frame"
   await page.clock.runFor(500);
   expect(await canvas.evaluate((node: HTMLCanvasElement) => node.toDataURL())).toBe(frame);
 });
+
+test("keeps the Earth detector timing when the browser renders five frames per second", async ({ page }) => {
+  await page.clock.install();
+  await page.addInitScript(() => {
+    window.requestAnimationFrame = callback => window.setTimeout(() => callback(performance.now()), 200);
+    window.cancelAnimationFrame = id => window.clearTimeout(id);
+  });
+  await page.goto("/#see");
+  const see = page.getByRole("region", { name: "See what gravity does to smoke" });
+  await see.locator("canvas").scrollIntoViewIfNeeded();
+  await page.clock.runFor(9_500);
+  await expect(see.locator(".detector-state")).toHaveText("Ceiling detector: smoke reached it", { timeout: 500 });
+});

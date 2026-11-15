@@ -14,7 +14,10 @@ export function illustrateCabin(
   const W = cvs.width, H = cvs.height, floorY = H - 46, ceilY = 34, wallL = 30, wallR = W - 30;
   const src = { x: 300, y: floorY }, det = { x: 480, y: ceilY, w: 64 };
   let parts: Particle[] = [];
-  let detHits = 0, reached = false, last = 0, frame = 0;
+  let detHits = 0, reached = false, frame = 0;
+  let last: number | undefined;
+  let elapsed = 0;
+  const timeStep = 1 / 60;
   const css = (name: string) => getComputedStyle(cvs).getPropertyValue(name).trim();
 
   function step(dt: number) {
@@ -103,9 +106,13 @@ export function illustrateCabin(
     ctx.fillStyle = muted; ctx.font = lf(500); ctx.textAlign = "center"; ctx.fillText("Overheating material", src.x, floorY + 30);
   }
   function loop(t: number) {
-    const dt = Math.min(.05, (t - last) / 1000 || .016);
+    // Keep the prototype's two emissions per simulation step independent of the display frame rate.
+    elapsed += last === undefined ? timeStep : Math.min(1, (t - last) / 1000);
     last = t;
-    step(dt);
+    while (elapsed >= timeStep) {
+      step(timeStep);
+      elapsed -= timeStep;
+    }
     draw();
     frame = requestAnimationFrame(loop);
   }
@@ -113,7 +120,8 @@ export function illustrateCabin(
   function stop() {
     cancelAnimationFrame(frame);
     frame = 0;
-    last = 0;
+    last = undefined;
+    elapsed = 0;
   }
 
   function refresh() {
