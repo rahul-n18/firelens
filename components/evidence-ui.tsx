@@ -1,0 +1,24 @@
+import { gravityLabels, platformLabels, statusLabel, type Claim } from "../lib/evidence";
+
+export type OpenClaim = (claim: Claim) => void;
+
+export function Mark({ claim }: { claim: Claim }) {
+  return <span className="evidence-label"><span aria-hidden="true" className={`mark ${claim.evidence_label === "Equipment specification" ? "reported_method" : claim.claim_status.toLowerCase()}`} />{statusLabel(claim)}</span>;
+}
+
+export function Chip({ claim, open }: { claim: Claim; open: OpenClaim }) {
+  return <button type="button" className="claim-chip" onClick={() => open(claim)} aria-label={`Inspect ${claim.claim_id}`}>{claim.claim_id}</button>;
+}
+
+export function ClaimLine({ claim, open, details }: { claim: Claim; open: OpenClaim; details?: boolean }) {
+  return <li className="claim-line">
+    <div className="claim-meta"><Mark claim={claim} />{details && <span>{platformLabels[claim.platform]}, {gravityLabels[claim.gravity_level]}</span>}
+      <DraftLabel claim={claim} /></div>
+    <p>{claim.claim_text} <Chip claim={claim} open={open} /></p>
+    {details && claim.conditions && <p className="small muted">{claim.conditions}</p>}
+  </li>;
+}
+
+export function DraftLabel({ claim }: { claim: Claim }) {
+  return claim.review.status === "DRAFT" ? <span className="review-label">Not yet reviewed</span> : null;
+}

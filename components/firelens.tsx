@@ -3,19 +3,16 @@
 import { useEffect, useMemo, useRef, useState, type ReactNode } from "react";
 import {
   claims, comparisonRows, coverage, coverageColumns, crossGravity, demoQueries, evidenceGap, gravityLabels, heroCoverage, investigationName, isMeasurement, metadataHeading,
-  platformLabels, relatedHeading, search, sources, spiceHeading, statusLabel, statusLabels, type Claim, type ClaimFilter,
+  platformLabels, relatedHeading, search, sources, spiceHeading, statusLabels, type Claim, type ClaimFilter,
 } from "../lib/evidence";
 import { citation, evidenceBrief, evidenceCsv, evidenceJson } from "../lib/export";
 import { Input, Sheet, Toggle } from "./ui";
 
-type OpenClaim = (claim: Claim) => void;
+import { ClaimLine, Mark, type OpenClaim } from "./evidence-ui";
+import { SeeIt } from "./see-it";
 const dateFormatter = new Intl.DateTimeFormat("en-GB", { day: "numeric", month: "short", year: "numeric", timeZone: "UTC" });
 
 type Result = ReturnType<typeof search>["rankings"][number];
-
-export function Mark({ claim }: { claim: Claim }) {
-  return <span className="evidence-label"><span aria-hidden="true" className={`mark ${claim.evidence_label === "Equipment specification" ? "reported_method" : claim.claim_status.toLowerCase()}`} />{statusLabel(claim)}</span>;
-}
 
 function CoverageMap({ gravity, permitted, open }: {
   gravity: Claim["gravity_level"][];
@@ -83,19 +80,6 @@ function Comparison({ open, permitted }: { open: OpenClaim; permitted: ClaimFilt
       {crossGravity.filter(permitted).map(claim => <ClaimLine key={claim.claim_id} claim={claim} open={open} details />)}
     </ul></div>
   </section>;
-}
-
-export function Chip({ claim, open }: { claim: Claim; open: OpenClaim }) {
-  return <button type="button" className="claim-chip" onClick={() => open(claim)} aria-label={`Inspect ${claim.claim_id}`}>{claim.claim_id}</button>;
-}
-
-export function ClaimLine({ claim, open, details }: { claim: Claim; open: OpenClaim; details?: boolean }) {
-  return <li className="claim-line">
-    <div className="claim-meta"><Mark claim={claim} />{details && <span>{platformLabels[claim.platform]}, {gravityLabels[claim.gravity_level]}</span>}
-      {claim.review.status === "DRAFT" && <span className="review-label">Not yet reviewed</span>}</div>
-    <p>{claim.claim_text} <Chip claim={claim} open={open} /></p>
-    {details && claim.conditions && <p className="small muted">{claim.conditions}</p>}
-  </li>;
 }
 
 function Results({ title, results, active, open, track, children }: {
@@ -226,7 +210,7 @@ export function FireLens({ available }: { available: string[] }) {
     <a className="skip-link" href="#main-content">Skip to content</a>
     <header className="topbar"><div className="top-inner">
       <a className="wordmark" href="#main-content">FireLens</a>
-      <nav className="page-nav" aria-label="Sections"><a href="#ask">Ask</a></nav>
+      <nav className="page-nav" aria-label="Sections"><a href="#see">See it</a><a href="#ask">Ask</a></nav>
       <div className="top-actions"><span>Built on NASA PSI open data</span>
         <Toggle pressed={dark} onPressedChange={setDark} aria-label="Dark theme">{dark ? "Light" : "Dark"}</Toggle></div>
     </div></header>
@@ -234,8 +218,9 @@ export function FireLens({ available }: { available: string[] }) {
       <section className="hero" aria-labelledby="hero-heading">
         <h1 id="hero-heading">Does smoke behave the same away from Earth?</h1>
         <p className="lede">Explore the evidence in our sources, from {coverageCopy[0]} to {coverageCopy[1]} and {coverageCopy[2]}.</p>
-        <div className="hero-actions"><a className="primary-button" href="#ask">Ask a question</a></div>
+        <div className="hero-actions"><a className="primary-button" href="#see">See the difference</a></div>
       </section>
+      <SeeIt evidence={evidence} byId={byId} open={open} dark={dark} />
       <section className="block" id="ask" aria-labelledby="query-heading">
         <h2 className="block-title" id="query-heading">Ask your own question</h2>
         <p className="section-intro">Explore the verified evidence and see where our sources have gaps.</p>
